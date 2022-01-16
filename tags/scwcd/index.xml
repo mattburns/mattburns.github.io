@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>scwcd on Matt Burns</title>
-    <link>https://mattburns.github.io/tags/scwcd/</link>
+    <link>https://mattburns.co.uk/tags/scwcd/</link>
     <description>Recent content in scwcd on Matt Burns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 06 Apr 2010 17:13:51 +0000</lastBuildDate><atom:link href="https://mattburns.github.io/tags/scwcd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Apr 2010 17:13:51 +0000</lastBuildDate><atom:link href="https://mattburns.co.uk/tags/scwcd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pick the Right Scope Automatically</title>
-      <link>https://mattburns.github.io/blog/2010/04/06/pick-the-right-scope-automatically/</link>
+      <link>https://mattburns.co.uk/blog/2010/04/06/pick-the-right-scope-automatically/</link>
       <pubDate>Tue, 06 Apr 2010 17:13:51 +0000</pubDate>
       
-      <guid>https://mattburns.github.io/blog/2010/04/06/pick-the-right-scope-automatically/</guid>
+      <guid>https://mattburns.co.uk/blog/2010/04/06/pick-the-right-scope-automatically/</guid>
       <description>As I previously metioned, I’m taking the SCWCD exam tomorrow. When trying to cram for any exam I like to make up short poems, acronyms or just random chains of though. For example, I know the difference between Mitosis and Meiosis because Meiosis begins with “Meow” which is what cats do and they have four legs… anyway…
 My first thing to remember is that a JspContext has a findAttribute method that I can use to Pick the Right Scope Automatically.</description>
     </item>
     
     <item>
       <title>Head First Servlets and JSP Errata</title>
-      <link>https://mattburns.github.io/blog/2010/04/06/head-first-servlets-and-jsp-errata/</link>
+      <link>https://mattburns.co.uk/blog/2010/04/06/head-first-servlets-and-jsp-errata/</link>
       <pubDate>Tue, 06 Apr 2010 16:52:23 +0000</pubDate>
       
-      <guid>https://mattburns.github.io/blog/2010/04/06/head-first-servlets-and-jsp-errata/</guid>
+      <guid>https://mattburns.co.uk/blog/2010/04/06/head-first-servlets-and-jsp-errata/</guid>
       <description>I’m sitting another Sun* Certification exam tomorrow to become a Sun Certified Web Component Developer (SCWCD). I’ve done a bit of revising but I’m writing this post mainly as a way to procrastinate. I should take more exams really if only as a way to get other things done. Procrastination during my final year of uni enabled me to learn how to speedsolve a Rubik’s Cube.
 I’ve just read the study guide for the SCWCD exam; Head First Servlets and JSP.</description>
     </item>

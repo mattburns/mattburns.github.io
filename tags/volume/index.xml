@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>volume on Matt Burns</title>
-    <link>https://mattburns.github.io/tags/volume/</link>
+    <link>https://mattburns.co.uk/tags/volume/</link>
     <description>Recent content in volume on Matt Burns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 19 Nov 2008 23:15:29 +0000</lastBuildDate><atom:link href="https://mattburns.github.io/tags/volume/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Nov 2008 23:15:29 +0000</lastBuildDate><atom:link href="https://mattburns.co.uk/tags/volume/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fixing the volume up key on a nokia N95</title>
-      <link>https://mattburns.github.io/blog/2008/11/19/fixing-the-volume-up-key-on-a-nokia-n95/</link>
+      <link>https://mattburns.co.uk/blog/2008/11/19/fixing-the-volume-up-key-on-a-nokia-n95/</link>
       <pubDate>Wed, 19 Nov 2008 23:15:29 +0000</pubDate>
       
-      <guid>https://mattburns.github.io/blog/2008/11/19/fixing-the-volume-up-key-on-a-nokia-n95/</guid>
+      <guid>https://mattburns.co.uk/blog/2008/11/19/fixing-the-volume-up-key-on-a-nokia-n95/</guid>
       <description>I recently got my hands on a nokia N95. Great.
 However, I soon realised that the volume up key doesn’t work, only down works. This was a little unfortunate since it is the only key capable of turning the volume up of music when played with the music player software installed on the device. Something I definitely needed to do once I had managed to turn the volume down to zero percent.</description>
     </item>

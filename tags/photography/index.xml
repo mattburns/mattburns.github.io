@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>photography on Matt Burns</title>
-    <link>https://mattburns.github.io/tags/photography/</link>
+    <link>https://mattburns.co.uk/tags/photography/</link>
     <description>Recent content in photography on Matt Burns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 22 May 2010 09:09:40 +0000</lastBuildDate><atom:link href="https://mattburns.github.io/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 May 2010 09:09:40 +0000</lastBuildDate><atom:link href="https://mattburns.co.uk/tags/photography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buying Your First SLR</title>
-      <link>https://mattburns.github.io/blog/2010/05/22/buying-your-first-slr/</link>
+      <link>https://mattburns.co.uk/blog/2010/05/22/buying-your-first-slr/</link>
       <pubDate>Sat, 22 May 2010 09:09:40 +0000</pubDate>
       
-      <guid>https://mattburns.github.io/blog/2010/05/22/buying-your-first-slr/</guid>
+      <guid>https://mattburns.co.uk/blog/2010/05/22/buying-your-first-slr/</guid>
       <description>I get asked the following question quite a lot:
  I want to buy an SLR, what one shall I get?
  In my software engineering life, clients often approach me with a description of software they want me to write. What you really want is for them to describe the problems they are having that need to be solved. That way you might be able to design a better (simpler) solution.</description>

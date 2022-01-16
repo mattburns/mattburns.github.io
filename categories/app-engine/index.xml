@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>app engine on Matt Burns</title>
-    <link>https://mattburns.github.io/categories/app-engine/</link>
+    <link>https://mattburns.co.uk/categories/app-engine/</link>
     <description>Recent content in app engine on Matt Burns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 10 Oct 2014 16:03:14 +0000</lastBuildDate><atom:link href="https://mattburns.github.io/categories/app-engine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Oct 2014 16:03:14 +0000</lastBuildDate><atom:link href="https://mattburns.co.uk/categories/app-engine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to access your app engine dev server from another machine</title>
-      <link>https://mattburns.github.io/blog/2014/10/10/how-to-access-your-app-engine-dev-server-from-another-machine/</link>
+      <link>https://mattburns.co.uk/blog/2014/10/10/how-to-access-your-app-engine-dev-server-from-another-machine/</link>
       <pubDate>Fri, 10 Oct 2014 16:03:14 +0000</pubDate>
       
-      <guid>https://mattburns.github.io/blog/2014/10/10/how-to-access-your-app-engine-dev-server-from-another-machine/</guid>
+      <guid>https://mattburns.co.uk/blog/2014/10/10/how-to-access-your-app-engine-dev-server-from-another-machine/</guid>
       <description>I keep forgetting how to do this so I’m writing it down in the vain hope I may commit it to memory.
 The problem You want to access your locally running dev server on another machine on your local network or maybe even from a virtual machine. whatevs.
 The solution Start your dev server with this extra program argument (you can find this under “debug configurations” in eclipse):
