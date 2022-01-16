@@ -1,0 +1,8 @@
+body.list {
+    background-image: url("/rapunzel-light.jpg");
+    background-size: cover;
+}
+body.dark.list {
+    background-image: url("/rapunzel-dark.jpg");
+    background-size: cover;
+}

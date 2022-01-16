@@ -1,0 +1,67 @@
+baseURL: 'https://mattburns.github.io'
+languageCode: 'en-gb'
+title: 'Matt Burns'
+theme: "PaperMod"
+minify:
+    disableXML: true
+    minifyOutput: true
+
+disqusShortname: mattburnsblog
+
+assets:
+    favicon: "/favicon.ico"
+    favicon16x16:  "/favicon-16x16.png"
+    favicon32x32:  "/favicon-32x32.png"
+    # apple_touch_icon:  "<link / absolute url>"
+    # safari_pinned_tab:  "<link / absolute url>"
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+params:
+    env: production
+    comments: true
+    description: "Personal homepage for Matt Burns, a UK-based entrepreneur and generally terrible author of website descriptions"
+    showPostNavLinks: true
+    ShowShareButtons: true
+    profileMode:
+        enabled: true
+        title: "Matt Burns" # optional default will be site title
+        subtitle: "Founder of **[CameraForensics](https://www.cameraforensics.com)** and **[OddPrints](https://www.oddprints.com)**"
+        # imageUrl: "/CameraForensics-favicon-256.png" # optional
+        # imageTitle: "CameraForensics logo" # optional
+        # imageWidth: 120 # custom size
+        # imageHeight: 120 # custom size
+        # buttons:
+        #     - name: CameraForensics
+        #       url: "https://www.cameraforensics.com/"
+        #     - name: OddPrints
+        #       url: "https://www.oddprints.com/"
+
+    socialIcons: # optional
+        - name: twitter
+          url: "https://twitter.com/mattburns_uk"
+        - name: github
+          url: "https://github.com/mattburns"
+        - name: strava
+          url: "https://www.strava.com/athletes/mattburns"
+        - name: stackoverflow
+          url: "https://stackoverflow.com/users/276093/matt-burns"
+
+menu:
+    main:
+        - identifier: blog
+          name: blog
+          url: /blog/
+          weight: 10
+        - identifier: travels
+          name: travels
+          url: /travels
+          weight: 20
+        - identifier: search
+          name: search
+          url: /search/
+          weight: 30
