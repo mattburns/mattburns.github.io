@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SCWCD tips on Matt Burns</title>
+    <link>https://mattburns.github.io/tags/scwcd-tips/</link>
+    <description>Recent content in SCWCD tips on Matt Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 06 Apr 2010 17:32:19 +0000</lastBuildDate><atom:link href="https://mattburns.github.io/tags/scwcd-tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tie up the JSP implicit variables with SCRAPROPE</title>
+      <link>https://mattburns.github.io/blog/2010/04/06/tie-up-the-implicit-variables-with-scraprope/</link>
+      <pubDate>Tue, 06 Apr 2010 17:32:19 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/06/tie-up-the-implicit-variables-with-scraprope/</guid>
+      <description>Use the acronym SCRAPROPE to remember the JSP implicit variables:
+session
+config
+request
+application
+pageContext
+response
+out
+page
+exception
+I should really credit Russ for coming up with the acronym. I think my attempts, SCORP RAPE and SPORE CRAP, weren’t as catchy.</description>
+    </item>
+    
+    <item>
+      <title>Pick the Right Scope Automatically</title>
+      <link>https://mattburns.github.io/blog/2010/04/06/pick-the-right-scope-automatically/</link>
+      <pubDate>Tue, 06 Apr 2010 17:13:51 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/06/pick-the-right-scope-automatically/</guid>
+      <description>As I previously metioned, I’m taking the SCWCD exam tomorrow. When trying to cram for any exam I like to make up short poems, acronyms or just random chains of though. For example, I know the difference between Mitosis and Meiosis because Meiosis begins with “Meow” which is what cats do and they have four legs… anyway…
+My first thing to remember is that a JspContext has a findAttribute method that I can use to Pick the Right Scope Automatically.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>adam and joe on Matt Burns</title>
+    <link>https://mattburns.github.io/tags/adam-and-joe/</link>
+    <description>Recent content in adam and joe on Matt Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 25 May 2009 18:42:30 +0000</lastBuildDate><atom:link href="https://mattburns.github.io/tags/adam-and-joe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Read the blog post, read read. But what if I don’t want to? It doesn’t matter, READ!</title>
+      <link>https://mattburns.github.io/blog/2009/05/25/read-the-blog-post-read-read-but-what-if-i-dont-want-to-it-doesnt-matter-read/</link>
+      <pubDate>Mon, 25 May 2009 18:42:30 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2009/05/25/read-the-blog-post-read-read-but-what-if-i-dont-want-to-it-doesnt-matter-read/</guid>
+      <description>After some late night cramming for an exam last week I went to bed with my head still chattering. I told a sleepy Karen about my day at work and how Dan and I kept singing different words to Adam and Joe’s “Text the Nation” jingle. I gave the example: “Patch the source code, patch patch, but what if it’s not tested? It doesn’t matter, PATCH!” (I hope the sarcasm reads well).</description>
+    </item>
+    
+  </channel>
+</rss>

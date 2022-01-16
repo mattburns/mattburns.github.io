@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>eclipse on Matt Burns</title>
+    <link>https://mattburns.github.io/tags/eclipse/</link>
+    <description>Recent content in eclipse on Matt Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 03 Nov 2009 23:00:04 +0000</lastBuildDate><atom:link href="https://mattburns.github.io/tags/eclipse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to install Flex Builder 3 on Eclipse Galileo on Windows</title>
+      <link>https://mattburns.github.io/blog/2009/11/04/how-to-install-flex-builder-3-on-eclipse-galileo-on-windows/</link>
+      <pubDate>Tue, 03 Nov 2009 23:00:04 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2009/11/04/how-to-install-flex-builder-3-on-eclipse-galileo-on-windows/</guid>
+      <description>Do you get an error when you try to install Flex Builder? Ignore it and carry on anyway.
+Edit the file:
+[eclipse]\links\com.adobe.flexbuilder.feature.core.link
+and just stick “path=” at the start so it looks something like this:
+path=C:/Program Files/Adobe/Flex Builder 3 Plug-in
+Thanks to greylurk for the original tip.</description>
+    </item>
+    
+    <item>
+      <title>Convention ÷ Configuration</title>
+      <link>https://mattburns.github.io/blog/2009/05/18/convention-%C3%B7-configuration/</link>
+      <pubDate>Mon, 18 May 2009 22:25:24 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2009/05/18/convention-%C3%B7-configuration/</guid>
+      <description>I’ve long been sold on the concept of Convention Over Configuration. For me it’s a no-brainer, not only am I lazy, but when I am forced to make a decision about something technical, well, let’s just say the number of times I get it wrong is &amp;gt; 0.
+Recently I’ve been playing around with Maven, something I should have done years ago. Maven seems pretty sold on the convention idea too and so I just expected a simple project to work “out of the box”.</description>
+    </item>
+    
+  </channel>
+</rss>

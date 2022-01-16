@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SCWCD tips on Matt Burns</title>
+    <link>https://mattburns.github.io/categories/scwcd-tips/</link>
+    <description>Recent content in SCWCD tips on Matt Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 07 Apr 2010 09:56:17 +0000</lastBuildDate><atom:link href="https://mattburns.github.io/categories/scwcd-tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security Roles Require Names</title>
+      <link>https://mattburns.github.io/blog/2010/04/07/security-roles-require-names/</link>
+      <pubDate>Wed, 07 Apr 2010 09:56:17 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/07/security-roles-require-names/</guid>
+      <description>Remember the DD tags with SRRN:</description>
+    </item>
+    
+    <item>
+      <title>Commodore64 – BASIC – Base64</title>
+      <link>https://mattburns.github.io/blog/2010/04/07/commodore64-basic-base64/</link>
+      <pubDate>Wed, 07 Apr 2010 09:53:54 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/07/commodore64-basic-base64/</guid>
+      <description>Not much to say here.
+Of the 4 autehntication types, “BASIC” uses Base64, in the same way that on a Commodore 64 you’d write BASIC.
+Showing my age there.</description>
+    </item>
+    
+    <item>
+      <title>Listeners and Events</title>
+      <link>https://mattburns.github.io/blog/2010/04/07/listeners-and-events/</link>
+      <pubDate>Wed, 07 Apr 2010 09:51:30 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/07/listeners-and-events/</guid>
+      <description>There are 8 Listeners to remember. We know there are attributes in 4 scopes because we know how to Pick the Right Scope Automatically, but you can’t listen to Page attributes, it doesn’t make sense, so that leaves us with RSA; Request, Session and Application. These tally with the objects:
+ ServletRequest HttpSession ServletContext  There is a Listener for each of these objects for lifecycle events, and for attribute events, so that gives us 6 of the Listener Interfaces:</description>
+    </item>
+    
+    <item>
+      <title>11 EL Implicit Variables</title>
+      <link>https://mattburns.github.io/blog/2010/04/07/11-el-implicit-variables/</link>
+      <pubDate>Wed, 07 Apr 2010 09:30:08 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/07/11-el-implicit-variables/</guid>
+      <description>All the EL implicit variables are Maps except for pageContext.
+To remember the attribute-holding scope objects, just remember to Pick the Right Scope Automatically and stick the word “Scope” on the end:
+ pageScope requestScope sessionScope applicationScope  Then you have 4 param and header objects of the form : (param|header)[Values]
+ param paramValues header headerValues  Then I just remember the last 3:
+ cookie initParam pageContext (not a Map, it’s the JavaBean)  </description>
+    </item>
+    
+    <item>
+      <title>Captain Pan PreVents Captain Hook</title>
+      <link>https://mattburns.github.io/blog/2010/04/07/captain-pan-prevents-captain-hook/</link>
+      <pubDate>Wed, 07 Apr 2010 09:21:02 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/07/captain-pan-prevents-captain-hook/</guid>
+      <description>This is (a rubbish one) just to help me remember the DD tags:
+Whereas Servlet params are “in-it”:</description>
+    </item>
+    
+    <item>
+      <title>Direct a Film about Petal Ink</title>
+      <link>https://mattburns.github.io/blog/2010/04/07/direct-a-film-about-petal-ink/</link>
+      <pubDate>Wed, 07 Apr 2010 09:09:10 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/07/direct-a-film-about-petal-ink/</guid>
+      <description>I’ve made a timelapse film of some daffodils blossoming but I really should do another one of a rose with its stem split into two different bottles of ink.
+Not a very interesting post, it’s just another think I need top remember from this book for my exam. 
+Direct a film about PeTaL INk
+Boils down to:
+Jsp Directives are Page, Taglib and Include</description>
+    </item>
+    
+    <item>
+      <title>Tie up the JSP implicit variables with SCRAPROPE</title>
+      <link>https://mattburns.github.io/blog/2010/04/06/tie-up-the-implicit-variables-with-scraprope/</link>
+      <pubDate>Tue, 06 Apr 2010 17:32:19 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/06/tie-up-the-implicit-variables-with-scraprope/</guid>
+      <description>Use the acronym SCRAPROPE to remember the JSP implicit variables:
+session
+config
+request
+application
+pageContext
+response
+out
+page
+exception
+I should really credit Russ for coming up with the acronym. I think my attempts, SCORP RAPE and SPORE CRAP, weren’t as catchy.</description>
+    </item>
+    
+    <item>
+      <title>Pick the Right Scope Automatically</title>
+      <link>https://mattburns.github.io/blog/2010/04/06/pick-the-right-scope-automatically/</link>
+      <pubDate>Tue, 06 Apr 2010 17:13:51 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/06/pick-the-right-scope-automatically/</guid>
+      <description>As I previously metioned, I’m taking the SCWCD exam tomorrow. When trying to cram for any exam I like to make up short poems, acronyms or just random chains of though. For example, I know the difference between Mitosis and Meiosis because Meiosis begins with “Meow” which is what cats do and they have four legs… anyway…
+My first thing to remember is that a JspContext has a findAttribute method that I can use to Pick the Right Scope Automatically.</description>
+    </item>
+    
+  </channel>
+</rss>

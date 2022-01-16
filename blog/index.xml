@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on Matt Burns</title>
+    <link>https://mattburns.github.io/blog/</link>
+    <description>Recent content in Blog on Matt Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 12 Feb 2018 14:15:31 +0000</lastBuildDate><atom:link href="https://mattburns.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audio on Udemy videos has suddenly stopped working</title>
+      <link>https://mattburns.github.io/blog/2018/02/12/audio-on-udemy-videos-has-suddenly-stopped-working/</link>
+      <pubDate>Mon, 12 Feb 2018 14:15:31 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2018/02/12/audio-on-udemy-videos-has-suddenly-stopped-working/</guid>
+      <description>I’m working through a course on Udemy on my macbook with bluetooth headphones. I’ve no idea why but the audio no longer works. Youtube audio is fine, previous lessons no longer have audio either, restarting browser has no effect. Disconnecting headphones makes no difference. Downloading lecture works, but is hassle.
+Solution: In bottom-right, click the cog and change the quality from auto to a fixed quality (eg 1080p). This solved it for me.</description>
+    </item>
+    
+    <item>
+      <title>Cameron hails Stoke Gifford Parish Council as “Most forward-thinking in UK”</title>
+      <link>https://mattburns.github.io/blog/2016/04/13/cameron-hails-stoke-gifford-parish-council-as-most-forward-thinking-in-uk/</link>
+      <pubDate>Wed, 13 Apr 2016 09:32:55 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2016/04/13/cameron-hails-stoke-gifford-parish-council-as-most-forward-thinking-in-uk/</guid>
+      <description>Stoke Gifford Parish Council voted last night in favour of charging parkrun for use of the local park for members of the public to use for free. The PM has applauded the decision saying that it signifies just the start of some great savings that can be made by government. In a statement last night he said:
+ Councils across the country have huge bills for supplying services available for free universally to taxpayers.</description>
+    </item>
+    
+    <item>
+      <title>Motorola MBP854 baby monitor</title>
+      <link>https://mattburns.github.io/blog/2016/02/11/motorola-mbp854-baby-monitor/</link>
+      <pubDate>Thu, 11 Feb 2016 21:53:30 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2016/02/11/motorola-mbp854-baby-monitor/</guid>
+      <description>Yes, I’m blogging about a baby monitor.
+It’s great, has a massive screen, remotely physically controllable camera, thermometer, streams to my phone when I’m at work, but still works in the house if wifi breaks etc.
+However…
+Tonight we looked at the screen and thought, gosh, she’s really moving about a lot but not making a peep of sound. We muted the telly so we could hear if she was still breathing.</description>
+    </item>
+    
+    <item>
+      <title>How I got over £1,200 from HMRC with this one simple trick!</title>
+      <link>https://mattburns.github.io/blog/2015/07/21/how-i-got-over-1200-from-hmrc-with-this-one-simple-trick/</link>
+      <pubDate>Tue, 21 Jul 2015 13:30:14 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2015/07/21/how-i-got-over-1200-from-hmrc-with-this-one-simple-trick/</guid>
+      <description>You won’t believe this hack!
+I recently got a cheque for over £1200 from HMRC for “overpaid corporation tax”. Wahoo! Free money!
+Unfortunately, as much as I just wanted to cash the cheque and forget about it, I knew there was something wrong. After a bit of rummaging through my records I realised that the amount overpaid was exactly the same as the amount I’ve just paid to HMRC for my latest PAYE bill.</description>
+    </item>
+    
+    <item>
+      <title>How to grant access to AWS billing to an IAM user</title>
+      <link>https://mattburns.github.io/blog/2015/06/17/how-to-grant-access-to-aws-billing-to-an-iam-user/</link>
+      <pubDate>Wed, 17 Jun 2015 11:59:33 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2015/06/17/how-to-grant-access-to-aws-billing-to-an-iam-user/</guid>
+      <description>First you must go to your account settings and grant access to IAM users: https://console.aws.amazon.com/billing/home#/account
+Click “edit”
+And “activate”
+ Then you can go do all the policy group nonsense that every other google result will give you. Basically, just create a user and add them to a group with these policies:
+ Bosh.</description>
+    </item>
+    
+    <item>
+      <title>How to compress a folder of .mov files</title>
+      <link>https://mattburns.github.io/blog/2015/05/29/how-to-compress-a-folder-of-mov-files/</link>
+      <pubDate>Fri, 29 May 2015 13:06:16 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2015/05/29/how-to-compress-a-folder-of-mov-files/</guid>
+      <description>Made a bunch of .movs using quicktime’s screen recording but they’re a bit big? ffmpeg’s default settings when converting to mp4 is a quick win
+for i in *.mov; do ffmpeg -i $i $i.mp4; done  Name them alphabetically and you can merge them all together:
+ffmpeg -f concat -i &amp;lt;(printf &amp;quot;file &#39;$PWD/%s&#39;\n&amp;quot; ./*.mp4) -c copy merged.mp4  </description>
+    </item>
+    
+    <item>
+      <title>Generating a CMYK file for printing</title>
+      <link>https://mattburns.github.io/blog/2015/05/12/generating-a-cmyk-file-for-printing/</link>
+      <pubDate>Tue, 12 May 2015 13:11:14 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2015/05/12/generating-a-cmyk-file-for-printing/</guid>
+      <description>So you want to print something (like a banner) but the printers have asked for it to be int the CMYK colorspace? Well we could argue about how to spell colour or whether CMYK is a colorspace at all. But I can’t be bothered, let’s just cut and paste this command which is what I came up with after a morning of hacking…
+convert -resize 9520 -density 300 rgb_input.pdf +profile icm -profile sRGB_IEC61966-2-1_black_scaled.</description>
+    </item>
+    
+    <item>
+      <title>Dell U2515H and problems with a USB apple keyboard</title>
+      <link>https://mattburns.github.io/blog/2015/04/08/dell-u2515h-and-problems-with-a-usb-apple-keyboard/</link>
+      <pubDate>Wed, 08 Apr 2015 10:28:22 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2015/04/08/dell-u2515h-and-problems-with-a-usb-apple-keyboard/</guid>
+      <description>UPDATE/Short answer: Use the USB extension lead that came with the keyboard! It has better contacts.
+Does anyone else ever have problems with this combination? They keyboard just goes dead.
+I use the monitor’s USB hub to connect my keyboard and mouse. I then connect the hub to either my macbook or my linux pc and toggle the video inputs. Sometimes the keyboard just dies. When it’s in the broken state the following things are true:</description>
+    </item>
+    
+    <item>
+      <title>Tapiriik not syncing to Dropbox?</title>
+      <link>https://mattburns.github.io/blog/2015/03/31/how-to-fix-problem-when-tapiriik-not-syncing-dropbox-files/</link>
+      <pubDate>Tue, 31 Mar 2015 13:24:50 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2015/03/31/how-to-fix-problem-when-tapiriik-not-syncing-dropbox-files/</guid>
+      <description>My activities hadn’t been syncing to Dropbox for a while (since mid-November 2014).
+ This activity was not synchronized to the following services:
+Dropbox: There was a problem indexing your activities on Dropbox, so no activities will be uploaded to Dropbox.
+ Everything else was syncing fine (Strava, Endomondo, Garmin).
+A quick email to the author and everything is solved:
+ If you look in your Dropbox folder there should be a number of files with .</description>
+    </item>
+    
+    <item>
+      <title>Hemington 10k 2013 results</title>
+      <link>https://mattburns.github.io/blog/2015/03/23/hemington-10k-2013-results/</link>
+      <pubDate>Mon, 23 Mar 2015 10:54:35 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2015/03/23/hemington-10k-2013-results/</guid>
+      <description>Yes, that’s not a typo, these are the results from 2013.
+I’m just posting them here because I couldn’t find them on the internet. Managed to find a copy in my email though so thought I’d just post them here in case anyone else is interested:
+                Surname First Name Gender Race Category Race Number Finishing Time Position Position within Category Running Club   Ryman Paul M M 157 36.</description>
+    </item>
+    
+    <item>
+      <title>Using an SSL certificate on a custom domain with Google App Engine</title>
+      <link>https://mattburns.github.io/blog/2015/03/04/using-ssl-certificate-on-a-custom-domain-with-google-app-engine/</link>
+      <pubDate>Wed, 04 Mar 2015 10:23:03 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2015/03/04/using-ssl-certificate-on-a-custom-domain-with-google-app-engine/</guid>
+      <description>This post is more a reminder for me. Sorry.
+Get an SNI certificate from Gandi. And download the certificate
+It will have a name like:
+certificate-123456.crt You need to create public and private pem files for google like this:
+openssl rsa -in cameraforensics.key -text &amp;gt; private.pem openssl x509 -inform PEM -in certificate-123456.crt &amp;gt; public.pem (cameraforensics.key is my private key from when I created the SSL certificate from Gandi)
+In Google Apps domain manager, upload those files under “Security &amp;gt; show more &amp;gt; SSL for custom domains“: I was upgrading my certificate so I see both the current and the new certificate:</description>
+    </item>
+    
+    <item>
+      <title>Garmin forerunner 620 verses the 205. The Good, the Bad and the Ugly</title>
+      <link>https://mattburns.github.io/blog/2015/01/15/garmin-forerunner-620-verses-the-205-the-good-the-bad-and-the-ugly/</link>
+      <pubDate>Wed, 14 Jan 2015 23:33:23 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2015/01/15/garmin-forerunner-620-verses-the-205-the-good-the-bad-and-the-ugly/</guid>
+      <description>I previously had the (very popular) forerunner 205 so this review will be based on comparing it to that. I bought the 205 when it came out in 2006 and it’s still going strong. I love tech though so decided to treat myself to an “upgrade”…
+The Good  Wifi and bluetooth data uploading. This is really handy. Saves getting the computer out. The live tracking is also good, but it requires you to take your phone on your run.</description>
+    </item>
+    
+    <item>
+      <title>Ugly business practices at Facebook</title>
+      <link>https://mattburns.github.io/blog/2014/11/05/ugly-business-practices-at-facebook/</link>
+      <pubDate>Wed, 05 Nov 2014 10:45:38 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2014/11/05/ugly-business-practices-at-facebook/</guid>
+      <description>Facebook have broken its messenger feature into its own app. Lots of people freaked out thinking Facebook wanted to use it to spy on them as it requires excessive permissions etc. In reality, it probably needs all those permissions, I don’t really care about that, privacy died years ago. What bothers me is that people use it instead of emailing me. I strongly prefer email. It’s searchable and owned by me.</description>
+    </item>
+    
+    <item>
+      <title>How to access your app engine dev server from another machine</title>
+      <link>https://mattburns.github.io/blog/2014/10/10/how-to-access-your-app-engine-dev-server-from-another-machine/</link>
+      <pubDate>Fri, 10 Oct 2014 16:03:14 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2014/10/10/how-to-access-your-app-engine-dev-server-from-another-machine/</guid>
+      <description>I keep forgetting how to do this so I’m writing it down in the vain hope I may commit it to memory.
+The problem You want to access your locally running dev server on another machine on your local network or maybe even from a virtual machine. whatevs.
+The solution Start your dev server with this extra program argument (you can find this under “debug configurations” in eclipse):
+--address=0.0.0.0
+Now remember it you stupid brain.</description>
+    </item>
+    
+    <item>
+      <title>Running the 4K AOC U2868PQU and Intel HD4000 graphics…</title>
+      <link>https://mattburns.github.io/blog/2014/09/30/running-the-4k-aoc-u2868pqu-and-intel-hd4000-graphics/</link>
+      <pubDate>Tue, 30 Sep 2014 11:39:13 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2014/09/30/running-the-4k-aoc-u2868pqu-and-intel-hd4000-graphics/</guid>
+      <description>Ok, I just bought a 4K display, whoop!
+I knew when I bought it that neither my late-2012 Retina Macbook Pro, or my Ubuntu desktop machine would actually drive the monitor at 4K because they both rely on Intel’s HD4000 graphics which is built into their Ivy bridge CPUs. I did however expect to get at least 2560×1440 (if only at 30Hz) which is fine by me, and then I’m ready when I next upgrade…</description>
+    </item>
+    
+    <item>
+      <title>How to download Chromecast background images</title>
+      <link>https://mattburns.github.io/blog/2014/07/10/how-to-download-chromecast-background-images/</link>
+      <pubDate>Thu, 10 Jul 2014 11:35:40 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2014/07/10/how-to-download-chromecast-background-images/</guid>
+      <description>Google’s friendly little chromecast has some great background images.
+If you want to download all of those images so you can have a nice high quality screen saver on your laptop/mobile etc. just do this:
+git clone -b patch-1 https://github.com/mattburns/chromecast-backgrounds.git cd chromecast-backgrounds/ npm install lodash q request nopt chalk node cli.js --download=images --size=1024 --load=backgrounds.json  Change the size from 1024 to whatever maximum size you want to download.
+I had to tweak the source from this project on github.</description>
+    </item>
+    
+    <item>
+      <title>Using Java 7 on OSX</title>
+      <link>https://mattburns.github.io/blog/2014/05/16/using-java-7-on-osx/</link>
+      <pubDate>Fri, 16 May 2014 10:43:59 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2014/05/16/using-java-7-on-osx/</guid>
+      <description>Does your current version point to JDK6 even though you’ve installed JDK7?
+matt$ ls -l /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK 8 lrwxr-xr-x 1 root wheel 59 21 Nov 14:43 /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK -&amp;gt; /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents The do this:
+sudo rm /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK sudo ln -s /Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/ /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK If it’s not already, set JAVA_HOME accordingly in your ~/.bash_profile:
+export JAVA_HOME=/System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK/Home Test it worked:
+matt$ java -version java version &amp;quot;1.7.0_51&amp;quot; Java(TM) SE Runtime Environment (build 1.7.0_51-b13) Java HotSpot(TM) 64-Bit Server VM (build 24.</description>
+    </item>
+    
+    <item>
+      <title>Using a UK mac keyboard on Ubuntu</title>
+      <link>https://mattburns.github.io/blog/2014/04/17/using-a-uk-mac-keyboard-on-ubuntu/</link>
+      <pubDate>Thu, 17 Apr 2014 17:05:45 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2014/04/17/using-a-uk-mac-keyboard-on-ubuntu/</guid>
+      <description>If you’re using a UK edition usb keyboard with Ubuntu, you may be swearing every time you want a relatively common characters like £, # or |.
+I’ve been suffering with a poorly mapped keyboard for months. I’ve no idea why, I just assumed I must have tried when I installed the OS and deemed it impossible. Anyway, I’m an idiot because it’s really easy.
+Open up your keyboard settings and pick “Layout Settings”:</description>
+    </item>
+    
+    <item>
+      <title>How to install R on OSX</title>
+      <link>https://mattburns.github.io/blog/2014/02/18/how-to-install-r-on-osx/</link>
+      <pubDate>Tue, 18 Feb 2014 12:11:17 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2014/02/18/how-to-install-r-on-osx/</guid>
+      <description>Install Homebrew (if needed) ruby -e &amp;quot;$(curl -fsSL \ https://raw.github.com/Homebrew/homebrew/go/install)&amp;quot; Install R brew tap homebrew/science brew install r </description>
+    </item>
+    
+    <item>
+      <title>Will you be our 1000th customer?</title>
+      <link>https://mattburns.github.io/blog/2013/10/03/customer1000/</link>
+      <pubDate>Thu, 03 Oct 2013 09:26:41 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2013/10/03/customer1000/</guid>
+      <description>Before OddPrints… A short while ago I wanted to print some photos for a little frame (4x4cm). I don’t own a printer and so I wanted to get it printed online. However, the smallest size offered by most online labs is 4×6&amp;quot;. I’m a programmer and amateur photographer, if anyone should find this easy it should be me. How hard can it be?Somehow, I needed to resize and re-save my photo so that it had just the right border around the edge so that when the new image was printed at 4×6&amp;quot; my picture would be in the middle at exactly 4x4cm ready for me to cut out.</description>
+    </item>
+    
+    <item>
+      <title>Create a smooth loading spinner using only CSS</title>
+      <link>https://mattburns.github.io/blog/2013/09/04/create-a-smooth-loading-spinner-using-only-css/</link>
+      <pubDate>Wed, 04 Sep 2013 17:25:56 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2013/09/04/create-a-smooth-loading-spinner-using-only-css/</guid>
+      <description>We’ve all seen loading spinners and they generally look like this:
+Urgh.
+This is just an animated gif and has the following drawbacks:
+ Limited to 256 colours Need to regenerate the image if you want a different colour. Framerate and resolution set when you create the image. (and increasing either will hurt load times). Playback is jerky until all frames are downloaded  Wouldn’t it be better to use some vector magic and hardware-accelerated loveliness to get a spinner like this:</description>
+    </item>
+    
+    <item>
+      <title>Create a giant map of everywhere you’ve been</title>
+      <link>https://mattburns.github.io/blog/2013/07/11/create-a-giant-map-of-everywhere-youve-been/</link>
+      <pubDate>Thu, 11 Jul 2013 16:35:57 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2013/07/11/create-a-giant-map-of-everywhere-youve-been/</guid>
+      <description>Google have just announced that they’re giving Latitude the boot. Not in the distant future but next month (August 9th). I’m gutted as I was just getting used to relying on its awesomeness. At first I panicked because I’ve been using the Location History feature to log my location for the past 3 years. Thankfully, that feature is spared the chop (well, for now at least).
+If you have also been using it to log your location then you’ll be glad to hear you can download your location history.</description>
+    </item>
+    
+    <item>
+      <title>4 reasons to design your logo in CSS (and a few why you shouldn’t)</title>
+      <link>https://mattburns.github.io/blog/2013/02/24/4-reasons-to-design-your-logo-in-css-and-a-few-why-you-shouldnt/</link>
+      <pubDate>Sun, 24 Feb 2013 19:22:08 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2013/02/24/4-reasons-to-design-your-logo-in-css-and-a-few-why-you-shouldnt/</guid>
+      <description>Intro I recently changed the OddPrints logo on the website from an image to simple text styled with CSS and @font-face. To me it seems like the obvious thing to do but very few websites seem to employ the technique. I thought I’d explain my thoughts and I’d love to hear what you think…
+1 – Sharper This is the main reason. I recently bought a Retina MacBook Pro and the screen quality is amazing.</description>
+    </item>
+    
+    <item>
+      <title>How to track e-commerce sales in Google Analytics with the Google Wallet Java SDK</title>
+      <link>https://mattburns.github.io/blog/2013/02/14/how-to-track-e-commerce-sales-in-google-analytics-with-the-google-wallet-java-sdk/</link>
+      <pubDate>Thu, 14 Feb 2013 14:54:17 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2013/02/14/how-to-track-e-commerce-sales-in-google-analytics-with-the-google-wallet-java-sdk/</guid>
+      <description>If you have your cart built up in javascript then just follow Google’s documentation. If you submit your Google Wallet cart server-side using the java SDK and want to track the sale using Google Analytics’ ecommerce feature, then this blog is for you…
+Before you start, make sure you have enabled the ecommerce feature in Google Analytics.
+In your Java code, you need to set the analyticsData (String) in the cart:</description>
+    </item>
+    
+    <item>
+      <title>Build a super fast PC in 2013 for just £566</title>
+      <link>https://mattburns.github.io/blog/2012/12/07/build-a-super-fast-pc-in-2013-for-just-566/</link>
+      <pubDate>Fri, 07 Dec 2012 09:58:02 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2012/12/07/build-a-super-fast-pc-in-2013-for-just-566/</guid>
+      <description>Looking to build a new PC? Want to build one that will play nicely with Windows or Linux or could even be a Hackintosh? Making sure you choose the right combination of components is important and a pain to research. If you’re feeling lazy, here’s my shopping list for the machine I built that I’m using right now.
+By the way, it’s faaaaaast 😉
+CPU – Intel Ivy Bridge (i5-3570K) – £169</description>
+    </item>
+    
+    <item>
+      <title>iPhone panoramic photo prints – £5.99!</title>
+      <link>https://mattburns.github.io/blog/2012/11/28/how-to-print-panoramic-photos-from-your-iphone/</link>
+      <pubDate>Wed, 28 Nov 2012 17:19:07 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2012/11/28/how-to-print-panoramic-photos-from-your-iphone/</guid>
+      <description>OK, so you’ve taken an awesome panorama with your iPhone but where do you print it?
+OddPrints offers printing at 18&amp;quot;x4&amp;quot; which is the perfect ratio for iPhone photos. Better still it’s only £5.99 !</description>
+    </item>
+    
+    <item>
+      <title>Connecting to EC2 from Chrome’s Secure Shell using only a PEM file</title>
+      <link>https://mattburns.github.io/blog/2012/11/15/connecting-to-ec2-from-chromes-secure-shell-using-only-a-pem-file/</link>
+      <pubDate>Thu, 15 Nov 2012 10:35:37 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2012/11/15/connecting-to-ec2-from-chromes-secure-shell-using-only-a-pem-file/</guid>
+      <description>Gee, what a title. I know this post is going to be popular.
+First, you need to generate your public key from your private key like this:
+ssh-keygen -y -f yourkey.pem &amp;gt; yourkey.pub Then, in Secure Shell, select the “Import…” link to bring up a file picker. You must import two files for each identity. A private key and a public key. For example, you would select both “yourkey.pem” and “yourkey.</description>
+    </item>
+    
+    <item>
+      <title>Importing photos from a Canon EOS camera with Ubuntu 12.10</title>
+      <link>https://mattburns.github.io/blog/2012/11/10/importing-photos-from-a-canon-eos-camera-with-ubuntu-12-10/</link>
+      <pubDate>Sat, 10 Nov 2012 12:13:41 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2012/11/10/importing-photos-from-a-canon-eos-camera-with-ubuntu-12-10/</guid>
+      <description>For some reason, when I try to connect my Canon EOS 7D in Linux I get this error:Unable to mount Canon Digital Camera Error initialising camera: -1: Unspecified error  I get no love from lsusb:
+matt@beast:~$ lsusb Bus 001 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub Bus 002 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.</description>
+    </item>
+    
+    <item>
+      <title>Allow worldwide shipping with Google Checkout/Wallet java SDK</title>
+      <link>https://mattburns.github.io/blog/2012/10/06/allow-worldwide-shipping-with-google-checkoutwallet-java-sdk/</link>
+      <pubDate>Sat, 06 Oct 2012 14:47:19 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2012/10/06/allow-worldwide-shipping-with-google-checkoutwallet-java-sdk/</guid>
+      <description>Google’s java SDK for interacting with the checkout API is not a fun experience. It’s generated from the WSDL using JAXB which has a unique ability to generate client interfaces that no human could ever “design”.
+It’s not actually that hard to write code with, you just have to think like a deranged machine.
+By default, the only allowed shipping destination will be your country. If you wish to allow worldwide shipping, you have to do something like this:</description>
+    </item>
+    
+    <item>
+      <title>How to add zero-padding to a folder full of numbered files</title>
+      <link>https://mattburns.github.io/blog/2012/09/27/how-to-add-zero-padding-to-a-folder-full-of-numbered-files/</link>
+      <pubDate>Thu, 27 Sep 2012 11:13:06 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2012/09/27/how-to-add-zero-padding-to-a-folder-full-of-numbered-files/</guid>
+      <description>Have you got a folder of files that look like this?
+file_1.png file_2.png file_3.png file_10.png file_11.png file_12.png file_100.png  But what you really want this:
+file_001.png file_002.png file_003.png file_010.png file_011.png file_012.png file_100.png  Then, my linux-loving friend, run this:
+rename &#39;s/\d+/sprintf(&amp;quot;%03d&amp;quot;,$&amp;amp;)/e&#39; *.png </description>
+    </item>
+    
+    <item>
+      <title>Fun and games with the new PayPal java SDK</title>
+      <link>https://mattburns.github.io/blog/2012/08/17/fun-and-games-with-the-new-paypal-java-sdk/</link>
+      <pubDate>Fri, 17 Aug 2012 12:35:45 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2012/08/17/fun-and-games-with-the-new-paypal-java-sdk/</guid>
+      <description>Up until now I’ve handled my payments for stolencamerafinder and OddPrints with Google Wallet. It’s not fantastic api (I’ve even had to fix it) but it’s pretty straight forward. There’s good documentation and the SDK saves you from writing all that boilerplate for talking to a web service.
+I’ve had quite a few requests for allowing PayPal so I’ve spent the last couple of days flicking through their documentation and was quickly shown that:</description>
+    </item>
+    
+    <item>
+      <title>The Bristol Two Towers Running Challenge</title>
+      <link>https://mattburns.github.io/blog/2012/07/30/the-bristol-two-towers-running-challenge/</link>
+      <pubDate>Mon, 30 Jul 2012 16:24:27 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2012/07/30/the-bristol-two-towers-running-challenge/</guid>
+      <description>Fancy a running challenge around Bristol that’ll test your legs and your navigation? All you have to do is touch both Cabot Tower and Troopers Hill Tower (er, chimney) and finish where you started.
+ Troopers Hill Tower
+ Cabot Tower
+The rules are pretty simple:  You have to touch both Cabot Tower and Troopers Hill Tower. Any order. You must start and finish at the same place (of your choice).</description>
+    </item>
+    
+    <item>
+      <title>How to install Google Voice</title>
+      <link>https://mattburns.github.io/blog/2012/07/12/how-to-install-google-voice/</link>
+      <pubDate>Thu, 12 Jul 2012 09:34:46 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2012/07/12/how-to-install-google-voice/</guid>
+      <description>Oh jeez, really? A blog post about doing something so easy? Well, yes because it took me about an hour of messing around and so if this helps save one person from the pain, then it’s worth writing. If you’re in a rush or already bored, jump to the short answer.
+If you use gmail, you may see the option in the Chat widget to “Call phone”:
+
+Great. Sounds fun, let’s try it:</description>
+    </item>
+    
+    <item>
+      <title>Passing your credentials in order to deploy to Google App Engine with Ant</title>
+      <link>https://mattburns.github.io/blog/2012/07/11/passing-your-credentials-in-order-to-deploy-to-google-app-engine-with-ant/</link>
+      <pubDate>Wed, 11 Jul 2012 12:53:26 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2012/07/11/passing-your-credentials-in-order-to-deploy-to-google-app-engine-with-ant/</guid>
+      <description>If you use the example ant script provided by Google you’ll face the following error:
+Your authentication credentials can&#39;t be found and may have expired. Please run appcfg directly from the command line to re-establish your credentials. Sure, you can run appcfg.sh from the console, and login and all will be fine next time. Well, for 24 hours before your credentials are booted from the cache.
+Here’s my ant target that does the same thing but takes the credentials interactively using the input task.</description>
+    </item>
+    
+    <item>
+      <title>Do you know Sarah who just turned 21? (Windsor, UK)</title>
+      <link>https://mattburns.github.io/blog/2012/04/11/found-21-year-old-sarahs-camera-with-birthday-presents/</link>
+      <pubDate>Wed, 11 Apr 2012 20:11:49 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2012/04/11/found-21-year-old-sarahs-camera-with-birthday-presents/</guid>
+      <description>This is an appeal to anyone who may know a 21 year old Sarah (born April 6th, 1991) in Windsor, UK. Her camera and other precious items have been found and we want to get them back to her.
+ Sarah a celebrated her 21st birthday on friday 6th april. she got picked up by a taxi in windsor on sat morning. a bag containing a pink floral photo album celebrating her life upto her 21st birthday, camera, scarf and other things were left.</description>
+    </item>
+    
+    <item>
+      <title>“F” (The Movie) – Is everyone stupid or is it just me?</title>
+      <link>https://mattburns.github.io/blog/2012/03/04/f-the-movie-is-everyone-stupid-or-is-it-just-me/</link>
+      <pubDate>Sun, 04 Mar 2012 11:52:15 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2012/03/04/f-the-movie-is-everyone-stupid-or-is-it-just-me/</guid>
+      <description>Spoiler Alert – This will ruin the film if you haven’t seen it.
+F
+This film started great, a teacher tangled in red tape, falls into depression and alcohol etc etc. But then these supernatural hooded psychos spring into the film and start killing everyone. If that is all the film is then, well, let’s just say it’s not my kind of film.
+However, I didn’t think that was what the story was about.</description>
+    </item>
+    
+    <item>
+      <title>My first “parkrun”</title>
+      <link>https://mattburns.github.io/blog/2012/03/03/my-first-parkrun/</link>
+      <pubDate>Sat, 03 Mar 2012 10:58:10 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2012/03/03/my-first-parkrun/</guid>
+      <description>Today I ran my first parkrun. If like me you’ve never heard of them:
+ parkrun organise free, weekly, 5km timed runs around the world. They are open to everyone, free, and are safe and easy to take part in.
+ Pretty simple really. You just register for free on the website for a personal barcode, print it out then turn up and race. You just register as a runner, not for individual races, it’s up to you which races you attend.</description>
+    </item>
+    
+    <item>
+      <title>My recommendation for your first SLR in 2012</title>
+      <link>https://mattburns.github.io/blog/2012/02/27/my-recommendation-for-your-first-slr-in-2012/</link>
+      <pubDate>Mon, 27 Feb 2012 11:17:13 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2012/02/27/my-recommendation-for-your-first-slr-in-2012/</guid>
+      <description>Want better photos? As I’ve mentioned before, I get asked what camera to buy a lot. I mean loads, it’s silly. Generally, I get asked by people who are fed up with the blurry, grainy photos they are currently taking and think a new camera will solve everything. If this sounds like you, then go read my previous post about whether or not an SLR is for you.
+Done? Still interested?</description>
+    </item>
+    
+    <item>
+      <title>Testing JavaScript with QUnit for for Dummies, sorry, Java developers</title>
+      <link>https://mattburns.github.io/blog/2012/01/11/testing-javascript-with-quni/</link>
+      <pubDate>Wed, 11 Jan 2012 13:03:50 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2012/01/11/testing-javascript-with-quni/</guid>
+      <description>Disclaimer: I’m no javascript expert so I may be am almost certainly talking a load of rubbish here.
+I was just looking for a unit testing framework for some javascript I’m writing (rather the the home-rolled framework I’ve out-grown) and came across QUnit. I’ve not tried any others so feel free to suggest alternatives. So far, it’s great and does everything I want and took me almost no time to learn.</description>
+    </item>
+    
+    <item>
+      <title>The cheapest way to get a Samsung Galaxy S2 in the UK</title>
+      <link>https://mattburns.github.io/blog/2011/12/07/the-cheapest-way-to-get-a-samsung-galaxy-s2-in-the-uk/</link>
+      <pubDate>Wed, 07 Dec 2011 12:46:45 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/12/07/the-cheapest-way-to-get-a-samsung-galaxy-s2-in-the-uk/</guid>
+      <description>If you’re a materialistic idiot like me, you’ll be interested in how you can get your hands on a disgustingly extravagant smartphone while parting with the least amount of cash possible.
+The best deal I found for the Galaxy S2 (by far) has been through Tesco:
+ Free handset T-Mobile network 300 mins/300 texts 24 month contract Free delivery 500MB Data Booster + Unlimited Internet £20 of free apps available (through some T&amp;amp;Cs) £20.</description>
+    </item>
+    
+    <item>
+      <title>Simplify your API – Can Singletons be used for Good, not Evil?</title>
+      <link>https://mattburns.github.io/blog/2011/11/14/simplify-your-api/</link>
+      <pubDate>Mon, 14 Nov 2011 15:55:53 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/11/14/simplify-your-api/</guid>
+      <description>I recently wrote an article about singletons in java. The only thing I wanted to cover was that if you really want a singleton, I recommend you use the enum pattern. This post was motivated after more interesting comments were raised about testability when you see the “static” keyword.
+When you type “static” a little alarm bell should ring in your head to warn you that there could be trouble ahead.</description>
+    </item>
+    
+    <item>
+      <title>Bug with JQuery validation error messages showing tooltip text</title>
+      <link>https://mattburns.github.io/blog/2011/10/28/bug-with-jquery-validation-error-messages-showing-tooltip-text/</link>
+      <pubDate>Fri, 28 Oct 2011 13:50:45 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/10/28/bug-with-jquery-validation-error-messages-showing-tooltip-text/</guid>
+      <description>I had the following html in my form:
+&amp;lt;label for=&amp;quot;email-input&amp;quot;&amp;gt;Email&amp;lt;/label&amp;gt; &amp;amp;lt;input id=&amp;quot;email-input&amp;quot; type=&amp;quot;text&amp;quot; title=&amp;quot;Don&#39;t worry, your email will not be displayed on the website or given to anyone else. We hate spam too.&amp;quot; /&amp;gt; Nothing complicated there I hope.
+I had the help text set in the title attribute of the input which I styled with the lovely qTip to make it look nice. I validated my entry using the jQuery validation plugin which also works well.</description>
+    </item>
+    
+    <item>
+      <title>How to enable Offline Google Docs for Google Apps users</title>
+      <link>https://mattburns.github.io/blog/2011/10/26/how-to-enable-offline-google-docs-for-google-apps-users/</link>
+      <pubDate>Wed, 26 Oct 2011 14:27:03 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/10/26/how-to-enable-offline-google-docs-for-google-apps-users/</guid>
+      <description>Do you still not have the offline option for Google Docs?
+If you’re a Google Apps user, then your apps administrator has to enable it first:
+ Log in to the Google Apps control panel at https://www.google.com/a/your_domain.com (replace _your_domain.com_with your actual domain name). From the menu bar at the top of the page, click Settings. In the left menu, click Docs. Select the Allow users to enable offline docs check box.</description>
+    </item>
+    
+    <item>
+      <title>How to write Singletons in java</title>
+      <link>https://mattburns.github.io/blog/2011/10/26/how-to-write-singletons-in-java/</link>
+      <pubDate>Wed, 26 Oct 2011 11:30:37 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/10/26/how-to-write-singletons-in-java/</guid>
+      <description>Singletons get a pretty bad press. Often described as an “anti-pattern”. I think it’s a little unfair since I find them pretty useful in several situations. However, the reason they can be bad is important to understand:
+ Making a class a singleton can make it difficult to test its clients, as it’s impossible to substitute a mock implementation for a singleton unless it implements an interface that serves as its type.</description>
+    </item>
+    
+    <item>
+      <title>How to dynamically choose the color of your Google maps marker pin using javascript</title>
+      <link>https://mattburns.github.io/blog/2011/10/07/how-to-dynamically-choose-the-color-of-you-google-maps-marker-pin-using-javascript/</link>
+      <pubDate>Fri, 07 Oct 2011 12:30:41 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/10/07/how-to-dynamically-choose-the-color-of-you-google-maps-marker-pin-using-javascript/</guid>
+      <description>You can dynamically request icon images from the Google charts api with the urls:
+ http://chart.apis.google.com/chart?chst=d_map_pin_letter&amp;amp;chld=%E2%80%A2|FE7569
+ Which looks like this:the image is 21×43 pixels and the pin tip is at position (10, 34)
+And you’ll also want a separate shadow image (so that it doesn’t overlap nearby icons):
+ http://chart.apis.google.com/chart?chst=d_map_pin_shadow
+ Which looks like this:the image is 40×37 pixels and the pin tip is at position (12, 35)
+When you construct your MarkerImages you need to set the size and achor points accordingly:</description>
+    </item>
+    
+    <item>
+      <title>How to get the “WINDOWS USB Driver” for your LG mobile</title>
+      <link>https://mattburns.github.io/blog/2011/10/03/how-to-get-the-windows-usb-driver-for-your-lg-mobile/</link>
+      <pubDate>Mon, 03 Oct 2011 09:16:15 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/10/03/how-to-get-the-windows-usb-driver-for-your-lg-mobile/</guid>
+      <description>If you’re trying to update your LG mobile (I’m doing my LG Arena KM900) you will be taken to a page that tells you to install the WINDOWS USB Driver, whatever that is.
+At time of writing, that link doesn’t work.
+Don’t worry, just go ahead and click “Software Update” as there is the option to install the usb driver there. If you also need the PC Suite, I found a copy here.</description>
+    </item>
+    
+    <item>
+      <title>My next e-book</title>
+      <link>https://mattburns.github.io/blog/2011/09/16/my-next-e-book/</link>
+      <pubDate>Fri, 16 Sep 2011 18:20:49 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/09/16/my-next-e-book/</guid>
+      <description>If you know me, you’ll know I just got back from a year galavanting around the world. I was given a Sony e-book as a present which I took with me, and soon became an essential item.
+It’s already showing its age compared to newer models but I’m not buying a new one until e-book manufacturers start adding features I actually want.
+I don’t want:
+ A colour screen. Why would I?</description>
+    </item>
+    
+    <item>
+      <title>How to print small photos (say, 4cm x 4cm)</title>
+      <link>https://mattburns.github.io/blog/2011/09/10/how-to-print-small-photos-say-4cm-x-4cm/</link>
+      <pubDate>Sat, 10 Sep 2011 12:36:49 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/09/10/how-to-print-small-photos-say-4cm-x-4cm/</guid>
+      <description>If you have a photo you want to put into a small frame, you may struggle finding a print company that print photos smaller than 15cm x 10cm (6&amp;quot;x4&amp;quot;).
+The simple answer is to create add a white border to your jpeg and print that. Then you can just trim the edges off the print. I just tried this and it was harder than I would have liked. If you open your photo in some software and expand the canvas, you’ll find it will start eating lots of memory.</description>
+    </item>
+    
+    <item>
+      <title>Selecting Child Entities with GQL Queries</title>
+      <link>https://mattburns.github.io/blog/2011/08/23/selecting-child-entities-with-gql-queries/</link>
+      <pubDate>Tue, 23 Aug 2011 17:14:36 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/08/23/selecting-child-entities-with-gql-queries/</guid>
+      <description>In Google App Engine, you can create owned one-to-many relationships between entities. The classic example you were taught at uni is that a Book owns a Chapter, which in turn, owns a Paragraph. For my site, stolencamerafinder, the example is that a camera Make owns a set of Models.
+If you want to query for the model directly in GQL (from the app engine dashboard for example) you can create the key by specifying the full parent chain:</description>
+    </item>
+    
+    <item>
+      <title>Tips for better low-light wedding photos with a Canon DSLR.</title>
+      <link>https://mattburns.github.io/blog/2011/06/14/tips-for-better-low-light-wedding-photos-with-an-canon-dslr/</link>
+      <pubDate>Tue, 14 Jun 2011 05:43:08 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/06/14/tips-for-better-low-light-wedding-photos-with-an-canon-dslr/</guid>
+      <description>I just got this in an email:
+ A friend has asked me to take some of their wedding photos with their Canon 1000D. Had a play with it yesterday and I’m finding the flash a bit harsh. Is there a top tip to minimise this?
+ Firstly, if you’re using the camera in the day near natural light, the camera will be fine and it’s all down to your artistic flair.</description>
+    </item>
+    
+    <item>
+      <title>How to update the lastmod date in your sitemap xml with Ant</title>
+      <link>https://mattburns.github.io/blog/2011/04/22/how-to-update-the-lastmod-date-in-your-sitemap-xml-with-ant/</link>
+      <pubDate>Fri, 22 Apr 2011 03:39:34 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/04/22/how-to-update-the-lastmod-date-in-your-sitemap-xml-with-ant/</guid>
+      <description>Hmm, you want to add the “lastmod” node, but you’re too lazy to ever keep that up to date so you decide to update it with your Ant script whenever you deploy. Easy.
+So you’ve just written a valid sitemap.xml file for your website because Google said it was a good idea. Great.
+&amp;amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot; standalone=&amp;quot;no&amp;quot;?&amp;amp;gt; &amp;amp;lt;urlset xmlns=&amp;quot;http://www.sitemaps.org/schemas/sitemap/0.9&amp;quot;&amp;amp;gt; &amp;amp;lt;url&amp;amp;gt; &amp;amp;lt;loc&amp;amp;gt;http://www.stolencamerafinder.com/&amp;amp;lt;/loc&amp;amp;gt; &amp;amp;lt;lastmod&amp;amp;gt;2011-04-21&amp;amp;lt;/lastmod&amp;amp;gt; &amp;amp;lt;changefreq&amp;amp;gt;weekly&amp;amp;lt;/changefreq&amp;amp;gt; &amp;amp;lt;/url&amp;amp;gt; &amp;amp;lt;/urlset&amp;amp;gt; First, you’ll need the jar for a third-party Ant task called XMLTask.</description>
+    </item>
+    
+    <item>
+      <title>How to detect browser support for File Api and drag and drop with javascript</title>
+      <link>https://mattburns.github.io/blog/2011/04/17/how-to-detect-browser-support-for-file-api-and-drag-and-drop-with-javascript/</link>
+      <pubDate>Sun, 17 Apr 2011 11:55:12 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/04/17/how-to-detect-browser-support-for-file-api-and-drag-and-drop-with-javascript/</guid>
+      <description>Here’s a bit of info for you crazy HTML5 kids. You’ll need to include the handy Modernizr script for it to work.
+var browserIsSupported = !!window.FileReader &amp;amp;&amp;amp; Modernizr.draganddrop; </description>
+    </item>
+    
+    <item>
+      <title>How to find out your Facebook User ID (uid)</title>
+      <link>https://mattburns.github.io/blog/2011/04/17/how-to-find-out-your-facebook-user-id-uid/</link>
+      <pubDate>Sun, 17 Apr 2011 04:47:10 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/04/17/how-to-find-out-your-facebook-user-id-uid/</guid>
+      <description>Just look at the filename of your profile picture. The uid is in the middle.
+186939_565140267_839650_n.jpg Er… That’s it.
+Bye.</description>
+    </item>
+    
+    <item>
+      <title>How to stop Google Chrome using your location when searching</title>
+      <link>https://mattburns.github.io/blog/2011/04/08/how-to-stop-google-chrome-using-your-location-when-searching/</link>
+      <pubDate>Fri, 08 Apr 2011 05:56:19 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/04/08/how-to-stop-google-chrome-using-your-location-when-searching/</guid>
+      <description>When you use Chrome’s omnibar to search, Chrome will redirect you to search results based on when you are geographically. This is great when I’m at home because I see (more relevant) results from google.co.uk and not google.com.
+However, I’m travelling at the moment and getting my results from google.co.th is painful since most of the results are not in english.
+ Close Chrome. Open the file Local State in notepad.</description>
+    </item>
+    
+    <item>
+      <title>Challenge Conclusion…</title>
+      <link>https://mattburns.github.io/blog/2010/07/28/challenge-conclusion/</link>
+      <pubDate>Wed, 28 Jul 2010 00:07:52 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/07/28/challenge-conclusion/</guid>
+      <description>Back in April I challenged myself to run 5km in under 19 minutes and gain 1.5 stone by the last Bridge Inn 5km of the summer.
+Tonight was the night.
+Being too busy disorganised, I didn’t realise that tonight was the deadline until today. If I had realised I would probably have prepared a little better. Two days ago I ran my first Kymin Dash, a ~7 mile run but includes a decent hill.</description>
+    </item>
+    
+    <item>
+      <title>Challenge Update</title>
+      <link>https://mattburns.github.io/blog/2010/07/01/challenge-update/</link>
+      <pubDate>Thu, 01 Jul 2010 14:36:48 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/07/01/challenge-update/</guid>
+      <description>At the end of April I set myself the challenge of gaining a stone in weight and running a 5km race 2.5 minutes faster.
+I ran the same race on Tuesday in 19:15, painfully close to my speed target of 19 minutes. However, I also weighed myself again but have actually lost a pound.
+Gah!
+Must try harder…</description>
+    </item>
+    
+    <item>
+      <title>Solved: How to rotate with GWTCanvas</title>
+      <link>https://mattburns.github.io/blog/2010/07/01/how-to-rotate-with-gwtcanvas/</link>
+      <pubDate>Thu, 01 Jul 2010 14:31:39 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/07/01/how-to-rotate-with-gwtcanvas/</guid>
+      <description>Having trouble rotating something you’ve drawn with GWTCanvas?
+It took me a little while to work out, but GWTCanvas works slightly differently to Graphic2D in Java. It’s important to realise that with GWTCanvas, when you invoke “rotate(r)” you’re actually transforming the coordinate space that will be used for subsequent drawing.
+canvas.moveTo(50, 50); canvas.lineTo(50, 10); canvas.stroke();  Produces:
+In order to rotate it, you must invoke rotate before you start any drawing.</description>
+    </item>
+    
+    <item>
+      <title>Inspired</title>
+      <link>https://mattburns.github.io/blog/2010/05/25/inspired/</link>
+      <pubDate>Mon, 24 May 2010 23:04:54 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/05/25/inspired/</guid>
+      <description>Yesterday, I attended a workshop hosted by the talented Lou O’Bedlam. Although I wasn’t fully aware of it at the time, I was getting inspired. Not only was I getting inspired to take more picutres, I was getting inspired to focus on stepping out of my comfort zone and going after my dreams.
+Lou talked about recently teaching his nephew how to ask a girl out. His advice was simple: “Just ask her”.</description>
+    </item>
+    
+    <item>
+      <title>Buying Your First SLR</title>
+      <link>https://mattburns.github.io/blog/2010/05/22/buying-your-first-slr/</link>
+      <pubDate>Sat, 22 May 2010 09:09:40 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/05/22/buying-your-first-slr/</guid>
+      <description>I get asked the following question quite a lot:
+ I want to buy an SLR, what one shall I get?
+ In my software engineering life, clients often approach me with a description of software they want me to write. What you really want is for them to describe the problems they are having that need to be solved. That way you might be able to design a better (simpler) solution.</description>
+    </item>
+    
+    <item>
+      <title>Bristol Bike Rental scheme comes to an end…</title>
+      <link>https://mattburns.github.io/blog/2010/05/12/bristol-bike-rental-scheme-comes-to-an-end/</link>
+      <pubDate>Wed, 12 May 2010 09:03:19 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/05/12/bristol-bike-rental-scheme-comes-to-an-end/</guid>
+      <description>Bristol have been trialling a bike rental scheme for about a year and I had high hopes for it. I paid my £20 in support of the scheme even though there were no bike stations in the places I needed them. I feel if there were more bikes and more stations it would have been ideal. (see my comment from back then…).
+Unfortunately, they’ve decided to end the scheme deeming it unsuccessful:</description>
+    </item>
+    
+    <item>
+      <title>The Challenge: 1.5 stone heavier and 2.5 minutes faster</title>
+      <link>https://mattburns.github.io/blog/2010/04/28/the-challenge-15-stone-heavier-and-25-minutes-faster/</link>
+      <pubDate>Wed, 28 Apr 2010 14:40:21 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/28/the-challenge-15-stone-heavier-and-25-minutes-faster/</guid>
+      <description>Last night I ran a pretty shonky 21:33 (~7m/mile) for the Bridge Inn 5km. I used to be faster but haven’t really been running since last year.
+I also need to put on some weight because at 6 foot I’m pretty puny weighing in at 10st 9lb. According to the NHS weight calculator I should be over 12 Stone.
+I’m setting myself the challenge of knocking 2.5 minutes off my 5km time (I’ve never run it under 19 minutes before) and reaching 12st 2lb before the Bridge Inn 5km summer series finishes on July 27th (the website hints there’s one in August but I’m pretty sure it’s wrong…).</description>
+    </item>
+    
+    <item>
+      <title>Security Roles Require Names</title>
+      <link>https://mattburns.github.io/blog/2010/04/07/security-roles-require-names/</link>
+      <pubDate>Wed, 07 Apr 2010 09:56:17 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/07/security-roles-require-names/</guid>
+      <description>Remember the DD tags with SRRN:</description>
+    </item>
+    
+    <item>
+      <title>Commodore64 – BASIC – Base64</title>
+      <link>https://mattburns.github.io/blog/2010/04/07/commodore64-basic-base64/</link>
+      <pubDate>Wed, 07 Apr 2010 09:53:54 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/07/commodore64-basic-base64/</guid>
+      <description>Not much to say here.
+Of the 4 autehntication types, “BASIC” uses Base64, in the same way that on a Commodore 64 you’d write BASIC.
+Showing my age there.</description>
+    </item>
+    
+    <item>
+      <title>Listeners and Events</title>
+      <link>https://mattburns.github.io/blog/2010/04/07/listeners-and-events/</link>
+      <pubDate>Wed, 07 Apr 2010 09:51:30 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/07/listeners-and-events/</guid>
+      <description>There are 8 Listeners to remember. We know there are attributes in 4 scopes because we know how to Pick the Right Scope Automatically, but you can’t listen to Page attributes, it doesn’t make sense, so that leaves us with RSA; Request, Session and Application. These tally with the objects:
+ ServletRequest HttpSession ServletContext  There is a Listener for each of these objects for lifecycle events, and for attribute events, so that gives us 6 of the Listener Interfaces:</description>
+    </item>
+    
+    <item>
+      <title>11 EL Implicit Variables</title>
+      <link>https://mattburns.github.io/blog/2010/04/07/11-el-implicit-variables/</link>
+      <pubDate>Wed, 07 Apr 2010 09:30:08 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/07/11-el-implicit-variables/</guid>
+      <description>All the EL implicit variables are Maps except for pageContext.
+To remember the attribute-holding scope objects, just remember to Pick the Right Scope Automatically and stick the word “Scope” on the end:
+ pageScope requestScope sessionScope applicationScope  Then you have 4 param and header objects of the form : (param|header)[Values]
+ param paramValues header headerValues  Then I just remember the last 3:
+ cookie initParam pageContext (not a Map, it’s the JavaBean)  </description>
+    </item>
+    
+    <item>
+      <title>Captain Pan PreVents Captain Hook</title>
+      <link>https://mattburns.github.io/blog/2010/04/07/captain-pan-prevents-captain-hook/</link>
+      <pubDate>Wed, 07 Apr 2010 09:21:02 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/07/captain-pan-prevents-captain-hook/</guid>
+      <description>This is (a rubbish one) just to help me remember the DD tags:
+Whereas Servlet params are “in-it”:</description>
+    </item>
+    
+    <item>
+      <title>Direct a Film about Petal Ink</title>
+      <link>https://mattburns.github.io/blog/2010/04/07/direct-a-film-about-petal-ink/</link>
+      <pubDate>Wed, 07 Apr 2010 09:09:10 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/07/direct-a-film-about-petal-ink/</guid>
+      <description>I’ve made a timelapse film of some daffodils blossoming but I really should do another one of a rose with its stem split into two different bottles of ink.
+Not a very interesting post, it’s just another think I need top remember from this book for my exam. 
+Direct a film about PeTaL INk
+Boils down to:
+Jsp Directives are Page, Taglib and Include</description>
+    </item>
+    
+    <item>
+      <title>Tie up the JSP implicit variables with SCRAPROPE</title>
+      <link>https://mattburns.github.io/blog/2010/04/06/tie-up-the-implicit-variables-with-scraprope/</link>
+      <pubDate>Tue, 06 Apr 2010 17:32:19 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/06/tie-up-the-implicit-variables-with-scraprope/</guid>
+      <description>Use the acronym SCRAPROPE to remember the JSP implicit variables:
+session
+config
+request
+application
+pageContext
+response
+out
+page
+exception
+I should really credit Russ for coming up with the acronym. I think my attempts, SCORP RAPE and SPORE CRAP, weren’t as catchy.</description>
+    </item>
+    
+    <item>
+      <title>Pick the Right Scope Automatically</title>
+      <link>https://mattburns.github.io/blog/2010/04/06/pick-the-right-scope-automatically/</link>
+      <pubDate>Tue, 06 Apr 2010 17:13:51 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/06/pick-the-right-scope-automatically/</guid>
+      <description>As I previously metioned, I’m taking the SCWCD exam tomorrow. When trying to cram for any exam I like to make up short poems, acronyms or just random chains of though. For example, I know the difference between Mitosis and Meiosis because Meiosis begins with “Meow” which is what cats do and they have four legs… anyway…
+My first thing to remember is that a JspContext has a findAttribute method that I can use to Pick the Right Scope Automatically.</description>
+    </item>
+    
+    <item>
+      <title>Head First Servlets and JSP Errata</title>
+      <link>https://mattburns.github.io/blog/2010/04/06/head-first-servlets-and-jsp-errata/</link>
+      <pubDate>Tue, 06 Apr 2010 16:52:23 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/04/06/head-first-servlets-and-jsp-errata/</guid>
+      <description>I’m sitting another Sun* Certification exam tomorrow to become a Sun Certified Web Component Developer (SCWCD). I’ve done a bit of revising but I’m writing this post mainly as a way to procrastinate. I should take more exams really if only as a way to get other things done. Procrastination during my final year of uni enabled me to learn how to speedsolve a Rubik’s Cube.
+I’ve just read the study guide for the SCWCD exam; Head First Servlets and JSP.</description>
+    </item>
+    
+    <item>
+      <title>How to fix the aspect ratio on videos from Windows Movie Maker Live</title>
+      <link>https://mattburns.github.io/blog/2010/02/21/how-to-fix-the-aspect-ratio-on-videos-from-windows-movie-maker-live/</link>
+      <pubDate>Sun, 21 Feb 2010 20:37:38 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/02/21/how-to-fix-the-aspect-ratio-on-videos-from-windows-movie-maker-live/</guid>
+      <description>Problem:
+wmv file looks squashed when played in VLC or when uploaded to youtube but looks fine when played in windows media player
+Solution:
+You can change the aspect ratio of a wmv file without re-encoding it with vmarchanger
+Ok, hopefully you just searched for this and you’re now sorted, but here’s some background on my problem in case it helps.
+I made a small video (640×480 50fps) on my 7D and wanted to slap it on youtube.</description>
+    </item>
+    
+    <item>
+      <title>A build that’s green, should never be seen.</title>
+      <link>https://mattburns.github.io/blog/2010/01/15/a-build-thats-green-should-never-be-seen/</link>
+      <pubDate>Thu, 14 Jan 2010 23:00:53 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/01/15/a-build-thats-green-should-never-be-seen/</guid>
+      <description>Your continuous integration server should stay green all the time. The odd broken test here and there means you get numb to the failed status on your build server, which in turn means it takes you longer to notice that the build has broken. When the build breaks, you should stop whatever you’re doing and make fixing it your top* priority. After you check in, the faster you fail the better because you haven’t had time to start thinking about your next task, and the thing you did to break the build is still fresh in your mind.</description>
+    </item>
+    
+    <item>
+      <title>Software Company Locator</title>
+      <link>https://mattburns.github.io/blog/2010/01/12/software-company-locator/</link>
+      <pubDate>Tue, 12 Jan 2010 13:28:39 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2010/01/12/software-company-locator/</guid>
+      <description>Looking software companies are near you? Looking to switch jobs or perhaps your company is looking for a local consultancy to collaborate on that big contract?
+I helped Dan make this map as a quick way to find those companies:
+Larger version.We’d love it if you could contribute updates. Just log in with your Google account and click the “edit” button on the left.</description>
+    </item>
+    
+    <item>
+      <title>Should I buy a Canon 7D in the US and carry back to the UK?</title>
+      <link>https://mattburns.github.io/blog/2009/11/09/should-i-buy-a-canon-7d-in-the-us-and-carry-back-to-the-uk/</link>
+      <pubDate>Mon, 09 Nov 2009 16:17:42 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2009/11/09/should-i-buy-a-canon-7d-in-the-us-and-carry-back-to-the-uk/</guid>
+      <description>Canon have just released the 7D and although I can’t really afford it, I have to have one!
+The price difference between UK and US is pretty crazy. Here, my favourite camera shop are selling body only for £1,399. £300 less than Canon’s SRP. In New York’s B&amp;amp;H store you can pick it up for $1,699 (~£1,014).
+As luck would have it, I’m going to NY this weekend so if I’m going to buy one, now’s the time to decide.</description>
+    </item>
+    
+    <item>
+      <title>How to install Flex Builder 3 on Eclipse Galileo on Windows</title>
+      <link>https://mattburns.github.io/blog/2009/11/04/how-to-install-flex-builder-3-on-eclipse-galileo-on-windows/</link>
+      <pubDate>Tue, 03 Nov 2009 23:00:04 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2009/11/04/how-to-install-flex-builder-3-on-eclipse-galileo-on-windows/</guid>
+      <description>Do you get an error when you try to install Flex Builder? Ignore it and carry on anyway.
+Edit the file:
+[eclipse]\links\com.adobe.flexbuilder.feature.core.link
+and just stick “path=” at the start so it looks something like this:
+path=C:/Program Files/Adobe/Flex Builder 3 Plug-in
+Thanks to greylurk for the original tip.</description>
+    </item>
+    
+    <item>
+      <title>Read the blog post, read read. But what if I don’t want to? It doesn’t matter, READ!</title>
+      <link>https://mattburns.github.io/blog/2009/05/25/read-the-blog-post-read-read-but-what-if-i-dont-want-to-it-doesnt-matter-read/</link>
+      <pubDate>Mon, 25 May 2009 18:42:30 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2009/05/25/read-the-blog-post-read-read-but-what-if-i-dont-want-to-it-doesnt-matter-read/</guid>
+      <description>After some late night cramming for an exam last week I went to bed with my head still chattering. I told a sleepy Karen about my day at work and how Dan and I kept singing different words to Adam and Joe’s “Text the Nation” jingle. I gave the example: “Patch the source code, patch patch, but what if it’s not tested? It doesn’t matter, PATCH!” (I hope the sarcasm reads well).</description>
+    </item>
+    
+    <item>
+      <title>Convention ÷ Configuration</title>
+      <link>https://mattburns.github.io/blog/2009/05/18/convention-%C3%B7-configuration/</link>
+      <pubDate>Mon, 18 May 2009 22:25:24 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2009/05/18/convention-%C3%B7-configuration/</guid>
+      <description>I’ve long been sold on the concept of Convention Over Configuration. For me it’s a no-brainer, not only am I lazy, but when I am forced to make a decision about something technical, well, let’s just say the number of times I get it wrong is &amp;gt; 0.
+Recently I’ve been playing around with Maven, something I should have done years ago. Maven seems pretty sold on the convention idea too and so I just expected a simple project to work “out of the box”.</description>
+    </item>
+    
+    <item>
+      <title>The web in 3D!</title>
+      <link>https://mattburns.github.io/blog/2009/04/01/the-web-in-3d/</link>
+      <pubDate>Wed, 01 Apr 2009 15:49:19 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2009/04/01/the-web-in-3d/</guid>
+      <description>Download Google Chrome 3D edition as created by CADIE.
+But don’t forget to download and print your 3D glasses otherwise it’ll be all fuzzy:
+You’d be a fool not to try it 🙂</description>
+    </item>
+    
+    <item>
+      <title>What’s the best sim-only mobile contract?</title>
+      <link>https://mattburns.github.io/blog/2009/03/31/whats-the-best-sim-only-mobile-contract-in-the-uk/</link>
+      <pubDate>Tue, 31 Mar 2009 18:09:47 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2009/03/31/whats-the-best-sim-only-mobile-contract-in-the-uk/</guid>
+      <description>OK, I know, it’s a bit of a silly question because everyone has different needs, but these are mine:
+ 1 month rolling contract — I don’t want to be stuck with the contract for 12 months Keep my number — I rummaged through the boxes in a BTCellnet shop years ago to get my number and I’m going to keep it Unlimited internet — Well, a fair usage of at least 1GB, and I don’t want to get charged if I go over, I just want a warning Some free minutes — To all networks of course Some free texts £25 per month or less  So far, the best I’ve found is the solo-20 plan at T-Mobile:</description>
+    </item>
+    
+    <item>
+      <title>Keep your filling knife clean</title>
+      <link>https://mattburns.github.io/blog/2009/03/02/keep-your-filling-knife-clean/</link>
+      <pubDate>Mon, 02 Mar 2009 22:03:52 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2009/03/02/keep-your-filling-knife-clean/</guid>
+      <description>I’m no expert when it comes to DIY. Enthusiastic amateur I’d say.
+I fumble my way along, guessing how things should be done, and generally learn the hard way.
+I needed to do some more filling today to plug the holes I’d left from my poor skirting board fitting skills.
+My filling knife however was caked in gunk after a few years of not being cleaned properly. I kept it clean when I first got it, it was new and I took good care of it.</description>
+    </item>
+    
+    <item>
+      <title>Voucher codes and promo wotsits</title>
+      <link>https://mattburns.github.io/blog/2009/01/22/voucher-codes-and-promo-wotsits/</link>
+      <pubDate>Thu, 22 Jan 2009 11:22:09 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2009/01/22/voucher-codes-and-promo-wotsits/</guid>
+      <description>It’s 2009! Our digital lives are a breeze and online shopping is just one more option to the newly empowered consumer. Right?
+I’m sure I’m not alone in finding the process of buying anything a little tedious now:
+ See something in the shop you like Decide not to buy it because you don’t know if that’s a good price You get home and look on the internet Now you have to poke around a few websites and try to work out which is cheapest when you consider postage and tax etc.</description>
+    </item>
+    
+    <item>
+      <title>Audio Stalking</title>
+      <link>https://mattburns.github.io/blog/2008/11/28/audio-stalking/</link>
+      <pubDate>Fri, 28 Nov 2008 11:02:35 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2008/11/28/audio-stalking/</guid>
+      <description>I’m just writting this as a holding place for funny things I overhear. Little bits of someone else’s conversation caught out of context. I hope this is just the beginning or a lifelong reel of quotes that I append to as funny things enter my ears from the mouths of unaware passers-by.
+I’m starting it because I just heard:
+ “How did it survive being cooked in a flapjack”
+ I have no idea what she was talking about, and to be honest, I don’t want to know.</description>
+    </item>
+    
+    <item>
+      <title>Fixing the volume up key on a nokia N95</title>
+      <link>https://mattburns.github.io/blog/2008/11/19/fixing-the-volume-up-key-on-a-nokia-n95/</link>
+      <pubDate>Wed, 19 Nov 2008 23:15:29 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2008/11/19/fixing-the-volume-up-key-on-a-nokia-n95/</guid>
+      <description>I recently got my hands on a nokia N95. Great.
+However, I soon realised that the volume up key doesn’t work, only down works. This was a little unfortunate since it is the only key capable of turning the volume up of music when played with the music player software installed on the device. Something I definitely needed to do once I had managed to turn the volume down to zero percent.</description>
+    </item>
+    
+  </channel>
+</rss>

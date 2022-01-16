@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AWS on Matt Burns</title>
+    <link>https://mattburns.github.io/categories/aws/</link>
+    <description>Recent content in AWS on Matt Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 17 Jun 2015 11:59:33 +0000</lastBuildDate><atom:link href="https://mattburns.github.io/categories/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to grant access to AWS billing to an IAM user</title>
+      <link>https://mattburns.github.io/blog/2015/06/17/how-to-grant-access-to-aws-billing-to-an-iam-user/</link>
+      <pubDate>Wed, 17 Jun 2015 11:59:33 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2015/06/17/how-to-grant-access-to-aws-billing-to-an-iam-user/</guid>
+      <description>First you must go to your account settings and grant access to IAM users: https://console.aws.amazon.com/billing/home#/account
+Click “edit”
+And “activate”
+ Then you can go do all the policy group nonsense that every other google result will give you. Basically, just create a user and add them to a group with these policies:
+ Bosh.</description>
+    </item>
+    
+  </channel>
+</rss>

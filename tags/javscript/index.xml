@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>javscript on Matt Burns</title>
+    <link>https://mattburns.github.io/tags/javscript/</link>
+    <description>Recent content in javscript on Matt Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 17 Apr 2011 11:55:12 +0000</lastBuildDate><atom:link href="https://mattburns.github.io/tags/javscript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to detect browser support for File Api and drag and drop with javascript</title>
+      <link>https://mattburns.github.io/blog/2011/04/17/how-to-detect-browser-support-for-file-api-and-drag-and-drop-with-javascript/</link>
+      <pubDate>Sun, 17 Apr 2011 11:55:12 +0000</pubDate>
+      
+      <guid>https://mattburns.github.io/blog/2011/04/17/how-to-detect-browser-support-for-file-api-and-drag-and-drop-with-javascript/</guid>
+      <description>Here’s a bit of info for you crazy HTML5 kids. You’ll need to include the handy Modernizr script for it to work.
+var browserIsSupported = !!window.FileReader &amp;amp;&amp;amp; Modernizr.draganddrop; </description>
+    </item>
+    
+  </channel>
+</rss>
