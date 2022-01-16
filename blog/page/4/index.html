@@ -66,6 +66,20 @@
 </header>
 <article class=post-entry>
 <header class=entry-header>
+<h2>How to add zero-padding to a folder full of numbered files
+</h2>
+</header>
+<section class=entry-content>
+<p>Have you got a folder of files that look like this?
+file_1.png file_2.png file_3.png file_10.png file_11.png file_12.png file_100.png But what you really want this:
+file_001.png file_002.png file_003.png file_010.png file_011.png file_012.png file_100.png Then, my linux-loving friend, run this:
+rename 's/\d+/sprintf("%03d",$&)/e' *.png </p>
+</section>
+<footer class=entry-footer>September 27, 2012&nbsp;·&nbsp;matt</footer>
+<a class=entry-link aria-label="post link to How to add zero-padding to a folder full of numbered files" href=https://mattburns.co.uk/blog/2012/09/27/how-to-add-zero-padding-to-a-folder-full-of-numbered-files/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
 <h2>Fun and games with the new PayPal java SDK
 </h2>
 </header>
@@ -178,19 +192,6 @@ I was just looking for a unit testing framework for some javascript I’m writin
 </section>
 <footer class=entry-footer>January 11, 2012&nbsp;·&nbsp;matt</footer>
 <a class=entry-link aria-label="post link to Testing JavaScript with QUnit for for Dummies, sorry, Java developers" href=https://mattburns.co.uk/blog/2012/01/11/testing-javascript-with-quni/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>The cheapest way to get a Samsung Galaxy S2 in the UK
-</h2>
-</header>
-<section class=entry-content>
-<p>If you’re a materialistic idiot like me, you’ll be interested in how you can get your hands on a disgustingly extravagant smartphone while parting with the least amount of cash possible.
-The best deal I found for the Galaxy S2 (by far) has been through Tesco:
-Free handset T-Mobile network 300 mins/300 texts 24 month contract Free delivery 500MB Data Booster + Unlimited Internet £20 of free apps available (through some T&Cs) £20....</p>
-</section>
-<footer class=entry-footer>December 7, 2011&nbsp;·&nbsp;matt</footer>
-<a class=entry-link aria-label="post link to The cheapest way to get a Samsung Galaxy S2 in the UK" href=https://mattburns.co.uk/blog/2011/12/07/the-cheapest-way-to-get-a-samsung-galaxy-s2-in-the-uk/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

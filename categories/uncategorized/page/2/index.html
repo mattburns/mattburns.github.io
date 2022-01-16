@@ -65,6 +65,22 @@
 </header>
 <article class="post-entry tag-entry">
 <header class=entry-header>
+<h2>Using an SSL certificate on a custom domain with Google App Engine
+</h2>
+</header>
+<section class=entry-content>
+<p>This post is more a reminder for me. Sorry.
+Get an SNI certificate from Gandi. And download the certificate
+It will have a name like:
+certificate-123456.crt You need to create public and private pem files for google like this:
+openssl rsa -in cameraforensics.key -text > private.pem openssl x509 -inform PEM -in certificate-123456.crt > public.pem (cameraforensics.key is my private key from when I created the SSL certificate from Gandi)
+In Google Apps domain manager, upload those files under “Security > show more > SSL for custom domains“: I was upgrading my certificate so I see both the current and the new certificate:...</p>
+</section>
+<footer class=entry-footer>March 4, 2015&nbsp;·&nbsp;matt</footer>
+<a class=entry-link aria-label="post link to Using an SSL certificate on a custom domain with Google App Engine" href=https://mattburns.co.uk/blog/2015/03/04/using-ssl-certificate-on-a-custom-domain-with-google-app-engine/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
 <h2>Garmin forerunner 620 verses the 205. The Good, the Bad and the Ugly
 </h2>
 </header>
@@ -185,18 +201,6 @@ Limited to 256 colours Need to regenerate the image if you want a different colo
 </section>
 <footer class=entry-footer>September 4, 2013&nbsp;·&nbsp;matt</footer>
 <a class=entry-link aria-label="post link to Create a smooth loading spinner using only CSS" href=https://mattburns.co.uk/blog/2013/09/04/create-a-smooth-loading-spinner-using-only-css/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Create a giant map of everywhere you’ve been
-</h2>
-</header>
-<section class=entry-content>
-<p>Google have just announced that they’re giving Latitude the boot. Not in the distant future but next month (August 9th). I’m gutted as I was just getting used to relying on its awesomeness. At first I panicked because I’ve been using the Location History feature to log my location for the past 3 years. Thankfully, that feature is spared the chop (well, for now at least).
-If you have also been using it to log your location then you’ll be glad to hear you can download your location history....</p>
-</section>
-<footer class=entry-footer>July 11, 2013&nbsp;·&nbsp;matt</footer>
-<a class=entry-link aria-label="post link to Create a giant map of everywhere you’ve been" href=https://mattburns.co.uk/blog/2013/07/11/create-a-giant-map-of-everywhere-youve-been/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>
