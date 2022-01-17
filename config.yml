@@ -57,10 +57,10 @@ menu:
           name: blog
           url: /blog/
           weight: 10
-        - identifier: travels
-          name: travels
-          url: /travels
-          weight: 20
+        # - identifier: travels
+        #   name: travels
+        #   url: /travels
+        #   weight: 20
         - identifier: search
           name: search
           url: /search/
