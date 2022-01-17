@@ -26,6 +26,7 @@ cover:
 1. [giventorock.com](https://giventorock.com)
 1. [idealvisaconsultancy.com](https://idealvisaconsultancy.com)
 1. [imexgf.com](https://imexgf.com)
+1. [kamienskie.info](https://kamienskie.info)
 1. [lamberthome.net](https://lamberthome.net)
 1. [lusomerap.com](https://lusomerap.com)
 1. [mkuhlmann.com](https://mkuhlmann.com)
