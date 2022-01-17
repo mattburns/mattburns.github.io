@@ -13,7 +13,14 @@ cover:
 
 [Enom has been down](https://twitter.com/mattburns_uk/status/1482791617501220866) for almost 2 days. I thought it might be handy to compile a list of domains known to be affected by the issue. Please let me know if you want yours added to the list...
 
-1. https://oddprints.com/
-1. https://www.ufosightingsdaily.com/
-1. http://imexgf.com/
-1. http://giventorock.com/
+1. angelakulig.com
+1. apsynergy.com
+1. coastertouring.com
+1. giventorock.com
+1. imexgf.com
+1. lamberthome.net
+1. lusomerap.com
+1. oddprints.com
+1. ufosightingsdaily.com
+1. schlechter.net
+1. themoviewaffler.com
