@@ -29,6 +29,7 @@ cover:
 1. [newmyroyals.com](https://newmyroyals.com)
 1. [oddprints.com](https://oddprints.com)
 1. [rmeqsales.com](https://rmeqsales.com)
+1. [savetaxmoney.org](https://savetaxmoney.org)
 1. [schlechter.net](https://schlechter.net)
 1. [signal-fire.com](https://signal-fire.com)
 1. [speciesrace.com](https://speciesrace.com)
