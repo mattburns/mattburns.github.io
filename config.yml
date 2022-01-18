@@ -7,6 +7,7 @@ minify:
     minifyOutput: true
 
 disqusShortname: mattburnsblog
+googleAnalytics: UA-3929681-1
 
 assets:
     favicon: "/favicon.ico"
