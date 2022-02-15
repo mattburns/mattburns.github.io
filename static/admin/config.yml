@@ -5,16 +5,22 @@ backend:
 
 media_folder: static/img
 public_folder: /img
+
 collections:
   - name: 'blog'
     label: 'Blog'
     folder: 'content/blog'
     create: true
-    slug: '{{year}}/{{month}}/{{day}}/{{slug}}'
+    slug: '{{slug}}'
     editor:
-      preview: false
+      preview: true
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+        - { label: 'Title', name: 'title', widget: 'string' }
+        - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+        - { label: 'Author', name: 'author', widget: 'string', required: false }
+        - { label: "Featured Image", name: "banner", widget: "image", required: true}
+        - { label: 'Layout', name: 'layout', widget: 'string', required: true, default: 'blogpost' }
+        - { label: 'Body', name: 'body', widget: 'markdown' }
