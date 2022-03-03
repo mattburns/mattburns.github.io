@@ -17,7 +17,7 @@ Are you looking for _the right sunshade_ for your car? Well, let's get something
 
 ### _DON'T TRUST A WORD I'M SAYING_
 
-Seriously, you shouldn't trust me, I am so biased and conflicted that everything below should be treated like an advert. I'm freinds with a product designer that made one of the products this blog post is about and I'm even planning on investing in his business I'm such a fan of it. I've not said which one it is, but the picture shows one of the product already onrolled and looking awesome so that's probably a good bet that this isn't a fair comparison off the bat. So yeah, this blog post is nowhere near impartial. Feel free to go back to your Google search for someone more neutral like I'm sure all the other reviewers are.
+Seriously, you shouldn't trust me, I am so biased and conflicted that everything below should be treated like an advert. I'm freinds with a product designer that made one of the products this blog post is about. I've not said which one it is, but the picture above shows one of the products already unrolled and looking awesome so that's probably a good bet that this isn't a fair comparison off the bat. So yeah, this blog post is nowhere near impartial. Feel free to go back to your Google search for someone more neutral like I'm sure all the other reviewers are.
 
 Having said all that, I will do my best to be honest in this comparison, I'm just saying you shouldn't believe a word of it.
 
