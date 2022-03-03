@@ -193,7 +193,7 @@ I had to tweak the source from this project on github.</description>
 matt$ ls -l /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK 8 lrwxr-xr-x 1 root wheel 59 21 Nov 14:43 /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK -&amp;gt; /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents The do this:
 sudo rm /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK sudo ln -s /Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/ /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK If it’s not already, set JAVA_HOME accordingly in your ~/.bash_profile:
 export JAVA_HOME=/System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK/Home Test it worked:
-matt$ java -version java version &amp;quot;1.7.0_51&amp;quot; Java(TM) SE Runtime Environment (build 1.7.0_51-b13) Java HotSpot(TM) 64-Bit Server VM (build 24.</description>
+matt$ java -version java version &amp;#34;1.7.0_51&amp;#34; Java(TM) SE Runtime Environment (build 1.7.0_51-b13) Java HotSpot(TM) 64-Bit Server VM (build 24.</description>
     </item>
     
     <item>
@@ -213,7 +213,7 @@ Open up your keyboard settings and pick “Layout Settings”:</description>
       <pubDate>Tue, 18 Feb 2014 12:11:17 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2014/02/18/how-to-install-r-on-osx/</guid>
-      <description>Install Homebrew (if needed) ruby -e &amp;quot;$(curl -fsSL \ https://raw.github.com/Homebrew/homebrew/go/install)&amp;quot; Install R brew tap homebrew/science brew install r </description>
+      <description>Install Homebrew (if needed) ruby -e &amp;#34;$(curl -fsSL \ https://raw.github.com/Homebrew/homebrew/go/install)&amp;#34; Install R brew tap homebrew/science brew install r </description>
     </item>
     
     <item>
@@ -374,7 +374,7 @@ Great. Sounds fun, let’s try it:</description>
       
       <guid>https://mattburns.co.uk/blog/2012/07/11/passing-your-credentials-in-order-to-deploy-to-google-app-engine-with-ant/</guid>
       <description>If you use the example ant script provided by Google you’ll face the following error:
-Your authentication credentials can&#39;t be found and may have expired. Please run appcfg directly from the command line to re-establish your credentials. Sure, you can run appcfg.sh from the console, and login and all will be fine next time. Well, for 24 hours before your credentials are booted from the cache.
+Your authentication credentials can&amp;#39;t be found and may have expired. Please run appcfg directly from the command line to re-establish your credentials. Sure, you can run appcfg.sh from the console, and login and all will be fine next time. Well, for 24 hours before your credentials are booted from the cache.
 Here’s my ant target that does the same thing but takes the credentials interactively using the input task.</description>
     </item>
     
@@ -520,7 +520,7 @@ The thing is we had also been recommended some other temples in Kyoto and tomorr
       
       <guid>https://mattburns.co.uk/blog/2011/10/28/bug-with-jquery-validation-error-messages-showing-tooltip-text/</guid>
       <description>I had the following html in my form:
-&amp;lt;label for=&amp;quot;email-input&amp;quot;&amp;gt;Email&amp;lt;/label&amp;gt; &amp;amp;lt;input id=&amp;quot;email-input&amp;quot; type=&amp;quot;text&amp;quot; title=&amp;quot;Don&#39;t worry, your email will not be displayed on the website or given to anyone else. We hate spam too.&amp;quot; /&amp;gt; Nothing complicated there I hope.
+&amp;lt;label for=&amp;#34;email-input&amp;#34;&amp;gt;Email&amp;lt;/label&amp;gt; &amp;amp;lt;input id=&amp;#34;email-input&amp;#34; type=&amp;#34;text&amp;#34; title=&amp;#34;Don&amp;#39;t worry, your email will not be displayed on the website or given to anyone else. We hate spam too.&amp;#34; /&amp;gt; Nothing complicated there I hope.
 I had the help text set in the title attribute of the input which I styled with the lovely qTip to make it look nice. I validated my entry using the jQuery validation plugin which also works well.</description>
     </item>
     
@@ -1688,7 +1688,7 @@ Luckily our guys at Palm Garden Lodge were awake and sent Mr. Long to meet us in
       <guid>https://mattburns.co.uk/blog/2011/04/22/how-to-update-the-lastmod-date-in-your-sitemap-xml-with-ant/</guid>
       <description>Hmm, you want to add the “lastmod” node, but you’re too lazy to ever keep that up to date so you decide to update it with your Ant script whenever you deploy. Easy.
 So you’ve just written a valid sitemap.xml file for your website because Google said it was a good idea. Great.
-&amp;amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot; standalone=&amp;quot;no&amp;quot;?&amp;amp;gt; &amp;amp;lt;urlset xmlns=&amp;quot;http://www.sitemaps.org/schemas/sitemap/0.9&amp;quot;&amp;amp;gt; &amp;amp;lt;url&amp;amp;gt; &amp;amp;lt;loc&amp;amp;gt;http://www.stolencamerafinder.com/&amp;amp;lt;/loc&amp;amp;gt; &amp;amp;lt;lastmod&amp;amp;gt;2011-04-21&amp;amp;lt;/lastmod&amp;amp;gt; &amp;amp;lt;changefreq&amp;amp;gt;weekly&amp;amp;lt;/changefreq&amp;amp;gt; &amp;amp;lt;/url&amp;amp;gt; &amp;amp;lt;/urlset&amp;amp;gt; First, you’ll need the jar for a third-party Ant task called XMLTask.</description>
+&amp;amp;lt;?xml version=&amp;#34;1.0&amp;#34; encoding=&amp;#34;UTF-8&amp;#34; standalone=&amp;#34;no&amp;#34;?&amp;amp;gt; &amp;amp;lt;urlset xmlns=&amp;#34;http://www.sitemaps.org/schemas/sitemap/0.9&amp;#34;&amp;amp;gt; &amp;amp;lt;url&amp;amp;gt; &amp;amp;lt;loc&amp;amp;gt;http://www.stolencamerafinder.com/&amp;amp;lt;/loc&amp;amp;gt; &amp;amp;lt;lastmod&amp;amp;gt;2011-04-21&amp;amp;lt;/lastmod&amp;amp;gt; &amp;amp;lt;changefreq&amp;amp;gt;weekly&amp;amp;lt;/changefreq&amp;amp;gt; &amp;amp;lt;/url&amp;amp;gt; &amp;amp;lt;/urlset&amp;amp;gt; First, you’ll need the jar for a third-party Ant task called XMLTask.</description>
     </item>
     
     <item>
