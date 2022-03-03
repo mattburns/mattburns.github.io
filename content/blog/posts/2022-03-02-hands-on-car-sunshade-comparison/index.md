@@ -17,7 +17,7 @@ Are you looking for _the right sunshade_ for your car? Well, let's get something
 
 ### _DON'T TRUST A WORD I'M SAYING_
 
-Seriously, you shouldn't trust me, I am so biased and conflicted that everything below should be treated like an advert. I'm freinds with a product designer that made one of the products this blog post is about. I've not said which one it is, but the picture above shows one of the products already unrolled and looking awesome so that's probably a good bet that this isn't a fair comparison off the bat. So yeah, this blog post is nowhere near impartial. Feel free to go back to your Google search for someone more neutral like I'm sure all the other reviewers are.
+Seriously, you shouldn't trust me, I am so biased and conflicted that everything below should be treated like an advert. I'm friends with a product designer that made one of the products this blog post is about. I've not said which one it is, but the picture above shows one of the products already unrolled and looking awesome so that's probably a good bet that this isn't a fair comparison off the bat. So yeah, this blog post is nowhere near impartial. Feel free to go back to your Google search for someone more neutral like I'm sure all the other reviewers are.
 
 Having said all that, I will do my best to be honest in this comparison, I'm just saying you shouldn't believe a word of it.
 
@@ -25,7 +25,7 @@ Having said all that, I will do my best to be honest in this comparison, I'm jus
 
 Right, well first off, there are various styles of sunshade design that share common features. Thinking about which features you care about can save you some time.
 
-| **Style** | **Description** | [**Openable windows?**](#openable-windows) | [**Kid-proof**](#kid-proof) | [**Simple**](#simple) | [**Re-positionable**](#re-positionable) | [**Clean**](#clean) | [**Secure**](#secure) |
+| **Style** | **Description** | [**Openable windows?**](#openable-windows) | [**Kid-proof**](#kid-proof) | [**Simple**](#simple) | [**Repositionable**](#repositionable) | [**Clean**](#clean) | [**Secure**](#secure) |
 |---|---|---|---|---|---|---|---|
 | **Adhesive** | Vinyl that sticks to the glass, and thin enough to stay on glass inside the door | ✅ | ✅ | ✅ | once or twice | ✅ | ✅ |
 | **Static cling** | Relies on static to cling to window.  | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ |
@@ -50,13 +50,13 @@ Are the shades easily ripped off by cheeky toddlers (/little monsters)? Luckily,
 
 How simple is the design? Is it fiddly to operate? Does it have moving parts that are liable to break? Does it look good on the inside _and_ the outside?
 
-### Re-positionable
+### Repositionable
 
 Can the sunshade be easily uninstalled and reinstalled?
 
 ### Clean
 
-Does the sunshade make cleaning the car more diffficult? Does the sunshade become a thing that itself needs cleaning?
+Does the sunshade make cleaning the car more difficult? Does the sunshade become a thing that itself needs cleaning?
 
 ### Secure
 
@@ -68,7 +68,7 @@ Worse still, will it go flying out the window when you accidentally open the win
 
 These are the shades we bought for this review. We tried to find the most popular products across the various design types.
 
-| **Name** | **Price** | **Type** | [**Openable windows?**](#openable-windows) | [**Kid-proof**](#kid-proof) | [**Simple**](#simple) | [**Re-positionable**](#re-positionable) | [**Clean**](#clean) | [**Secure**](#secure) |
+| **Name** | **Price** | **Type** | [**Openable windows?**](#openable-windows) | [**Kid-proof**](#kid-proof) | [**Simple**](#simple) | [**Repositionable**](#repositionable) | [**Clean**](#clean) | [**Secure**](#secure) |
 |---|---|---|---|---|---|---|---|---|
 | **[Shady](https://www.printelligently.com/shady)** | £14.99 | [Adhesive](#design-styles) | ✅ | ✅ | ✅ | once or twice ? | ✅ | ✅ |
 | **[Kinder Fluff](https://smile.amazon.co.uk/Possible-Protection-2-Transparent-Semi-Transparent-Sunshades/dp/B00ZOKJVAG)** | £14.86* | [Static cling](#design-styles) | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
@@ -108,7 +108,7 @@ Identical in operation, they hook onto some provided suckers you stick to the wi
 
 £15.59 - each (!)
 
-UPPAbaby is a popular brand and have some decent products so I had high expectations for this product. It appears they have attempted to focus on maximum window coverage, or perhaps on strange window shapes? I'm not sure. It should also be commended for being different to most of the others. Unfortunately, that's where the praise ends. I found this to be the most fiddly and generaly ugly design under review. I generally felt worried I would rip the material, but I was quite rough with it and it survived so maybe that's unfair. It's the only product that contained a single shade. This makes this option the most expensive by far.
+UPPAbaby is a popular brand and has some decent products so I had high expectations for this product. It appears they have attempted to focus on maximum window coverage, or perhaps on strange window shapes? I'm not sure. It should also be commended for being different to most of the others. Unfortunately, that's where the praise ends. I found this to be the most fiddly and generally ugly design under review. I generally felt worried I would rip the material, but I was quite rough with it and it survived so maybe that's unfair. It's the only product that contained a single shade. This makes this option the most expensive by far.
 
 ### JoJo Maman Bébé
 
@@ -127,7 +127,7 @@ JoJo Maman Bébé is another popular brand known for high quality clothing. This
 
 £14.99 - [Shady](https://www.printelligently.com/shady)
 
-The Shady has the simplest design and ticks the most boxes. The bold design looks great and get's the thumbs up from my kids. From the outside of the car it's almost invisible. The deal-breaker for me was being able to open the windows. Game-changer!
+The Shady has the simplest design and ticks the most boxes. The bold design looks great and gets the thumbs up from my kids. From the outside of the car it's almost invisible. The deal-breaker for me was being able to open the windows. Game-changer!
 
 ### Best budget - [JoJo Maman Bébé](https://www.jojomamanbebe.co.uk/2pack-popup-car-sunshades-e7552.html)
 
