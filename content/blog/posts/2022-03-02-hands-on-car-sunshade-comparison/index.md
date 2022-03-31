@@ -70,7 +70,7 @@ These are the shades we bought for this review. We tried to find the most popula
 
 | **Name** | **Price** | **Type** | [**Openable windows?**](#openable-windows) | [**Kid-proof**](#kid-proof) | [**Simple**](#simple) | [**Repositionable**](#repositionable) | [**Clean**](#clean) | [**Secure**](#secure) |
 |---|---|---|---|---|---|---|---|---|
-| **[Shady](https://www.printelligently.com/shady)** | £14.99 | [Adhesive](#design-styles) | ✅ | ✅ | ✅ | once or twice ? | ✅ | ✅ |
+| **[Shady](https://sunshady.co.uk/)** | £14.99 | [Adhesive](#design-styles) | ✅ | ✅ | ✅ | once or twice ? | ✅ | ✅ |
 | **[Kinder Fluff](https://smile.amazon.co.uk/Possible-Protection-2-Transparent-Semi-Transparent-Sunshades/dp/B00ZOKJVAG)** | £14.86* | [Static cling](#design-styles) | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
 | **[Enovoe](https://smile.amazon.co.uk/Car-Sun-Shades-Kids-Pack/dp/B00KL3ALGO)** | £9.97 | [Static cling](#design-styles) | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ |
 | **[Halfords](https://www.halfords.com/baby-and-child/car-seat-travel-accessories/sunshades-blinds/halfords-roller-sunshades-cloud-x2-264579.html)** | £10.80 | [Roller](#design-styles) | Partial | ❌ | fair | ✅ | ✅ | ✅ |
@@ -88,7 +88,7 @@ These are the shades we bought for this review. We tried to find the most popula
 
 ![Shady](shady.jpg)
 
-£14.99 - [Shady](https://www.printelligently.com/shady)
+£14.99 - [Shady](https://sunshady.co.uk/)
 
 This adhesive vinyl sunshade sticks directly to the glass like a sticker. The material is a thick plastic material that feels tough and durable, but is still thin enough to allow the window to open. The material itself is actually opaque but has perforations which allows some light through. The effect is that when inside the car you can still see outside but 86% of the UV rays have been blocked.
 
@@ -121,11 +121,11 @@ JoJo Maman Bébé is another popular brand known for high quality clothing. This
 
 # Conclusion
 
-### Best overall - [Shady](https://www.printelligently.com/shady)
+### Best overall - [Shady](https://sunshady.co.uk/)
 
 ![Shady quality](shady-quality.jpg)
 
-£14.99 - [Shady](https://www.printelligently.com/shady)
+£14.99 - [Shady](https://sunshady.co.uk/)
 
 The Shady has the simplest design and ticks the most boxes. The bold design looks great and gets the thumbs up from my kids. From the outside of the car it's almost invisible. The deal-breaker for me was being able to open the windows. Game-changer!
 
