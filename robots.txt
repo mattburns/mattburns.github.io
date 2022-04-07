@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mattburns.co.uk/sitemap.xml
