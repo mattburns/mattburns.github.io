@@ -6,7 +6,6 @@ minify:
     disableXML: true
     minifyOutput: true
 
-enableRobotsTXT: true
 disqusShortname: mattburnsblog
 googleAnalytics: UA-3929681-1
 
