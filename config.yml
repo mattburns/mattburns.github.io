@@ -29,7 +29,8 @@ params:
     env: production
     comments: true
     description: "Personal homepage for Matt Burns, a UK-based entrepreneur and generally terrible author of website descriptions"
-    showPostNavLinks: true
+    ShowPostNavLinks: true
+    ShowReadingTime: true
     ShowShareButtons: true
     profileMode:
         enabled: true
