@@ -22,6 +22,9 @@ outputs:
         - RSS
         - JSON # is necessary
 
+permalinks:
+    blog: "/blog/:year/:month/:day/:title"
+
 params:
     env: production
     comments: true

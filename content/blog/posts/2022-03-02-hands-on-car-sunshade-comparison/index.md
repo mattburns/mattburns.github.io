@@ -7,6 +7,8 @@ cover:
   image: sunshades.jpg
 ShowToc: true
 TocOpen: true
+aliases:
+    - /blog/posts/2022-03-02-hands-on-car-sunshade-comparison/
 
 ---
 

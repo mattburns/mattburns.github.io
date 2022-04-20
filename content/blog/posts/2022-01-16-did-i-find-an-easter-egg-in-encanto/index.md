@@ -3,7 +3,6 @@ title: Did I find an easter egg in Encanto?
 author: matt
 type: post
 date: 2022-01-16T20:50:00+00:00
-url: /blog/2022/01/16/did-i-find-an-easter-egg-in-encanto/
 categories:
   - Uncategorized
 cover:
