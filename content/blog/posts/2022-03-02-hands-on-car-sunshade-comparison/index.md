@@ -3,6 +3,7 @@ title: "Hands-on Car Sunshade Comparison 2022"
 author: matt
 type: post
 date: 2022-03-02T22:24:55Z
+lastmod: 2022-04-20T14:24:55Z
 cover:
   image: sunshades.jpg
 ShowToc: true
@@ -25,7 +26,7 @@ Having said all that, I will do my best to be honest in this comparison, I'm jus
 
 ### Design styles
 
-Right, well first off, there are various styles of sunshade design that share common features. Thinking about which features you care about can save you some time.
+Right, well first off, there are various styles of car blind / sun shade design that share common features. Thinking about which features you care about can save you some time.
 
 | **Style** | **Description** | [**Openable windows?**](#openable-windows) | [**Kid-proof**](#kid-proof) | [**Simple**](#simple) | [**Repositionable**](#repositionable) | [**Clean**](#clean) | [**Secure**](#secure) |
 |---|---|---|---|---|---|---|---|
