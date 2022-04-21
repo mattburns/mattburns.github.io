@@ -10,7 +10,7 @@ The [demo](https://adityatelange.github.io/hugo-PaperMod/) includes a lot of doc
 
 **ExampleSite** can be found here: [exampleSite](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite). Demo is built up with [exampleSite](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite) as source.
 
-[![Minimum Hugo Version](https://img.shields.io/static/v1?label=min-HUGO-version&message=0.82.0&color=blue&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.82.0)
+[![Minimum Hugo Version](https://img.shields.io/static/v1?label=min-HUGO-version&message=0.83.0&color=blue&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.83.0)
 [![Build GH-Pages](https://github.com/adityatelange/hugo-PaperMod/workflows/Build%20GH-Pages/badge.svg)](https://github.com/adityatelange/hugo-PaperMod/deployments/activity_log?environment=github-pages)
 [![GitHub](https://img.shields.io/github/license/adityatelange/hugo-PaperMod)](https://github.com/adityatelange/hugo-PaperMod/blob/master/LICENSE)
 [![hugo-papermod](https://img.shields.io/badge/Hugo--Themes-@PaperMod-blue)](https://themes.gohugo.io/themes/hugo-papermod/)
@@ -71,13 +71,13 @@ Read Wiki For More Details => **[PaperMod-FAQs](https://github.com/adityatelange
 
 ---
 
-## Release Changelog
+## Release Changelog 📃
 
 Release ChangeLog has info about stuff added: **[Releases](https://github.com/adityatelange/hugo-PaperMod/releases)**
 
 ---
 
-## [LightHouse Report (100% ?)](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fadityatelange.github.io%2Fhugo-PaperMod%2F)
+## [Pagespeed Insights (100% ?)](https://pagespeed.web.dev/report?url=https://adityatelange.github.io/hugo-PaperMod/) 👀
 
 ---
 
@@ -88,3 +88,8 @@ Release ChangeLog has info about stuff added: **[Releases](https://github.com/ad
 -   [**Feather Icons**](https://github.com/feathericons/feather)
 -   [**Simple Icons**](https://github.com/simple-icons/simple-icons)
 -   **All Contributors and Supporters**
+
+## Stargazers over time 📈
+
+<kbd>[![Stargazers over time](https://starchart.cc/adityatelange/hugo-PaperMod.svg)](https://starchart.cc/adityatelange/hugo-PaperMod)</kbd>
+
