@@ -34,7 +34,7 @@ Showing my age there.</description>
       
       <guid>https://mattburns.co.uk/blog/2010/04/07/listeners-and-events/</guid>
       <description>There are 8 Listeners to remember. We know there are attributes in 4 scopes because we know how to Pick the Right Scope Automatically, but you can’t listen to Page attributes, it doesn’t make sense, so that leaves us with RSA; Request, Session and Application. These tally with the objects:
- ServletRequest HttpSession ServletContext  There is a Listener for each of these objects for lifecycle events, and for attribute events, so that gives us 6 of the Listener Interfaces:</description>
+ServletRequest HttpSession ServletContext There is a Listener for each of these objects for lifecycle events, and for attribute events, so that gives us 6 of the Listener Interfaces:</description>
     </item>
     
     <item>
@@ -45,9 +45,9 @@ Showing my age there.</description>
       <guid>https://mattburns.co.uk/blog/2010/04/07/11-el-implicit-variables/</guid>
       <description>All the EL implicit variables are Maps except for pageContext.
 To remember the attribute-holding scope objects, just remember to Pick the Right Scope Automatically and stick the word “Scope” on the end:
- pageScope requestScope sessionScope applicationScope  Then you have 4 param and header objects of the form : (param|header)[Values]
- param paramValues header headerValues  Then I just remember the last 3:
- cookie initParam pageContext (not a Map, it’s the JavaBean)  </description>
+pageScope requestScope sessionScope applicationScope Then you have 4 param and header objects of the form : (param|header)[Values]
+param paramValues header headerValues Then I just remember the last 3:
+cookie initParam pageContext (not a Map, it’s the JavaBean) </description>
     </item>
     
     <item>
@@ -67,8 +67,7 @@ Whereas Servlet params are “in-it”:</description>
       
       <guid>https://mattburns.co.uk/blog/2010/04/07/direct-a-film-about-petal-ink/</guid>
       <description>I’ve made a timelapse film of some daffodils blossoming but I really should do another one of a rose with its stem split into two different bottles of ink.
-Not a very interesting post, it’s just another think I need top remember from this book for my exam. 
-Direct a film about PeTaL INk
+Not a very interesting post, it’s just another think I need top remember from this book for my exam. Direct a film about PeTaL INk
 Boils down to:
 Jsp Directives are Page, Taglib and Include</description>
     </item>

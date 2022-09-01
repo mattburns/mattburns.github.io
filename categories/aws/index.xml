@@ -16,8 +16,8 @@
       <description>First you must go to your account settings and grant access to IAM users: https://console.aws.amazon.com/billing/home#/account
 Click “edit”
 And “activate”
- Then you can go do all the policy group nonsense that every other google result will give you. Basically, just create a user and add them to a group with these policies:
- Bosh.</description>
+Then you can go do all the policy group nonsense that every other google result will give you. Basically, just create a user and add them to a group with these policies:
+Bosh.</description>
     </item>
     
   </channel>

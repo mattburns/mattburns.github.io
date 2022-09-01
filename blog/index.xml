@@ -6,7 +6,18 @@
     <description>Recent content in Blogs on Matt Burns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 20 Apr 2022 18:34:00 +0000</lastBuildDate><atom:link href="https://mattburns.co.uk/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Sep 2022 15:10:00 +0000</lastBuildDate><atom:link href="https://mattburns.co.uk/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Share Google Form outside organisation</title>
+      <link>https://mattburns.co.uk/blog/2022/09/01/share-google-form-outside-organisation/</link>
+      <pubDate>Thu, 01 Sep 2022 15:10:00 +0000</pubDate>
+      
+      <guid>https://mattburns.co.uk/blog/2022/09/01/share-google-form-outside-organisation/</guid>
+      <description>&amp;ldquo;This form can only be viewed by users in the owner&amp;rsquo;s organisation&amp;rdquo; Have you created a Google Form but was unable to share it outside your organisation? A whole bunch of help online will tell you there&amp;rsquo;s an option right under the &amp;ldquo;Responses&amp;rdquo;.
+What they really mean, is that it&amp;rsquo;s under Settings -&amp;gt; Responses
+I hope you didn&amp;rsquo;t tear out as much hair as me.</description>
+    </item>
+    
     <item>
       <title>Better tips for the Sony WF-1000XM4 earbuds?</title>
       <link>https://mattburns.co.uk/blog/2022/04/20/better-tips-for-the-sony-wf-1000xm4-earbuds/</link>
@@ -34,7 +45,7 @@ DON&amp;rsquo;T TRUST A WORD I&amp;rsquo;M SAYING Seriously, you shouldn&amp;rsq
       <guid>https://mattburns.co.uk/blog/2022/01/16/domains-affected-by-enom-outage/</guid>
       <description>Enom has been down for almost 2 days. I thought it might be handy to compile a list of domains known to be affected by the issue. Please let me know if you want yours added to the list&amp;hellip;
 UPDATE: DNS settings appear to be restored and propagating around the various DNS servers. Still can&amp;rsquo;t access the Enom console though.
- alterrenovation.com andymassey.com angelakulig.com apsynergy.com argentuniverse.com camvision.fr capitalsigma.biz cetbcn.com christianlady.com christianman.</description>
+alterrenovation.com andymassey.com angelakulig.com apsynergy.com argentuniverse.com camvision.fr capitalsigma.biz cetbcn.com christianlady.com christianman.com clarkschool.</description>
     </item>
     
     <item>
@@ -64,7 +75,7 @@ Solution: In bottom-right, click the cog and change the quality from auto to a f
       
       <guid>https://mattburns.co.uk/blog/2016/04/13/cameron-hails-stoke-gifford-parish-council-as-most-forward-thinking-in-uk/</guid>
       <description>Stoke Gifford Parish Council voted last night in favour of charging parkrun for use of the local park for members of the public to use for free. The PM has applauded the decision saying that it signifies just the start of some great savings that can be made by government. In a statement last night he said:
- Councils across the country have huge bills for supplying services available for free universally to taxpayers.</description>
+Councils across the country have huge bills for supplying services available for free universally to taxpayers.</description>
     </item>
     
     <item>
@@ -99,8 +110,8 @@ Unfortunately, as much as I just wanted to cash the cheque and forget about it, 
       <description>First you must go to your account settings and grant access to IAM users: https://console.aws.amazon.com/billing/home#/account
 Click “edit”
 And “activate”
- Then you can go do all the policy group nonsense that every other google result will give you. Basically, just create a user and add them to a group with these policies:
- Bosh.</description>
+Then you can go do all the policy group nonsense that every other google result will give you. Basically, just create a user and add them to a group with these policies:
+Bosh.</description>
     </item>
     
     <item>
@@ -110,8 +121,8 @@ And “activate”
       
       <guid>https://mattburns.co.uk/blog/2015/05/29/how-to-compress-a-folder-of-mov-files/</guid>
       <description>Made a bunch of .movs using quicktime’s screen recording but they’re a bit big? ffmpeg’s default settings when converting to mp4 is a quick win
-for i in *.mov; do ffmpeg -i $i $i.mp4; done  Name them alphabetically and you can merge them all together:
-ffmpeg -f concat -i &amp;lt;(printf &amp;quot;file &#39;$PWD/%s&#39;\n&amp;quot; ./*.mp4) -c copy merged.mp4  </description>
+for i in *.mov; do ffmpeg -i $i $i.mp4; done Name them alphabetically and you can merge them all together:
+ffmpeg -f concat -i &amp;lt;(printf &amp;quot;file &#39;$PWD/%s&#39;\n&amp;quot; ./*.mp4) -c copy merged.mp4 </description>
     </item>
     
     <item>
@@ -142,11 +153,11 @@ I use the monitor’s USB hub to connect my keyboard and mouse. I then connect t
       
       <guid>https://mattburns.co.uk/blog/2015/03/31/how-to-fix-problem-when-tapiriik-not-syncing-dropbox-files/</guid>
       <description>My activities hadn’t been syncing to Dropbox for a while (since mid-November 2014).
- This activity was not synchronized to the following services:
+This activity was not synchronized to the following services:
 Dropbox: There was a problem indexing your activities on Dropbox, so no activities will be uploaded to Dropbox.
- Everything else was syncing fine (Strava, Endomondo, Garmin).
+Everything else was syncing fine (Strava, Endomondo, Garmin).
 A quick email to the author and everything is solved:
- If you look in your Dropbox folder there should be a number of files with .</description>
+If you look in your Dropbox folder there should be a number of files with .</description>
     </item>
     
     <item>
@@ -157,7 +168,7 @@ A quick email to the author and everything is solved:
       <guid>https://mattburns.co.uk/blog/2015/03/23/hemington-10k-2013-results/</guid>
       <description>Yes, that’s not a typo, these are the results from 2013.
 I’m just posting them here because I couldn’t find them on the internet. Managed to find a copy in my email though so thought I’d just post them here in case anyone else is interested:
-                Surname First Name Gender Race Category Race Number Finishing Time Position Position within Category Running Club   Ryman Paul M M 157 36.</description>
+Surname First Name Gender Race Category Race Number Finishing Time Position Position within Category Running Club Ryman Paul M M 157 36.48 1 1 Frome RC Sage Rich M M 114 38.</description>
     </item>
     
     <item>
@@ -181,7 +192,7 @@ In Google Apps domain manager, upload those files under “Security &amp;gt; sho
       
       <guid>https://mattburns.co.uk/blog/2015/01/15/garmin-forerunner-620-verses-the-205-the-good-the-bad-and-the-ugly/</guid>
       <description>I previously had the (very popular) forerunner 205 so this review will be based on comparing it to that. I bought the 205 when it came out in 2006 and it’s still going strong. I love tech though so decided to treat myself to an “upgrade”…
-The Good  Wifi and bluetooth data uploading. This is really handy. Saves getting the computer out. The live tracking is also good, but it requires you to take your phone on your run.</description>
+The Good Wifi and bluetooth data uploading. This is really handy. Saves getting the computer out. The live tracking is also good, but it requires you to take your phone on your run.</description>
     </item>
     
     <item>
@@ -224,7 +235,7 @@ I knew when I bought it that neither my late-2012 Retina Macbook Pro, or my Ubun
       <guid>https://mattburns.co.uk/blog/2014/07/10/how-to-download-chromecast-background-images/</guid>
       <description>Google’s friendly little chromecast has some great background images.
 If you want to download all of those images so you can have a nice high quality screen saver on your laptop/mobile etc. just do this:
-git clone -b patch-1 https://github.com/mattburns/chromecast-backgrounds.git cd chromecast-backgrounds/ npm install lodash q request nopt chalk node cli.js --download=images --size=1024 --load=backgrounds.json  Change the size from 1024 to whatever maximum size you want to download.
+git clone -b patch-1 https://github.com/mattburns/chromecast-backgrounds.git cd chromecast-backgrounds/ npm install lodash q request nopt chalk node cli.js --download=images --size=1024 --load=backgrounds.json Change the size from 1024 to whatever maximum size you want to download.
 I had to tweak the source from this project on github.</description>
     </item>
     
@@ -267,7 +278,8 @@ Open up your keyboard settings and pick “Layout Settings”:</description>
       <pubDate>Thu, 03 Oct 2013 09:26:41 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2013/10/03/customer1000/</guid>
-      <description>Before OddPrints… A short while ago I wanted to print some photos for a little frame (4x4cm). I don’t own a printer and so I wanted to get it printed online. However, the smallest size offered by most online labs is 4×6&amp;quot;. I’m a programmer and amateur photographer, if anyone should find this easy it should be me. How hard can it be?Somehow, I needed to resize and re-save my photo so that it had just the right border around the edge so that when the new image was printed at 4×6&amp;quot; my picture would be in the middle at exactly 4x4cm ready for me to cut out.</description>
+      <description>Before OddPrints… A short while ago I wanted to print some photos for a little frame (4x4cm). I don’t own a printer and so I wanted to get it printed online. However, the smallest size offered by most online labs is 4×6&amp;quot;. I’m a programmer and amateur photographer, if anyone should find this easy it should be me. How hard can it be?
+Somehow, I needed to resize and re-save my photo so that it had just the right border around the edge so that when the new image was printed at 4×6&amp;quot; my picture would be in the middle at exactly 4x4cm ready for me to cut out.</description>
     </item>
     
     <item>
@@ -279,7 +291,7 @@ Open up your keyboard settings and pick “Layout Settings”:</description>
       <description>We’ve all seen loading spinners and they generally look like this:
 Urgh.
 This is just an animated gif and has the following drawbacks:
- Limited to 256 colours Need to regenerate the image if you want a different colour. Framerate and resolution set when you create the image. (and increasing either will hurt load times). Playback is jerky until all frames are downloaded  Wouldn’t it be better to use some vector magic and hardware-accelerated loveliness to get a spinner like this:</description>
+Limited to 256 colours Need to regenerate the image if you want a different colour. Framerate and resolution set when you create the image. (and increasing either will hurt load times). Playback is jerky until all frames are downloaded Wouldn’t it be better to use some vector magic and hardware-accelerated loveliness to get a spinner like this:</description>
     </item>
     
     <item>
@@ -351,7 +363,8 @@ ssh-keygen -y -f yourkey.pem &amp;gt; yourkey.pub Then, in Secure Shell, select�
       <pubDate>Sat, 10 Nov 2012 12:13:41 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/11/10/importing-photos-from-a-canon-eos-camera-with-ubuntu-12-10/</guid>
-      <description>For some reason, when I try to connect my Canon EOS 7D in Linux I get this error:Unable to mount Canon Digital Camera Error initialising camera: -1: Unspecified error  I get no love from lsusb:
+      <description>For some reason, when I try to connect my Canon EOS 7D in Linux I get this error:
+Unable to mount Canon Digital Camera Error initialising camera: -1: Unspecified error I get no love from lsusb:
 matt@beast:~$ lsusb Bus 001 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub Bus 002 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.</description>
     </item>
     
@@ -373,8 +386,8 @@ By default, the only allowed shipping destination will be your country. If you w
       
       <guid>https://mattburns.co.uk/blog/2012/09/27/how-to-add-zero-padding-to-a-folder-full-of-numbered-files/</guid>
       <description>Have you got a folder of files that look like this?
-file_1.png file_2.png file_3.png file_10.png file_11.png file_12.png file_100.png  But what you really want this:
-file_001.png file_002.png file_003.png file_010.png file_011.png file_012.png file_100.png  Then, my linux-loving friend, run this:
+file_1.png file_2.png file_3.png file_10.png file_11.png file_12.png file_100.png But what you really want this:
+file_001.png file_002.png file_003.png file_010.png file_011.png file_012.png file_100.png Then, my linux-loving friend, run this:
 rename &#39;s/\d+/sprintf(&amp;quot;%03d&amp;quot;,$&amp;amp;)/e&#39; *.png </description>
     </item>
     
@@ -395,9 +408,9 @@ I’ve had quite a few requests for allowing PayPal so I’ve spent the last cou
       
       <guid>https://mattburns.co.uk/blog/2012/07/30/the-bristol-two-towers-running-challenge/</guid>
       <description>Fancy a running challenge around Bristol that’ll test your legs and your navigation? All you have to do is touch both Cabot Tower and Troopers Hill Tower (er, chimney) and finish where you started.
- Troopers Hill Tower
- Cabot Tower
-The rules are pretty simple:  You have to touch both Cabot Tower and Troopers Hill Tower. Any order. You must start and finish at the same place (of your choice).</description>
+Troopers Hill Tower
+Cabot Tower
+The rules are pretty simple: You have to touch both Cabot Tower and Troopers Hill Tower. Any order. You must start and finish at the same place (of your choice). No pausing of your watch (for traffic etc.</description>
     </item>
     
     <item>
@@ -408,7 +421,6 @@ The rules are pretty simple:  You have to touch both Cabot Tower and Troopers Hi
       <guid>https://mattburns.co.uk/blog/2012/07/12/how-to-install-google-voice/</guid>
       <description>Oh jeez, really? A blog post about doing something so easy? Well, yes because it took me about an hour of messing around and so if this helps save one person from the pain, then it’s worth writing. If you’re in a rush or already bored, jump to the short answer.
 If you use gmail, you may see the option in the Chat widget to “Call phone”:
-
 Great. Sounds fun, let’s try it:</description>
     </item>
     
@@ -430,7 +442,7 @@ Here’s my ant target that does the same thing but takes the credentials intera
       
       <guid>https://mattburns.co.uk/blog/2012/04/11/found-21-year-old-sarahs-camera-with-birthday-presents/</guid>
       <description>This is an appeal to anyone who may know a 21 year old Sarah (born April 6th, 1991) in Windsor, UK. Her camera and other precious items have been found and we want to get them back to her.
- Sarah a celebrated her 21st birthday on friday 6th april. she got picked up by a taxi in windsor on sat morning. a bag containing a pink floral photo album celebrating her life upto her 21st birthday, camera, scarf and other things were left.</description>
+Sarah a celebrated her 21st birthday on friday 6th april. she got picked up by a taxi in windsor on sat morning. a bag containing a pink floral photo album celebrating her life upto her 21st birthday, camera, scarf and other things were left.</description>
     </item>
     
     <item>
@@ -452,8 +464,8 @@ However, I didn’t think that was what the story was about.</description>
       
       <guid>https://mattburns.co.uk/blog/2012/03/03/my-first-parkrun/</guid>
       <description>Today I ran my first parkrun. If like me you’ve never heard of them:
- parkrun organise free, weekly, 5km timed runs around the world. They are open to everyone, free, and are safe and easy to take part in.
- Pretty simple really. You just register for free on the website for a personal barcode, print it out then turn up and race. You just register as a runner, not for individual races, it’s up to you which races you attend.</description>
+parkrun organise free, weekly, 5km timed runs around the world. They are open to everyone, free, and are safe and easy to take part in.
+Pretty simple really. You just register for free on the website for a personal barcode, print it out then turn up and race. You just register as a runner, not for individual races, it’s up to you which races you attend.</description>
     </item>
     
     <item>
@@ -484,7 +496,7 @@ I was just looking for a unit testing framework for some javascript I’m writin
       <guid>https://mattburns.co.uk/blog/2011/12/07/the-cheapest-way-to-get-a-samsung-galaxy-s2-in-the-uk/</guid>
       <description>If you’re a materialistic idiot like me, you’ll be interested in how you can get your hands on a disgustingly extravagant smartphone while parting with the least amount of cash possible.
 The best deal I found for the Galaxy S2 (by far) has been through Tesco:
- Free handset T-Mobile network 300 mins/300 texts 24 month contract Free delivery 500MB Data Booster + Unlimited Internet £20 of free apps available (through some T&amp;amp;Cs) £20.</description>
+Free handset T-Mobile network 300 mins/300 texts 24 month contract Free delivery 500MB Data Booster + Unlimited Internet £20 of free apps available (through some T&amp;amp;Cs) £20.</description>
     </item>
     
     <item>
@@ -516,7 +528,7 @@ I had the help text set in the title attribute of the input which I styled with 
       <guid>https://mattburns.co.uk/blog/2011/10/26/how-to-enable-offline-google-docs-for-google-apps-users/</guid>
       <description>Do you still not have the offline option for Google Docs?
 If you’re a Google Apps user, then your apps administrator has to enable it first:
- Log in to the Google Apps control panel at https://www.google.com/a/your_domain.com (replace _your_domain.com_with your actual domain name). From the menu bar at the top of the page, click Settings. In the left menu, click Docs. Select the Allow users to enable offline docs check box.</description>
+Log in to the Google Apps control panel at https://www.google.com/a/your_domain.com (replace _your_domain.com_with your actual domain name). From the menu bar at the top of the page, click Settings. In the left menu, click Docs. Select the Allow users to enable offline docs check box. Click Save changes.</description>
     </item>
     
     <item>
@@ -526,7 +538,7 @@ If you’re a Google Apps user, then your apps administrator has to enable it fi
       
       <guid>https://mattburns.co.uk/blog/2011/10/26/how-to-write-singletons-in-java/</guid>
       <description>Singletons get a pretty bad press. Often described as an “anti-pattern”. I think it’s a little unfair since I find them pretty useful in several situations. However, the reason they can be bad is important to understand:
- Making a class a singleton can make it difficult to test its clients, as it’s impossible to substitute a mock implementation for a singleton unless it implements an interface that serves as its type.</description>
+Making a class a singleton can make it difficult to test its clients, as it’s impossible to substitute a mock implementation for a singleton unless it implements an interface that serves as its type.</description>
     </item>
     
     <item>
@@ -536,11 +548,11 @@ If you’re a Google Apps user, then your apps administrator has to enable it fi
       
       <guid>https://mattburns.co.uk/blog/2011/10/07/how-to-dynamically-choose-the-color-of-you-google-maps-marker-pin-using-javascript/</guid>
       <description>You can dynamically request icon images from the Google charts api with the urls:
- http://chart.apis.google.com/chart?chst=d_map_pin_letter&amp;amp;chld=%E2%80%A2|FE7569
- Which looks like this:the image is 21×43 pixels and the pin tip is at position (10, 34)
+http://chart.apis.google.com/chart?chst=d_map_pin_letter&amp;amp;chld=%E2%80%A2|FE7569
+Which looks like this: the image is 21×43 pixels and the pin tip is at position (10, 34)
 And you’ll also want a separate shadow image (so that it doesn’t overlap nearby icons):
- http://chart.apis.google.com/chart?chst=d_map_pin_shadow
- Which looks like this:the image is 40×37 pixels and the pin tip is at position (12, 35)
+http://chart.apis.google.com/chart?chst=d_map_pin_shadow
+Which looks like this: the image is 40×37 pixels and the pin tip is at position (12, 35)
 When you construct your MarkerImages you need to set the size and achor points accordingly:</description>
     </item>
     
@@ -564,7 +576,7 @@ Don’t worry, just go ahead and click “Software Update” as there is the opt
       <description>If you know me, you’ll know I just got back from a year galavanting around the world. I was given a Sony e-book as a present which I took with me, and soon became an essential item.
 It’s already showing its age compared to newer models but I’m not buying a new one until e-book manufacturers start adding features I actually want.
 I don’t want:
- A colour screen. Why would I?</description>
+A colour screen. Why would I?</description>
     </item>
     
     <item>
@@ -594,8 +606,8 @@ If you want to query for the model directly in GQL (from the app engine dashboar
       
       <guid>https://mattburns.co.uk/blog/2011/06/14/tips-for-better-low-light-wedding-photos-with-an-canon-dslr/</guid>
       <description>I just got this in an email:
- A friend has asked me to take some of their wedding photos with their Canon 1000D. Had a play with it yesterday and I’m finding the flash a bit harsh. Is there a top tip to minimise this?
- Firstly, if you’re using the camera in the day near natural light, the camera will be fine and it’s all down to your artistic flair.</description>
+A friend has asked me to take some of their wedding photos with their Canon 1000D. Had a play with it yesterday and I’m finding the flash a bit harsh. Is there a top tip to minimise this?
+Firstly, if you’re using the camera in the day near natural light, the camera will be fine and it’s all down to your artistic flair.</description>
     </item>
     
     <item>
@@ -638,7 +650,7 @@ Bye.</description>
       <guid>https://mattburns.co.uk/blog/2011/04/08/how-to-stop-google-chrome-using-your-location-when-searching/</guid>
       <description>When you use Chrome’s omnibar to search, Chrome will redirect you to search results based on when you are geographically. This is great when I’m at home because I see (more relevant) results from google.co.uk and not google.com.
 However, I’m travelling at the moment and getting my results from google.co.th is painful since most of the results are not in english.
- Close Chrome. Open the file Local State in notepad.</description>
+Close Chrome. Open the file Local State in notepad. Mine was in: C:\Users\matt\AppData\Local\Google\Chrome\User Data\Local State.</description>
     </item>
     
     <item>
@@ -672,7 +684,7 @@ Must try harder…</description>
       <guid>https://mattburns.co.uk/blog/2010/07/01/how-to-rotate-with-gwtcanvas/</guid>
       <description>Having trouble rotating something you’ve drawn with GWTCanvas?
 It took me a little while to work out, but GWTCanvas works slightly differently to Graphic2D in Java. It’s important to realise that with GWTCanvas, when you invoke “rotate(r)” you’re actually transforming the coordinate space that will be used for subsequent drawing.
-canvas.moveTo(50, 50); canvas.lineTo(50, 10); canvas.stroke();  Produces:
+canvas.moveTo(50, 50); canvas.lineTo(50, 10); canvas.stroke(); Produces:
 In order to rotate it, you must invoke rotate before you start any drawing.</description>
     </item>
     
@@ -693,8 +705,8 @@ Lou talked about recently teaching his nephew how to ask a girl out. His advice 
       
       <guid>https://mattburns.co.uk/blog/2010/05/22/buying-your-first-slr/</guid>
       <description>I get asked the following question quite a lot:
- I want to buy an SLR, what one shall I get?
- In my software engineering life, clients often approach me with a description of software they want me to write. What you really want is for them to describe the problems they are having that need to be solved. That way you might be able to design a better (simpler) solution.</description>
+I want to buy an SLR, what one shall I get?
+In my software engineering life, clients often approach me with a description of software they want me to write. What you really want is for them to describe the problems they are having that need to be solved. That way you might be able to design a better (simpler) solution. I’m sure it applies to every discipline, but a simple method for finding out the root problem is to just ask Why?</description>
     </item>
     
     <item>
@@ -745,7 +757,7 @@ Showing my age there.</description>
       
       <guid>https://mattburns.co.uk/blog/2010/04/07/listeners-and-events/</guid>
       <description>There are 8 Listeners to remember. We know there are attributes in 4 scopes because we know how to Pick the Right Scope Automatically, but you can’t listen to Page attributes, it doesn’t make sense, so that leaves us with RSA; Request, Session and Application. These tally with the objects:
- ServletRequest HttpSession ServletContext  There is a Listener for each of these objects for lifecycle events, and for attribute events, so that gives us 6 of the Listener Interfaces:</description>
+ServletRequest HttpSession ServletContext There is a Listener for each of these objects for lifecycle events, and for attribute events, so that gives us 6 of the Listener Interfaces:</description>
     </item>
     
     <item>
@@ -756,9 +768,9 @@ Showing my age there.</description>
       <guid>https://mattburns.co.uk/blog/2010/04/07/11-el-implicit-variables/</guid>
       <description>All the EL implicit variables are Maps except for pageContext.
 To remember the attribute-holding scope objects, just remember to Pick the Right Scope Automatically and stick the word “Scope” on the end:
- pageScope requestScope sessionScope applicationScope  Then you have 4 param and header objects of the form : (param|header)[Values]
- param paramValues header headerValues  Then I just remember the last 3:
- cookie initParam pageContext (not a Map, it’s the JavaBean)  </description>
+pageScope requestScope sessionScope applicationScope Then you have 4 param and header objects of the form : (param|header)[Values]
+param paramValues header headerValues Then I just remember the last 3:
+cookie initParam pageContext (not a Map, it’s the JavaBean) </description>
     </item>
     
     <item>
@@ -778,8 +790,7 @@ Whereas Servlet params are “in-it”:</description>
       
       <guid>https://mattburns.co.uk/blog/2010/04/07/direct-a-film-about-petal-ink/</guid>
       <description>I’ve made a timelapse film of some daffodils blossoming but I really should do another one of a rose with its stem split into two different bottles of ink.
-Not a very interesting post, it’s just another think I need top remember from this book for my exam. 
-Direct a film about PeTaL INk
+Not a very interesting post, it’s just another think I need top remember from this book for my exam. Direct a film about PeTaL INk
 Boils down to:
 Jsp Directives are Page, Taglib and Include</description>
     </item>
@@ -854,7 +865,8 @@ I made a small video (640×480 50fps) on my 7D and wanted to slap it on youtube.
       <guid>https://mattburns.co.uk/blog/2010/01/12/software-company-locator/</guid>
       <description>Looking software companies are near you? Looking to switch jobs or perhaps your company is looking for a local consultancy to collaborate on that big contract?
 I helped Dan make this map as a quick way to find those companies:
-Larger version.We’d love it if you could contribute updates. Just log in with your Google account and click the “edit” button on the left.</description>
+Larger version.
+We’d love it if you could contribute updates. Just log in with your Google account and click the “edit” button on the left.</description>
     </item>
     
     <item>
@@ -919,7 +931,7 @@ You’d be a fool not to try it 🙂</description>
       
       <guid>https://mattburns.co.uk/blog/2009/03/31/whats-the-best-sim-only-mobile-contract-in-the-uk/</guid>
       <description>OK, I know, it’s a bit of a silly question because everyone has different needs, but these are mine:
- 1 month rolling contract — I don’t want to be stuck with the contract for 12 months Keep my number — I rummaged through the boxes in a BTCellnet shop years ago to get my number and I’m going to keep it Unlimited internet — Well, a fair usage of at least 1GB, and I don’t want to get charged if I go over, I just want a warning Some free minutes — To all networks of course Some free texts £25 per month or less  So far, the best I’ve found is the solo-20 plan at T-Mobile:</description>
+1 month rolling contract — I don’t want to be stuck with the contract for 12 months Keep my number — I rummaged through the boxes in a BTCellnet shop years ago to get my number and I’m going to keep it Unlimited internet — Well, a fair usage of at least 1GB, and I don’t want to get charged if I go over, I just want a warning Some free minutes — To all networks of course Some free texts £25 per month or less So far, the best I’ve found is the solo-20 plan at T-Mobile:</description>
     </item>
     
     <item>
@@ -942,7 +954,7 @@ My filling knife however was caked in gunk after a few years of not being cleane
       <guid>https://mattburns.co.uk/blog/2009/01/22/voucher-codes-and-promo-wotsits/</guid>
       <description>It’s 2009! Our digital lives are a breeze and online shopping is just one more option to the newly empowered consumer. Right?
 I’m sure I’m not alone in finding the process of buying anything a little tedious now:
- See something in the shop you like Decide not to buy it because you don’t know if that’s a good price You get home and look on the internet Now you have to poke around a few websites and try to work out which is cheapest when you consider postage and tax etc.</description>
+See something in the shop you like Decide not to buy it because you don’t know if that’s a good price You get home and look on the internet Now you have to poke around a few websites and try to work out which is cheapest when you consider postage and tax etc.</description>
     </item>
     
     <item>
@@ -953,8 +965,8 @@ I’m sure I’m not alone in finding the process of buying anything a little te
       <guid>https://mattburns.co.uk/blog/2008/11/28/audio-stalking/</guid>
       <description>I’m just writting this as a holding place for funny things I overhear. Little bits of someone else’s conversation caught out of context. I hope this is just the beginning or a lifelong reel of quotes that I append to as funny things enter my ears from the mouths of unaware passers-by.
 I’m starting it because I just heard:
- “How did it survive being cooked in a flapjack”
- I have no idea what she was talking about, and to be honest, I don’t want to know.</description>
+“How did it survive being cooked in a flapjack”
+I have no idea what she was talking about, and to be honest, I don’t want to know.</description>
     </item>
     
     <item>
