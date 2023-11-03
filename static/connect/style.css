@@ -1,0 +1,15 @@
+
+.container {
+    position: absolute;
+    width: 50vh;
+    margin-top: 30vh;
+    margin-left: 25vh;
+}
+
+.big img {
+    width: 100%;
+}
+
+html {
+    height: 100%;
+}
