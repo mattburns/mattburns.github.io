@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>eclipse on Matt Burns</title>
+    <title>Eclipse on Matt Burns</title>
     <link>https://mattburns.co.uk/tags/eclipse/</link>
-    <description>Recent content in eclipse on Matt Burns</description>
+    <description>Recent content in Eclipse on Matt Burns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 03 Nov 2009 23:00:04 +0000</lastBuildDate><atom:link href="https://mattburns.co.uk/tags/eclipse/index.xml" rel="self" type="application/rss+xml" />

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>java on Matt Burns</title>
+    <title>Java on Matt Burns</title>
     <link>https://mattburns.co.uk/tags/java/</link>
-    <description>Recent content in java on Matt Burns</description>
+    <description>Recent content in Java on Matt Burns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 18 May 2009 22:25:24 +0000</lastBuildDate><atom:link href="https://mattburns.co.uk/tags/java/index.xml" rel="self" type="application/rss+xml" />

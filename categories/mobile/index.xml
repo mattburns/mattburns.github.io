@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>mobile on Matt Burns</title>
+    <title>Mobile on Matt Burns</title>
     <link>https://mattburns.co.uk/categories/mobile/</link>
-    <description>Recent content in mobile on Matt Burns</description>
+    <description>Recent content in Mobile on Matt Burns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 28 Nov 2012 17:19:07 +0000</lastBuildDate><atom:link href="https://mattburns.co.uk/categories/mobile/index.xml" rel="self" type="application/rss+xml" />
