@@ -198,13 +198,11 @@ I took another look at the Lloyds website for transferring money and clicked the
 &lt;/p&gt;
 &lt;p&gt;And “activate”&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2015/06/Screen-Shot-2015-06-17-at-12.55.00.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;Then you can go do all the policy group nonsense that every other google result will give you. Basically, just create a user and add them to a group with these policies:&lt;/p&gt;
+
+Then you can go do all the policy group nonsense that every other google result will give you. Basically, just create a user and add them to a group with these policies:&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2015/06/Screen-Shot-2015-06-17-at-12.57.08.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;Bosh.&lt;/p&gt;</description>
+
+Bosh.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1413,7 +1411,7 @@ openssl x509 -inform PEM -in certificate-123456.crt &amp;gt; public.pem
       <pubDate>Thu, 10 Jul 2014 11:35:40 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2014/07/10/how-to-download-chromecast-background-images/</guid>
-      <description>&lt;p&gt;Google’s friendly little &lt;a href=&#34;www.chromecast.com&#34;&gt;chromecast&lt;/a&gt; has some &lt;a href=&#34;https://clients3.google.com/cast/chromecast/home/v/c9541b08&#34; title=&#34;Chromecast background&#34;&gt;great background images&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Google’s friendly little &lt;a href=&#34;https://www.chromecast.com&#34;&gt;chromecast&lt;/a&gt; has some &lt;a href=&#34;https://clients3.google.com/cast/chromecast/home/v/c9541b08&#34; title=&#34;Chromecast background&#34;&gt;great background images&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;If you want to download all of those images so you can have a nice high quality screen saver on your laptop/mobile etc. just do this:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;git clone -b patch-1 https://github.com/mattburns/chromecast-backgrounds.git
 cd chromecast-backgrounds/
@@ -1479,7 +1477,8 @@ brew install r
       
       <guid>https://mattburns.co.uk/blog/2013/10/03/customer1000/</guid>
       <description>&lt;h2 id=&#34;before-oddprints&#34;&gt;Before &lt;a href=&#34;http://www.oddprints.com&#34;&gt;OddPrints&lt;/a&gt;…&lt;/h2&gt;
-&lt;p&gt;A short while ago I wanted to print some photos for a little frame (4x4cm). I don’t own a printer and so I wanted to get it printed online. However, the smallest size offered by most online labs is 4×6&amp;quot;. I’m a programmer and amateur photographer, if anyone should find this easy it should be me. &lt;!-- raw HTML omitted --&gt;How hard can it be?&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+&lt;p&gt;A short while ago I wanted to print some photos for a little frame (4x4cm). I don’t own a printer and so I wanted to get it printed online. However, the smallest size offered by most online labs is 4×6&amp;quot;. I’m a programmer and amateur photographer, if anyone should find this easy it should be me. &lt;i&gt;How hard can it be?&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Somehow, I needed to resize and re-save my photo so that it had just the right border around the edge so that when the new image was printed at 4×6&amp;quot; my picture would be in the middle at exactly 4x4cm ready for me to cut out. I scratched my head, searched around and even &lt;a href=&#34;http://photo.stackexchange.com/questions/24332/how-do-you-print-photos-at-non-standard-sizes/&#34;&gt;asked some experts for advice&lt;/a&gt;. I ended up installing a command-line image resizing tool and calculated &lt;a href=&#34;https://mattburns.co.uk/blog/2011/09/10/how-to-print-small-photos-say-4cm-x-4cm/&#34;&gt;just the right command&lt;/a&gt; to convert my photo:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1499,7 +1498,7 @@ brew install r
 &lt;li&gt;Framerate and resolution set when you create the image. (and increasing either will hurt load times).&lt;/li&gt;
 &lt;li&gt;Playback is jerky until all frames are downloaded&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Wouldn’t it be better to use some &lt;a href=&#34;http://www.mattburns.co.uk/blog/2013/02/24/4-reasons-to-design-your-logo-in-css-and-a-few-why-you-shouldnt/&#34; title=&#34;4 reasons to design your logo in CSS (and a few why you shouldn’t)&#34;&gt;vector magic&lt;/a&gt; and hardware-accelerated loveliness to get a spinner like this:&lt;/p&gt;</description>
+&lt;p&gt;Wouldn’t it be better to use some &lt;a href=&#34;https://mattburns.co.uk/blog/2013/02/24/4-reasons-to-design-your-logo-in-css-and-a-few-why-you-shouldnt/&#34; title=&#34;4 reasons to design your logo in CSS (and a few why you shouldn’t)&#34;&gt;vector magic&lt;/a&gt; and hardware-accelerated loveliness to get a spinner like this:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1586,7 +1585,7 @@ Motherboard – &lt;a href=&#34;https://www.amazon.co.uk/dp/B007KZQFOS/ref=as_li
       <pubDate>Sat, 10 Nov 2012 12:13:41 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/11/10/importing-photos-from-a-canon-eos-camera-with-ubuntu-12-10/</guid>
-      <description>&lt;p&gt;For some reason, when I try to connect my &lt;a href=&#34;http://www.amazon.co.uk/gp/product/B002LSI1LO/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1634&amp;amp;creative=19450&amp;amp;creativeASIN=B002LSI1LO&amp;amp;linkCode=as2&amp;amp;tag=mattburnscouk-21&#34;&gt;Canon EOS 7D&lt;/a&gt; in Linux I get this error:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+      <description>&lt;p&gt;For some reason, when I try to connect my &lt;a href=&#34;http://www.amazon.co.uk/gp/product/B002LSI1LO/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1634&amp;amp;creative=19450&amp;amp;creativeASIN=B002LSI1LO&amp;amp;linkCode=as2&amp;amp;tag=mattburnscouk-21&#34;&gt;Canon EOS 7D&lt;/a&gt; in Linux I get this error:&lt;figure style=&#34;width: 300px&#34; class=&#34;wp-caption alignnone&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/11/Screenshot-from-2012-11-10-120547.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;Unable to mount Canon Digital Camera  
@@ -1661,10 +1660,10 @@ file_100.png
       
       <guid>https://mattburns.co.uk/blog/2012/07/30/the-bristol-two-towers-running-challenge/</guid>
       <description>&lt;p&gt;Fancy a running challenge around Bristol that’ll test your legs and your navigation? All you have to do is touch both Cabot Tower and Troopers Hill Tower (er, chimney) and finish where you started.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.mattburns.co.uk/blog/wp-content/uploads/2012/07/2012-07-28-16.29.45.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/2012-07-28-16.29.45.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;p&gt;&lt;a href=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/2012-07-28-16.29.45.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/2012-07-28-16.29.45.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/a&gt;
 Troopers Hill Tower&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.mattburns.co.uk/blog/wp-content/uploads/2012/07/Cabot_Tower.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/Cabot_Tower.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;p&gt;&lt;a href=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/Cabot_Tower.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/Cabot_Tower.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/a&gt;
 Cabot Tower&lt;/p&gt;
 &lt;h2 id=&#34;the-rules-are-pretty-simple&#34;&gt;The rules are pretty simple:&lt;/h2&gt;
@@ -1684,7 +1683,7 @@ Cabot Tower&lt;/p&gt;
       <guid>https://mattburns.co.uk/blog/2012/07/12/how-to-install-google-voice/</guid>
       <description>&lt;p&gt;Oh jeez, really? A blog post about doing something so easy? Well, yes because it took me about an hour of messing around and so if this helps save one person from the pain, then it’s worth writing. If you’re in a rush or already bored, jump to the &lt;a href=&#34;#short-answer&#34;&gt;short answer&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;If you use gmail, you may see the option in the Chat widget to “Call phone”:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.mattburns.co.uk/blog/wp-content/uploads/2012/07/1.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/1.png&#34; alt=&#34;&#34;  /&gt;
+&lt;p&gt;&lt;a href=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/1.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/1.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Great. Sounds fun, let’s try it:&lt;/p&gt;</description>
     </item>
@@ -1695,11 +1694,11 @@ Cabot Tower&lt;/p&gt;
       <pubDate>Wed, 11 Jul 2012 12:53:26 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/07/11/passing-your-credentials-in-order-to-deploy-to-google-app-engine-with-ant/</guid>
-      <description>&lt;p&gt;If you use the &lt;a href=&#34;https://developers.google.com/appengine/docs/java/tools/ant#The_Complete_Build_File&#34;&gt;example ant script&lt;/a&gt; provided by Google you’ll face the following error:&lt;/p&gt;
+      <description>&lt;p&gt;If you use the [example ant script][1] provided by Google you’ll face the following error:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Your authentication credentials can&amp;#39;t be found and may have expired.
 Please run appcfg directly from the command line to re-establish your credentials.
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Sure, you can run appcfg.sh from the console, and login and all will be fine next time. Well, for 24 hours before your credentials are booted from the cache.&lt;/p&gt;
-&lt;p&gt;Here’s my ant target that does the same thing but takes the credentials interactively using the &lt;a href=&#34;http://ant.apache.org/manual/Tasks/input.html&#34;&gt;input task&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Here’s my ant target that does the same thing but takes the credentials interactively using the [input task][2].&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1747,7 +1746,7 @@ Please run appcfg directly from the command line to re-establish your credential
       
       <guid>https://mattburns.co.uk/blog/2012/02/27/my-recommendation-for-your-first-slr-in-2012/</guid>
       <description>&lt;h2 id=&#34;want-better-photos&#34;&gt;Want better photos?&lt;/h2&gt;
-&lt;p&gt;As I’ve mentioned before, I get asked what camera to buy a lot. I mean loads, it’s silly. Generally, I get asked by people who are fed up with the blurry, grainy photos they are currently taking and think a new camera will solve everything. If this sounds like you, then go &lt;a href=&#34;http://www.mattburns.co.uk/blog/2010/05/22/buying-your-first-slr/&#34; title=&#34;Buying Your First SLR&#34;&gt;read my previous post&lt;/a&gt; about whether or not an SLR is for you.&lt;/p&gt;</description>
+&lt;p&gt;As I’ve mentioned before, I get asked what camera to buy a lot. I mean loads, it’s silly. Generally, I get asked by people who are fed up with the blurry, grainy photos they are currently taking and think a new camera will solve everything. If this sounds like you, then go &lt;a href=&#34;https://mattburns.co.uk/blog/2010/05/22/buying-your-first-slr/&#34; title=&#34;Buying Your First SLR&#34;&gt;read my previous post&lt;/a&gt; about whether or not an SLR is for you.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1787,7 +1786,7 @@ Please run appcfg directly from the command line to re-establish your credential
       <pubDate>Mon, 14 Nov 2011 15:55:53 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/11/14/simplify-your-api/</guid>
-      <description>&lt;p&gt;I recently wrote &lt;a href=&#34;http://www.mattburns.co.uk/blog/2011/10/26/how-to-write-singletons-in-java/&#34;&gt;an article about singletons&lt;/a&gt; in java. The only thing I wanted to cover was that if you really want a singleton, I recommend you use the enum pattern. This post was motivated after more interesting comments were raised about testability when you see the “static” keyword.&lt;/p&gt;
+      <description>&lt;p&gt;I recently wrote &lt;a href=&#34;https://mattburns.co.uk/blog/2011/10/26/how-to-write-singletons-in-java/&#34;&gt;an article about singletons&lt;/a&gt; in java. The only thing I wanted to cover was that if you really want a singleton, I recommend you use the enum pattern. This post was motivated after more interesting comments were raised about testability when you see the “static” keyword.&lt;/p&gt;
 &lt;p&gt;When you type “static” a little alarm bell should ring in your head to warn you that there could be trouble ahead. As &lt;a href=&#34;http://dantwining.co.uk&#34;&gt;Dan&lt;/a&gt; correctly pointed out, a reference to the static member INSTANCE will tightly couple the caller to Elvis. This is not good if testing with Elvis will cause you problems. For example, if Elvis is slow, or accesses a database or something like that which would be better tested with a mock implementation.&lt;/p&gt;</description>
     </item>
     
@@ -1944,9 +1943,15 @@ I had the help text set in the title attribute of the input which I styled with 
       <guid>https://mattburns.co.uk/blog/2011/04/17/how-to-detect-browser-support-for-file-api-and-drag-and-drop-with-javascript/</guid>
       <description>&lt;p&gt;Here’s a bit of info for you crazy HTML5 kids. You’ll need to include the handy &lt;a href=&#34;http://www.modernizr.com/&#34;&gt;Modernizr&lt;/a&gt; script for it to work.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;var browserIsSupported = !!window.FileReader &amp;amp;&amp;amp; Modernizr.draganddrop;
-&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;&lt;address&gt;
+  If you want see it in action, just visit [stolencamerafinder](https://www.stolencamerafinder.com/) 😉
+&lt;/address&gt;
+&lt;address&gt;
+  I’ve tested this in Firefox 3.6, Chrome 10, IE8, Safari 5 and Opera 11. The only browsers from that list to support FileReader from the File API and the drag and drop events are FF and Chrome.
+&lt;/address&gt;
+&lt;address&gt;
+  Let’s hope the other catch up soon…
+&lt;/address&gt;</description>
     </item>
     
     <item>
@@ -1985,7 +1990,7 @@ I had the help text set in the title attribute of the input which I styled with 
       <pubDate>Wed, 28 Jul 2010 00:07:52 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/07/28/challenge-conclusion/</guid>
-      <description>&lt;p&gt;Back in April &lt;a href=&#34;http://www.mattburns.co.uk/blog/2010/04/28/the-challenge-15-stone-heavier-and-25-minutes-faster/&#34;&gt;I challenged myself&lt;/a&gt; to run 5km in under 19 minutes and gain 1.5 stone by the last Bridge Inn 5km of the summer.&lt;/p&gt;
+      <description>&lt;p&gt;Back in April &lt;a href=&#34;https://mattburns.co.uk/blog/2010/04/28/the-challenge-15-stone-heavier-and-25-minutes-faster/&#34;&gt;I challenged myself&lt;/a&gt; to run 5km in under 19 minutes and gain 1.5 stone by the last Bridge Inn 5km of the summer.&lt;/p&gt;
 &lt;p&gt;Tonight was the night.&lt;/p&gt;
 &lt;p&gt;Being too &lt;del&gt;busy&lt;/del&gt; disorganised, I didn’t realise that tonight was the deadline until today. If I had realised I would probably have prepared a little better. Two days ago I ran my first &lt;a href=&#34;http://www.kymindash.co.uk/&#34;&gt;Kymin Dash&lt;/a&gt;, a ~7 mile run but includes a decent hill. Four days ago I ran in a &lt;a href=&#34;http://www.greatwesternrunners.org.uk/mobmatch/frm_icmm10.html&#34;&gt;10km race between local clubs&lt;/a&gt; and broke 40 minutes for the first time.&lt;/p&gt;</description>
     </item>
@@ -1996,7 +2001,7 @@ I had the help text set in the title attribute of the input which I styled with 
       <pubDate>Thu, 01 Jul 2010 14:36:48 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/07/01/challenge-update/</guid>
-      <description>&lt;p&gt;At the end of April &lt;a href=&#34;http://www.mattburns.co.uk/blog/2010/04/28/the-challenge-15-stone-heavier-and-25-minutes-faster&#34;&gt;I set myself the challenge&lt;/a&gt; of gaining a stone in weight and running a 5km race 2.5 minutes faster.&lt;/p&gt;
+      <description>&lt;p&gt;At the end of April &lt;a href=&#34;https://mattburns.co.uk/blog/2010/04/28/the-challenge-15-stone-heavier-and-25-minutes-faster&#34;&gt;I set myself the challenge&lt;/a&gt; of gaining a stone in weight and running a 5km race 2.5 minutes faster.&lt;/p&gt;
 &lt;p&gt;I ran the same race on Tuesday in 19:15, painfully close to my speed target of 19 minutes. However, I also weighed myself again but have actually lost a pound.&lt;/p&gt;
 &lt;p&gt;Gah!&lt;/p&gt;
 &lt;p&gt;Must try harder…&lt;/p&gt;</description>
@@ -2073,11 +2078,21 @@ canvas.stroke();
       
       <guid>https://mattburns.co.uk/blog/2010/04/07/security-roles-require-names/</guid>
       <description>&lt;p&gt;Remember the DD tags with &lt;strong&gt;SRRN&lt;/strong&gt;:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+&lt;p style=&#34;padding-left: 30px;&#34;&gt;
+  &lt;web-app&gt;
+&lt;/p&gt;
+&lt;p style=&#34;padding-left: 60px;&#34;&gt;
+  &lt;security-role&gt;
+&lt;/p&gt;
+&lt;p style=&#34;padding-left: 90px;&#34;&gt;
+  &lt;role-name&gt;member&lt;/role-name&gt;
+&lt;/p&gt;
+&lt;p style=&#34;padding-left: 60px;&#34;&gt;
+  &lt;/security-role&gt;
+&lt;/p&gt;
+&lt;p style=&#34;padding-left: 60px;&#34;&gt;
+  …
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -2097,7 +2112,7 @@ canvas.stroke();
       <pubDate>Wed, 07 Apr 2010 09:51:30 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/04/07/listeners-and-events/</guid>
-      <description>&lt;p&gt;There are 8 Listeners to remember. We know there are attributes in 4 scopes because we know how to &lt;a href=&#34;http://www.mattburns.co.uk/blog/2010/04/06/pick-the-right-scope-automatically/&#34;&gt;Pick the Right Scope Automatically&lt;/a&gt;, but you can’t listen to Page attributes, it doesn’t make sense, so that leaves us with RSA; &lt;strong&gt;Request&lt;/strong&gt;, &lt;strong&gt;Session&lt;/strong&gt; and &lt;strong&gt;Application&lt;/strong&gt;. These tally with the objects:&lt;/p&gt;
+      <description>&lt;p&gt;There are 8 Listeners to remember. We know there are attributes in 4 scopes because we know how to &lt;a href=&#34;https://mattburns.co.uk/blog/2010/04/06/pick-the-right-scope-automatically/&#34;&gt;Pick the Right Scope Automatically&lt;/a&gt;, but you can’t listen to Page attributes, it doesn’t make sense, so that leaves us with RSA; &lt;strong&gt;Request&lt;/strong&gt;, &lt;strong&gt;Session&lt;/strong&gt; and &lt;strong&gt;Application&lt;/strong&gt;. These tally with the objects:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ServletRequest&lt;/li&gt;
 &lt;li&gt;HttpSession&lt;/li&gt;
@@ -2113,7 +2128,7 @@ canvas.stroke();
       
       <guid>https://mattburns.co.uk/blog/2010/04/07/11-el-implicit-variables/</guid>
       <description>&lt;p&gt;All the EL implicit variables are Maps except for pageContext.&lt;/p&gt;
-&lt;p&gt;To remember the attribute-holding scope objects, just remember to &lt;a href=&#34;http://www.mattburns.co.uk/blog/2010/04/06/pick-the-right-scope-automatically/&#34;&gt;Pick the Right Scope Automatically&lt;/a&gt; and stick the word “Scope” on the end:&lt;/p&gt;
+&lt;p&gt;To remember the attribute-holding scope objects, just remember to &lt;a href=&#34;https://mattburns.co.uk/blog/2010/04/06/pick-the-right-scope-automatically/&#34;&gt;Pick the Right Scope Automatically&lt;/a&gt; and stick the word “Scope” on the end:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;pageScope&lt;/li&gt;
 &lt;li&gt;requestScope&lt;/li&gt;
@@ -2142,18 +2157,40 @@ canvas.stroke();
       
       <guid>https://mattburns.co.uk/blog/2010/04/07/captain-pan-prevents-captain-hook/</guid>
       <description>&lt;p&gt;This is (a rubbish one) just to help me remember the DD tags:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p style=&#34;padding-left: 30px;&#34;&gt;
+  &lt;context-param&gt;
+&lt;/p&gt;
+&lt;p style=&#34;padding-left: 60px;&#34;&gt;
+  &lt;param-name&gt;n&lt;/param-name&gt;
+&lt;/p&gt;
+&lt;p style=&#34;padding-left: 60px;&#34;&gt;
+  &lt;param-value&gt;v&lt;/param-value&gt;
+&lt;/p&gt;
+&lt;p style=&#34;padding-left: 30px;&#34;&gt;
+  &lt;/context-param&gt;
+&lt;/p&gt;
 &lt;p&gt;Whereas Servlet params are “in-it”:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+&lt;p style=&#34;padding-left: 30px;&#34;&gt;
+  &lt;servlet&gt;
+&lt;/p&gt;
+&lt;p style=&#34;padding-left: 60px;&#34;&gt;
+  &lt;init-param&gt;
+&lt;/p&gt;
+&lt;p style=&#34;padding-left: 90px;&#34;&gt;
+  &lt;param-name&gt;n&lt;/param-name&gt;
+&lt;/p&gt;
+&lt;p style=&#34;padding-left: 90px;&#34;&gt;
+  &lt;param-value&gt;v&lt;/param-value&gt;
+&lt;/p&gt;
+&lt;p style=&#34;padding-left: 60px;&#34;&gt;
+  &lt;/init-param&gt;
+&lt;/p&gt;
+&lt;p style=&#34;padding-left: 60px;&#34;&gt;
+  …
+&lt;/p&gt;
+&lt;p style=&#34;padding-left: 30px;&#34;&gt;
+  &lt;/servlet
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -2196,7 +2233,7 @@ exception&lt;/p&gt;
       <pubDate>Tue, 06 Apr 2010 17:13:51 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/04/06/pick-the-right-scope-automatically/</guid>
-      <description>&lt;p&gt;As &lt;a href=&#34;http://www.mattburns.co.uk/blog/2010/04/06/head-first-servlets-and-jsp-errata/&#34;&gt;I previously metioned&lt;/a&gt;, I’m taking the &lt;a href=&#34;http://in.sun.com/training/certification/java/scwcd.xml&#34;&gt;SCWCD&lt;/a&gt; exam tomorrow. When trying to cram for any exam I like to make up short poems, acronyms or just random chains of though. For example, I know the difference between Mitosis and Meiosis because Meiosis begins with “Meow” which is what cats do and they have four legs… anyway…&lt;/p&gt;
+      <description>&lt;p&gt;As &lt;a href=&#34;https://mattburns.co.uk/blog/2010/04/06/head-first-servlets-and-jsp-errata/&#34;&gt;I previously metioned&lt;/a&gt;, I’m taking the &lt;a href=&#34;http://in.sun.com/training/certification/java/scwcd.xml&#34;&gt;SCWCD&lt;/a&gt; exam tomorrow. When trying to cram for any exam I like to make up short poems, acronyms or just random chains of though. For example, I know the difference between Mitosis and Meiosis because Meiosis begins with “Meow” which is what cats do and they have four legs… anyway…&lt;/p&gt;
 &lt;p&gt;My first thing to remember is that a JspContext has a findAttribute method that I can use to &lt;strong&gt;Pick the Right Scope Automatically&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     
@@ -2242,7 +2279,7 @@ exception&lt;/p&gt;
       <guid>https://mattburns.co.uk/blog/2010/01/12/software-company-locator/</guid>
       <description>&lt;p&gt;Looking software companies are near you? Looking to switch jobs or perhaps your company is looking for a local consultancy to collaborate on that big contract?&lt;/p&gt;
 &lt;p&gt;I helped &lt;a href=&#34;http://dantwining.com/2010/01/12/software-companies-in-bristol/&#34;&gt;Dan&lt;/a&gt; make this map as a quick way to find those companies:&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;http://maps.google.com/maps/ms?hl=en&amp;amp;ie=UTF8&amp;amp;oe=UTF8&amp;amp;msa=0&amp;amp;msid=110486494405162372809.00047cf73d0b0409aee21&amp;amp;ll=51.45283,-2.587452&amp;amp;spn=0.03744,0.072956&amp;amp;z=13&amp;amp;source=embed&#34;&gt;Larger version&lt;/a&gt;.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;&lt;a href=&#34;http://maps.google.com/maps/ms?hl=en&amp;amp;ie=UTF8&amp;amp;oe=UTF8&amp;amp;msa=0&amp;amp;msid=110486494405162372809.00047cf73d0b0409aee21&amp;amp;ll=51.45283,-2.587452&amp;amp;spn=0.03744,0.072956&amp;amp;z=13&amp;amp;source=embed&#34;&gt;Larger version&lt;/a&gt;.&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;We’d love it if you could &lt;a href=&#34;http://maps.google.com/maps/ms?hl=en&amp;amp;ie=UTF8&amp;amp;oe=UTF8&amp;amp;msa=0&amp;amp;msid=110486494405162372809.00047cf73d0b0409aee21&amp;amp;ll=51.45283,-2.587452&amp;amp;spn=0.03744,0.072956&amp;amp;z=13&amp;amp;source=embed&#34;&gt;contribute updates&lt;/a&gt;. Just log in with your Google account and click the “edit” button on the left.&lt;/p&gt;</description>
     </item>
     

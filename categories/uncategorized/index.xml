@@ -1341,7 +1341,7 @@ openssl x509 -inform PEM -in certificate-123456.crt &amp;gt; public.pem
       <pubDate>Thu, 10 Jul 2014 11:35:40 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2014/07/10/how-to-download-chromecast-background-images/</guid>
-      <description>&lt;p&gt;Google’s friendly little &lt;a href=&#34;www.chromecast.com&#34;&gt;chromecast&lt;/a&gt; has some &lt;a href=&#34;https://clients3.google.com/cast/chromecast/home/v/c9541b08&#34; title=&#34;Chromecast background&#34;&gt;great background images&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Google’s friendly little &lt;a href=&#34;https://www.chromecast.com&#34;&gt;chromecast&lt;/a&gt; has some &lt;a href=&#34;https://clients3.google.com/cast/chromecast/home/v/c9541b08&#34; title=&#34;Chromecast background&#34;&gt;great background images&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;If you want to download all of those images so you can have a nice high quality screen saver on your laptop/mobile etc. just do this:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;git clone -b patch-1 https://github.com/mattburns/chromecast-backgrounds.git
 cd chromecast-backgrounds/
@@ -1407,7 +1407,8 @@ brew install r
       
       <guid>https://mattburns.co.uk/blog/2013/10/03/customer1000/</guid>
       <description>&lt;h2 id=&#34;before-oddprints&#34;&gt;Before &lt;a href=&#34;http://www.oddprints.com&#34;&gt;OddPrints&lt;/a&gt;…&lt;/h2&gt;
-&lt;p&gt;A short while ago I wanted to print some photos for a little frame (4x4cm). I don’t own a printer and so I wanted to get it printed online. However, the smallest size offered by most online labs is 4×6&amp;quot;. I’m a programmer and amateur photographer, if anyone should find this easy it should be me. &lt;!-- raw HTML omitted --&gt;How hard can it be?&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+&lt;p&gt;A short while ago I wanted to print some photos for a little frame (4x4cm). I don’t own a printer and so I wanted to get it printed online. However, the smallest size offered by most online labs is 4×6&amp;quot;. I’m a programmer and amateur photographer, if anyone should find this easy it should be me. &lt;i&gt;How hard can it be?&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Somehow, I needed to resize and re-save my photo so that it had just the right border around the edge so that when the new image was printed at 4×6&amp;quot; my picture would be in the middle at exactly 4x4cm ready for me to cut out. I scratched my head, searched around and even &lt;a href=&#34;http://photo.stackexchange.com/questions/24332/how-do-you-print-photos-at-non-standard-sizes/&#34;&gt;asked some experts for advice&lt;/a&gt;. I ended up installing a command-line image resizing tool and calculated &lt;a href=&#34;https://mattburns.co.uk/blog/2011/09/10/how-to-print-small-photos-say-4cm-x-4cm/&#34;&gt;just the right command&lt;/a&gt; to convert my photo:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1427,7 +1428,7 @@ brew install r
 &lt;li&gt;Framerate and resolution set when you create the image. (and increasing either will hurt load times).&lt;/li&gt;
 &lt;li&gt;Playback is jerky until all frames are downloaded&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Wouldn’t it be better to use some &lt;a href=&#34;http://www.mattburns.co.uk/blog/2013/02/24/4-reasons-to-design-your-logo-in-css-and-a-few-why-you-shouldnt/&#34; title=&#34;4 reasons to design your logo in CSS (and a few why you shouldn’t)&#34;&gt;vector magic&lt;/a&gt; and hardware-accelerated loveliness to get a spinner like this:&lt;/p&gt;</description>
+&lt;p&gt;Wouldn’t it be better to use some &lt;a href=&#34;https://mattburns.co.uk/blog/2013/02/24/4-reasons-to-design-your-logo-in-css-and-a-few-why-you-shouldnt/&#34; title=&#34;4 reasons to design your logo in CSS (and a few why you shouldn’t)&#34;&gt;vector magic&lt;/a&gt; and hardware-accelerated loveliness to get a spinner like this:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1502,7 +1503,7 @@ Motherboard – &lt;a href=&#34;https://www.amazon.co.uk/dp/B007KZQFOS/ref=as_li
       <pubDate>Sat, 10 Nov 2012 12:13:41 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/11/10/importing-photos-from-a-canon-eos-camera-with-ubuntu-12-10/</guid>
-      <description>&lt;p&gt;For some reason, when I try to connect my &lt;a href=&#34;http://www.amazon.co.uk/gp/product/B002LSI1LO/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1634&amp;amp;creative=19450&amp;amp;creativeASIN=B002LSI1LO&amp;amp;linkCode=as2&amp;amp;tag=mattburnscouk-21&#34;&gt;Canon EOS 7D&lt;/a&gt; in Linux I get this error:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+      <description>&lt;p&gt;For some reason, when I try to connect my &lt;a href=&#34;http://www.amazon.co.uk/gp/product/B002LSI1LO/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1634&amp;amp;creative=19450&amp;amp;creativeASIN=B002LSI1LO&amp;amp;linkCode=as2&amp;amp;tag=mattburnscouk-21&#34;&gt;Canon EOS 7D&lt;/a&gt; in Linux I get this error:&lt;figure style=&#34;width: 300px&#34; class=&#34;wp-caption alignnone&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/11/Screenshot-from-2012-11-10-120547.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;Unable to mount Canon Digital Camera  
@@ -1587,10 +1588,10 @@ file_100.png
       
       <guid>https://mattburns.co.uk/blog/2012/07/30/the-bristol-two-towers-running-challenge/</guid>
       <description>&lt;p&gt;Fancy a running challenge around Bristol that’ll test your legs and your navigation? All you have to do is touch both Cabot Tower and Troopers Hill Tower (er, chimney) and finish where you started.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.mattburns.co.uk/blog/wp-content/uploads/2012/07/2012-07-28-16.29.45.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/2012-07-28-16.29.45.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;p&gt;&lt;a href=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/2012-07-28-16.29.45.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/2012-07-28-16.29.45.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/a&gt;
 Troopers Hill Tower&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.mattburns.co.uk/blog/wp-content/uploads/2012/07/Cabot_Tower.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/Cabot_Tower.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;p&gt;&lt;a href=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/Cabot_Tower.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/Cabot_Tower.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/a&gt;
 Cabot Tower&lt;/p&gt;
 &lt;h2 id=&#34;the-rules-are-pretty-simple&#34;&gt;The rules are pretty simple:&lt;/h2&gt;
@@ -1610,7 +1611,7 @@ Cabot Tower&lt;/p&gt;
       <guid>https://mattburns.co.uk/blog/2012/07/12/how-to-install-google-voice/</guid>
       <description>&lt;p&gt;Oh jeez, really? A blog post about doing something so easy? Well, yes because it took me about an hour of messing around and so if this helps save one person from the pain, then it’s worth writing. If you’re in a rush or already bored, jump to the &lt;a href=&#34;#short-answer&#34;&gt;short answer&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;If you use gmail, you may see the option in the Chat widget to “Call phone”:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.mattburns.co.uk/blog/wp-content/uploads/2012/07/1.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/1.png&#34; alt=&#34;&#34;  /&gt;
+&lt;p&gt;&lt;a href=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/1.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/1.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Great. Sounds fun, let’s try it:&lt;/p&gt;</description>
     </item>
@@ -1621,11 +1622,11 @@ Cabot Tower&lt;/p&gt;
       <pubDate>Wed, 11 Jul 2012 12:53:26 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/07/11/passing-your-credentials-in-order-to-deploy-to-google-app-engine-with-ant/</guid>
-      <description>&lt;p&gt;If you use the &lt;a href=&#34;https://developers.google.com/appengine/docs/java/tools/ant#The_Complete_Build_File&#34;&gt;example ant script&lt;/a&gt; provided by Google you’ll face the following error:&lt;/p&gt;
+      <description>&lt;p&gt;If you use the [example ant script][1] provided by Google you’ll face the following error:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Your authentication credentials can&amp;#39;t be found and may have expired.
 Please run appcfg directly from the command line to re-establish your credentials.
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Sure, you can run appcfg.sh from the console, and login and all will be fine next time. Well, for 24 hours before your credentials are booted from the cache.&lt;/p&gt;
-&lt;p&gt;Here’s my ant target that does the same thing but takes the credentials interactively using the &lt;a href=&#34;http://ant.apache.org/manual/Tasks/input.html&#34;&gt;input task&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Here’s my ant target that does the same thing but takes the credentials interactively using the [input task][2].&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1694,7 +1695,7 @@ Please run appcfg directly from the command line to re-establish your credential
       
       <guid>https://mattburns.co.uk/blog/2012/02/27/my-recommendation-for-your-first-slr-in-2012/</guid>
       <description>&lt;h2 id=&#34;want-better-photos&#34;&gt;Want better photos?&lt;/h2&gt;
-&lt;p&gt;As I’ve mentioned before, I get asked what camera to buy a lot. I mean loads, it’s silly. Generally, I get asked by people who are fed up with the blurry, grainy photos they are currently taking and think a new camera will solve everything. If this sounds like you, then go &lt;a href=&#34;http://www.mattburns.co.uk/blog/2010/05/22/buying-your-first-slr/&#34; title=&#34;Buying Your First SLR&#34;&gt;read my previous post&lt;/a&gt; about whether or not an SLR is for you.&lt;/p&gt;</description>
+&lt;p&gt;As I’ve mentioned before, I get asked what camera to buy a lot. I mean loads, it’s silly. Generally, I get asked by people who are fed up with the blurry, grainy photos they are currently taking and think a new camera will solve everything. If this sounds like you, then go &lt;a href=&#34;https://mattburns.co.uk/blog/2010/05/22/buying-your-first-slr/&#34; title=&#34;Buying Your First SLR&#34;&gt;read my previous post&lt;/a&gt; about whether or not an SLR is for you.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1764,7 +1765,7 @@ Please run appcfg directly from the command line to re-establish your credential
       <pubDate>Mon, 14 Nov 2011 15:55:53 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/11/14/simplify-your-api/</guid>
-      <description>&lt;p&gt;I recently wrote &lt;a href=&#34;http://www.mattburns.co.uk/blog/2011/10/26/how-to-write-singletons-in-java/&#34;&gt;an article about singletons&lt;/a&gt; in java. The only thing I wanted to cover was that if you really want a singleton, I recommend you use the enum pattern. This post was motivated after more interesting comments were raised about testability when you see the “static” keyword.&lt;/p&gt;
+      <description>&lt;p&gt;I recently wrote &lt;a href=&#34;https://mattburns.co.uk/blog/2011/10/26/how-to-write-singletons-in-java/&#34;&gt;an article about singletons&lt;/a&gt; in java. The only thing I wanted to cover was that if you really want a singleton, I recommend you use the enum pattern. This post was motivated after more interesting comments were raised about testability when you see the “static” keyword.&lt;/p&gt;
 &lt;p&gt;When you type “static” a little alarm bell should ring in your head to warn you that there could be trouble ahead. As &lt;a href=&#34;http://dantwining.co.uk&#34;&gt;Dan&lt;/a&gt; correctly pointed out, a reference to the static member INSTANCE will tightly couple the caller to Elvis. This is not good if testing with Elvis will cause you problems. For example, if Elvis is slow, or accesses a database or something like that which would be better tested with a mock implementation.&lt;/p&gt;</description>
     </item>
     
@@ -2775,7 +2776,7 @@ I had the help text set in the title attribute of the input which I styled with 
       <guid>https://mattburns.co.uk/travels/2011/06/03/day-242-930km-to-960km-941-friday-13th-may-blenheim-top-10-holiday-park/</guid>
       <description>&lt;p&gt;Wake up in the Cork &amp;amp; Keg carpark with rain battering on the windows. Darn it. No wine tour for us today.&lt;/p&gt;
 &lt;p&gt;We go back to Blenheim, find a powered campsite next to a river, invest in wifi and hole up for the day working on &lt;a href=&#34;http://www.stolencamerafinder.com/&#34;&gt;SCF&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;People are still tweeting about it 17 days after the initial blogging and it’s appearing on so many different websites and in many different languages. Even some top websites have now mentioned it. Engadget, Reuters, … &lt;a href=&#34;http://www.mattburns.co.uk&#34;&gt;Matt&lt;/a&gt;’s famous again. ;)&lt;/p&gt;</description>
+&lt;p&gt;People are still tweeting about it 17 days after the initial blogging and it’s appearing on so many different websites and in many different languages. Even some top websites have now mentioned it. Engadget, Reuters, … &lt;a href=&#34;https://mattburns.co.uk/&#34;&gt;Matt&lt;/a&gt;’s famous again. ;)&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -3114,9 +3115,15 @@ I had the help text set in the title attribute of the input which I styled with 
       <guid>https://mattburns.co.uk/blog/2011/04/17/how-to-detect-browser-support-for-file-api-and-drag-and-drop-with-javascript/</guid>
       <description>&lt;p&gt;Here’s a bit of info for you crazy HTML5 kids. You’ll need to include the handy &lt;a href=&#34;http://www.modernizr.com/&#34;&gt;Modernizr&lt;/a&gt; script for it to work.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;var browserIsSupported = !!window.FileReader &amp;amp;&amp;amp; Modernizr.draganddrop;
-&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;&lt;address&gt;
+  If you want see it in action, just visit [stolencamerafinder](https://www.stolencamerafinder.com/) 😉
+&lt;/address&gt;
+&lt;address&gt;
+  I’ve tested this in Firefox 3.6, Chrome 10, IE8, Safari 5 and Opera 11. The only browsers from that list to support FileReader from the File API and the drag and drop events are FF and Chrome.
+&lt;/address&gt;
+&lt;address&gt;
+  Let’s hope the other catch up soon…
+&lt;/address&gt;</description>
     </item>
     
     <item>
@@ -3197,7 +3204,7 @@ I had the help text set in the title attribute of the input which I styled with 
 &lt;p&gt;And boats:&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/travels-wp-content/uploads/2011/04/P1050454.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_3293.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/travels-wp-content/uploads/2011/04/IMG_3293_thumb.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;p&gt;&lt;a href=&#34;https://mattburns.co.uk/travels-wp-content/uploads/2011/04/IMG_3293.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/travels-wp-content/uploads/2011/04/IMG_3293.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/travels-wp-content/uploads/2011/04/IMG_3352.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
@@ -3299,7 +3306,7 @@ I had the help text set in the title attribute of the input which I styled with 
       <pubDate>Fri, 04 Mar 2011 06:20:17 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/travels/2011/03/04/day-161-162-monday-21st-to-tuesday-22nd-february-savannakhet-eco-guide-unit-homestay-trek/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;/p&gt; 
 &lt;p&gt;It’s now 16:30 on Tuesday and just got back from a 2 day spiritual trek around the local area with a night in a homestay at a local village.&lt;/p&gt;
 &lt;p&gt;It started at a salt factory about 18km from Savannakhet. The Japanese had drilled for oil and instead found salt water which is pumped out of the ground and either dried in the sun for 2 to 3 days or boiled in big vats. Either way it’s manually scraped and shovelled into baskets by 40 Lao families who work there. The salt is then sent to local areas or Vietnam. It was unbelievable how manual the work is. Things which in the UK we’d automatically think a machine would do but this is providing work for local people.&lt;/p&gt;</description>
     </item>
@@ -3310,7 +3317,7 @@ I had the help text set in the title attribute of the input which I styled with 
       <pubDate>Fri, 04 Mar 2011 06:01:56 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/travels/2011/03/04/day-160-sunday-20th-february-tha-khaek-to-savannakhet/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;/p&gt; 
 &lt;p&gt;Our bus journey from Tha Khaek was quite an interesting one. They played an array of cheesy music videos. Some young kids prancing around. And one old guy. Well say in his late 50s, singing four or five different songs that all sounded the same and for each video he was wearing a shirt and tie and was either stood at the side of a main road with the limestone cliffs in the background or in a field dancing like your dad. He also had four backing dancers – two girls and two guys in traditional dress – doing traditional Lao dancing. They played this twice and we kept hearing the same tune in the local village. Our guide said he was popular right now.&lt;/p&gt;</description>
     </item>
     
@@ -3370,7 +3377,7 @@ I had the help text set in the title attribute of the input which I styled with 
       <pubDate>Sun, 20 Feb 2011 11:57:19 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/travels/2011/02/20/day-152-saturday-12th-february-vang-vieng-more-tubing-the-sensible-way/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;/p&gt; 
 &lt;p&gt;Happy birthday Dulcie!&lt;/p&gt;
 &lt;p&gt;Decided to go tubing again today and our mission was to go all the way down the river back to Vang Vieng before 6pm. We started out at 10:30 and met a couple from Holland called Edo and Annalies in the tuk-tuk there who had done trans-mongolian, china, thailand, cambodia, now laos and onto myanmar and thailand. We arranged to meet for a drink later so they could give us their Cambodia book.&lt;/p&gt;</description>
     </item>
@@ -3415,7 +3422,7 @@ I had the help text set in the title attribute of the input which I styled with 
       <pubDate>Sun, 20 Feb 2011 11:10:43 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/travels/2011/02/20/day-140-to-143-monday-31st-january-to-thursday-4th-february-vang-vieng-week-1-eefa-english-teaching-through-the-organic-farm/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;/p&gt; 
 &lt;p&gt;Before heading to Laos I contacted the EEFA Project. EEFA stands for Equal Education For All and is based at the &lt;a href=&#34;http://www.laofarm.org&#34;&gt;Organic Farm&lt;/a&gt; 4km from Vang Vieng in Phoudindeng. I signed up for 2 weeks of volunteering as an English teacher. A chance to use the TEFL skills and to give something back.&lt;/p&gt;
 &lt;p&gt;Monday morning I was scared to death. I had no real experience of teaching or of working with kids whatsover. They were going to eat me alive.&lt;/p&gt;</description>
     </item>
@@ -3602,7 +3609,7 @@ I had the help text set in the title attribute of the input which I styled with 
       <guid>https://mattburns.co.uk/travels/2011/01/13/day-112-to-114-monday-3rd-to-wednesday-5th-january-krabi/</guid>
       <description>&lt;p&gt;Beach time is over. Back to the proper mainland and the rest of Thailand.&lt;/p&gt;
 &lt;p&gt;Our last bit of Railay sightseeing was the Diamond Cave. We’d walked past it every time we’d been anywhere away from Railay Cabana.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;img style=&#34;display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;&#34; title=&#34;IMG_0479&#34; src=&#34;https://mattburns.co.uk/travels-wp-content/uploads/2011/01/IMG_0479_thumb.jpg&#34; border=&#34;0&#34; alt=&#34;IMG_0479&#34; width=&#34;320&#34; height=&#34;480&#34; /&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/travels-wp-content/uploads/2011/01/IMG_0483.jpg&#34; alt=&#34;IMG_0483&#34;  /&gt;
  &lt;/p&gt;
 &lt;p&gt;On the way to the cave Matt informed me what had been in his towel…a scorpion. Which had crawled on him. Only when he’d knocked it onto the ground had he seen what it was. Yep glad I didn’t ask before we’d checked out.&lt;/p&gt;</description>
@@ -3643,7 +3650,7 @@ I had the help text set in the title attribute of the input which I styled with 
       
       <guid>https://mattburns.co.uk/travels/2011/01/13/day-108-thursday-30th-december-railay/</guid>
       <description>&lt;p&gt;Rock-climbing in Railay is (apologies for americanism here but it needs to be used) awesome. Would definitely recommend it to anyone. I’ve never really climbed outdoors before and it is is completely different to indoors. I managed to do 4.5 climbs and Matt did 6. The weather couldn’t have been better. It was dry but overcast whereas later it rained and since then it’s been sweltering.&lt;/p&gt;
-&lt;p&gt; &lt;a href=&#34;http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0370.jpg&#34;&gt;Karen&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt; &lt;a href=&#34;https://mattburns.co.uk/travels-wp-content/uploads/2011/01/IMG_0370.jpg&#34;&gt;Karen&lt;img title=&#34;IMG_0370&#34; style=&#34;border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px&#34; height=&#34;480&#34; alt=&#34;IMG_0370&#34; src=&#34;https://mattburns.co.uk/travels-wp-content/uploads/2011/01/IMG_0370.jpg&#34; width=&#34;320&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -3954,9 +3961,8 @@ I had the help text set in the title attribute of the input which I styled with 
       <pubDate>Fri, 26 Nov 2010 15:12:47 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/travels/2010/11/26/days-64-to-65-tuesday-16th-to-wednesday-17th-november-varkala-kerala/</guid>
-      <description>&lt;p&gt;Before I forget mum has received the parcel from Darjeeling and it’s in one piece! She thought it looked like drugs as it’s all wrapped in white muslin. It only took 3 weeks so that’s pretty good. I think it has beaten most of the postcards which seem to have been lost in the post.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;Tuesday morning joined the hardened commuters on the 5:50 train from Kochi and by 10:00 we were at Mummy Bamboo House in Varkala about a minute’s walk from the North Cliff edge overlooking the Indian Ocean.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Before I forget mum has received the parcel from Darjeeling and it’s in one piece! She thought it looked like drugs as it’s all wrapped in white muslin. It only took 3 weeks so that’s pretty good. I think it has beaten most of the postcards which seem to have been lost in the post.
+Tuesday morning joined the hardened commuters on the 5:50 train from Kochi and by 10:00 we were at Mummy Bamboo House in Varkala about a minute’s walk from the North Cliff edge overlooking the Indian Ocean.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -3965,7 +3971,7 @@ I had the help text set in the title attribute of the input which I styled with 
       <pubDate>Tue, 23 Nov 2010 18:18:45 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/travels/2010/11/23/days-61-to-63-saturday-13th-to-monday-15th-november-fort-cochin-kerala/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;/p&gt; 
 &lt;p&gt;Saturday morning legged it from Seashore Residency and ended up in Elite Hotel on the main high street which is much much nicer. They had FOUR towels laid out on the bed without us even asking. And plenty of natural light. And no psycho bloke at the desk.&lt;/p&gt;
 &lt;p&gt;Wandered to Mantancherry on the other side of the island to Fort Cochin where I could have spent an absolute fortune. So many shops selling gorgeous jewellery, pashminas, cushion covers, ornaments you don’t need etc etc. Managed to avoid buying anything. &lt;/p&gt;</description>
     </item>
@@ -4315,7 +4321,7 @@ I’m over that initial culture-shock now (realising it was basically just Delhi
       <pubDate>Thu, 01 Jul 2010 14:36:48 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/07/01/challenge-update/</guid>
-      <description>&lt;p&gt;At the end of April &lt;a href=&#34;http://www.mattburns.co.uk/blog/2010/04/28/the-challenge-15-stone-heavier-and-25-minutes-faster&#34;&gt;I set myself the challenge&lt;/a&gt; of gaining a stone in weight and running a 5km race 2.5 minutes faster.&lt;/p&gt;
+      <description>&lt;p&gt;At the end of April &lt;a href=&#34;https://mattburns.co.uk/blog/2010/04/28/the-challenge-15-stone-heavier-and-25-minutes-faster&#34;&gt;I set myself the challenge&lt;/a&gt; of gaining a stone in weight and running a 5km race 2.5 minutes faster.&lt;/p&gt;
 &lt;p&gt;I ran the same race on Tuesday in 19:15, painfully close to my speed target of 19 minutes. However, I also weighed myself again but have actually lost a pound.&lt;/p&gt;
 &lt;p&gt;Gah!&lt;/p&gt;
 &lt;p&gt;Must try harder…&lt;/p&gt;</description>
@@ -4391,7 +4397,7 @@ canvas.stroke();
       <guid>https://mattburns.co.uk/blog/2010/01/12/software-company-locator/</guid>
       <description>&lt;p&gt;Looking software companies are near you? Looking to switch jobs or perhaps your company is looking for a local consultancy to collaborate on that big contract?&lt;/p&gt;
 &lt;p&gt;I helped &lt;a href=&#34;http://dantwining.com/2010/01/12/software-companies-in-bristol/&#34;&gt;Dan&lt;/a&gt; make this map as a quick way to find those companies:&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;http://maps.google.com/maps/ms?hl=en&amp;amp;ie=UTF8&amp;amp;oe=UTF8&amp;amp;msa=0&amp;amp;msid=110486494405162372809.00047cf73d0b0409aee21&amp;amp;ll=51.45283,-2.587452&amp;amp;spn=0.03744,0.072956&amp;amp;z=13&amp;amp;source=embed&#34;&gt;Larger version&lt;/a&gt;.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;&lt;a href=&#34;http://maps.google.com/maps/ms?hl=en&amp;amp;ie=UTF8&amp;amp;oe=UTF8&amp;amp;msa=0&amp;amp;msid=110486494405162372809.00047cf73d0b0409aee21&amp;amp;ll=51.45283,-2.587452&amp;amp;spn=0.03744,0.072956&amp;amp;z=13&amp;amp;source=embed&#34;&gt;Larger version&lt;/a&gt;.&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;We’d love it if you could &lt;a href=&#34;http://maps.google.com/maps/ms?hl=en&amp;amp;ie=UTF8&amp;amp;oe=UTF8&amp;amp;msa=0&amp;amp;msid=110486494405162372809.00047cf73d0b0409aee21&amp;amp;ll=51.45283,-2.587452&amp;amp;spn=0.03744,0.072956&amp;amp;z=13&amp;amp;source=embed&#34;&gt;contribute updates&lt;/a&gt;. Just log in with your Google account and click the “edit” button on the left.&lt;/p&gt;</description>
     </item>
     

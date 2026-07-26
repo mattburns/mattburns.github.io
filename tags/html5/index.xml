@@ -15,9 +15,15 @@
       <guid>https://mattburns.co.uk/blog/2011/04/17/how-to-detect-browser-support-for-file-api-and-drag-and-drop-with-javascript/</guid>
       <description>&lt;p&gt;Here’s a bit of info for you crazy HTML5 kids. You’ll need to include the handy &lt;a href=&#34;http://www.modernizr.com/&#34;&gt;Modernizr&lt;/a&gt; script for it to work.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;var browserIsSupported = !!window.FileReader &amp;amp;&amp;amp; Modernizr.draganddrop;
-&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;&lt;address&gt;
+  If you want see it in action, just visit [stolencamerafinder](https://www.stolencamerafinder.com/) 😉
+&lt;/address&gt;
+&lt;address&gt;
+  I’ve tested this in Firefox 3.6, Chrome 10, IE8, Safari 5 and Opera 11. The only browsers from that list to support FileReader from the File API and the drag and drop events are FF and Chrome.
+&lt;/address&gt;
+&lt;address&gt;
+  Let’s hope the other catch up soon…
+&lt;/address&gt;</description>
     </item>
     
   </channel>
