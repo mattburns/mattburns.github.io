@@ -30,6 +30,6 @@ Ahem. Oh. You’re still here. “What about the weight thing?”. Erm, yeah, we
 
 Yeah, I failed the challenge really, but I don’t care. It was great fun and with my fresh personal bests I’m buzzing!
 
- [1]: http://www.mattburns.co.uk/blog/2010/04/28/the-challenge-15-stone-heavier-and-25-minutes-faster/
+ [1]: /blog/2010/04/28/the-challenge-15-stone-heavier-and-25-minutes-faster/
  [2]: http://www.kymindash.co.uk/
  [3]: http://www.greatwesternrunners.org.uk/mobmatch/frm_icmm10.html

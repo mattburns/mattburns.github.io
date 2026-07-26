@@ -33,7 +33,7 @@ It’s pitch-black outside. when you switch off the lights in the van the only t
 
 And right at this moment I am catching up on some blogging and Matt is working on [www.stolencamerafinder.com][4] sat in a campervan listening to an iPod through the stereo somewhere in the middle of New Zealand.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060151.jpg
+ [1]: /travels-wp-content/uploads/2011/05/P1060151.jpg
  [2]: http://www.stolencamerafinder.com/
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060152.jpg
+ [3]: /travels-wp-content/uploads/2011/05/P1060152.jpg
  [4]: http://www.stolencamerafinder.com

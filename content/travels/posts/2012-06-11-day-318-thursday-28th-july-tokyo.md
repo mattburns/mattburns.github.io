@@ -37,8 +37,8 @@ _*Note: The first half of this post was written on 29th July 2011. The second ha
 _** this is pure coincidence that I am finishing day 318, 318 days after the occasion. I had no idea. That has hit me hard. That we have been back in the UK for the same length of time as our whole trip minus 1 day. Time is such a weird and wonderful thing. You can fit so much into it if you really try and nothing much if you stop trying._
 
  [1]: http://en.wikipedia.org/wiki/Pedestrian_scramble
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2012/06/IMG_9752.jpg
+ [2]: /travels-wp-content/uploads/2012/06/IMG_9752.jpg
  [3]: http://en.wikipedia.org/wiki/Takeshita_Street
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2012/06/P1080836.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2012/06/P1080850.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2012/06/P1080854.jpg
+ [4]: /travels-wp-content/uploads/2012/06/P1080836.jpg
+ [5]: /travels-wp-content/uploads/2012/06/P1080850.jpg
+ [6]: /travels-wp-content/uploads/2012/06/P1080854.jpg

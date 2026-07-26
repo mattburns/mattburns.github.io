@@ -46,14 +46,14 @@ Highlight was passing 3000km and buying a roadside dollar swede. What a beauty!
 
 ![](/travels-wp-content/uploads/2011/06/IMG_7172.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_7142.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_7145.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1070107.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_7150.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1070115.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1070132.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1070130.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1070135.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_7163.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_7158.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_7172.jpg
+ [1]: /travels-wp-content/uploads/2011/06/IMG_7142.jpg
+ [2]: /travels-wp-content/uploads/2011/06/IMG_7145.jpg
+ [3]: /travels-wp-content/uploads/2011/06/P1070107.jpg
+ [4]: /travels-wp-content/uploads/2011/06/IMG_7150.jpg
+ [5]: /travels-wp-content/uploads/2011/06/P1070115.jpg
+ [6]: /travels-wp-content/uploads/2011/06/P1070132.jpg
+ [7]: /travels-wp-content/uploads/2011/06/P1070130.jpg
+ [8]: /travels-wp-content/uploads/2011/06/P1070135.jpg
+ [9]: /travels-wp-content/uploads/2011/06/IMG_7163.jpg
+ [10]: /travels-wp-content/uploads/2011/06/IMG_7158.jpg
+ [11]: /travels-wp-content/uploads/2011/06/IMG_7172.jpg

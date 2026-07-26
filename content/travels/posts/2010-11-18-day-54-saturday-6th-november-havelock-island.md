@@ -21,4 +21,4 @@ And in a brief moment between downpours I managed to capture a photo of one of t
 
 ![P1020411](/travels-wp-content/uploads/2010/11/P1020411.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020411.jpg
+ [1]: /travels-wp-content/uploads/2010/11/P1020411.jpg

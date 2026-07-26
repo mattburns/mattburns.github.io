@@ -46,9 +46,9 @@ Arrived at Hervey Bay “transit centre” surrounded by the usual McDonalds, KF
 
 Our Friendly Hostel is like a mini house. 3 bedrooms per “unit” so there’s a maximum of 7 people to share the facilities with. A decent sized lounge and kitchen, a proper oven & a flat-screen TV. The only thing letting it down is it only has ONE toilet and ONE shower and they’re BOTH in the SAME room. WHY?
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070603.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8452.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8462.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070606.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070612.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8483.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P1070603.jpg
+ [2]: /travels-wp-content/uploads/2011/07/IMG_8452.jpg
+ [3]: /travels-wp-content/uploads/2011/07/IMG_8462.jpg
+ [4]: /travels-wp-content/uploads/2011/07/P1070606.jpg
+ [5]: /travels-wp-content/uploads/2011/07/P1070612.jpg
+ [6]: /travels-wp-content/uploads/2011/07/IMG_8483.jpg

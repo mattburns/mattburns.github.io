@@ -36,9 +36,6 @@ Matt promptly legged it back to the van when the goats started advancing…
 Pulled up on the side of a road for another timelapse opportunity and to throw together some sarnies for lunch whilst the camera did its stuff. Sat in the back of our campervan it made me think of the holidays my mum described to me of when she was a young girl. The whole family, mum & dad & 6 kids would pile into the car with the caravan on tow to head to the seaside and stop in a layby to have a full feast with china plates, cups & saucers. Those were the days.
 
 {{<youtube bJ0tk2iIUu0>}}
-
-&nbsp;
-
 Had a choice of two freebie DOC campsites tonight. The one closest to Kaikoura is 6km up a gravel track along the Puhi Puhi river. It is probably beautiful in good weather but the fog had descended so the mountains were hardly visible and we decided to move to the next campsite. Except we’d pulled up on the grass and got bogged down in mud. My fault. I’d said go forward when Matt wanted to go backwards. There we were wheels spinning and throwing up mud. It took 30 mins to get out after Matt’s good idea of padding it with sticks & gravels and flooring it. I thought we’d be stuck there all night.
 
 So we’re now at the 2nd choice further away from Kaikoura but we can just about see the sea out the back window and every so often a train comes rumbling by just between us and the coast. Looking forward to the morning light.

@@ -14,4 +14,4 @@ Tried to see some more penguins but we had arrived too early in the day and as w
 
 ![](/travels-wp-content/uploads/2011/06/P1070195.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P10701951.jpg
+ [1]: /travels-wp-content/uploads/2011/06/P10701951.jpg

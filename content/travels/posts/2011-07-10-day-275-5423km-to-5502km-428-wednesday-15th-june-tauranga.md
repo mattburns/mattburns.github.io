@@ -24,5 +24,5 @@ We’re running out of new ideas and so had fish & chips by the sea again. At le
 
 Now camping in the Marina carpark in Tauranga. We go to all the best places.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070407.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070409.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P1070407.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070409.jpg

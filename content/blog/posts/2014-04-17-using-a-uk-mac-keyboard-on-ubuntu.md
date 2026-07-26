@@ -5,7 +5,7 @@ type: post
 date: 2014-04-17T17:05:45+00:00
 url: /blog/2014/04/17/using-a-uk-mac-keyboard-on-ubuntu/
 cover:
-    image: /wp-content/uploads/2014/04/MB110B-672x372.jpg
+    image: /wp-content/uploads/2014/04/MB110B.jpg
 categories:
   - Uncategorized
 
@@ -29,7 +29,4 @@ Select “English (UK, Macintosh)”:
 Move it to the top of your list and BOSH! You’re done.
 
 ![](/wp-content/uploads/2014/04/Screenshot-from-2014-04-17-175945.png) 
-
-&nbsp;
-
 _(**Warning**: You may still swear looking for the # key because it’s not printed on the keyboard like it is on a macbook. It’s alt-3)_

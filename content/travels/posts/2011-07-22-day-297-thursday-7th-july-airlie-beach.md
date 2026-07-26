@@ -28,6 +28,6 @@ Spent 90mins pondering and testing them out and pondering some more and thinking
 
 So we have the above didgeridoo on order which will be winging its way to the UK in August. Better get practicing that circular breathing.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070817.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070819.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070826.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P1070817.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070819.jpg
+ [3]: /travels-wp-content/uploads/2011/07/P1070826.jpg

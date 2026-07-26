@@ -28,9 +28,6 @@ And gnome-friendly funghi.
 We’d been without wifi for 2 days and the withdrawal symptoms were showing. As luck would have it the local library has wifi so we parked up outside to get our free fix. 4 hours later and laptop batteries dead we realise we missed our opportunity to drive to Kaikoura and have ended up back at Alpine holiday park. 
 
 Had some timeout from bloggage and SCFing. Snuggled up and watched a DVD called “Up in the air” with George Clooney in it. Every so often the film would pause and we just thought it was the DVD player. We also thought it was a strange but clever film. Turns out it was on shuffle. Is that an indication of a good film? To be able to watch it all in the wrong order and we still get it?! Or is it a sign of insanity/too much fresh air?
-
-&nbsp;
-
 Oooh I actually managed some exercise first thing this morning. A 10 minute run (it was my first in at least a year) along a deserted road flanked by 50 foot tall autumnal beeches with a mountain in the distance. Can’t be bad.
 
 ![](/travels-wp-content/uploads/2011/05/P1060184.jpg)

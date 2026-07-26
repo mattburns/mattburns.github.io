@@ -32,9 +32,6 @@ On the way back to the main temple area we stopped at the [Cambodian Landmine mu
 Our tour took us past Eastern Mebon, Ta Som and Preah Khan and ended today at Phnom Bakheng on top of a hill overlooking Angkor.
 
 Quite a few of the temples were still crumbling and had to be held up by makeshift scaffolding.
-
-&nbsp;
-
 ![](/travels-wp-content/uploads/2011/05/IMG_3768.jpg)
 
 Or were held up naturally by tree roots.![](/travels-wp-content/uploads/2011/05/IMG_3811.jpg)
@@ -45,7 +42,7 @@ East entrance to Preah Khan, guarded by rows of headless men holding a Naga. ![]
 
 ![](/travels-wp-content/uploads/2011/05/IMG_3881.jpg)
 
-Seems trees will grow anywhere these days[.![](/travels-wp-content/uploads/2011/05/IMG_3892_thumb.jpg)][11]
+Seems trees will grow anywhere these days[.![](/travels-wp-content/uploads/2011/05/IMG_3892.jpg)][11]
 
 ![](/travels-wp-content/uploads/2011/05/IMG_3908.jpg)
 
@@ -61,18 +58,18 @@ Stopping off on the way home to fill up with gas. It’s normal to buy petrol fr
 
 More temples tomorrow bright and early with Mr. Long.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_3741.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_3745.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_3751.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_3746.jpg
+ [1]: /travels-wp-content/uploads/2011/05/IMG_3741.jpg
+ [2]: /travels-wp-content/uploads/2011/05/IMG_3745.jpg
+ [3]: /travels-wp-content/uploads/2011/05/IMG_3751.jpg
+ [4]: /travels-wp-content/uploads/2011/05/IMG_3746.jpg
  [5]: http://www.cambodialandminemuseum.org/menu.html
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_3768.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_3811.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_3815.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_3846.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_3881.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_3892.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_3908.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_3940.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_3951.jpg
- [15]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_3972.jpg
+ [6]: /travels-wp-content/uploads/2011/05/IMG_3768.jpg
+ [7]: /travels-wp-content/uploads/2011/05/IMG_3811.jpg
+ [8]: /travels-wp-content/uploads/2011/05/IMG_3815.jpg
+ [9]: /travels-wp-content/uploads/2011/05/IMG_3846.jpg
+ [10]: /travels-wp-content/uploads/2011/05/IMG_3881.jpg
+ [11]: /travels-wp-content/uploads/2011/05/IMG_3892.jpg
+ [12]: /travels-wp-content/uploads/2011/05/IMG_3908.jpg
+ [13]: /travels-wp-content/uploads/2011/05/IMG_3940.jpg
+ [14]: /travels-wp-content/uploads/2011/05/IMG_3951.jpg
+ [15]: /travels-wp-content/uploads/2011/05/IMG_3972.jpg

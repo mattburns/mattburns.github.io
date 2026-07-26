@@ -62,7 +62,7 @@ The station consisted of wooden huts which we couldn’t go into as you have to 
 
 It was a little soggy, or should I say _we_ were a little soggy, by this point. But still chirpy 2 hours into the hike.
 
-![](/travels-wp-content/uploads/2011/11/P1080736_thumb.jpg)
+![](/travels-wp-content/uploads/2011/11/P1080736.jpg)
 
 > 00:37 – 3.1km / 255 mins to go
 
@@ -110,7 +110,7 @@ Turns out 9th station had collapsed and was no more. We don’t know what happen
 
 By 04:38 the weather was pretty harsh…
 
-![](/travels-wp-content/uploads/2011/11/P1080761_thumb.jpg)
+![](/travels-wp-content/uploads/2011/11/P1080761.jpg)
 
 …but the end was in sight as we reached the Torii gate…
 
@@ -179,9 +179,6 @@ Then at 06:25 the cloud cover began to clear…
 ![](/travels-wp-content/uploads/2011/11/IMG_9750.jpg)
 
 Others taking a well deserved rest too
-
-&nbsp;
-
 ![](/travels-wp-content/uploads/2011/11/P1080821.jpg)
 
 07:21 A 20 minute queue for the loo halfway down a mountain. Can’t beat the views. Shame about the eco loos which were so disgusting I can’t write any more as want to erase it from my memory. Perhaps it was more shocking because we were in Japan one of the most advanced and cleanest countries on the planet. If you’re ever on Mt Fuji and can wait another hour the next loos are slightly better and you won’t have to cross your legs forever and a day.
@@ -209,9 +206,6 @@ As we sat there bus loads of walkers arrived ready for their trip up the mountai
 Back in Tokyo by 12:30 it felt like another world and it had all been a dream.
 
 ![](/travels-wp-content/uploads/2011/11/P1080835.jpg)
-
-&nbsp;
-
 So after a generally negative blog, what did we really think of Fuji-san? We have never been so cold in our lives. We thought Sandakphu was chilly. That was tropical compared to this. Our lungs compressed until we could hardly breathe, our hands were so numb we couldn’t put our gloves on properly without using our teeth, we were soaked to the bone, tired out, aching limbs, too many people and there was nothing to see at the top.
 
 BUT it is one of the best experiences we’ve had of this entire trip. It it a massive achievement to have climbed the highest mountain in Japan and we feel bloody great about it. What an amazing high to go home on (excuse the pun). Love it.

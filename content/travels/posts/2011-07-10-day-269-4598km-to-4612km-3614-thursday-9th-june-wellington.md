@@ -47,9 +47,6 @@ We ditch the walking tour and go straight to Te Papa the national museum. Althou
 ![](/travels-wp-content/uploads/2011/07/IMG_7574.jpg)
 
 {{<youtube 5qxbu5KwCDs>}}
-
-&nbsp;
-
 An impressive monster of a building right on the waterfront it is very well designed and has lots of cool interactive science-y stuff to keep Matt happy. There’s a lot of interesting info about how NZ was formed, the Ring of Fire and where all of the volcanoes are related to the earthquakes that have occurred. We didn’t realise that over the past century there has been some kind of earthquake, tsunami or volcano eruption pretty much every other year somewhere in NZ. Lake Taupo, on our list of places to visit in the North Island, is in fact an active volcano. What??!
 
 Back on the walking tour we wander through Civic Square with a cleverly suspended silver fern ball at its centre…
@@ -72,14 +69,14 @@ This is one place we could definitely stay in for a while.
 
 ![](/travels-wp-content/uploads/2011/07/IMG_7571.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7563.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070296.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070298.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7566.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070300.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070314.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7574.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7578.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070321.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7600.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7571.jpg
+ [1]: /travels-wp-content/uploads/2011/07/IMG_7563.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070296.jpg
+ [3]: /travels-wp-content/uploads/2011/07/P1070298.jpg
+ [4]: /travels-wp-content/uploads/2011/07/IMG_7566.jpg
+ [5]: /travels-wp-content/uploads/2011/07/P1070300.jpg
+ [6]: /travels-wp-content/uploads/2011/07/P1070314.jpg
+ [7]: /travels-wp-content/uploads/2011/07/IMG_7574.jpg
+ [8]: /travels-wp-content/uploads/2011/07/IMG_7578.jpg
+ [9]: /travels-wp-content/uploads/2011/07/P1070321.jpg
+ [10]: /travels-wp-content/uploads/2011/07/IMG_7600.jpg
+ [11]: /travels-wp-content/uploads/2011/07/IMG_7571.jpg

@@ -21,5 +21,5 @@ Braved the post office. To send a parcel from India it has to be wrapped in whit
 
 Love Darjeeling. Will yet again be a shame to leave it. But will be good to get to some warmer climes again.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_6090.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_6091.jpg
+ [1]: /travels-wp-content/uploads/2010/11/IMG_6090.jpg
+ [2]: /travels-wp-content/uploads/2010/11/IMG_6091.jpg

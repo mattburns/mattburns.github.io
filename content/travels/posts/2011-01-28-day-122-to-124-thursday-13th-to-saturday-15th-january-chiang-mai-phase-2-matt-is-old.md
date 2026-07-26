@@ -53,62 +53,59 @@ All the fighters do a ritual before they fight, rocking on their legs in the cen
 
 The next match were 18 year olds (not considered professional) and then 60kg and 62kg adult professional fights. It was interesting to see the difference in skills from young to professional. Matt got right up at the ringside (and even on the ringside at one point) to take some incredible action shots whilst I watched from my plastic seat ouching and oohing but still watching. Being the most excited when one knocked the other down [_Haha. Brillliant. –Ed_]. 
 
-[Matt up close & personal<img title="P1040423" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040423" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040423_thumb.jpg" width="640" border="0" />][14]
+[Matt up close & personal<img title="P1040423" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040423" src="/travels-wp-content/uploads/2011/01/P1040423.jpg" width="640" border="0" />][14]
 
 ![matt in the action](/travels-wp-content/uploads/2011/01/P1040419.jpg)
 
 Seeing the skills of the previous guys made for a disappointing “international” match between an English guy and Thai guy which seemed to have been advertised as the main event. All the boxers had sixpacks because of the amount of training they do except this last Thai guy who was slightly chubby. It was embarrassing to watch. We wondered if they’d just asked two guys on the street to fight. I guess you have to start somewhere.
 
 As I said there were a lot of tourists there and everywhere you walk in Chiang Mai you see posters or are handed flyers for the next fight. So I wonder if the business of Muay Thai Boxing is kept alive by actually being an age-old Thai tradition or just by tourists who believe they’re seeing an age-old tradition.
-
-&nbsp;
-
 15th – We wanted to do something adventurous as Chiang Mai is known for it’s outdoor activities such as white water rafting, trekking and zipwires but that all seemed a bit too expensive so we opted for Thai Farm Cooking Class :) I’ve always wanted to learn how to make a Thai curry paste and what better place to learn.
 
 Had a really lovely day. We were picked up and taken to a local market where Max our teacher talked about different sauces and rices. Then on we went 20km north of Chiang Mai to an organic farm with a similar feel to Butterfly. Lots of&nbsp; lily ponds and flowers and large wooden rustic buildings. And we spent the day cooking thai curry, tom yum shrimp soup, pad thai, spring rolls, papaya salad, chicken with basil and mango and sticky rice ( which sounds weird but is absolutely delicious). Mum, you know what I said about not wanting a rice cooker, well I want one now! 
 
 Even Matt enjoyed himself :)
 
-[Max the teacher and Thai papayas<img title="P1040432" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040432" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040432_thumb.jpg" width="360" border="0" />][16]&nbsp;[setting for curry paste making<img title="P1040461-1" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040461-1" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P10404611_thumb.jpg" width="640" border="0" />][17]&nbsp;[ingredients for Thai curry<img title="thai curry ingredients" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="428" alt="thai curry ingredients" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040440_thumb.jpg" width="640" border="0" />][18]
+[Max the teacher and Thai papayas<img title="P1040432" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040432" src="/travels-wp-content/uploads/2011/01/P1040432.jpg" width="360" border="0" />][16]&nbsp;[setting for curry paste making<img title="P1040461-1" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040461-1" src="/travels-wp-content/uploads/2011/01/P10404611.jpg" width="640" border="0" />][17]&nbsp;[ingredients for Thai curry<img title="thai curry ingredients" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="428" alt="thai curry ingredients" src="/travels-wp-content/uploads/2011/01/P1040440.jpg" width="640" border="0" />][18]
 
-[expert chef stirfrying chicken & basil leaves<img title="matt making stirfry chicken with basil" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="matt making stirfry chicken with basil" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040449_thumb.jpg" width="360" border="0" />][19]
+[expert chef stirfrying chicken & basil leaves<img title="matt making stirfry chicken with basil" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="matt making stirfry chicken with basil" src="/travels-wp-content/uploads/2011/01/P1040449.jpg" width="360" border="0" />][19]
 
 [expert chef stuffing face with mango & sticky rice][20]
 
-<img title="mango & sticky rice" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="mango & sticky rice" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040460_thumb.jpg" width="360" border="0" />
+<img title="mango & sticky rice" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="mango & sticky rice" src="/travels-wp-content/uploads/2011/01/P1040460.jpg" width="360" border="0" />
 
-[Lots of concentration required to make a papaya salad<img title="IMG_1603" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_1603" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1603_thumb.jpg" width="640" border="0" />][21]&nbsp;
+[Lots of concentration required to make a papaya salad<img title="IMG_1603" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_1603" src="/travels-wp-content/uploads/2011/01/IMG_1603.jpg" width="640" border="0" />][21]&nbsp;
 
-[Less required for hot pan & oil (pad thai)<img title="IMG_1615" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_1615" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1615_thumb.jpg" width="320" border="0" />][22]&nbsp;[Mmmm food…<img title="IMG_1608" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_1608" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1608_thumb.jpg" width="640" border="0" />][23]
+[Less required for hot pan & oil (pad thai)<img title="IMG_1615" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_1615" src="/travels-wp-content/uploads/2011/01/IMG_1615.jpg" width="320" border="0" />][22]&nbsp;[Mmmm food…<img title="IMG_1608" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_1608" src="/travels-wp-content/uploads/2011/01/IMG_1608.jpg" width="640" border="0" />][23]
 
-[We made this :)<img title="IMG_1610" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_1610" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1610_thumb.jpg" width="640" border="0" />][24] 
+[We made this :)<img title="IMG_1610" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_1610" src="/travels-wp-content/uploads/2011/01/IMG_1610.jpg" width="640" border="0" />][24] 
 
-[Thai Cooking Organic Farm<img title="P1040463" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040463" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040463_thumb.jpg" width="360" border="0" />][25] 
+[Thai Cooking Organic Farm<img title="P1040463" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040463" src="/travels-wp-content/uploads/2011/01/P1040463.jpg" width="360" border="0" />][25] 
 
 After a hard day of cooking we went back to MD House and had a night in watching The Inbetweeners Season 3 (such genius comedy) whilst eating the rest of the food we’d cooked that afternoon. Yum.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1619.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1075.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1083.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1096.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P10403871.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1124.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1137.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1138.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040392.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P10404071.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1156.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1345.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1361.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040423.jpg
- [15]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040419.jpg
- [16]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040432.jpg
- [17]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P10404611.jpg
- [18]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040440.jpg
- [19]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040449.jpg
- [20]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040460.jpg
- [21]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1603.jpg
- [22]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1615.jpg
- [23]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1608.jpg
- [24]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1610.jpg
- [25]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040463.jpg
+ [1]: /travels-wp-content/uploads/2011/01/IMG_1619.jpg
+ [2]: /travels-wp-content/uploads/2011/01/IMG_1075.jpg
+ [3]: /travels-wp-content/uploads/2011/01/IMG_1083.jpg
+ [4]: /travels-wp-content/uploads/2011/01/IMG_1096.jpg
+ [5]: /travels-wp-content/uploads/2011/01/P10403871.jpg
+ [6]: /travels-wp-content/uploads/2011/01/IMG_1124.jpg
+ [7]: /travels-wp-content/uploads/2011/01/IMG_1137.jpg
+ [8]: /travels-wp-content/uploads/2011/01/IMG_1138.jpg
+ [9]: /travels-wp-content/uploads/2011/01/P1040392.jpg
+ [10]: /travels-wp-content/uploads/2011/01/P10404071.jpg
+ [11]: /travels-wp-content/uploads/2011/01/IMG_1156.jpg
+ [12]: /travels-wp-content/uploads/2011/01/IMG_1345.jpg
+ [13]: /travels-wp-content/uploads/2011/01/IMG_1361.jpg
+ [14]: /travels-wp-content/uploads/2011/01/P1040423.jpg
+ [15]: /travels-wp-content/uploads/2011/01/P1040419.jpg
+ [16]: /travels-wp-content/uploads/2011/01/P1040432.jpg
+ [17]: /travels-wp-content/uploads/2011/01/P10404611.jpg
+ [18]: /travels-wp-content/uploads/2011/01/P1040440.jpg
+ [19]: /travels-wp-content/uploads/2011/01/P1040449.jpg
+ [20]: /travels-wp-content/uploads/2011/01/P1040460.jpg
+ [21]: /travels-wp-content/uploads/2011/01/IMG_1603.jpg
+ [22]: /travels-wp-content/uploads/2011/01/IMG_1615.jpg
+ [23]: /travels-wp-content/uploads/2011/01/IMG_1608.jpg
+ [24]: /travels-wp-content/uploads/2011/01/IMG_1610.jpg
+ [25]: /travels-wp-content/uploads/2011/01/P1040463.jpg

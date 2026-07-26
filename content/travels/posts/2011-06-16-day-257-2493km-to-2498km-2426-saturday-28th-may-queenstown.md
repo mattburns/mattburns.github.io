@@ -16,4 +16,4 @@ Managed to get enough energy to move to the holiday park in town as we know we w
 
 I’m sure we must still be drunk though as just gone and booked a bungy jump for tomorrow. Arghhh!
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060898.jpg
+ [1]: /travels-wp-content/uploads/2011/06/P1060898.jpg

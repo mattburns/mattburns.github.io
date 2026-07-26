@@ -34,7 +34,7 @@ At another DOC campsite near another lake. Looks a pretty cool location. Doesnâ€
 
 ![](/travels-wp-content/uploads/2011/07/IMG_7613.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070327.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070331.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070337.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7613.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P1070327.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070331.jpg
+ [3]: /travels-wp-content/uploads/2011/07/P1070337.jpg
+ [4]: /travels-wp-content/uploads/2011/07/IMG_7613.jpg

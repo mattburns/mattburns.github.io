@@ -16,4 +16,4 @@ Managed to make it to Auckland mid-afternoon and can’t get over the size of th
 
 Visited Isla & Neil, whom we had met four times in India & shared the [Old Cask Rum with in Fort Kochin][1]. It was good to see them and share travelling stories. We had home-cooked food & lots of red wine and it was nice to sleep in a normal bed after so many weeks in the campervan.
 
- [1]: http://www.mattburns.co.uk/travels/2010/11/23/days-61-to-63-saturday-13th-to-monday-15th-november-fort-cochin-kerala/
+ [1]: /travels/2010/11/23/days-61-to-63-saturday-13th-to-monday-15th-november-fort-cochin-kerala/

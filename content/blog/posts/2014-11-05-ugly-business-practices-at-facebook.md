@@ -24,4 +24,4 @@ Seriously facebook, _what are you playing at_?
 
  [1]: http://techcrunch.com/2014/04/09/facebook-messenger-or-the-highway/
  [2]: http://www.techrepublic.com/article/misplaced-fear-about-facebook-messenger-for-android/
- [3]: http://www.mattburns.co.uk/blog/wp-content/uploads/2014/11/Screenshot_2014-11-04-23-06-51-2.png
+ [3]: /wp-content/uploads/2014/11/Screenshot_2014-11-04-23-06-51-2.png

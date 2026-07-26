@@ -36,11 +36,11 @@ Interesting fact near the swingbridge.![](/travels-wp-content/uploads/2011/06/P1
 
 Westport was rainy so found the local brewery West Coast Brewery Co and stopped by for some tastings. No tour involved. You sit on cushion-padded beer barrels huddled around a larger barrel-table having a hard job keeping warm with the guy who pours the beers and tasted 7 beers. We had the added company of a couple of entertaining Irish lads on a world tour. Left with 2 litres of Pale Ale and 2 litres of Black Lager. Both freshly poured into plastic bottles. Good old-fashioned breweries are the best. Who needs a tour?
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5779.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5780.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5791.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060545.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5797.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060530.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060536.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060534.jpg
+ [1]: /travels-wp-content/uploads/2011/06/IMG_5779.jpg
+ [2]: /travels-wp-content/uploads/2011/06/IMG_5780.jpg
+ [3]: /travels-wp-content/uploads/2011/06/IMG_5791.jpg
+ [4]: /travels-wp-content/uploads/2011/06/P1060545.jpg
+ [5]: /travels-wp-content/uploads/2011/06/IMG_5797.jpg
+ [6]: /travels-wp-content/uploads/2011/06/P1060530.jpg
+ [7]: /travels-wp-content/uploads/2011/06/P1060536.jpg
+ [8]: /travels-wp-content/uploads/2011/06/P1060534.jpg

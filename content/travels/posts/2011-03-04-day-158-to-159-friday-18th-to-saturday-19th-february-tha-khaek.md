@@ -21,4 +21,4 @@ Despite not doing much in Tha Khaek we did find a hidden gem on Saturday night. 
 
 Another sunset over Thailand![P1050136](/travels-wp-content/uploads/2011/03/P1050136.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050136.jpg
+ [1]: /travels-wp-content/uploads/2011/03/P1050136.jpg

@@ -31,9 +31,6 @@ This one was a cutie though 😀
 ![](/travels-wp-content/uploads/2011/10/IMG_9484.jpg)
 
 Enough of deer, we had temples to visit. Toda-ji was first on the list. The world’s largest wooden structure.
-
-&nbsp;
-
 ![](/travels-wp-content/uploads/2011/10/IMG_9457.jpg)
 
 ![](/travels-wp-content/uploads/2011/10/P1080548.jpg)
@@ -81,28 +78,25 @@ For some reason we headed out to Gion again for dinner, forgetting it was really
 We struggled to find anywhere cheap enough or open enough until we ended up on the same street as last night’s sushi bar. It was a welcoming little noodle bar and we asked for the menu. The guy smiled at us and directed us towards what looked like a ticket machine with lots of buttons and Japanese writing. You had to put money in, select what you wanted and get token out. This was exciting, it was pot luck!
 
 What came was a bowl of steaming hot noodles with pork cooked to order in a flash. Japanese fast food. Delicious.
-
-&nbsp;
-
 A Geisha in Gion.
 
 ![](/travels-wp-content/uploads/2011/10/IMG_9525.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9482.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9448.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9455.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9484.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9457.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080548.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9463.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9480.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9483.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/2011-07-24.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080536.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9490.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9492.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9497.jpg
- [15]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9511.jpg
- [16]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9512.jpg
- [17]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9523.jpg
- [18]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9525.jpg
+ [1]: /travels-wp-content/uploads/2011/10/IMG_9482.jpg
+ [2]: /travels-wp-content/uploads/2011/10/IMG_9448.jpg
+ [3]: /travels-wp-content/uploads/2011/10/IMG_9455.jpg
+ [4]: /travels-wp-content/uploads/2011/10/IMG_9484.jpg
+ [5]: /travels-wp-content/uploads/2011/10/IMG_9457.jpg
+ [6]: /travels-wp-content/uploads/2011/10/P1080548.jpg
+ [7]: /travels-wp-content/uploads/2011/10/IMG_9463.jpg
+ [8]: /travels-wp-content/uploads/2011/10/IMG_9480.jpg
+ [9]: /travels-wp-content/uploads/2011/10/IMG_9483.jpg
+ [10]: /travels-wp-content/uploads/2011/10/2011-07-24.jpg
+ [11]: /travels-wp-content/uploads/2011/10/P1080536.jpg
+ [12]: /travels-wp-content/uploads/2011/10/IMG_9490.jpg
+ [13]: /travels-wp-content/uploads/2011/10/IMG_9492.jpg
+ [14]: /travels-wp-content/uploads/2011/10/IMG_9497.jpg
+ [15]: /travels-wp-content/uploads/2011/10/IMG_9511.jpg
+ [16]: /travels-wp-content/uploads/2011/10/IMG_9512.jpg
+ [17]: /travels-wp-content/uploads/2011/10/IMG_9523.jpg
+ [18]: /travels-wp-content/uploads/2011/10/IMG_9525.jpg

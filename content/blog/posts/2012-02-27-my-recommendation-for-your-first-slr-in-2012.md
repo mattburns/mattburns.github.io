@@ -53,4 +53,4 @@ Even though this equipment is described as “entry-level” don’t let that pu
 
 If you take this advice, be sure to post a link to your flickr / Google+ photos page in the comments below. 😉
 
- [1]: http://www.mattburns.co.uk/blog/2010/05/22/buying-your-first-slr/ "Buying Your First SLR"
+ [1]: /blog/2010/05/22/buying-your-first-slr/ "Buying Your First SLR"

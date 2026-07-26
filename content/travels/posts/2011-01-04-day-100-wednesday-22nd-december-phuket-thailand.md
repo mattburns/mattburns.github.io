@@ -17,6 +17,6 @@ The beach is lovely, although mostly covered in sunloungers, we found a spot to 
 
 Had my first green curry of thailand which was absolutely delicious, watched the sun set over Hat Kata, walked back to Hat Karon via the main road which was a bit suicidal and found the only non-girlie bar called Nakonnai with live music and a pool table and we were absolutely rubbish! Completely out of practice.
 
-<img title="IMG_0136" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="361" alt="IMG_0136" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0136_thumb.jpg" width="640" border="0" />
+<img title="IMG_0136" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="361" alt="IMG_0136" src="/travels-wp-content/uploads/2011/01/IMG_0136_thumb.jpg" width="640" border="0" />
 
 Only 1 day in Phuket as off to Ko Lanta tomorrow.

@@ -13,13 +13,13 @@ We have spent most of December so far in hospital. Matt completely lost his appe
 
 The receptionist brought us to the “hospital”, Dr Divakar Lolavekar’s Hospital to be precise, which seems to take up half a floor in an office block above a bank and below “Atul’s clinical lab”. We were greeted by a group of young giggly nurses. Did we want a private room? A/C or non-A/C?&nbsp; We are in a large room with 2 hospital beds, a TV, 2 fans. A/C and attached bathroom. All for 750 per night. Cheaper than Margao Residency. They took his details and I had to sign the form – it was my responsibility to admit him!
 
-[The hospital<img title="Matt's hospital" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="480" alt="Matt's hospital" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/P1030068_thumb.jpg" width="360" border="0" />][1]
+[The hospital<img title="Matt's hospital" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="480" alt="Matt's hospital" src="/travels-wp-content/uploads/2010/12/P1030068.jpg" width="360" border="0" />][1]
 
-&nbsp;[Matt’s room – 1st floor, above Saraswat Bank sign to right of lamppost<img title="Matt's room - 1st floor, directly above the larger Saraswat Bank sign" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="480" alt="Matt's room - 1st floor, directly above the larger Saraswat Bank sign" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/P1030071_thumb.jpg" width="640" border="0" />][2] 
+&nbsp;[Matt’s room – 1st floor, above Saraswat Bank sign to right of lamppost<img title="Matt's room - 1st floor, directly above the larger Saraswat Bank sign" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="480" alt="Matt's room - 1st floor, directly above the larger Saraswat Bank sign" src="/travels-wp-content/uploads/2010/12/P1030071.jpg" width="640" border="0" />][2] 
 
 The nurses plugged Matt in last night and now 29hrs later he’s still plugged in. Matt asked one nurse are the needles disposable and she replied innocently she didn’t know as she only started that day! Luckily the head nurse confirmed that everything is one use only so put our minds at ease. They’ve got him on metrogyl and saline. Plus injections and some tablet a couple of times a day. We don’t really know what they’re giving him altogether but he’s improving. 
 
-[The patient<img title="P1030065" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="480" alt="P1030065" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/P1030065_thumb.jpg" width="360" border="0" />][3]
+[The patient<img title="P1030065" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="480" alt="P1030065" src="/travels-wp-content/uploads/2010/12/P1030065.jpg" width="360" border="0" />][3]
 
 Yesterday the doctor said 1-2 days in hospital. Today a nurse said 2-3 days. Both hoping we can check out tomorrow.
 
@@ -35,6 +35,6 @@ For all the gripes we have of this country there have now been many instances wh
 
 Just as an aside, Anita had been to stay with her sister in Kent for 6 months over the summer and they’d taken her to Margate. She said the water was absolutely freezing and prefers Goa’s beaches. :)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/P1030068.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/P1030071.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/P1030065.jpg
+ [1]: /travels-wp-content/uploads/2010/12/P1030068.jpg
+ [2]: /travels-wp-content/uploads/2010/12/P1030071.jpg
+ [3]: /travels-wp-content/uploads/2010/12/P1030065.jpg

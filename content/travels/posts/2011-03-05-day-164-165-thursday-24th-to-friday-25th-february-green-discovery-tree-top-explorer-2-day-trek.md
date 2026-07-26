@@ -33,7 +33,7 @@ More trekking and we arrive at our first zip line. A mini one to get us used to 
 
 And then we’re off. Zip line after zip line. With some lowering on rope through platforms to zip lines below. Somehow are at the top of an amazing valley blanketed with jungle and waterfalls and invisible wires until you get up close that take you on exhilarating rides across the front of waterfalls.
 
-<img title="IMG_2725" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_2725" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2725_thumb.jpg" width="320" border="0" />
+<img title="IMG_2725" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_2725" src="/travels-wp-content/uploads/2011/03/IMG_2725_thumb.jpg" width="320" border="0" />
 
 ![P1050331](/travels-wp-content/uploads/2011/03/P1050331.jpg)
 
@@ -57,7 +57,7 @@ Our tree house (on the left)![IMG_2793](/travels-wp-content/uploads/2011/03/IMG_
 
 True air-conditioned accommodation – all night you could hear the waterfalls ![IMG_2761](/travels-wp-content/uploads/2011/03/IMG_2761.jpg) 
 
-The only entrance to our treehouse – great fun in pitch black :) [][12]<img title="The only entrance to our treehouse" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="The only entrance to our treehouse" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2767_thumb.jpg" width="320" border="0" />&nbsp;![P1050321](/travels-wp-content/uploads/2011/03/P1050321.jpg) 
+The only entrance to our treehouse – great fun in pitch black :) [][12]<img title="The only entrance to our treehouse" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="The only entrance to our treehouse" src="/travels-wp-content/uploads/2011/03/IMG_2767.jpg" width="320" border="0" />&nbsp;![P1050321](/travels-wp-content/uploads/2011/03/P1050321.jpg) 
 
 Tuesday morning Matt & I opted for another open-air waterfall shower and this time no-one else was around so it really felt unreal. Just us 2 stood under the waterfall in the middle of the jungle.
 
@@ -102,36 +102,33 @@ The climb up was worth every drop of sweat as we reached the top of the waterfal
 A bit more perspiring took us upwards some more and onto level ground through the coffee plantations. The last 5 mins we hitched a ride in the back of the truck. It was pretty difficult to get out as the legs had already started to seize up!
 
 ![IMG_2864](/travels-wp-content/uploads/2011/03/IMG_2864.jpg) </p> </p> 
-
-&nbsp;
-
 Matt met these cheeky monkeys around the back of the last pit stop. 
 
 ![IMG_2869](/travels-wp-content/uploads/2011/03/IMG_2869.jpg)
 
 Tree Top Explorers![IMG_2771](/travels-wp-content/uploads/2011/03/IMG_2771.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2868.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050241.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050251.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050248.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050331.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2718.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050308.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2728.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2753.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2793.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2761.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2767.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050321.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2782.jpg
- [15]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2801.jpg
- [16]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2816.jpg
- [17]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050354.jpg
- [18]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2855.jpg
- [19]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050363.jpg
- [20]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050364.jpg
- [21]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050366.jpg
- [22]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2864.jpg
- [23]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2869.jpg
- [24]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2771.jpg
+ [1]: /travels-wp-content/uploads/2011/03/IMG_2868.jpg
+ [2]: /travels-wp-content/uploads/2011/03/P1050241.jpg
+ [3]: /travels-wp-content/uploads/2011/03/P1050251.jpg
+ [4]: /travels-wp-content/uploads/2011/03/P1050248.jpg
+ [5]: /travels-wp-content/uploads/2011/03/P1050331.jpg
+ [6]: /travels-wp-content/uploads/2011/03/IMG_2718.jpg
+ [7]: /travels-wp-content/uploads/2011/03/P1050308.jpg
+ [8]: /travels-wp-content/uploads/2011/03/IMG_2728.jpg
+ [9]: /travels-wp-content/uploads/2011/03/IMG_2753.jpg
+ [10]: /travels-wp-content/uploads/2011/03/IMG_2793.jpg
+ [11]: /travels-wp-content/uploads/2011/03/IMG_2761.jpg
+ [12]: /travels-wp-content/uploads/2011/03/IMG_2767.jpg
+ [13]: /travels-wp-content/uploads/2011/03/P1050321.jpg
+ [14]: /travels-wp-content/uploads/2011/03/IMG_2782.jpg
+ [15]: /travels-wp-content/uploads/2011/03/IMG_2801.jpg
+ [16]: /travels-wp-content/uploads/2011/03/IMG_2816.jpg
+ [17]: /travels-wp-content/uploads/2011/03/P1050354.jpg
+ [18]: /travels-wp-content/uploads/2011/03/IMG_2855.jpg
+ [19]: /travels-wp-content/uploads/2011/03/P1050363.jpg
+ [20]: /travels-wp-content/uploads/2011/03/P1050364.jpg
+ [21]: /travels-wp-content/uploads/2011/03/P1050366.jpg
+ [22]: /travels-wp-content/uploads/2011/03/IMG_2864.jpg
+ [23]: /travels-wp-content/uploads/2011/03/IMG_2869.jpg
+ [24]: /travels-wp-content/uploads/2011/03/IMG_2771.jpg

@@ -25,7 +25,7 @@ As there were a number of volunteers, I was able to leave earlier and was back b
 
 Plus the biggest chocolate muffin I’d ever seen as a birthday cake.
 
-<img title="P1040857" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040857" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040857_thumb.jpg" width="360" border="0" />
+<img title="P1040857" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040857" src="/travels-wp-content/uploads/2011/02/P1040857_thumb.jpg" width="360" border="0" />
 
 Later we went out for dinner at Elephant Crossing, a restaurant built over the river. And we had the most delicious bottle of red wine with our dinner. I may have said in previous blogs but it’s something we really miss. Wine is usually too expensive here and Beerlao is 80p for 660ml so guess which always wins. It was a real treat.
 
@@ -33,6 +33,6 @@ Later we went out for dinner at Elephant Crossing, a restaurant built over the r
 
 To follow our dinner we headed back and stuffed our faces with chocolate chip muffin. Mmmmm perfect end to a birthday :)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2227.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2230.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2232.jpg
+ [1]: /travels-wp-content/uploads/2011/02/IMG_2227.jpg
+ [2]: /travels-wp-content/uploads/2011/02/IMG_2230.jpg
+ [3]: /travels-wp-content/uploads/2011/02/IMG_2232.jpg

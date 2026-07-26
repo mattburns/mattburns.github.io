@@ -29,7 +29,7 @@ Plan B – to go to Hampi near Goa and the Ajanta and Ellory caves near Aurangab
 
 Mustn’t forget my 3rd grey-hair related comment of the trip so far. We were headed back from the main beach past numerous shops with people saying the usual, “You want t-shirt/dress/bedsheet…Come look in my shop…I give you good price, etc etc” when a young boy sat outside one shop came out with something completely different. “How old are you madam?”, he asked innocently, “ your face is young but your hair is old”. Hmmmm pass the henna….
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020696.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020708.jpg
- [3]: file:///C:/Documents%20and%20Settings/matt/Local%20Settings/Temp/WindowsLiveWriter-429641856/supfiles1DAA8B/P10207142.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020714.jpg
+ [1]: /travels-wp-content/uploads/2010/11/P1020696.jpg
+ [2]: /travels-wp-content/uploads/2010/11/P1020708.jpg
+ [3]: /travels-wp-content/uploads/2010/11/P1020714.jpg
+ [4]: /travels-wp-content/uploads/2010/11/P1020714.jpg

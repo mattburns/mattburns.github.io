@@ -21,4 +21,4 @@ After sunset got the ferry back to Ernakulum and randomly ended up at the Intern
 
 Completed our Kerala journey full circle with a Pizza Hut visit. Unfortunately Matt started to feel ill again. I just thought he didn’t like the fact that I made him eat pasta instead of pizza but I don’t think it’s a good sign. Especially not for a 12hr train journey to Goa.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/P1030044.jpg
+ [1]: /travels-wp-content/uploads/2010/12/P1030044.jpg

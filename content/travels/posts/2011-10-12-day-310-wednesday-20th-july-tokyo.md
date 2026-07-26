@@ -50,13 +50,13 @@ Final stop of the day, Shibuya, for sushi in a teeny alleyway restaurant where t
 
 Thoughts after our first day in Japan. Wish we had longer than 9 days to enjoy it!
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080225.jpg
+ [1]: /travels-wp-content/uploads/2011/10/P1080225.jpg
  [2]: http://www.japan-rail-pass.com/train-japon/
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080855.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080857.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080251.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9159.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9158.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9167.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9177.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080254.jpg
+ [3]: /travels-wp-content/uploads/2011/10/P1080855.jpg
+ [4]: /travels-wp-content/uploads/2011/10/P1080857.jpg
+ [5]: /travels-wp-content/uploads/2011/10/P1080251.jpg
+ [6]: /travels-wp-content/uploads/2011/10/IMG_9159.jpg
+ [7]: /travels-wp-content/uploads/2011/10/IMG_9158.jpg
+ [8]: /travels-wp-content/uploads/2011/10/IMG_9167.jpg
+ [9]: /travels-wp-content/uploads/2011/10/IMG_9177.jpg
+ [10]: /travels-wp-content/uploads/2011/10/P1080254.jpg

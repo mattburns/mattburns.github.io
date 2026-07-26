@@ -26,9 +26,6 @@ An elderly man passed stopped and asked us where we were from. When we said UK h
 Another guy pulled up outside our hostel and started chatting to us asking where we were headed next. We had planned to go to Lyttleton but hadn’t realised that was the epicentre of the quake so the main street in the small town is to be pulled down completely. How sad.
 
 _[ 11/05/11 heard on the radio that they need to demolish 900 buildings within Christchurch city centre. They started pulling down the TV company building today. It was one we’d seen from a distance as it wasn’t far from Around the World hostel. It was 60 years old. ]_
-
-&nbsp;
-
 Picked up van and definitely feel like old people (sorry anyone with a motorhome) but it’s going to be good.
 
 We’ve hired it for 50 days. 50 days of a house on wheels. We’ve gone for the poncy option of having loo/shower & fridge, high enough even Matt has space to stand up straight and lots of power points for laptops for essential [SCF](http://www.stolencamerafinder.com/) work.
@@ -38,7 +35,4 @@ Back to domesticity with a kitchen on wheels. A big shop in Countdown supermarke
 Didn’t get out of Christchurch. Only as far as Spencer Beach holiday park. It took us so long to buy food it was getting dark and us being virgin campers needed to make sure we knew how this baby worked in the light. 
 
 Didn’t set the mileage counter either. So this is practice run day. Tomorrow we’re campervanning for real.
-
-&nbsp;
-
 Extreme cheese. First proper home-cooked food in the van. Good old-fashioned spag bol & red wine.![](/travels-wp-content/uploads/2011/05/P1060146.jpg)

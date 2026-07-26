@@ -13,7 +13,7 @@ Funny minivan journey with 16 adult passengers, 3 babies (one naked, one half-na
 
 Found another form of paradise again in Tree Top Ecolodge. Very gorgeous wooden bungalows on stilts with all furniture made from reclaimed wood including a very simple but beautiful lamp which had a tree stump for a base and a branch for the stand. The verandah ran the length of two sides of the bungalow with deckchair, hammock & desk and views across the Cambodian countryside. ![](/travels-wp-content/uploads/2011/04/P1050420.jpg)
 
-[Matt working alfresco![](/travels-wp-content/uploads/2011/04/P1050438_thumb.jpg)][2]
+[Matt working alfresco![](/travels-wp-content/uploads/2011/04/P1050438.jpg)][2]
 
 Plus a live-in lizard that appeared each evening to stare at us from the rafters.![](/travels-wp-content/uploads/2011/04/IMG_3239.jpg)
 
@@ -31,9 +31,9 @@ Rode our clattery hired bikes up & down, up & down to a blue crater lake believe
 
 One tip if you do visit this lake. Don’t bother walking all the way around as we did. There is nothing whatsoever to see past the piers. Just lots of trees and grass and bugs.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/P1050420.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/P1050438.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_3239.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_3243.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_3220.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/P1050434.jpg
+ [1]: /travels-wp-content/uploads/2011/04/P1050420.jpg
+ [2]: /travels-wp-content/uploads/2011/04/P1050438.jpg
+ [3]: /travels-wp-content/uploads/2011/04/IMG_3239.jpg
+ [4]: /travels-wp-content/uploads/2011/04/IMG_3243.jpg
+ [5]: /travels-wp-content/uploads/2011/04/IMG_3220.jpg
+ [6]: /travels-wp-content/uploads/2011/04/P1050434.jpg

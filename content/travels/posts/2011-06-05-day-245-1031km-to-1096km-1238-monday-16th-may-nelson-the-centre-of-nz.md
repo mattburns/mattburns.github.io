@@ -24,7 +24,7 @@ Our daily exercise consisted of a short hike up a hill to the centre of NZ.
 
 Parked up in Nelson I-Site carpark for the night. The first official place we’d found in a town for “free” camping. Not the most exotic place we’ve stayed but it allowed us to pop to the cinema across the road, have popcorn thrown at us by the ticket guy there, realise it was salted when I was craving sweet and watch a fab film called Source Code. You can tell why Matt wanted to watch it. And Jake Gyllenhaal helped persuade me 😉.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060403.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060421.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060420.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060416.jpg
+ [1]: /travels-wp-content/uploads/2011/06/P1060403.jpg
+ [2]: /travels-wp-content/uploads/2011/06/P1060421.jpg
+ [3]: /travels-wp-content/uploads/2011/06/P1060420.jpg
+ [4]: /travels-wp-content/uploads/2011/06/P1060416.jpg

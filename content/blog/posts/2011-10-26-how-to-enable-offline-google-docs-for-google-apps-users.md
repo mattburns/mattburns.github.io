@@ -28,4 +28,4 @@ Matt
 
  [1]: http://www.google.com/support/a/bin/answer.py?hl=en&answer=1642623
  [2]: https://docs.google.com/support/bin/answer.py?hl=en&answer=1628469&topic=1628465
- [3]: http://www.mattburns.co.uk/blog/wp-content/uploads/2011/10/offlinedocs.png
+ [3]: /wp-content/uploads/2011/10/offlinedocs.png

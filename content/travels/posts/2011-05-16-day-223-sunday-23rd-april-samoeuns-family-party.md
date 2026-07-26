@@ -35,4 +35,4 @@ Had to leave at 8pm with our slightly tipsy tuk-tuk driver as I had to get up to
 
 It was good to meet Samoeun’s family and see where he lived. It’s an eye-opener to be in such a gorgeous setting – next to paddie fields, surrounded by palm trees – and see a tiny wooden home on stilts for 5 adults. No toilet. Just a piece of material to hide your modesty in the banana trees next to the chicken coop & pigsty. And a good community where everyone knows each other and helps each other out.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060076_thumb.jpg
+ [1]: /travels-wp-content/uploads/2011/05/P1060076.jpg

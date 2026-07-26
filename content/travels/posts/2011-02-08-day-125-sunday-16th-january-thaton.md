@@ -27,8 +27,8 @@ We did see lots of visitors at the Wat Thaton, however. A temple at the top of&n
 
 ![P1040504](/travels-wp-content/uploads/2011/02/P1040504.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040480.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_1622.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040476.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_1672.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040504.jpg
+ [1]: /travels-wp-content/uploads/2011/02/P1040480.jpg
+ [2]: /travels-wp-content/uploads/2011/02/IMG_1622.jpg
+ [3]: /travels-wp-content/uploads/2011/02/P1040476.jpg
+ [4]: /travels-wp-content/uploads/2011/02/IMG_1672.jpg
+ [5]: /travels-wp-content/uploads/2011/02/P1040504.jpg

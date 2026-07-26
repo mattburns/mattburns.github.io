@@ -40,9 +40,6 @@ Here’s my ant target that does the same thing but takes the credentials intera
 ```
 
 Obviously, if you want to run this target from your [CI][3] server then you’ll need to populate the email and password properties in some other way.
-
-&nbsp;
-
  [1]: https://developers.google.com/appengine/docs/java/tools/ant#The_Complete_Build_File
  [2]: http://ant.apache.org/manual/Tasks/input.html
  [3]: http://en.wikipedia.org/wiki/Continuous_integration

@@ -46,14 +46,14 @@ Ended a lovely day with a luvverly bag of chips on the beach bought from a chipp
 
 By the way does anyone know what Chicken Salt is?!
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070791.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070802.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8590.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8596.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070783.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070785.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8603.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070810.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070811.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070816.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070812.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P1070791.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070802.jpg
+ [3]: /travels-wp-content/uploads/2011/07/IMG_8590.jpg
+ [4]: /travels-wp-content/uploads/2011/07/IMG_8596.jpg
+ [5]: /travels-wp-content/uploads/2011/07/P1070783.jpg
+ [6]: /travels-wp-content/uploads/2011/07/P1070785.jpg
+ [7]: /travels-wp-content/uploads/2011/07/IMG_8603.jpg
+ [8]: /travels-wp-content/uploads/2011/07/P1070810.jpg
+ [9]: /travels-wp-content/uploads/2011/07/P1070811.jpg
+ [10]: /travels-wp-content/uploads/2011/07/P1070816.jpg
+ [11]: /travels-wp-content/uploads/2011/07/P1070812.jpg

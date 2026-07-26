@@ -35,7 +35,7 @@ There were 5 of us on the trek. Nathalie from Holland and [Elizabeth and Tom][1]
 
 14:30 back on the camels for 3 more hours. Must say we did stop a couple of times in the morning and afternoon at ponds for the camels to have a drink. At one pool of water as we were leaving, some farmers were herding what must have been at least 100 cows towards the water’s edge.
 
-<img class="alignnone size-medium wp-image-106" title="Having a break" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2010/10/P1010174-300x225.jpg" alt="" width="300" height="225" srcset="http://www.mattburns.co.uk/travels/wp-content/uploads/2010/10/P1010174-300x225.jpg 300w, http://www.mattburns.co.uk/travels/wp-content/uploads/2010/10/P1010174.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignnone size-medium wp-image-106" title="Having a break" src="/travels-wp-content/uploads/2010/10/P1010174.jpg" alt="" width="300" height="225" srcset="/travels-wp-content/uploads/2010/10/P1010174.jpg 300w, /travels-wp-content/uploads/2010/10/P1010174.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
 
 It got much much hotter that afternoon and the fun idea of trekking on a camel was wearing thin as we grew sweatier and sweatier and our backsides ached more and more. At last at 5.30 we reached the Sam sand dunes where we were met by some poor bloke who’d walked from the nearest village to meet us with a huge sack of cold sodas and beers on his back. We were very grateful!
 
@@ -68,4 +68,4 @@ We asked the guides how much a camel is to buy. 25-30k rupees. That’s about £
 Johnny Walker & Friends
 
  [1]: http://wizzandtom.blogspot.com
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/10/P1010204.jpg
+ [2]: /travels-wp-content/uploads/2010/10/P1010204.jpg

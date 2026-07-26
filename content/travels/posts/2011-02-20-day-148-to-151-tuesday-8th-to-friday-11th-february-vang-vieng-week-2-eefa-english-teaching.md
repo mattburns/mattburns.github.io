@@ -27,7 +27,7 @@ Same kids again in the morning where we learned the letter M. Much easier than L
 
 ![P1040879](/travels-wp-content/uploads/2011/02/P1040879.jpg)
 
-<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="P1040889" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040889_thumb.jpg" border="0" alt="P1040889" width="640" height="480" />
+<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="P1040889" src="/travels-wp-content/uploads/2011/02/P1040889_thumb.jpg" border="0" alt="P1040889" width="640" height="480" />
 
 ![P1040888_me&kids in primary school](/travels-wp-content/uploads/2011/02/P1040888_mekidsinprimaryschool.jpg)
 
@@ -71,14 +71,14 @@ The school meeting was very official. All the members of the executive board and
 
 Ben & Amandine waiting for the school meeting to begin:![P1040959_EEFA_amandine&ben](/travels-wp-content/uploads/2011/02/P1040959_EEFA_amandineben.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040879.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040888_mekidsinprimaryschool.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_21461.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040901.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040910.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040916.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040931.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2276.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2280.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040811.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040959_EEFA_amandineben.jpg
+ [1]: /travels-wp-content/uploads/2011/02/P1040879.jpg
+ [2]: /travels-wp-content/uploads/2011/02/P1040888_mekidsinprimaryschool.jpg
+ [3]: /travels-wp-content/uploads/2011/02/IMG_21461.jpg
+ [4]: /travels-wp-content/uploads/2011/02/P1040901.jpg
+ [5]: /travels-wp-content/uploads/2011/02/P1040910.jpg
+ [6]: /travels-wp-content/uploads/2011/02/P1040916.jpg
+ [7]: /travels-wp-content/uploads/2011/02/P1040931.jpg
+ [8]: /travels-wp-content/uploads/2011/02/IMG_2276.jpg
+ [9]: /travels-wp-content/uploads/2011/02/IMG_2280.jpg
+ [10]: /travels-wp-content/uploads/2011/02/P1040811.jpg
+ [11]: /travels-wp-content/uploads/2011/02/P1040959_EEFA_amandineben.jpg

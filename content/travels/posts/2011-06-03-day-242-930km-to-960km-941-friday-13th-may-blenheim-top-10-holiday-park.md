@@ -17,4 +17,4 @@ People are still tweeting about it 17 days after the initial blogging and it’s
 We step out for half hour to get some fresh air and share a Double-down burger from KFC. The controversial no-bun burger kicking up a stink in NZ. It has 540 calories and annoyingly tasted pretty good.
 
  [1]: http://www.stolencamerafinder.com/
- [2]: http://www.mattburns.co.uk
+ [2]: /

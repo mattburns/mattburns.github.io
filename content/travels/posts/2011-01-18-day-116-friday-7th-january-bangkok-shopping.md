@@ -45,11 +45,11 @@ It was gone 11 by the time we’d dealt with it all so to de-stress we went to o
 
 ![getting the message across at Siam Guesthouse, Bangkok](/travels-wp-content/uploads/2011/01/IMG_0712.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0680.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0685.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040106.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040116.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040122.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0707.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040132.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0712.jpg
+ [1]: /travels-wp-content/uploads/2011/01/IMG_0680.jpg
+ [2]: /travels-wp-content/uploads/2011/01/IMG_0685.jpg
+ [3]: /travels-wp-content/uploads/2011/01/P1040106.jpg
+ [4]: /travels-wp-content/uploads/2011/01/P1040116.jpg
+ [5]: /travels-wp-content/uploads/2011/01/P1040122.jpg
+ [6]: /travels-wp-content/uploads/2011/01/IMG_0707.jpg
+ [7]: /travels-wp-content/uploads/2011/01/P1040132.jpg
+ [8]: /travels-wp-content/uploads/2011/01/IMG_0712.jpg

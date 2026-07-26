@@ -29,9 +29,9 @@ Isla & Neil had recommended taking a houseboat trip for 24hrs and we saw a lot o
 
 ![Houseboat - spot the towee](/travels-wp-content/uploads/2010/12/P1020948.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/IMG_6658.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/P1020925.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/P1020842.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/IMG_6677.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/IMG_6725.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/P1020948.jpg
+ [1]: /travels-wp-content/uploads/2010/12/IMG_6658.jpg
+ [2]: /travels-wp-content/uploads/2010/12/P1020925.jpg
+ [3]: /travels-wp-content/uploads/2010/12/P1020842.jpg
+ [4]: /travels-wp-content/uploads/2010/12/IMG_6677.jpg
+ [5]: /travels-wp-content/uploads/2010/12/IMG_6725.jpg
+ [6]: /travels-wp-content/uploads/2010/12/P1020948.jpg

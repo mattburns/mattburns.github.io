@@ -11,4 +11,4 @@ categories:
 ---
 ![Merry Christmas!](/travels-wp-content/uploads/2010/12/IMG_0186.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/IMG_0186.jpg
+ [1]: /travels-wp-content/uploads/2010/12/IMG_0186.jpg

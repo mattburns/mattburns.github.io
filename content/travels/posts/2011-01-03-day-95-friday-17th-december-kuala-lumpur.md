@@ -17,25 +17,22 @@ Sod that went for a walk instead to the KL tower with the idea that we’d go up
 
 [Skybar @ Traders Hotel][2]
 
-<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="Skybar, Kuala Lumpur" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0054_thumb.jpg" border="0" alt="Skybar, Kuala Lumpur" width="640" height="427" />
+<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="Skybar, Kuala Lumpur" src="/travels-wp-content/uploads/2011/01/IMG_0054.jpg" border="0" alt="Skybar, Kuala Lumpur" width="640" height="427" />
 
 Yes, that is a swimming pool in the foreground! It was tipping it down when we left we headed for the only place we know – Carmen’s Vinothek. More wine please vicar. Plus the best pizza ever – duck and wild mushroom. Life doesn’t get any better than this! OK so all we do is eat and drink and in KL we haven’t tried much authentic Malaysian food but it’s nice to have some things that remind us of home sometimes. That’s OK isn’t it? :)
 
 [Carmen’s Vinothek and the KL Tower][3]
 
-<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="P1030531" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030531_thumb.jpg" border="0" alt="P1030531" width="360" height="480" />
-
-&nbsp;
-
+<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="P1030531" src="/travels-wp-content/uploads/2011/01/P1030531.jpg" border="0" alt="P1030531" width="360" height="480" />
 Proof we were there:
 
-Whilst Matt went for beer:<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="P1030501" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030501_thumb.jpg" border="0" alt="P1030501" width="360" height="480" />
+Whilst Matt went for beer:<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="P1030501" src="/travels-wp-content/uploads/2011/01/P1030501_thumb.jpg" border="0" alt="P1030501" width="360" height="480" />
 
 I went for cocktails….
 
 Cocktail No. 1 – Berry Delicious – Creme de Cassis, Strawberry puree, Belvedere Vodka & lemonade
 
-<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="P1030505" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030505_thumb.jpg" border="0" alt="P1030505" width="638" height="480" />
+<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="P1030505" src="/travels-wp-content/uploads/2011/01/P1030505.jpg" border="0" alt="P1030505" width="638" height="480" />
 
 Cocktail No. 2 – Little Red Dress – Belvedere Pomdrancza, wild strawberry liquer, cranberry juice & lychee juice.
 
@@ -45,6 +42,6 @@ _[26/05/11 Matt’s sunset timelapse ]_
 
 {{< youtube dBhrjHO6jVU >}}
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0055.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0054.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030531.jpg
+ [1]: /travels-wp-content/uploads/2011/01/IMG_0055.jpg
+ [2]: /travels-wp-content/uploads/2011/01/IMG_0054.jpg
+ [3]: /travels-wp-content/uploads/2011/01/P1030531.jpg

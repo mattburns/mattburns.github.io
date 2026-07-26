@@ -27,6 +27,6 @@ We arrived in Luang Prabang at 5.30, an hour earlier than we expected and just a
 
 Seemed to find a nice guest house and first impressions… we like it a lot.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040650.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040648.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040656.jpg
+ [1]: /travels-wp-content/uploads/2011/02/P1040650.jpg
+ [2]: /travels-wp-content/uploads/2011/02/P1040648.jpg
+ [3]: /travels-wp-content/uploads/2011/02/P1040656.jpg

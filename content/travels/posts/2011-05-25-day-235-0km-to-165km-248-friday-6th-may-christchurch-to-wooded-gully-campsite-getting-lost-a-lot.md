@@ -19,4 +19,4 @@ Went in search of the first motorhome dumpstation getting lost a couple of times
 
 Today was the day for getting lost. We tried four different roads to find our first DOC site at Grey River in Ashley Forest. No such luck and when it was almost dark gave up, found Wooded Gully in Mt Thomas Forest instead and parked up in the middle of a grassy muddy field with 2 more campervans and settled in for the night.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/spencer-beach-2.jpg
+ [1]: /travels-wp-content/uploads/2011/05/spencer-beach-2.jpg

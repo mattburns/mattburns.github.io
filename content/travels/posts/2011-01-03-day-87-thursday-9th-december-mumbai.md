@@ -27,6 +27,6 @@ We were accosted by some business studies students who had to make as much money
 
 Bear in mind Mumbai is 440 sq km and has a population of 16.4 million and who did we bump into on a random street on the way back to the hotel? Uli from the Darjeeling to Kolkata leg. Teeny world really.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030295.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P10302871.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P10302931.jpg
+ [1]: /travels-wp-content/uploads/2011/01/P1030295.jpg
+ [2]: /travels-wp-content/uploads/2011/01/P10302871.jpg
+ [3]: /travels-wp-content/uploads/2011/01/P10302931.jpg

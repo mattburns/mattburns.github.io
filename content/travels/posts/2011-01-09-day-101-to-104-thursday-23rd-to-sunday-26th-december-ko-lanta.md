@@ -14,9 +14,6 @@ Nice early pickup at 7.15am to get the 8.30am ferry to Ko Phi Phi. The weather w
 Arrived in Ko Lanta and met off the boat by 2 guys from Fevrier resort who bundled us, another couple and our bags into the back of a pickup truck for the 20min journey to Klong Nin. Ko Lanta is a lot larger than we realised.
 
 Fevrier resort is just across the road from the beach and is mainly wooden bungalows but our room is in a semi-detached concrete bungalow and is very very lush. It is clean, has a tv, fridge, huge bed with the towels laid out in heart shapes with fresh orchids and a veranda with a little table and chairs made from tree stumps and branches. Plus loads of plug sockets! Something many places lack.
-
-&nbsp;
-
 ![P1030645](/travels-wp-content/uploads/2011/01/P1030645.jpg) 
 
 ![P1030607](/travels-wp-content/uploads/2011/01/P1030607.jpg)&nbsp;
@@ -29,7 +26,7 @@ Breakfast at Fevrier was included in the room price so couldn’t say no. Eggs, 
 
 It’s Christmas Eve so in true last minute style we went and did our christmas shopping for each other. Hired a moped so we could go to the main town and stop off at Long Beach on the way back. It’s another good beach and is much busier but we prefer Hat Klong Nin as the sea is calmer and the beach is wider.
 
-[<font color="#333333"></font><img title="P1030616" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1030616" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030616_thumb.jpg" width="640" border="0" />][3]
+[<font color="#333333"></font><img title="P1030616" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1030616" src="/travels-wp-content/uploads/2011/01/P1030616.jpg" width="640" border="0" />][3]
 
 &nbsp; Ate at a BBQ restaurant on the beach called Richeys. This is the chef whom cooked our delicious tiger prawns and ribs.
 
@@ -85,17 +82,17 @@ What better way to spend Boxing day than in deckchairs sipping beer. Mmmm.
 
 Just after this photo was taken a singing Thai ice-cream man came along!
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030645.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030607.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030616.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0201.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030639.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0205.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0203.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030641.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030643.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030671.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030661.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030665.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030648.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030669.jpg
+ [1]: /travels-wp-content/uploads/2011/01/P1030645.jpg
+ [2]: /travels-wp-content/uploads/2011/01/P1030607.jpg
+ [3]: /travels-wp-content/uploads/2011/01/P1030616.jpg
+ [4]: /travels-wp-content/uploads/2011/01/IMG_0201.jpg
+ [5]: /travels-wp-content/uploads/2011/01/P1030639.jpg
+ [6]: /travels-wp-content/uploads/2011/01/IMG_0205.jpg
+ [7]: /travels-wp-content/uploads/2011/01/IMG_0203.jpg
+ [8]: /travels-wp-content/uploads/2011/01/P1030641.jpg
+ [9]: /travels-wp-content/uploads/2011/01/P1030643.jpg
+ [10]: /travels-wp-content/uploads/2011/01/P1030671.jpg
+ [11]: /travels-wp-content/uploads/2011/01/P1030661.jpg
+ [12]: /travels-wp-content/uploads/2011/01/P1030665.jpg
+ [13]: /travels-wp-content/uploads/2011/01/P1030648.jpg
+ [14]: /travels-wp-content/uploads/2011/01/P1030669.jpg

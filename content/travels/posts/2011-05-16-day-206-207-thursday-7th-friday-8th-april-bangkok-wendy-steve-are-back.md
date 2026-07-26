@@ -33,8 +33,8 @@ Then we had to leave as we have to catch an early train in the morning. It was s
 
 We have decided to go back to Siem Reap for 3 weeks as we liked it so much and it’s not too far from Bangkok. Matt wants to spend time working on [www.stolencamerafinder.com][5] before we head to New Zealand and I’m going to try and help out and also look at doing some more volunteering.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_4699.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060047.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_4711.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_4717.jpg
+ [1]: /travels-wp-content/uploads/2011/05/IMG_4699.jpg
+ [2]: /travels-wp-content/uploads/2011/05/P1060047.jpg
+ [3]: /travels-wp-content/uploads/2011/05/IMG_4711.jpg
+ [4]: /travels-wp-content/uploads/2011/05/IMG_4717.jpg
  [5]: http://www.stolencamerafinder.com

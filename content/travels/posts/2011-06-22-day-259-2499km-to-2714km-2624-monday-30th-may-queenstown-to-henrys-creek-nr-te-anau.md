@@ -18,4 +18,4 @@ Took the Gondola back down the hill and reluctantly left Queenstown to drive to 
 
 It was dark when we arrived and we drove probably 1km through a country lane covered in trees to a parking area with no-one else here. We can hear water running somewhere. Another surprise awaits us in the morning 😀
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/pano-queenstown.jpg
+ [1]: /travels-wp-content/uploads/2011/06/pano-queenstown.jpg

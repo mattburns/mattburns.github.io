@@ -24,10 +24,7 @@ Whilst I was yoga-ing, Matt was out taking photos and papped the lady shopkeeper
 ![IMG_6647](/travels-wp-content/uploads/2010/11/IMG_6647.jpg) 
 
 Met up with Neil & Isla for cocktails and food. It was Matt’s turn to eat an insane reproduction of a continental dish. This time the Risotto.&nbsp;&nbsp; Seafood pasta sauce and a spoonful of basmati rice on top. Interesting combination. It was edible at least though unlike the aubergine gratin in Jodphur. The four of us are heading in similar directions again – Hampi & Goa – so we’re sure to cross paths again.
-
-&nbsp;
-
 I have just realised we have been away for 10 weeks now. Where does the time go? How easy it is to do nothing in particular for weeks on end. And even without TV most of the time and no Jeremy Kyle.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_6566.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_6647.jpg
+ [1]: /travels-wp-content/uploads/2010/11/IMG_6566.jpg
+ [2]: /travels-wp-content/uploads/2010/11/IMG_6647.jpg

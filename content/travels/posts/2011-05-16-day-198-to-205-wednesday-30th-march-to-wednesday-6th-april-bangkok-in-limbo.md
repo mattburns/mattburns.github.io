@@ -42,7 +42,7 @@ And on Thursday we return to Sunflower Place for 3 reasons. 1. because Unico had
 By the way the weather has started to improve at last. Sun has been out and it’s pretty darn humid here. Hope W & S got some sun.
 
  [1]: http://www.stolencamerafinder.com
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060041.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_4695.jpg
+ [2]: /travels-wp-content/uploads/2011/05/P1060041.jpg
+ [3]: /travels-wp-content/uploads/2011/05/IMG_4695.jpg
  [4]: http://www.quidco.com
  [5]: http://www.stolencamerafinder.com/

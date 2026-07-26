@@ -5,7 +5,7 @@ type: post
 date: 2014-09-30T11:39:13+00:00
 url: /blog/2014/09/30/running-the-4k-aoc-u2868pqu-and-intel-hd4000-graphics/
 cover:
-    image: /wp-content/uploads/2014/09/aoc-u2868pqu-672x372.jpg
+    image: /wp-content/uploads/2014/09/aoc-u2868pqu.jpg
 categories:
   - Uncategorized
 

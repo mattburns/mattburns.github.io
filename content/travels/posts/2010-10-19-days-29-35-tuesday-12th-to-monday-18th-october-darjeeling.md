@@ -49,5 +49,5 @@ So in 7 days in Darjeeling we have been on a train and to the zoo and that’s a
 
 More photos of darjeeling to come later…
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/10/P1010545.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/10/P10105671.jpg
+ [1]: /travels-wp-content/uploads/2010/10/P1010545.jpg
+ [2]: /travels-wp-content/uploads/2010/10/P10105671.jpg

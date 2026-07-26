@@ -14,4 +14,4 @@ Here’s the obligatory silly photo of Karen, this time with her over-sized whit
 
 ![](/travels-wp-content/uploads/2011/07/IMG_7430.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7430.jpg
+ [1]: /travels-wp-content/uploads/2011/07/IMG_7430.jpg

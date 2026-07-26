@@ -12,7 +12,7 @@ Oh jeez, really? A blog post about doing something so easy? Well, yes because it
 
 If you use gmail, you may see the option in the Chat widget to “Call phone”:
 
-[![](/wp-content/uploads/2012/07/1.png)](http://www.mattburns.co.uk/blog/wp-content/uploads/2012/07/1.png)
+[![](/wp-content/uploads/2012/07/1.png)](/wp-content/uploads/2012/07/1.png)
 
 Great. Sounds fun, let’s try it:
 
@@ -33,6 +33,6 @@ The problem was with the initial link: [http://www.google.com/intl/en-GB/chat/v
 Thankfully, a working page does exist, you just have to find it. [https://www.google.com/chat/video](https://www.google.com/chat/video). Just go there, the page looks different, has no errors, and allows you to call people without resorting to Skype.
 
  [1]: #short-answer
- [2]: http://www.mattburns.co.uk/blog/wp-content/uploads/2012/07/2.png
+ [2]: /wp-content/uploads/2012/07/2.png
  [3]: http://www.google.com/intl/en-GB/chat/voice/
- [4]: http://www.mattburns.co.uk/blog/wp-content/uploads/2012/07/3.png
+ [4]: /wp-content/uploads/2012/07/3.png

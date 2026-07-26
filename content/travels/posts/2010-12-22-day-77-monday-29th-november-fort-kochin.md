@@ -15,7 +15,7 @@ The plan was almost scuppered whilst on the way to the ferry. I was feeling a bi
 
 The car ferry from Fort Kochin to Vypeen Island couldn’t have been easier. We paid our 2 rupees (3p) at the kiosk, walked onto the boat and 5 mins walked off again, jumped on the bus for 40 mins, then a 5 min tuk-tuk ride and we were at this long sandy beach with hardly anyone around. 
 
-[On the ferry<img title="IMG_6757" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_6757" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/IMG_6757_thumb.jpg" width="640" border="0" />][1] 
+[On the ferry<img title="IMG_6757" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_6757" src="/travels-wp-content/uploads/2010/12/IMG_6757.jpg" width="640" border="0" />][1] 
 
 The buses have women only sections at the front here so Matt was shooed to the back whilst I stood in front. 4 guys work on the bus. 1. Bus driver. 2. Conductor. 3. Guy at front door ringing bell once to let the 1st guy know he needs to stop the bus when people want to get on/off and ringing it twice to let the 1st guy know to get moving. 4. Guy at the back of the bus with a whistle who blows it whenever a guy wants to get on/off at the back to let the 3rd guy know to ring the bell so the 1st guy knows when to stop/start the bus. Talk about efficient. All the 1st guy needs to do is drive and listen to ringing bells.
 
@@ -45,9 +45,9 @@ Backwaters behind Cherai beach:
 
 {{< youtube z-kW1ohXLVY >}}
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/IMG_6757.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/P1020984.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/P1020981.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/P1020986.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/P1020997.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/12/P1030014.jpg
+ [1]: /travels-wp-content/uploads/2010/12/IMG_6757.jpg
+ [2]: /travels-wp-content/uploads/2010/12/P1020984.jpg
+ [3]: /travels-wp-content/uploads/2010/12/P1020981.jpg
+ [4]: /travels-wp-content/uploads/2010/12/P1020986.jpg
+ [5]: /travels-wp-content/uploads/2010/12/P1020997.jpg
+ [6]: /travels-wp-content/uploads/2010/12/P1030014.jpg

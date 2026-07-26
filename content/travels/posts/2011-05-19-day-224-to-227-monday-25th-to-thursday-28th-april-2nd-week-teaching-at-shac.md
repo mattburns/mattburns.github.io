@@ -24,19 +24,10 @@ Which means after break-time they’re hyperactive and it’s usually the best t
 The hyper drink is a plastic cup of crushed-ice with red syrup, some sweet goo & condensed milk over the top eaten with a brightly coloured plastic spoon. The vendor of such delights retrieves a large block of ice from her big ice chiller and grinds it down into shavings on a more sophisticated iron version of Mr. Frosty. It’s ingenious.
 
 I didn’t feel too well that evening, so I wonder if it was an overdose of sugar!
-
-&nbsp;
-
 Tuesday was the complete opposite weather wise. It was hot hot hot with clear blue skies. Matt was lovely and cool in our A/C room when I headed out into the heat and started burning up at 9am.
 
 I’m not sure what happened today. In in the morning class I had one of the youngest kids crying because he was being picked on by an older kid, muddy tears pouring down his cheek and then this afternoon another kid refusing to join in or listen. Maybe it was the heat. I don’t know if I helped either situation at all. Having some woman babbling to you in a language you don’t quite understand when you’re upset can’t be that good. Both managed to come round and start smiling again thankfully. And Dyna the second boy managed to snap out of it enough to start a game of hangman with me at break-time to distract me from marking the homework. 😀
-
-&nbsp;
-
 Wednesday I found a hit of a game. A variation on Boggle which I borrowed from a UK kids website. I wrote a 4 x 5 table of letters on the board including letters of words I had taught this week. They had to try and come up with words using the letters in the table and they got a point for each letter. They started looking at the dictionary and writing words up their arms to get as many as possible. An organised game soon turned to chaos. But hey they were having fun and learning new words!
-
-&nbsp;
-
 Today, was my last day at SHAC and it was sad. Not because my fan design was terrible and one of the kids had to show me how to make a better one. We all made fans because it was stifling hot in the classroom. And not because I managed to lose all of my games of Thumb War, even with the tiniest girl in the class. Even reading a book to them was a hit for once. My earlier attempts of reading had gone down like a ton of bricks. They loved The Snowball and I loved reading it to them. It was sad because they genuinely acted like they didn’t want me to leave. Although it could have been the sweets I’d brought in and used as bribes when they behaved themselves 😀&nbsp;
 
 I’d had a few hugs during the past couple weeks but this time I had a massive group hug from eight of the smallest kids in one go. It was so sweet.
@@ -77,11 +68,11 @@ My journey to and from SHAC. Each day I became more familiar to the people I pas
 
 Another striking experience happened moments after as I got off my bike to avoid some pot-holes just as a young boy came out of his house. He was smiling at me so I said “high 5” and as I put my hand up he flinched away. I lowered my hand so he could clap it and then tried high-5 again and he did it and grinned. I was so relieved. It shocked me that his first reaction was that I was going to hit him. It seems that happens a lot here.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060083.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060052.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060107.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060096.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060100.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060102.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060108.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060094.jpg
+ [1]: /travels-wp-content/uploads/2011/05/P1060083.jpg
+ [2]: /travels-wp-content/uploads/2011/05/P1060052.jpg
+ [3]: /travels-wp-content/uploads/2011/05/P1060107.jpg
+ [4]: /travels-wp-content/uploads/2011/05/P1060096.jpg
+ [5]: /travels-wp-content/uploads/2011/05/P1060100.jpg
+ [6]: /travels-wp-content/uploads/2011/05/P1060102.jpg
+ [7]: /travels-wp-content/uploads/2011/05/P1060108.jpg
+ [8]: /travels-wp-content/uploads/2011/05/P1060094.jpg

@@ -19,7 +19,7 @@ Caught the ferry to Fort Cochin with ease and we were in the most touristy place
 
 The homestay we were hoping to stay at was full so our kind tuk-tuk driver took us to another homestay called Seashore Residency. The guy seemed nice enough and the room seemed fine at first glance. Then Matt asked for towels. He was given one and so asked for a second. He was reluctant to give two saying “One room, one towel. Ask anyone, one room, one towel”. Finally he did saying “As you’re a friend, OK”. Hmmm alarm bells started to ring. Then the electric cut out which is really common here so we’re used to it but not when the window opens onto a brick wall so no natural light can get in. Then the hot water we’d perhaps optimistically expected to come out of the shower only came out of the tap. Then the guy started the hard sell on us for the backwater trip and that started to really get our backs up. 
 
-We went out for tea and cake at the cutest cafe Teapot with tea chests for tables and so many different teapots I loved it! Matt especially loved having his photo taken with lots of them :) _(NB We did not eat massive plates of cake. The 2nd photo is from our 2nd visit to Teapot for dinner which I do mention in a later post but felt it made better sense to group the Teapot photos.)_[&nbsp;<img title="IMG_6312" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_6312" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_6312_thumb.jpg" width="640" border="0" />][2] ![Teapot, Fort Cochin](/travels-wp-content/uploads/2010/11/P1020648.jpg) 
+We went out for tea and cake at the cutest cafe Teapot with tea chests for tables and so many different teapots I loved it! Matt especially loved having his photo taken with lots of them :) _(NB We did not eat massive plates of cake. The 2nd photo is from our 2nd visit to Teapot for dinner which I do mention in a later post but felt it made better sense to group the Teapot photos.)_[&nbsp;<img title="IMG_6312" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_6312" src="/travels-wp-content/uploads/2010/11/IMG_6312.jpg" width="640" border="0" />][2] ![Teapot, Fort Cochin](/travels-wp-content/uploads/2010/11/P1020648.jpg) 
 
 and then watched another beautiful sunset behind the Chinese fishing nets.
 
@@ -29,7 +29,7 @@ Came back to the homestay guy trying to flog us the backwater trip again. We sai
 
 We later went out for dinner at a lovely place called Shala with Keralan fish curry and beef (yes actual chunks of cow – our first in 2 months) served with pumpkin and cardamom seeds plus a very healthy cucumber mint lemon cooler and freshly pulped thick scrummy pineapple juice. Tried to tip-toe to our room but bumped into the homestay guy who demanded we pay one night’s rent in advance. Fine with us. It meant we could escape as quickly as poss the next day which we made sure we did.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P10206191.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_6312.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020648.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_6356.jpg
+ [1]: /travels-wp-content/uploads/2010/11/P10206191.jpg
+ [2]: /travels-wp-content/uploads/2010/11/IMG_6312.jpg
+ [3]: /travels-wp-content/uploads/2010/11/P1020648.jpg
+ [4]: /travels-wp-content/uploads/2010/11/IMG_6356.jpg

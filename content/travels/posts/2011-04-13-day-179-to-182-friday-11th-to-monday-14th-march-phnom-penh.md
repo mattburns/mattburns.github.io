@@ -38,6 +38,6 @@ Whilst Matt was out running and getting lost in the mine-fields I went for a bit
 Somehow I didn’t buy a single thing. And Matt wasn’t even there to stop me from spending.
 
  [1]: http://en.wikipedia.org/wiki/Tuol_Sleng_Genocide_Museum
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/P1050658.jpg
+ [2]: /travels-wp-content/uploads/2011/04/P1050658.jpg
  [3]: http://www.p2h3.com/
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/P1050659.jpg
+ [4]: /travels-wp-content/uploads/2011/04/P1050659.jpg

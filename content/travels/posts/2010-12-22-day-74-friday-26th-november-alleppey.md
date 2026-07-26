@@ -12,9 +12,6 @@ categories:
 12:00 We are still in Alleppey. The plan was to leave this morning and go 10km away to stay in the Green Palm Homes on the backwaters to experience life there for real. Unfortunately Matt is too unwell. He was fine last night after dinner but hardly slept and now has flu-like symptoms. So we are having a chill-out day in Alleppey and will decide what to do next when he is feeling a little better. 
 
 We don’t have to be anywhere until 30th November so there’s no rush. It’s also raining again so he timed it well. 
-
-&nbsp;
-
 Later that day….
 
 We have upgraded rooms so at least we have TV and a veranda where we can get fresh air and read. 

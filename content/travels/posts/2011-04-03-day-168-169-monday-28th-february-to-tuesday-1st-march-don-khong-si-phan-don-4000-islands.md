@@ -21,5 +21,5 @@ Nothing to do but chill for the rest of the day (or work on stolencamerafinder :
 
 ![IMG_3117](/travels-wp-content/uploads/2011/04/IMG_3117.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_3085.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_3117.jpg
+ [1]: /travels-wp-content/uploads/2011/04/IMG_3085.jpg
+ [2]: /travels-wp-content/uploads/2011/04/IMG_3117.jpg

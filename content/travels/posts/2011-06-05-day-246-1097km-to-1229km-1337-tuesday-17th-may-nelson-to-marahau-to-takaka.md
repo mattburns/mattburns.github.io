@@ -72,23 +72,23 @@ After lunch moved on to Takaka further north. This journey was a lot more long-w
 
 It was almost dark when we arrived and we didn’t fancy another 32km to the DOC campsite so settled down in a gorgeous location. A carpark opposite a supermarket. We’re really living it up.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5466.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5502.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5500.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5536.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5541.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060443.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5632.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060446.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060457.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5608.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5646.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060465.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060471.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060472.jpg
- [15]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060473.jpg
- [16]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060474.jpg
- [17]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060475.jpg
- [18]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060476.jpg
- [19]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060479.jpg
- [20]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5644.jpg
+ [1]: /travels-wp-content/uploads/2011/06/IMG_5466.jpg
+ [2]: /travels-wp-content/uploads/2011/06/IMG_5502.jpg
+ [3]: /travels-wp-content/uploads/2011/06/IMG_5500.jpg
+ [4]: /travels-wp-content/uploads/2011/06/IMG_5536.jpg
+ [5]: /travels-wp-content/uploads/2011/06/IMG_5541.jpg
+ [6]: /travels-wp-content/uploads/2011/06/P1060443.jpg
+ [7]: /travels-wp-content/uploads/2011/06/IMG_5632.jpg
+ [8]: /travels-wp-content/uploads/2011/06/P1060446.jpg
+ [9]: /travels-wp-content/uploads/2011/06/P1060457.jpg
+ [10]: /travels-wp-content/uploads/2011/06/IMG_5608.jpg
+ [11]: /travels-wp-content/uploads/2011/06/IMG_5646.jpg
+ [12]: /travels-wp-content/uploads/2011/06/P1060465.jpg
+ [13]: /travels-wp-content/uploads/2011/06/P1060471.jpg
+ [14]: /travels-wp-content/uploads/2011/06/P1060472.jpg
+ [15]: /travels-wp-content/uploads/2011/06/P1060473.jpg
+ [16]: /travels-wp-content/uploads/2011/06/P1060474.jpg
+ [17]: /travels-wp-content/uploads/2011/06/P1060475.jpg
+ [18]: /travels-wp-content/uploads/2011/06/P1060476.jpg
+ [19]: /travels-wp-content/uploads/2011/06/P1060479.jpg
+ [20]: /travels-wp-content/uploads/2011/06/IMG_5644.jpg

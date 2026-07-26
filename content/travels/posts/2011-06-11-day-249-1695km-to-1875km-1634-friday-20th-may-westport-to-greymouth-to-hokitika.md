@@ -37,9 +37,6 @@ blowhole #2![](/travels-wp-content/uploads/2011/06/IMG_5864.jpg)
 ![](/travels-wp-content/uploads/2011/06/IMG_5866.jpg)
 
 {{<youtube vqe7bCXCiWA>}}
-
-&nbsp;
-
 What better thing to do on a rainy day than another brewery stop. The second in as many days. This time Montieth’s brewery tour and it was a little disappointing. They no longer brew beer there (as I had thought on day 237), just cider as it’s moved to their main factory in Timaru. So most of the factory was deserted. They’re also moving the cider production soon so they can close Greymouth down to revamp the whole place and reopen it with more sophisticated, automated production of fruit beers.
 
 Still we got to try 8 beers. Golden Lager is still a favourite of mine but quite liked the seasonal Fruit Harvest. Matt was keen on the Pilsner and neither of us liked the Black Lager as much as we thought we would. West Coast Brewing Co wins that one. So no beer was purchased today. Not sure it would have fitted in the fridge.
@@ -58,15 +55,15 @@ We discovered an interesting economical solution to having a separate train brid
 
 Now parked in a field possibly next to a lake we have no idea what it looks like as it’s pitch black.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5803.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060562.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060559.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060563.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5846.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5848.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/pancake-rocks.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5864.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5866.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5873.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5879.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5882.jpg
+ [1]: /travels-wp-content/uploads/2011/06/IMG_5803.jpg
+ [2]: /travels-wp-content/uploads/2011/06/P1060562.jpg
+ [3]: /travels-wp-content/uploads/2011/06/P1060559.jpg
+ [4]: /travels-wp-content/uploads/2011/06/P1060563.jpg
+ [5]: /travels-wp-content/uploads/2011/06/IMG_5846.jpg
+ [6]: /travels-wp-content/uploads/2011/06/IMG_5848.jpg
+ [7]: /travels-wp-content/uploads/2011/06/pancake-rocks.jpg
+ [8]: /travels-wp-content/uploads/2011/06/IMG_5864.jpg
+ [9]: /travels-wp-content/uploads/2011/06/IMG_5866.jpg
+ [10]: /travels-wp-content/uploads/2011/06/IMG_5873.jpg
+ [11]: /travels-wp-content/uploads/2011/06/IMG_5879.jpg
+ [12]: /travels-wp-content/uploads/2011/06/IMG_5882.jpg

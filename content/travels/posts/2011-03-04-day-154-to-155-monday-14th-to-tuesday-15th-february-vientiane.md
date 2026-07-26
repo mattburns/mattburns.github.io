@@ -19,4 +19,4 @@ Tuesday was a wandering day for us and we found the Laos version of the Arc de T
 
 I am now having a memory block so no more waffling from me today as I can’t remember anything else we did!
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2365.jpg
+ [1]: /travels-wp-content/uploads/2011/03/IMG_2365.jpg

@@ -33,15 +33,9 @@ We buy our first bottle of the day and head onwards through the vines and stop t
 Stop 3: No. 1 Family winery. We arrived to find three very Welsh guys chatting up the girl there. She couldn’t understand a word they were saying most of the time. Not sure it was their accents or just because they’d already been in 6 wineries beforehand. Tasted 3 bubbly wines so was a bit fuzzy-headed getting back on the tandem.
 
 ![](/travels-wp-content/uploads/2011/06/IMG_5391.jpg)
-
-&nbsp;
-
 <div style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; width: 448px; padding-right: 0px; display: block; float: none; padding-top: 0px" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:d3baeb1b-b9fe-4ec5-86a1-559aaf66ccb3" class="wlWriterEditableSmartContent">
     
 </div>
-
-&nbsp;
-
 Stop 4: Georges Michel for Sauvignon Blanc, Viognier, Pinot Noir and Syrah tastings. We love the Pinot Noir so much we go for two bottles. 
 
 ![](/travels-wp-content/uploads/2011/06/P1060375.jpg)
@@ -62,14 +56,14 @@ Lush.
 
 Random stuff on the wall in Cork & Keg.![](/travels-wp-content/uploads/2011/06/beermats-cork-keg.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5329.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5334.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060366.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060362.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060365.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5391.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060375.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5360.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5385.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5418.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/beermats-cork-keg.jpg
+ [1]: /travels-wp-content/uploads/2011/06/IMG_5329.jpg
+ [2]: /travels-wp-content/uploads/2011/06/IMG_5334.jpg
+ [3]: /travels-wp-content/uploads/2011/06/P1060366.jpg
+ [4]: /travels-wp-content/uploads/2011/06/P1060362.jpg
+ [5]: /travels-wp-content/uploads/2011/06/P1060365.jpg
+ [6]: /travels-wp-content/uploads/2011/06/IMG_5391.jpg
+ [7]: /travels-wp-content/uploads/2011/06/P1060375.jpg
+ [8]: /travels-wp-content/uploads/2011/06/IMG_5360.jpg
+ [9]: /travels-wp-content/uploads/2011/06/IMG_5385.jpg
+ [10]: /travels-wp-content/uploads/2011/06/IMG_5418.jpg
+ [11]: /travels-wp-content/uploads/2011/06/beermats-cork-keg.jpg

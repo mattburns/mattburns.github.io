@@ -52,13 +52,13 @@ Designing your logo as a simple font that can be rendered in a browser isn’t f
 
  [1]: http://www.OddPrints.com
  [2]: https://developer.mozilla.org/en-US/docs/CSS/@font-face
- [3]: http://www.mattburns.co.uk/blog/wp-content/uploads/2013/02/Screen-Shot-2013-02-20-at-21.29.08.png
- [4]: http://www.mattburns.co.uk/blog/wp-content/uploads/2013/02/Screen-Shot-2013-02-20-at-21.28.42.png
+ [3]: /wp-content/uploads/2013/02/Screen-Shot-2013-02-20-at-21.29.08.png
+ [4]: /wp-content/uploads/2013/02/Screen-Shot-2013-02-20-at-21.28.42.png
  [5]: http://www.youtube.com/watch?v=WhZpKdQcKhU&t=13m51s "Discussion about retina-ready images"
  [6]: http://www.google.co.uk/intl/en/chrome/devices/chromebook-pixel
  [7]: http://www.stolencamerafinder.com
  [8]: http://www.pixelistes.com/blog/stolen-camera-finder-un-moyen-de-retrouver-sur-internet-des-cliches-pris-avec-votre-appareil-photo/
- [9]: http://www.mattburns.co.uk/blog/wp-content/uploads/2013/02/objet-volé-2.jpg
+ [9]: /wp-content/uploads/2013/02/objet-volé-2.jpg
  [10]: http://paulirish.com/2009/fighting-the-font-face-fout/
  [11]: http://www.fontsquirrel.com/tools/webfont-generator
  [12]: http://www.google.com/webfonts

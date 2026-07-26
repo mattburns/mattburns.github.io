@@ -25,5 +25,5 @@ Managed to “chill out” in a restaurant for about 30mins. The plan had been t
 
 Karim & Annie had warned us of bedbugs on the overnight trains between Kerala and Chennai but we didn’t expect cockroaches. I hardly slept at all. One was hanging off Matt’s bag strap above his head at one point. Grim.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020612.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/pano.jpg
+ [1]: /travels-wp-content/uploads/2010/11/P1020612.jpg
+ [2]: /travels-wp-content/uploads/2010/11/pano.jpg

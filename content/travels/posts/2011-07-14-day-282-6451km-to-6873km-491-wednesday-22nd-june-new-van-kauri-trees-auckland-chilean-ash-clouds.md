@@ -54,12 +54,12 @@ Have re-booked our flight for Friday. So we’re in Auckland one more day.
 
 Another day another challenge.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P10705321.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070539.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/blog-photos2.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_82661.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070543.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_82731.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_82951.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_83231.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8349.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P10705321.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070539.jpg
+ [3]: /travels-wp-content/uploads/2011/07/blog-photos2.jpg
+ [4]: /travels-wp-content/uploads/2011/07/IMG_82661.jpg
+ [5]: /travels-wp-content/uploads/2011/07/P1070543.jpg
+ [6]: /travels-wp-content/uploads/2011/07/IMG_82731.jpg
+ [7]: /travels-wp-content/uploads/2011/07/IMG_82951.jpg
+ [8]: /travels-wp-content/uploads/2011/07/IMG_83231.jpg
+ [9]: /travels-wp-content/uploads/2011/07/IMG_8349.jpg

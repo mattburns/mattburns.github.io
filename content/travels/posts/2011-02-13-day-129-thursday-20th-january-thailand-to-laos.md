@@ -14,7 +14,7 @@ After exactly 1 month in Thailand we are now in Laos.
 
 It was pretty simple. We jumped on a rickety old bus from Chiang Rai, our bags piled high at the back of the bus with everyone else’s luggage and our knees up under our chins (well Matt’s anyway) and 2.5 hours later we were dropped off at a tuk-tuk stand in Chiang Khong on the border with Laos. 5 min tuk-tuk ride and we were at the Mekong River and border crossing.
 
-[Northern Thailand countryside<img title="P1040586" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040586" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040586_thumb.jpg" width="640" border="0" />][1] 
+[Northern Thailand countryside<img title="P1040586" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040586" src="/travels-wp-content/uploads/2011/02/P1040586.jpg" width="640" border="0" />][1] 
 
 Also on the bus were two French guys. As we de-bussed at Chiang Khong, they were asking us the way to Vang Vieng. Umm Vang Vieng is in Laos yes but it’s quite far away. Kind of nearer to Vientiane than Huay Xai. _We want Laos not Vietnam and what is Huay Xai?_ Well Vientiane is capital of Laos and Huay Xai is the only border crossing between here and Vientiane we believe. When do you need to get there by? _Today_. Ah might be a problem. We’ll be getting a 2-day boat trip to Luang Prabang and then its another 6-8 hours bus from there. You can probably get a bus or something though.
 
@@ -36,6 +36,6 @@ Just need to get used to the new currency again. 12,000 kip to the £1. When we 
 
 At Bar How? I opted for a glass of Melacca wine which has many healthy properties including improvement of circulation and the intestinal tract. It was like thin sweet sherry and very tasty. Matt was still peckish so we tried a Lao dish of Buffalo & eggplant with sticky rice. Another good dish. Liking this country very much already.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040586.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040592.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_1759.jpg
+ [1]: /travels-wp-content/uploads/2011/02/P1040586.jpg
+ [2]: /travels-wp-content/uploads/2011/02/P1040592.jpg
+ [3]: /travels-wp-content/uploads/2011/02/IMG_1759.jpg

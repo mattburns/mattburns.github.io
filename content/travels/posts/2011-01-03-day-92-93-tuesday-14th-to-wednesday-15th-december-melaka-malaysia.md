@@ -23,7 +23,7 @@ We decided to be completely cheesy tourists and go on the 40min boat ride which 
 
 ![P1030468](/travels-wp-content/uploads/2011/01/P1030468.jpg)&nbsp; 
 
-[Spotted a few of these “little” creatures on the boat trip<img title="Christmas Lizard? Melaka" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="Christmas Lizard? Melaka" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030451_thumb.jpg" width="640" border="0" />][3]
+[Spotted a few of these “little” creatures on the boat trip<img title="Christmas Lizard? Melaka" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="Christmas Lizard? Melaka" src="/travels-wp-content/uploads/2011/01/P1030451.jpg" width="640" border="0" />][3]
 
 Hopped on the Merdeka Taming Sari, a 360 degree revolving platform that moves up a huge pole to give views over the city. Can’t say there was much to see that stood out but it seemed popular and was quite cool going up so high.
 
@@ -35,14 +35,14 @@ We got hooked on dim sum & pork balls for breakfast at this place where they bri
 
 More quirky things to see in Melaka:
 
-[A reconstructed water wheel<img title="P1030449" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1030449" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030449_thumb.jpg" width="640" border="0" />][6]&nbsp;</p> </p> 
+[A reconstructed water wheel<img title="P1030449" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1030449" src="/travels-wp-content/uploads/2011/01/P1030449.jpg" width="640" border="0" />][6]&nbsp;</p> </p> 
 
-[The end of the street we stayed on, advertising a local art gallery:<img title="IMG_8459" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_8459" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8459_thumb.jpg" width="640" border="0" />][7]
+[The end of the street we stayed on, advertising a local art gallery:<img title="IMG_8459" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_8459" src="/travels-wp-content/uploads/2011/01/IMG_8459.jpg" width="640" border="0" />][7]
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030447.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030468.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030451.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030484.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8454.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030449.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8459.jpg
+ [1]: /travels-wp-content/uploads/2011/01/P1030447.jpg
+ [2]: /travels-wp-content/uploads/2011/01/P1030468.jpg
+ [3]: /travels-wp-content/uploads/2011/01/P1030451.jpg
+ [4]: /travels-wp-content/uploads/2011/01/P1030484.jpg
+ [5]: /travels-wp-content/uploads/2011/01/IMG_8454.jpg
+ [6]: /travels-wp-content/uploads/2011/01/P1030449.jpg
+ [7]: /travels-wp-content/uploads/2011/01/IMG_8459.jpg

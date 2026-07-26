@@ -33,9 +33,9 @@ Now, after Matt’s first experience of emptying the “black water ” was luck
 
 The whole place reminds us of Canada.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_4901.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_4922.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_4967.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060166.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060164.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060178.jpg
+ [1]: /travels-wp-content/uploads/2011/05/IMG_4901.jpg
+ [2]: /travels-wp-content/uploads/2011/05/IMG_4922.jpg
+ [3]: /travels-wp-content/uploads/2011/05/IMG_4967.jpg
+ [4]: /travels-wp-content/uploads/2011/05/P1060166.jpg
+ [5]: /travels-wp-content/uploads/2011/05/P1060164.jpg
+ [6]: /travels-wp-content/uploads/2011/05/P1060178.jpg

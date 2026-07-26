@@ -62,19 +62,19 @@ The Indonesian volcano didn’t affect our flight to Japan and off we went on ou
 
 _Sweets for the flight:_![](/travels-wp-content/uploads/2011/10/P1080220.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9115.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9125.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9130.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9135.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9129.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9122.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9134.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080189.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080203.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9149.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_91501.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080192.jpg
+ [1]: /travels-wp-content/uploads/2011/10/IMG_9115.jpg
+ [2]: /travels-wp-content/uploads/2011/10/IMG_9125.jpg
+ [3]: /travels-wp-content/uploads/2011/10/IMG_9130.jpg
+ [4]: /travels-wp-content/uploads/2011/10/IMG_9135.jpg
+ [5]: /travels-wp-content/uploads/2011/10/IMG_9129.jpg
+ [6]: /travels-wp-content/uploads/2011/10/IMG_9122.jpg
+ [7]: /travels-wp-content/uploads/2011/10/IMG_9134.jpg
+ [8]: /travels-wp-content/uploads/2011/10/P1080189.jpg
+ [9]: /travels-wp-content/uploads/2011/10/P1080203.jpg
+ [10]: /travels-wp-content/uploads/2011/10/IMG_9149.jpg
+ [11]: /travels-wp-content/uploads/2011/10/IMG_91501.jpg
+ [12]: /travels-wp-content/uploads/2011/10/P1080192.jpg
  [13]: http://www.metcentre.com.au/
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080215.jpg
- [15]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080213.jpg
- [16]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080220.jpg
+ [14]: /travels-wp-content/uploads/2011/10/P1080215.jpg
+ [15]: /travels-wp-content/uploads/2011/10/P1080213.jpg
+ [16]: /travels-wp-content/uploads/2011/10/P1080220.jpg

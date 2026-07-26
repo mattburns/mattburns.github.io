@@ -5,7 +5,7 @@ type: post
 date: 2014-07-10T11:35:40+00:00
 url: /blog/2014/07/10/how-to-download-chromecast-background-images/
 cover:
-    image: /wp-content/uploads/2014/07/01_MG_3677-672x372.jpg
+    image: /wp-content/uploads/2014/07/01_MG_3677.jpg
 categories:
   - Uncategorized
 
@@ -23,6 +23,6 @@ Change the size from 1024 to whatever maximum size you want to download.
 
 I had to tweak the source from [this project on github][3]. Hopefully my fork will get folded in.
 
- [1]: www.chromecast.com
+ [1]: https://www.chromecast.com
  [2]: https://clients3.google.com/cast/chromecast/home/v/c9541b08 "Chromecast background"
  [3]: https://github.com/dconnolly/chromecast-backgrounds

@@ -32,9 +32,9 @@ And off we went in the glorious sunshine on a Greyhound bus journey of 4 hours. 
 
 Now at a the lovely 1770 Southern Cross backpackers hostel which is 2km from Agnes Water town nr to the [Town of 1770][6] where Queensland was “discovered” by Captain James Cook on his 2nd landing in the year 1770. The hostel is set in huge grounds and tonight we’ve got our own 4-bed dorm in a Canadian style hut with ensuite bathroom called Ireland. The communal areas have a ping-pong table, table footy & pool table. And there’s a huge campfire burning. Always a winner.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_85701.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_85711.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P10707611.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P10707731.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P10707751.jpg
+ [1]: /travels-wp-content/uploads/2011/07/IMG_85701.jpg
+ [2]: /travels-wp-content/uploads/2011/07/IMG_85711.jpg
+ [3]: /travels-wp-content/uploads/2011/07/P10707611.jpg
+ [4]: /travels-wp-content/uploads/2011/07/P10707731.jpg
+ [5]: /travels-wp-content/uploads/2011/07/P10707751.jpg
  [6]: http://www.townof1770-agneswater.com.au/index.php?option=com_content&view=article&id=57&Itemid=58

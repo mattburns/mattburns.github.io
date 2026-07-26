@@ -23,5 +23,5 @@ Found Smyle Inn down at winding sidestreet of Pahar Ganj (which reminded us of t
   
 We thought 1 night will be fine. We’ll move tomorrow.
 
-  ![Pahar Ganj, Delhi](/travels/wp-content/uploads/2010/10/IMG_2609.jpg)
+  ![Pahar Ganj, Delhi](/travels-wp-content/uploads/2010/10/IMG_2609.jpg)
     Pahar Ganj, Delhi

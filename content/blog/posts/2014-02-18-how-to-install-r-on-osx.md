@@ -5,7 +5,7 @@ type: post
 date: 2014-02-18T12:11:17+00:00
 url: /blog/2014/02/18/how-to-install-r-on-osx/
 cover:
-    image: /wp-content/uploads/2014/02/Apple-OS-X-10-9-Mavericks-Wallpaper-672x372.jpg
+    image: /wp-content/uploads/2014/02/Apple-OS-X-10-9-Mavericks-Wallpaper.jpg
 categories:
   - Uncategorized
 

@@ -21,13 +21,10 @@ Amazing 360 degree views across the whole of Wellington I’m sure IF WE COULD S
 Nothing else to do on a day like this but drive somewhere else hoping it might be less rainy. Headed in a northerly direction and nope it’s still raining. 
 
 Sat in another random place in the middle of NZ 15km from civilisation surrounded by trees and fields cooking chilli listening to Matt learning to play the harmonica (we hunted down a music shop in Palmerston to purchase a second one) and catching up on Adam & Joe podcasts. Rock & roll lifestyle.
-
-&nbsp;
-
 Heard a funny thing on the local radio today. One of the presenters was phoning from the UK for a chat. He was there visiting his mother & sister. He first started going on about the weather – it was a scorcher last week and this week it’s freezing – then went on about the city foxes. He was amazed to see a fox in a built up area. It was weird hearing him talk about something that is so normal to us as an interesting fact. We must do that so much whilst travelling. 
 
 The weirder thing was that he was in East Kilbride of all places.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7602.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7603.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070325.jpg
+ [1]: /travels-wp-content/uploads/2011/07/IMG_7602.jpg
+ [2]: /travels-wp-content/uploads/2011/07/IMG_7603.jpg
+ [3]: /travels-wp-content/uploads/2011/07/P1070325.jpg

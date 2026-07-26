@@ -152,7 +152,7 @@ cubic-bezier(0.1, 0.2, 0.4, 0.1)
 
 If you make something interesting, please post links to your creations in the comments below 🙂
 
- [1]: http://www.mattburns.co.uk/blog/wp-content/uploads/2013/09/ajax-loader.gif
+ [1]: /wp-content/uploads/2013/09/ajax-loader.gif
  [2]: http://www.ajaxload.info/
- [3]: http://www.mattburns.co.uk/blog/2013/02/24/4-reasons-to-design-your-logo-in-css-and-a-few-why-you-shouldnt/ "4 reasons to design your logo in CSS (and a few why you shouldn’t)"
+ [3]: /blog/2013/02/24/4-reasons-to-design-your-logo-in-css-and-a-few-why-you-shouldnt/ "4 reasons to design your logo in CSS (and a few why you shouldn’t)"
  [4]: http://jsbin.com/usIjEgI/1/

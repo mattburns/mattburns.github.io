@@ -42,9 +42,6 @@ mountain views
 ![](/travels-wp-content/uploads/2011/06/IMG_5952.jpg)
 
 {{<youtube PBcSinNs9FY>}}
-
-&nbsp;
-
 top of Fox glacier
 ![](/travels-wp-content/uploads/2011/06/IMG_5954.jpg)
 
@@ -83,8 +80,6 @@ matt’s feet on top of a glacier
 ![](/travels-wp-content/uploads/2011/06/P1060695.jpg)
 
 {{<youtube sifqrtThrN8>}}
-&nbsp;
-
 back in the helicopter
 ![](/travels-wp-content/uploads/2011/06/P1060702.jpg)
 

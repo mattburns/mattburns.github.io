@@ -54,12 +54,12 @@ What do you do after something as fantabulous as skydiving? Go to the local natu
 
 What a day. Bloomin’ darn fantastic & splendid.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_80375.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_0018.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_0024.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_0050.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_4487.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_4506.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_4512.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_4517.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070384.jpg
+ [1]: /travels-wp-content/uploads/2011/07/IMG_80375.jpg
+ [2]: /travels-wp-content/uploads/2011/07/IMG_0018.jpg
+ [3]: /travels-wp-content/uploads/2011/07/IMG_0024.jpg
+ [4]: /travels-wp-content/uploads/2011/07/IMG_0050.jpg
+ [5]: /travels-wp-content/uploads/2011/07/IMG_4487.jpg
+ [6]: /travels-wp-content/uploads/2011/07/IMG_4506.jpg
+ [7]: /travels-wp-content/uploads/2011/07/IMG_4512.jpg
+ [8]: /travels-wp-content/uploads/2011/07/IMG_4517.jpg
+ [9]: /travels-wp-content/uploads/2011/07/P1070384.jpg

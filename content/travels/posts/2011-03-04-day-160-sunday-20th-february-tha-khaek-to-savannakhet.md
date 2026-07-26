@@ -21,6 +21,6 @@ Old French architecture in Savannakhet![Savannakhet](/travels-wp-content/uploads
 
 Drying the meat on the street![IMG_2538](/travels-wp-content/uploads/2011/03/IMG_2538.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050143.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2509.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2538.jpg
+ [1]: /travels-wp-content/uploads/2011/03/P1050143.jpg
+ [2]: /travels-wp-content/uploads/2011/03/IMG_2509.jpg
+ [3]: /travels-wp-content/uploads/2011/03/IMG_2538.jpg

@@ -58,12 +58,12 @@ Mission accomplished in a random bag shop with the sweetest guy who couldn’t d
 
 Now we’re fully prepared for a night on a mountain… \*cough\*
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/11/P1080670.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/11/IMG_9723.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/11/P1080672.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/11/IMG_9726.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/11/P1080673.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/11/P1080714.jpg
+ [1]: /travels-wp-content/uploads/2011/11/P1080670.jpg
+ [2]: /travels-wp-content/uploads/2011/11/IMG_9723.jpg
+ [3]: /travels-wp-content/uploads/2011/11/P1080672.jpg
+ [4]: /travels-wp-content/uploads/2011/11/IMG_9726.jpg
+ [5]: /travels-wp-content/uploads/2011/11/P1080673.jpg
+ [6]: /travels-wp-content/uploads/2011/11/P1080714.jpg
  [7]: http://en.wikipedia.org/wiki/Asahi_Beer_Hall
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/11/P1080675.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/11/P1080718.jpg
+ [8]: /travels-wp-content/uploads/2011/11/P1080675.jpg
+ [9]: /travels-wp-content/uploads/2011/11/P1080718.jpg

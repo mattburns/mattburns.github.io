@@ -28,5 +28,5 @@ And we were disappointed not to see any of these guys on our cycle back either.
 
 ![](/travels-wp-content/uploads/2011/07/IMG_8504.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8496.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8504.jpg
+ [1]: /travels-wp-content/uploads/2011/07/IMG_8496.jpg
+ [2]: /travels-wp-content/uploads/2011/07/IMG_8504.jpg

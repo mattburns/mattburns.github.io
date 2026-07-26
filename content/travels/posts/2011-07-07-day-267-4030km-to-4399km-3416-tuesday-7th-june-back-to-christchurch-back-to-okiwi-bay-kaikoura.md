@@ -34,11 +34,11 @@ On first glance the guy at Wilderness said it looked better than he thought. But
 
 It’ll be fixed in Auckland so off we trot again up north as the light dims and the rains lash down and kip at our trusted DOC campsite Okiwi Bay near Kaikoura.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7451.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7466.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070220.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7477.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070234.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7483.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7488.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070212.jpg
+ [1]: /travels-wp-content/uploads/2011/07/IMG_7451.jpg
+ [2]: /travels-wp-content/uploads/2011/07/IMG_7466.jpg
+ [3]: /travels-wp-content/uploads/2011/07/P1070220.jpg
+ [4]: /travels-wp-content/uploads/2011/07/IMG_7477.jpg
+ [5]: /travels-wp-content/uploads/2011/07/P1070234.jpg
+ [6]: /travels-wp-content/uploads/2011/07/IMG_7483.jpg
+ [7]: /travels-wp-content/uploads/2011/07/IMG_7488.jpg
+ [8]: /travels-wp-content/uploads/2011/07/P1070212.jpg

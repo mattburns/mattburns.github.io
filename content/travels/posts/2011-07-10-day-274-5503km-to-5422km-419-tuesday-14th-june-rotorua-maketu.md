@@ -43,9 +43,9 @@ We chose it specifically to get a cheap campsite to power up the camper (the fri
 It’s in the middle of nowhere so the IAC access is as flaky as anything.   
 It’s good to have a proper shower though.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P10703891.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_80421.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8062.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8040.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070396.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8073.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P10703891.jpg
+ [2]: /travels-wp-content/uploads/2011/07/IMG_80421.jpg
+ [3]: /travels-wp-content/uploads/2011/07/IMG_8062.jpg
+ [4]: /travels-wp-content/uploads/2011/07/IMG_8040.jpg
+ [5]: /travels-wp-content/uploads/2011/07/P1070396.jpg
+ [6]: /travels-wp-content/uploads/2011/07/IMG_8073.jpg

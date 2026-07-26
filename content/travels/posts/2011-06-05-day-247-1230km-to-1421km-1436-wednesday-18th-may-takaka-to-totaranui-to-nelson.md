@@ -34,8 +34,8 @@ The plan was to go to the West coast today but ran out of time (and almost diese
 
 We have a wifi connection again so getting up-to-date with blogs and more [SCF][5] work.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060494.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5679.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5697.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5727.jpg
+ [1]: /travels-wp-content/uploads/2011/06/P1060494.jpg
+ [2]: /travels-wp-content/uploads/2011/06/IMG_5679.jpg
+ [3]: /travels-wp-content/uploads/2011/06/IMG_5697.jpg
+ [4]: /travels-wp-content/uploads/2011/06/IMG_5727.jpg
  [5]: http://www.stolencamerafinder.com/

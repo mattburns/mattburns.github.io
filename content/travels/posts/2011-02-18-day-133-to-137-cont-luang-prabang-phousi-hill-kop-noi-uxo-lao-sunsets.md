@@ -33,7 +33,7 @@ One afternoon I dragged Matt away from the laptop to venture up Phousi hill smac
 
 ![IMG_2013](/travels-wp-content/uploads/2011/02/IMG_2013.jpg)
 
-<img title="IMG_2046" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_2046" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2046_thumb.jpg" width="640" border="0" />
+<img title="IMG_2046" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_2046" src="/travels-wp-content/uploads/2011/02/IMG_2046_thumb.jpg" width="640" border="0" />
 
 ![IMG_2035](/travels-wp-content/uploads/2011/02/IMG_2035.jpg)
 
@@ -49,7 +49,7 @@ On our last full day in Luang Prabang we hired bikes and cycled around the town 
 
 ![IMG_2088](/travels-wp-content/uploads/2011/02/IMG_2088.jpg)
 
-Matt spotted Sylvester the snake sunning himself as we walked back along the overgrown pathway to our bikes:<img title="IMG_2093" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_2093" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2093_thumb.jpg" width="640" border="0" />&nbsp;
+Matt spotted Sylvester the snake sunning himself as we walked back along the overgrown pathway to our bikes:<img title="IMG_2093" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_2093" src="/travels-wp-content/uploads/2011/02/IMG_2093_thumb.jpg" width="640" border="0" />&nbsp;
 
 Other notable things in Luang Prabang:
 
@@ -71,16 +71,16 @@ To end on a much more positive note we loved Luang Prabang. It is the most chill
 
  [1]: http://www.stolencamerafinder.com
  [2]: http://www.stay-another-day.org
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040684.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_1981.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_1932.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040688.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2013.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2035.jpg
+ [3]: /travels-wp-content/uploads/2011/02/P1040684.jpg
+ [4]: /travels-wp-content/uploads/2011/02/IMG_1981.jpg
+ [5]: /travels-wp-content/uploads/2011/02/IMG_1932.jpg
+ [6]: /travels-wp-content/uploads/2011/02/P1040688.jpg
+ [7]: /travels-wp-content/uploads/2011/02/IMG_2013.jpg
+ [8]: /travels-wp-content/uploads/2011/02/IMG_2035.jpg
  [9]: http://www.uxolao.org/
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2071.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2086.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040718.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2088.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040725.jpg
- [15]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040710.jpg
+ [10]: /travels-wp-content/uploads/2011/02/IMG_2071.jpg
+ [11]: /travels-wp-content/uploads/2011/02/IMG_2086.jpg
+ [12]: /travels-wp-content/uploads/2011/02/P1040718.jpg
+ [13]: /travels-wp-content/uploads/2011/02/IMG_2088.jpg
+ [14]: /travels-wp-content/uploads/2011/02/P1040725.jpg
+ [15]: /travels-wp-content/uploads/2011/02/P1040710.jpg

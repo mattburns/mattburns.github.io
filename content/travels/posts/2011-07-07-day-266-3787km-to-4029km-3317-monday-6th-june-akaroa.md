@@ -24,5 +24,5 @@ Day ended in Akaroa, a quaint little town and harbour with sweet western and sha
 
 ![](/travels-wp-content/uploads/2011/07/P1070202.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7440.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070202.jpg
+ [1]: /travels-wp-content/uploads/2011/07/IMG_7440.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070202.jpg

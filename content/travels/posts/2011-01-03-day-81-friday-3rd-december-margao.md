@@ -25,6 +25,6 @@ Back at the hospital Nurse Rupa was back for her next 24hr shift. She came in fr
             
             I have her address so although she may not be a guest at our never happening wedding at least I can keep in touch with her and see how she’s getting on finding her dream guy.
             
-            [Matt’s favourite nurse<img title="IMG_8092" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_8092" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8092_thumb.jpg" width="640" border="0" />][1]
+            [Matt’s favourite nurse<img title="IMG_8092" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_8092" src="/travels-wp-content/uploads/2011/01/IMG_8092.jpg" width="640" border="0" />][1]
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8092.jpg
+ [1]: /travels-wp-content/uploads/2011/01/IMG_8092.jpg

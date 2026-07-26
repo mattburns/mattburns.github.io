@@ -84,17 +84,17 @@ We know now that we should have stuck to our guns and did the jeep trip. We just
 
 ![](/travels-wp-content/uploads/2011/07/P1070692.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070683.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070684.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070685.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8521.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070699.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8540.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070730.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070714.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070731.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070734.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070736.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070744.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8563.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070692.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P1070683.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070684.jpg
+ [3]: /travels-wp-content/uploads/2011/07/P1070685.jpg
+ [4]: /travels-wp-content/uploads/2011/07/IMG_8521.jpg
+ [5]: /travels-wp-content/uploads/2011/07/P1070699.jpg
+ [6]: /travels-wp-content/uploads/2011/07/IMG_8540.jpg
+ [7]: /travels-wp-content/uploads/2011/07/P1070730.jpg
+ [8]: /travels-wp-content/uploads/2011/07/P1070714.jpg
+ [9]: /travels-wp-content/uploads/2011/07/P1070731.jpg
+ [10]: /travels-wp-content/uploads/2011/07/P1070734.jpg
+ [11]: /travels-wp-content/uploads/2011/07/P1070736.jpg
+ [12]: /travels-wp-content/uploads/2011/07/P1070744.jpg
+ [13]: /travels-wp-content/uploads/2011/07/IMG_8563.jpg
+ [14]: /travels-wp-content/uploads/2011/07/P1070692.jpg

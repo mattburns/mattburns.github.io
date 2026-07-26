@@ -43,4 +43,4 @@ and one for each attribute-related event:
 *   ServletContextAttributeEvent
 
 
- [1]: http://www.mattburns.co.uk/blog/2010/04/06/pick-the-right-scope-automatically/
+ [1]: /blog/2010/04/06/pick-the-right-scope-automatically/

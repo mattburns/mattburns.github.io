@@ -13,7 +13,7 @@ Beach time is over. Back to the proper mainland and the rest of Thailand.
 
 Our last bit of Railay sightseeing was the Diamond Cave. We’d walked past it every time we’d been anywhere away from Railay Cabana.
 
-<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="IMG_0479" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0479_thumb.jpg" border="0" alt="IMG_0479" width="320" height="480" />
+<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="IMG_0479" src="/travels-wp-content/uploads/2011/01/IMG_0479_thumb.jpg" border="0" alt="IMG_0479" width="320" height="480" />
 
 ![IMG_0483](/travels-wp-content/uploads/2011/01/IMG_0483.jpg) 
 
@@ -49,9 +49,9 @@ Which was fine as we spent Wednesday eating more good food at ‘Relax Coffee an
 
 ![IMG_0546](/travels-wp-content/uploads/2011/01/IMG_0546.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0483.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030783.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0512.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0515.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0506.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0546.jpg
+ [1]: /travels-wp-content/uploads/2011/01/IMG_0483.jpg
+ [2]: /travels-wp-content/uploads/2011/01/P1030783.jpg
+ [3]: /travels-wp-content/uploads/2011/01/IMG_0512.jpg
+ [4]: /travels-wp-content/uploads/2011/01/IMG_0515.jpg
+ [5]: /travels-wp-content/uploads/2011/01/IMG_0506.jpg
+ [6]: /travels-wp-content/uploads/2011/01/IMG_0546.jpg

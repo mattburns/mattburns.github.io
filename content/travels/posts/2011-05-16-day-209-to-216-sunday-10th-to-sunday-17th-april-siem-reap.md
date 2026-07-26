@@ -44,7 +44,7 @@ Saturday is a scorcher so we give in and opt for aircon at last. I visit SHAC ab
 Sunday it rained. Khmer New Year is celebrated to indicate the end of the dry season and the start of the rainy season. How right they were.
 
  [1]: http://www.stolencamerafinder.com/
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_47245.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_47221.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_47261.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_47231.jpg
+ [2]: /travels-wp-content/uploads/2011/05/IMG_47245.jpg
+ [3]: /travels-wp-content/uploads/2011/05/IMG_47221.jpg
+ [4]: /travels-wp-content/uploads/2011/05/IMG_47261.jpg
+ [5]: /travels-wp-content/uploads/2011/05/IMG_47231.jpg

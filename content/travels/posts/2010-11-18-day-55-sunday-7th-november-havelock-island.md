@@ -19,18 +19,18 @@ We were taken on a 90min boat ride to South Bottom dive point which was a small 
 
 Only 2 proper days left on Havelock. Sad times. Please sun keep shining….
 
-[Matt<img title="IMG_3779" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_3779" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_3779_thumb.jpg" width="640" border="0" />][1]
+[Matt<img title="IMG_3779" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_3779" src="/travels-wp-content/uploads/2010/11/IMG_3779.jpg" width="640" border="0" />][1]
 
-[Karen<img title="IMG_3798" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_3798" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_3798_thumb.jpg" width="640" border="0" />][2]
+[Karen<img title="IMG_3798" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_3798" src="/travels-wp-content/uploads/2010/11/IMG_3798.jpg" width="640" border="0" />][2]
 
-[Longfin Bannerfish<img title="IMG_3763" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_3763" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_3763_thumb.jpg" width="640" border="0" />][3] </p> 
+[Longfin Bannerfish<img title="IMG_3763" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_3763" src="/travels-wp-content/uploads/2010/11/IMG_3763.jpg" width="640" border="0" />][3] </p> 
 
-[Sea Anemone<img title="IMG_3767" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_3767" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_3767_thumb.jpg" width="640" border="0" />][4] 
+[Sea Anemone<img title="IMG_3767" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_3767" src="/travels-wp-content/uploads/2010/11/IMG_3767.jpg" width="640" border="0" />][4] 
 
-[Nemo & family<img title="IMG_3805" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_3805" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_3805_thumb.jpg" width="640" border="0" />][5]
+[Nemo & family<img title="IMG_3805" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_3805" src="/travels-wp-content/uploads/2010/11/IMG_3805.jpg" width="640" border="0" />][5]
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_3779.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_3798.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_3763.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_3767.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_3805.jpg
+ [1]: /travels-wp-content/uploads/2010/11/IMG_3779.jpg
+ [2]: /travels-wp-content/uploads/2010/11/IMG_3798.jpg
+ [3]: /travels-wp-content/uploads/2010/11/IMG_3763.jpg
+ [4]: /travels-wp-content/uploads/2010/11/IMG_3767.jpg
+ [5]: /travels-wp-content/uploads/2010/11/IMG_3805.jpg

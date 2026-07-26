@@ -22,9 +22,6 @@ _The fan in our room had somehow managed to work its way across the ceiling:_
 ![P1020239](/travels-wp-content/uploads/2010/11/P1020239.jpg) 
 
 Does anyone know why even if you’re really knackered and need to sleep you still become hypnotised by TV? We’d become hooked on VH1. “Oh is this more like MTV now playing new music? Didn’t they used to play old people music when we were younger?”, Matt says. Then realises the Foo Fighters and Green Day songs they’re playing are from the nineties and are for old people.
-
-&nbsp;
-
 Sorry just realised I said about 3hrs ago how good Kolkata is and haven’t even got through the night yet. 
 
 In brief, Kolkata was less hectic, less annoying as there were fewer tuk-tuks and so many yellow taxis on decent roads with traffic lights you could have thought you were in New York. There is a large green(ish) space which reminded me of the downs and it was easy to find our way to the main Park St area with shopping centres and restaurants. Perhaps Delhi could have been a more similar experience if we’d let it but we found it difficult to navigate and the heat was unbearable. 
@@ -40,9 +37,6 @@ This place is MASSIVE. It’s a huge white building which was started in 1901 fo
 We were just heading towards the gates when an Indian family asked if they could take a photo. No problem we said. Suddenly a small child was thrust into Matt’s arms and we were suddenly part of a family portrait. How trusting they were to give a random bloke their child. Especially one with little experience of holding kids! 
 
 ![P1020225](/travels-wp-content/uploads/2010/11/P1020225.jpg) 
-
-&nbsp;
-
 2. Indian Museum
 
 Another colonial type building with a cool courtyard and lots of Buddhist and Hindu statues which were cool. The very last thing we saw as it was closing were pickled embryos of different mammals. This included 2 human embryos, one full term. Weird.
@@ -61,6 +55,6 @@ And that was about that for Kolkata. We left early Thursday morning to get to th
 
 We did honestly like Kolkata though really.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020239.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_6097.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020225.jpg
+ [1]: /travels-wp-content/uploads/2010/11/P1020239.jpg
+ [2]: /travels-wp-content/uploads/2010/11/IMG_6097.jpg
+ [3]: /travels-wp-content/uploads/2010/11/P1020225.jpg
