@@ -37,5 +37,5 @@ If you take on the challenge, let me know in the comments and I’ll add your re
 |25th September, 2012|Olly|1:26:29|[GPS](http://www.noom.com/cardiotrainer/tracks.php?trackId=723660421&sig=3d49524f66c3e97c6c0159dc239f87c774e57a7c)|
 
 
- [1]: http://www.mattburns.co.uk/blog/wp-content/uploads/2012/07/2012-07-28-16.29.45.jpg
- [2]: http://www.mattburns.co.uk/blog/wp-content/uploads/2012/07/Cabot_Tower.jpg
+ [1]: /wp-content/uploads/2012/07/2012-07-28-16.29.45.jpg
+ [2]: /wp-content/uploads/2012/07/Cabot_Tower.jpg

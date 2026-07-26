@@ -17,13 +17,7 @@ Click “edit”
 And “activate”
 
 ![](/wp-content/uploads/2015/06/Screen-Shot-2015-06-17-at-12.55.00.png) 
-
-&nbsp;
-
 Then you can go do all the policy group nonsense that every other google result will give you. Basically, just create a user and add them to a group with these policies:
 
 ![](/wp-content/uploads/2015/06/Screen-Shot-2015-06-17-at-12.57.08.png) 
-
-&nbsp;
-
 Bosh.

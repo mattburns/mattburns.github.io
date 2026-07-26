@@ -25,7 +25,7 @@ There was a lot of noise coming from the classroom but as soon as I walked in th
 
 The classroom was quite basic with wooden desks and low thin benches and two blackboards, one usable, one not in such good condition. No glass windows. Just blue shutters which when open wide lit up the room with the strong sunshine. And the room itself was decorated with work by the students from floor to ceiling that gave the room life. 
 
-<img title="P1040868" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040868" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040868_thumb.jpg" width="640" border="0" />
+<img title="P1040868" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040868" src="/travels-wp-content/uploads/2011/02/P1040868_thumb.jpg" width="640" border="0" />
 
 Actually the kids gave it more life than was possibly necessary. 
 
@@ -46,9 +46,6 @@ Monday evening was completely different. It was a different school a bit further
 Had a dodgy cycle back to the farm in the dark. We had no lights and Amandine hit a curb and her chain fell off the bike. Luckily Khamdee & Khamkeo were experts and abandoned their own bikes in the middle of a pitch black road to come back and help. (None of the kids have lights). I thought to myself how I would have no idea how to fix a chain. (How ironic this becomes…)
 
 I then had to get a tuk-tuk back to Vang Vieng. Another 40,000kip. Can’t afford that everyday and not sure I can cycle 8km during the day so will have to get a moped.
-
-&nbsp;
-
 Tuesday was a repeat of yesterday but with different kids in the morning. Slightly younger at 8 and 9 I think. So they got bored of transportation a lot sooner. Though we played more games this time and at the end I got high-5s from the boys and hugs from the girls. I even got a fruit from one girl. They were so sweet!
 
 ![from a student](/travels-wp-content/uploads/2011/02/P1040865.jpg) 
@@ -68,9 +65,6 @@ My moped:![P1040955](/travels-wp-content/uploads/2011/02/P1040955.jpg)
 Thursday there was no morning class only Level 3s in the evening and they had an exam based on the whole term of learning. Amandine and Mark had put it together earlier in the day from the grammar book and I had to read through and check everything made sense. Amandine and I then invigilated the exam in the evening and marked them ready for Monday’s class. Another new experience for me being the teacher wandering around the room whilst the students take the exam.
 
 No teaching tomorrow.
-
-&nbsp;
-
 You might wonder what Matt’s up to whilst I’m teaching. Well he was trying to write [stolencamerafinder][6] (check it out again!) but many obstacles came his way.
 
 Monday we had decided to move accommodation as although Paradise was cheap and we had the basics such as bed and hot water and hammock, there was no desk or wifi, both essentials for Matt’s work. So he traipsed around Vang Vieng for the morning and moved all our stuff (in one go – would have loved to have a photo of that!) across the toll bridge to Vilay Vong. A luxurious room in comparison with gorgeous furniture, wifi and on the right side of the river but still far away from the mental bars.
@@ -82,8 +76,8 @@ Wednesday another powercut. They’re digging up the roads or something. Plus we
 Thursday no powercut so lots of stolencamerafinder done.
 
  [1]: http://www.laofarm.org
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040870.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040865.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040891.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040955.jpg
+ [2]: /travels-wp-content/uploads/2011/02/P1040870.jpg
+ [3]: /travels-wp-content/uploads/2011/02/P1040865.jpg
+ [4]: /travels-wp-content/uploads/2011/02/P1040891.jpg
+ [5]: /travels-wp-content/uploads/2011/02/P1040955.jpg
  [6]: http://www.stolencamerafinder.com

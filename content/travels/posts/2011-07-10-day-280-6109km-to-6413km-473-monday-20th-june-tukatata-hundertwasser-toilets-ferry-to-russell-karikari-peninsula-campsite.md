@@ -52,15 +52,15 @@ And the flagpole itself.![](/travels-wp-content/uploads/2011/07/P1070507.jpg)
 
 Our day ended with a return trip on the ferry, a whizz along the northern coastline through a little place called Cooper’s Bay (we get everywhere) and finished at the DOC campsite on the Karikari peninsula where we settled in for the night parked between two large trees and no sign of the coastline whilst the rain & the wind came again.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070464.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070471.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070475.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8232.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070483.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070488.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8239.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070498.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070496.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070508.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070506.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070507.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P1070464.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070471.jpg
+ [3]: /travels-wp-content/uploads/2011/07/P1070475.jpg
+ [4]: /travels-wp-content/uploads/2011/07/IMG_8232.jpg
+ [5]: /travels-wp-content/uploads/2011/07/P1070483.jpg
+ [6]: /travels-wp-content/uploads/2011/07/P1070488.jpg
+ [7]: /travels-wp-content/uploads/2011/07/IMG_8239.jpg
+ [8]: /travels-wp-content/uploads/2011/07/P1070498.jpg
+ [9]: /travels-wp-content/uploads/2011/07/P1070496.jpg
+ [10]: /travels-wp-content/uploads/2011/07/P1070508.jpg
+ [11]: /travels-wp-content/uploads/2011/07/P1070506.jpg
+ [12]: /travels-wp-content/uploads/2011/07/P1070507.jpg

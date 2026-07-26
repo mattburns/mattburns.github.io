@@ -43,7 +43,7 @@ Honey is collected from these super-high trees. Wooden pegs are driven into the 
 
 &nbsp;![IMG_2580](/travels-wp-content/uploads/2011/03/IMG_2580.jpg) 
 
-Inspiring environmental signs were all over the forest. I particularly liked this one:<img title="P1050171" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1050171" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050171_thumb.jpg" width="640" border="0" />
+Inspiring environmental signs were all over the forest. I particularly liked this one:<img title="P1050171" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1050171" src="/travels-wp-content/uploads/2011/03/P1050171_thumb.jpg" width="640" border="0" />
 
 Lunch was a feast. Served sat next to Nam Thong lake (?). Liver, pork, fish, boiled eggs, small eggplants, bamboo concoction wrapped in banana leaf, green beans, stem broccoli, sticky rice, bananas, rice cakes covered with locally grown sugar palm caramel and corn in coconut milk & rice. 
 
@@ -103,38 +103,38 @@ Making rice noodles. The rice is pounded into a gloopy paste and poured into thi
 
 Mats hanging out to dry![rattan mats drying out](/travels-wp-content/uploads/2011/03/P1050221.jpg) 
 
-Village living with cow & buffalo carts parked underneath and chickens everywhere.<img title="P1050220" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1050220" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050220_thumb.jpg" width="640" border="0" />
+Village living with cow & buffalo carts parked underneath and chickens everywhere.<img title="P1050220" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1050220" src="/travels-wp-content/uploads/2011/03/P1050220_thumb.jpg" width="640" border="0" />
 
 More trekking followed in the heat until more food at another lake and a beer stop at Lake Bvanga on the way back. Good ending to a lovely eye-opening couple of days.
 
 ![IMG_2700](/travels-wp-content/uploads/2011/03/IMG_2700.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2547.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050155.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2552.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2561.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2566.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050157.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2572.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2573.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2575.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050169.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2580.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2586.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2589.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2674.jpg
- [15]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_26461.jpg
- [16]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2593.jpg
- [17]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2618.jpg
- [18]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2622.jpg
- [19]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2624.jpg
- [20]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_26381.jpg
- [21]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_26391.jpg
- [22]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_26441.jpg
- [23]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_26731.jpg
- [24]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2677.jpg
- [25]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2682.jpg
- [26]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2684.jpg
- [27]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2689.jpg
- [28]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050221.jpg
- [29]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2700.jpg
+ [1]: /travels-wp-content/uploads/2011/03/IMG_2547.jpg
+ [2]: /travels-wp-content/uploads/2011/03/P1050155.jpg
+ [3]: /travels-wp-content/uploads/2011/03/IMG_2552.jpg
+ [4]: /travels-wp-content/uploads/2011/03/IMG_2561.jpg
+ [5]: /travels-wp-content/uploads/2011/03/IMG_2566.jpg
+ [6]: /travels-wp-content/uploads/2011/03/P1050157.jpg
+ [7]: /travels-wp-content/uploads/2011/03/IMG_2572.jpg
+ [8]: /travels-wp-content/uploads/2011/03/IMG_2573.jpg
+ [9]: /travels-wp-content/uploads/2011/03/IMG_2575.jpg
+ [10]: /travels-wp-content/uploads/2011/03/P1050169.jpg
+ [11]: /travels-wp-content/uploads/2011/03/IMG_2580.jpg
+ [12]: /travels-wp-content/uploads/2011/03/IMG_2586.jpg
+ [13]: /travels-wp-content/uploads/2011/03/IMG_2589.jpg
+ [14]: /travels-wp-content/uploads/2011/03/IMG_2674.jpg
+ [15]: /travels-wp-content/uploads/2011/03/IMG_26461.jpg
+ [16]: /travels-wp-content/uploads/2011/03/IMG_2593.jpg
+ [17]: /travels-wp-content/uploads/2011/03/IMG_2618.jpg
+ [18]: /travels-wp-content/uploads/2011/03/IMG_2622.jpg
+ [19]: /travels-wp-content/uploads/2011/03/IMG_2624.jpg
+ [20]: /travels-wp-content/uploads/2011/03/IMG_26381.jpg
+ [21]: /travels-wp-content/uploads/2011/03/IMG_26391.jpg
+ [22]: /travels-wp-content/uploads/2011/03/IMG_26441.jpg
+ [23]: /travels-wp-content/uploads/2011/03/IMG_26731.jpg
+ [24]: /travels-wp-content/uploads/2011/03/IMG_2677.jpg
+ [25]: /travels-wp-content/uploads/2011/03/IMG_2682.jpg
+ [26]: /travels-wp-content/uploads/2011/03/IMG_2684.jpg
+ [27]: /travels-wp-content/uploads/2011/03/IMG_2689.jpg
+ [28]: /travels-wp-content/uploads/2011/03/P1050221.jpg
+ [29]: /travels-wp-content/uploads/2011/03/IMG_2700.jpg

@@ -30,4 +30,4 @@ Then I just remember the last 3:
   * initParam
   * pageContext (not a Map, it’s the JavaBean)
 
- [1]: http://www.mattburns.co.uk/blog/2010/04/06/pick-the-right-scope-automatically/
+ [1]: /blog/2010/04/06/pick-the-right-scope-automatically/

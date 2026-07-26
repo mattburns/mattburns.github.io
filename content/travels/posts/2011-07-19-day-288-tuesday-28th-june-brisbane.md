@@ -26,6 +26,6 @@ Found some good & bad live music at The Tempo Club where they were in the middle
 
 _*I’m currently reading Down Under by Bill Bryson – read it!_
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8429.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070588.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070596.jpg
+ [1]: /travels-wp-content/uploads/2011/07/IMG_8429.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070588.jpg
+ [3]: /travels-wp-content/uploads/2011/07/P1070596.jpg

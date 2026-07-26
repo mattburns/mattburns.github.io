@@ -15,10 +15,10 @@ Matt didn’t know what to do. Fresh air. No nurses. No stuff being pumped into 
 
 I gave him a short tour of Margao – the counter where I bought our cups of rose tea, the posh Bread & More shop with the crusty rolls, the market where I bought the veg, the guy selling disco mirrorballs next to the fruit&veg guy outside the petrol station, the airtel man and the shop that supplied the laughing cow cheese. What a fun few days I’d had.
 
-[Rice @ the market<img title="IMG_8094" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_8094" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8094_thumb.jpg" width="640" border="0" />][1]&nbsp;
+[Rice @ the market<img title="IMG_8094" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_8094" src="/travels-wp-content/uploads/2011/01/IMG_8094.jpg" width="640" border="0" />][1]&nbsp;
 
 Popped by Anita’s of course to say thanks with a bunch of gerberas. I think she appreciated them. 
 
 Faffed about in Margao the whole day really. Nowt exciting to tell I’m afraid. Off to Hampi tomorrow so hopefully for everyone’s sanity that will be more exciting.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8094.jpg
+ [1]: /travels-wp-content/uploads/2011/01/IMG_8094.jpg

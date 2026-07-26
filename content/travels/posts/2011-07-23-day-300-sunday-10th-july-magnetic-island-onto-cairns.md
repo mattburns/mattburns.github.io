@@ -22,4 +22,4 @@ We arrived in Townsville port to find the ferry station was closed. It was 22:00
 
 By the time the bus came I thought we could sleep through/on anything…
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070920.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P1070920.jpg

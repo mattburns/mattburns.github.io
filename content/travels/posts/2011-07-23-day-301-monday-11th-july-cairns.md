@@ -34,6 +34,6 @@ The sun is glowing now so what do you do? Sunbathe by the lagoon, swim in the la
 
 Normally we prefer smaller towns but we actually quite like Cairns.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070929.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8705.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070935.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P1070929.jpg
+ [2]: /travels-wp-content/uploads/2011/07/IMG_8705.jpg
+ [3]: /travels-wp-content/uploads/2011/07/P1070935.jpg

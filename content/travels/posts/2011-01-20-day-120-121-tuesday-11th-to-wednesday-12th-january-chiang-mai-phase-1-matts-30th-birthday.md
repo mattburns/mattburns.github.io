@@ -21,7 +21,7 @@ Even the first people we met in Chiang Mai were nice. We asked a taxi drive [_is
 
 Anyway enough whinging about transport in Brizzle. As soon as we arrived at Butterfly we were met by smiling helpful people offering to carry bags. Whilst we waited to check in we were brought pineapple juice. To get into the resort you walked through two big solid natural wooden doors that led into the grounds. It was set in huge grounds overlooking Ping River with ponds and fountains and stepping stones, different flowers and giant trees and a swimming pool. 
 
-[Our room (ground floor)<img title="IMG_1069" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_1069" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1069_thumb.jpg" width="320" border="0" />][1]
+[Our room (ground floor)<img title="IMG_1069" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_1069" src="/travels-wp-content/uploads/2011/01/IMG_1069.jpg" width="320" border="0" />][1]
 
 ![IMG_1064](/travels-wp-content/uploads/2011/01/IMG_1064.jpg)
 
@@ -33,7 +33,7 @@ And the room. Wow. It was bigger than the flat we used to own. The bedroom was s
 
 ![IMG_1014](/travels-wp-content/uploads/2011/01/IMG_1014.jpg) 
 
-<img title="IMG_1022" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_1022" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1022_thumb.jpg" width="320" border="0" />
+<img title="IMG_1022" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_1022" src="/travels-wp-content/uploads/2011/01/IMG_1022_thumb.jpg" width="320" border="0" />
 
 I had emailed them to ask them if 1. would it be possible to have breakfast in our room on 12th and 2. did they know anywhere I could get a birthday cake from. They couldn’t have been more helpful. They emailed a local cake shop URL <http://www.loveatfirstbite-cm.com> to me so I could choose the cake and they arranged for their shuttle driver to pick it up. Plus instead of eating in the room they said I could reserve a table overlooking the river.
 
@@ -59,14 +59,14 @@ All in all a pretty good day. Matt does agree with everything I’ve written her
 
 ![P1040343](/travels-wp-content/uploads/2011/01/P1040343.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1069.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1064.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1021.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1012.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_1014.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040328.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040340.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040334.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040335.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040354.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040343.jpg
+ [1]: /travels-wp-content/uploads/2011/01/IMG_1069.jpg
+ [2]: /travels-wp-content/uploads/2011/01/IMG_1064.jpg
+ [3]: /travels-wp-content/uploads/2011/01/IMG_1021.jpg
+ [4]: /travels-wp-content/uploads/2011/01/IMG_1012.jpg
+ [5]: /travels-wp-content/uploads/2011/01/IMG_1014.jpg
+ [6]: /travels-wp-content/uploads/2011/01/P1040328.jpg
+ [7]: /travels-wp-content/uploads/2011/01/P1040340.jpg
+ [8]: /travels-wp-content/uploads/2011/01/P1040334.jpg
+ [9]: /travels-wp-content/uploads/2011/01/P1040335.jpg
+ [10]: /travels-wp-content/uploads/2011/01/P1040354.jpg
+ [11]: /travels-wp-content/uploads/2011/01/P1040343.jpg

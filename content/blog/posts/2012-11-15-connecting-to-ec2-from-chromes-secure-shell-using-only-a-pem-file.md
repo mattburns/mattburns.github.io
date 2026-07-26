@@ -22,7 +22,7 @@ Then, in [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/p
 
 It should look something like this:
 
-[![](/wp-content/uploads/2012/11/secureshell.png)](http://www.mattburns.co.uk/blog/wp-content/uploads/2012/11/secureshell.png)
+[![](/wp-content/uploads/2012/11/secureshell.png)](/wp-content/uploads/2012/11/secureshell.png)
 
 
 

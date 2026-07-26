@@ -33,9 +33,6 @@ And was it worth the trip? Well this one, the Ryoan-ji temple was not as impress
 Didn’t feel so enlightened when we got told off for going through the wrong door into the temple. We’d walked the wrong way around the grounds without realising which meant we encountered the groups door first. So when we returned to pick up our shoes they were no longer where we’d left them. Instead they were on full display in the naughty corner. How disgraceful were we not giving in our ticket we’d paid a ridiculous amount for at the gate. The stroppy lady on the counter put a bit of a dampener on the experience of visiting a Zen temple and made us feel like it was purely there for the tourist income rather than the spiritual purpose it undoubtedly had been built for 6 centuries ago. Such a shame as 99% of the people we’ve met so far have been lovely.
 
 Next stop was Kinkaku-ji temple, a much more impressive structure, completely covered in gold leaf which reflected & glimmered in the surrounding lake. This photo does not do it justice.
-
-&nbsp;
-
 ![](/travels-wp-content/uploads/2011/10/IMG_9545.jpg)
 
 The gardens were lovely to walk around too and we wish we’d had more time to wander.
@@ -106,26 +103,26 @@ The finale of the festival is a big fireworks display which we had a cat’s cha
 
 All in all a very pleasant day and we even managed to get back to Kyoto the same evening.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080585.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9526.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9532.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9537.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9545.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080609.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080611.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080614.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9560.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9577.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080620.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9581.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9590.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9596.jpg
- [15]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080637.jpg
- [16]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9610.jpg
- [17]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9615.jpg
- [18]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9632.jpg
- [19]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080653.jpg
- [20]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9660.jpg
- [21]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9662.jpg
- [22]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9681.jpg
- [23]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9689.jpg
+ [1]: /travels-wp-content/uploads/2011/10/P1080585.jpg
+ [2]: /travels-wp-content/uploads/2011/10/IMG_9526.jpg
+ [3]: /travels-wp-content/uploads/2011/10/IMG_9532.jpg
+ [4]: /travels-wp-content/uploads/2011/10/IMG_9537.jpg
+ [5]: /travels-wp-content/uploads/2011/10/IMG_9545.jpg
+ [6]: /travels-wp-content/uploads/2011/10/P1080609.jpg
+ [7]: /travels-wp-content/uploads/2011/10/P1080611.jpg
+ [8]: /travels-wp-content/uploads/2011/10/P1080614.jpg
+ [9]: /travels-wp-content/uploads/2011/10/IMG_9560.jpg
+ [10]: /travels-wp-content/uploads/2011/10/IMG_9577.jpg
+ [11]: /travels-wp-content/uploads/2011/10/P1080620.jpg
+ [12]: /travels-wp-content/uploads/2011/10/IMG_9581.jpg
+ [13]: /travels-wp-content/uploads/2011/10/IMG_9590.jpg
+ [14]: /travels-wp-content/uploads/2011/10/IMG_9596.jpg
+ [15]: /travels-wp-content/uploads/2011/10/P1080637.jpg
+ [16]: /travels-wp-content/uploads/2011/10/IMG_9610.jpg
+ [17]: /travels-wp-content/uploads/2011/10/IMG_9615.jpg
+ [18]: /travels-wp-content/uploads/2011/10/IMG_9632.jpg
+ [19]: /travels-wp-content/uploads/2011/10/P1080653.jpg
+ [20]: /travels-wp-content/uploads/2011/10/IMG_9660.jpg
+ [21]: /travels-wp-content/uploads/2011/10/IMG_9662.jpg
+ [22]: /travels-wp-content/uploads/2011/10/IMG_9681.jpg
+ [23]: /travels-wp-content/uploads/2011/10/IMG_9689.jpg

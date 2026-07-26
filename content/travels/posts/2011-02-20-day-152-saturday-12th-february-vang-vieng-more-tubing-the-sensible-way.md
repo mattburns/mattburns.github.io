@@ -20,9 +20,6 @@ Popped to the Organic Farm before tubing. Managed to see Davone again and she ga
 ![](/travels-wp-content/uploads/2011/02/P1040970_EEFA_medavone.jpg) 
 
 Had some breakfast of Mulberry Green Tea, baguette, mulberry jam & home-made goats cheese. Delicious but again a little slow to arrive which meant we didn’t start tubing til 12:15.
-
-&nbsp;
-
 ![P1040976](/travels-wp-content/uploads/2011/02/P1040976.jpg) 
 
 ![P1040988](/travels-wp-content/uploads/2011/02/P1040988.jpg)
@@ -74,18 +71,18 @@ The many forms of transportation in Vang Vieng:
 One way to wash your car…
 ![](/travels-wp-content/uploads/2011/02/P1040872.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040970_EEFA_medavone.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040976.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040988.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1050002.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1050006.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2203.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040821.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2272.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2165.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040819.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040892.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2238.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2152.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2265.jpg
- [15]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2262.jpg
+ [1]: /travels-wp-content/uploads/2011/02/P1040970_EEFA_medavone.jpg
+ [2]: /travels-wp-content/uploads/2011/02/P1040976.jpg
+ [3]: /travels-wp-content/uploads/2011/02/P1040988.jpg
+ [4]: /travels-wp-content/uploads/2011/02/P1050002.jpg
+ [5]: /travels-wp-content/uploads/2011/02/P1050006.jpg
+ [6]: /travels-wp-content/uploads/2011/02/IMG_2203.jpg
+ [7]: /travels-wp-content/uploads/2011/02/P1040821.jpg
+ [8]: /travels-wp-content/uploads/2011/02/IMG_2272.jpg
+ [9]: /travels-wp-content/uploads/2011/02/IMG_2165.jpg
+ [10]: /travels-wp-content/uploads/2011/02/P1040819.jpg
+ [11]: /travels-wp-content/uploads/2011/02/P1040892.jpg
+ [12]: /travels-wp-content/uploads/2011/02/IMG_2238.jpg
+ [13]: /travels-wp-content/uploads/2011/02/IMG_2152.jpg
+ [14]: /travels-wp-content/uploads/2011/02/IMG_2265.jpg
+ [15]: /travels-wp-content/uploads/2011/02/IMG_2262.jpg

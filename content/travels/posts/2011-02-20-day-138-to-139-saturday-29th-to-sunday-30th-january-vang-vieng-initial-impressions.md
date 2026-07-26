@@ -31,21 +31,21 @@ Arriving in the centre of Vang Vieng was a shock to the system. Bye bye beautifu
 
 But then as we headed down to the river to cross over to find the quiet guest houses we realised our beautiful Vang Vieng is surrounded by striking limestone karsts.
 
-<img title="P1040765" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040765" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040765_thumb.jpg" width="640" border="0" />
+<img title="P1040765" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1040765" src="/travels-wp-content/uploads/2011/02/P1040765_thumb.jpg" width="640" border="0" />
 
 ![IMG_2197](/travels-wp-content/uploads/2011/02/IMG_2197.jpg) 
 
 ![IMG_2146](/travels-wp-content/uploads/2011/02/IMG_2146.jpg) 
 
-<img title="IMG_2152" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_2152" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2152_thumb.jpg" width="640" border="0" />
+<img title="IMG_2152" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_2152" src="/travels-wp-content/uploads/2011/02/IMG_2152.jpg" width="640" border="0" />
 
 We found room at Paradise Sunset on the far side of Vang Vieng. Bamboo bungalows on stilts (fixed with nails), a balcony with fab views of the karsts beyond.
 
 I am torn at the moment with how I feel about Vang Vieng. It is completely schizophrenic. It has a bad vibe for me at the moment. Too many drunk kids lumbering around and loud music.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040731.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2133.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040751.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040754.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2197.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_2146.jpg
+ [1]: /travels-wp-content/uploads/2011/02/P1040731.jpg
+ [2]: /travels-wp-content/uploads/2011/02/IMG_2133.jpg
+ [3]: /travels-wp-content/uploads/2011/02/P1040751.jpg
+ [4]: /travels-wp-content/uploads/2011/02/P1040754.jpg
+ [5]: /travels-wp-content/uploads/2011/02/IMG_2197.jpg
+ [6]: /travels-wp-content/uploads/2011/02/IMG_2146.jpg

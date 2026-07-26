@@ -42,7 +42,7 @@ Great Barrier Reef was a little disappointing for sealife. We saw fish but most 
 
 ![](/travels-wp-content/uploads/2011/07/IMG_8722.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070936.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070939.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8719.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8722.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P1070936.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070939.jpg
+ [3]: /travels-wp-content/uploads/2011/07/IMG_8719.jpg
+ [4]: /travels-wp-content/uploads/2011/07/IMG_8722.jpg

@@ -51,9 +51,6 @@ Peace memorial with the names of the all of the victims inside.[![](/travels-wp-
 In the evening after a roof-top beer went on the hunt for the famous Hiroshima speciality dish [Okonomiyaki][14]. You sit in front of a giant hot plate watching the chefs fry up batter with bacon and cabbage, served over noodles and smothered in a gooey sauce served in what looks like a deep-pan pizza tray with a trowel. Sounds like a leftover fry-up, looks like a left-over fry-up, tastes like a left-over fry-up. Delicious.
 
 [![](/travels-wp-content/uploads/2011/10/IMG_9199_thumb1.jpg)][15]
-
-&nbsp;
-
 _Footnote: Japan Rail Pass information_
 
 _For those of you thinking about going to Japan and wondering about the trains, do it. You MUST apply for a Japan Rail Pass before entering the country as it is only available to non-Japanese visitors or Japanese non-residents. You receive an exchange note which you take to one of the main train stations to, unsurprisingly, exchange for a rail pass. This comes as a folded piece of card with your name and reference. It isn’t very technically advanced and if you lose it you’re stuffed. You cannot get a replacement._
@@ -66,18 +63,18 @@ _Lots more info can be found at_ [_Seat61.com_][17]_._
 
  [1]: http://en.wikipedia.org/wiki/Nozomi_(train)
  [2]: http://en.wikipedia.org/wiki/Hikari_(train)
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10802581.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_91951.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_91961.jpg
+ [3]: /travels-wp-content/uploads/2011/10/P10802581.jpg
+ [4]: /travels-wp-content/uploads/2011/10/IMG_91951.jpg
+ [5]: /travels-wp-content/uploads/2011/10/IMG_91961.jpg
  [6]: http://en.wikipedia.org/wiki/Hypocenter
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10802931.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_91981.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10802741.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10802711.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10802921.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10802721.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10802761.jpg
+ [7]: /travels-wp-content/uploads/2011/10/P10802931.jpg
+ [8]: /travels-wp-content/uploads/2011/10/IMG_91981.jpg
+ [9]: /travels-wp-content/uploads/2011/10/P10802741.jpg
+ [10]: /travels-wp-content/uploads/2011/10/P10802711.jpg
+ [11]: /travels-wp-content/uploads/2011/10/P10802921.jpg
+ [12]: /travels-wp-content/uploads/2011/10/P10802721.jpg
+ [13]: /travels-wp-content/uploads/2011/10/P10802761.jpg
  [14]: http://en.wikipedia.org/wiki/Okonomiyaki
- [15]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_91991.jpg
+ [15]: /travels-wp-content/uploads/2011/10/IMG_91991.jpg
  [16]: http://www.japan-experience.com/voyage-japon/japan-rail-pass
  [17]: http://www.seat61.com/Japan.htm

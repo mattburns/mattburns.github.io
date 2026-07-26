@@ -40,9 +40,6 @@ Thursday I stayed at the school all day. Just as the class ended the rains came 
 Aly invited me to join her family for lunch. Delicious marinated pepper beef, rice and salad with a Cambodian spicy sauce followed by fresh watermelon. She showed me pictures of the floods last year where her kids were swimming in her backyard. The whole village floods every summer in their area. At least waist deep. 
 
 She’s also invited me to go to one of the local towns with her on Saturday. Really looking forward to it.
-
-&nbsp;
-
 And Matt? Yes he did leave the room at least twice this week 😉
 
 We got into a routine and I would leave him after breakfast each morning to start coding whilst I went to school and back via the local market to get bread and supplies for lunch. I’d arrive back after 3 hours and he wouldn’t have moved. I’d help out with anything I could with [SCF][4] and we’d have a random sarnie whilst listening to half an Adam & Joe podcast before I left him in peace again for school.
@@ -56,7 +53,7 @@ Teaching is exhausting work so many evenings we just stayed in and chilled. I do
 It’s so rewarding though and good fun.
 
  [1]: http://www.shac-smilinghearts.org/
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060057.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060111.jpg
+ [2]: /travels-wp-content/uploads/2011/05/P1060057.jpg
+ [3]: /travels-wp-content/uploads/2011/05/P1060111.jpg
  [4]: http://www.stolencamerafinder.com/
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_4747.jpg
+ [5]: /travels-wp-content/uploads/2011/05/IMG_4747.jpg

@@ -38,6 +38,6 @@ And the motel sauna is a bonus. Good to get a little bit of pampering. (We’d w
 
 Plus we have an excuse to come back to NZ 😀
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P10705171.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070527-11.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P10705291.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P10705171.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070527-11.jpg
+ [3]: /travels-wp-content/uploads/2011/07/P10705291.jpg

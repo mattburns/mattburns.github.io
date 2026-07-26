@@ -43,17 +43,14 @@ Here’s the video evidence:
 {{<youtube yP4_P0wIgxQ>}}
 
 {{<youtube aKQNNcudXaM>}}
-
-&nbsp;
-
 As a reward for jumping 134m off a platform suspended on wires between two cliffs we headed to the Pub on the Wharf (thanks Evs for the recommendation) to relax with pie & beer/risotto & wine. Any excuse.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060908.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/bungy1.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/bungy2.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/bungy3.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/bungy4.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/blog-photos.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/blog-photos1.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060912.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060915.jpg
+ [1]: /travels-wp-content/uploads/2011/06/P1060908.jpg
+ [2]: /travels-wp-content/uploads/2011/06/bungy1.jpg
+ [3]: /travels-wp-content/uploads/2011/06/bungy2.jpg
+ [4]: /travels-wp-content/uploads/2011/06/bungy3.jpg
+ [5]: /travels-wp-content/uploads/2011/06/bungy4.jpg
+ [6]: /travels-wp-content/uploads/2011/06/blog-photos.jpg
+ [7]: /travels-wp-content/uploads/2011/06/blog-photos1.jpg
+ [8]: /travels-wp-content/uploads/2011/06/P1060912.jpg
+ [9]: /travels-wp-content/uploads/2011/06/P1060915.jpg

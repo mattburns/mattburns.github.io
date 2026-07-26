@@ -30,6 +30,6 @@ All Qantas flights in and out of NZ are cancelled again today so we’re now fly
 
 We don’t mind being stranded in Auckland.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070580.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8368.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8375.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P1070580.jpg
+ [2]: /travels-wp-content/uploads/2011/07/IMG_8368.jpg
+ [3]: /travels-wp-content/uploads/2011/07/IMG_8375.jpg

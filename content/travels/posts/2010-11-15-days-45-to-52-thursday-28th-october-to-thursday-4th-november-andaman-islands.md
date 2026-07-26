@@ -14,9 +14,6 @@ For the past week we have been in the Indian Ocean between the Bay of Bengal and
 We landed in Port Blair on South Andaman Thursday afternoon and jumped in a taxi 15 mins before the last ferry was due to leave for Havelock. We were under no illusion that we’d get that ferry when we landed. But the information desk woman at the airport plus the taxi driver assured us we could make it. At 13:58 we were running across the jetty towards the 14:00 ferry laden down with backpacks waving at a large ferry in the dock. They were just about to leave. As we got to the door (knackered) the guys asked for our ticket. Hmmm didn’t have one of those. So no ferry til next morning at 6am. I was pretty peed off as we’d run for it and there was no way we could have got that ferry. Especially now knowing that it takes at least 45mins to get tickets due to the once again faff of a system of getting forms off one guy who only hands them out when he feels like it, deciphering what needs to be filled in, then queuing forever whilst the staff take hours to do the one and only job they need to do. Book a ferry ticket. 
 
 We spent one night in Port Blair in a nice guest house called Aashiaanaa, had dinner with a couple of Aussies Karim & Annie and got our 9am ferry to Havelock with no problems. So it worked out well in the end. And we had great seats. We went for “chair” class as had no idea what anything was. As we boarded we were ushered past everyone else going into the main cabin, into a side cabin where there were 7 comfy chairs like on a plane with aircon and one porthole. There were 3 other people apart from us so we felt pretty posh. Very bizarre.
-
-&nbsp;
-
 In Havelock we have a 8ft x 10ft hut consisting of a double bed with mosquito net, a sideboard, a ceiling fan, a lean-to ensuite at the back (painted pink) and a porch at the front. One lattice window, no glass. Plus one door, painted pink. Both window and door are adorned with green Disney-motif curtains – not-quite-the-real-McCoy Mickey Mouse and Donald Ducks cover them. 
 
 ![P1020333](/travels-wp-content/uploads/2010/11/P1020333.jpg) 
@@ -53,13 +50,13 @@ Fingers-crossed we pass the exam tomorrow so we’ll be qualified and so Matt ca
 
 I just want to get back to the Full Moon cafe next to Dive India so we can have more roast chicken and excellent mashed potato. That’s the closest taste to home we’ve had since being in India. Plus homemade lemonade with fresh mint. Yum. The place is a really lovely chilled out place which I think it has something to do with the New Zealand girl who manages it. So many restaurants and hotels etc in India are run by men only and they just don’t get how a few nice touches here and there make a place so much more.&nbsp; Like all food being served on a banana leaf on a plate. It’s a lovely idea.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020333.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020284.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020340.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020375.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020425.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020444.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020458.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_61841.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_6188.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_6189.jpg
+ [1]: /travels-wp-content/uploads/2010/11/P1020333.jpg
+ [2]: /travels-wp-content/uploads/2010/11/P1020284.jpg
+ [3]: /travels-wp-content/uploads/2010/11/P1020340.jpg
+ [4]: /travels-wp-content/uploads/2010/11/P1020375.jpg
+ [5]: /travels-wp-content/uploads/2010/11/P1020425.jpg
+ [6]: /travels-wp-content/uploads/2010/11/P1020444.jpg
+ [7]: /travels-wp-content/uploads/2010/11/P1020458.jpg
+ [8]: /travels-wp-content/uploads/2010/11/IMG_61841.jpg
+ [9]: /travels-wp-content/uploads/2010/11/IMG_6188.jpg
+ [10]: /travels-wp-content/uploads/2010/11/IMG_6189.jpg

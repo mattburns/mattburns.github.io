@@ -26,9 +26,6 @@ The best deal I found for the Galaxy S2 (by far) has been through [Tesco][2]:
 At time of writing, that is the best deal I could find and is even better than anything I could find through the (usually excellent) [billmonitor](http://www.billmonitor.com/) website.
 
 Chances are that deal should work out just fine for you. If so, I hope this post helped you out.
-
-&nbsp;
-
 # Current T-Mobile customers:
 
 If (like me) you are already a T-Mobile customer then the checkout procedure will fail right at the end with an error code “existing customer“. I went into the tesco mobile shop and was told that the only way around it was to switch to a PAYG contract, then try again. This was a bit of a pain and I won’t bore you with the series of contradicting advice I got from T-Mobile on the matter. If you’re a T-Mobile customer, you have to do the following:

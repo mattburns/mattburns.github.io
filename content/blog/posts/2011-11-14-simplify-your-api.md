@@ -116,9 +116,6 @@ You can browse all the source code [here][3]. Or better still, checkout the code
 ```
 svn checkout http://elvis-club.googlecode.com/svn/trunk/ elvis-club-read-only
 ```
-
-&nbsp;
-
 I already know what you’re thinking:
 
 > Elvis.java should be an interface: Celebrity.java. Then I could have a concrete Elvis to pass around which implements Celebrity.
@@ -158,6 +155,6 @@ I haven’t sacrificed any testibility of my code. If anything, I’ve reduced t
 
 I think I’m right but I’ve changed software design views pretty frequently over the last 10 years. If you think I’m wrong, I challenge you to convince me why…
 
- [1]: http://www.mattburns.co.uk/blog/2011/10/26/how-to-write-singletons-in-java/
+ [1]: /blog/2011/10/26/how-to-write-singletons-in-java/
  [2]: http://dantwining.co.uk
  [3]: http://code.google.com/p/elvis-club/source/browse/trunk/

@@ -26,7 +26,7 @@ Actually managed to arrive before dark so for once we were able to select the mo
 
 Evening of listening to the rain and watching episodes of Big Bang Theory.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060744.jpg
+ [1]: /travels-wp-content/uploads/2011/06/P1060744.jpg
  [2]: http://www.stolencamerafinder.com/
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060753.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060754.jpg
+ [3]: /travels-wp-content/uploads/2011/06/P1060753.jpg
+ [4]: /travels-wp-content/uploads/2011/06/P1060754.jpg

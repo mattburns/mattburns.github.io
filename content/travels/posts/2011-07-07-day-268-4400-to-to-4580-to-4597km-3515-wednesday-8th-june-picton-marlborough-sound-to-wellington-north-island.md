@@ -34,11 +34,11 @@ Some doomed passengers trying to see the sunset too & possibly wondering why the
 
 Hot Tip: book the ferry online via Interislander and book a Websaver. We saved $105 off the normal price of a campervan.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7501.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070274.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070278.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070282.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070291.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070294.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7537.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_7541.jpg
+ [1]: /travels-wp-content/uploads/2011/07/IMG_7501.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070274.jpg
+ [3]: /travels-wp-content/uploads/2011/07/P1070278.jpg
+ [4]: /travels-wp-content/uploads/2011/07/P1070282.jpg
+ [5]: /travels-wp-content/uploads/2011/07/P1070291.jpg
+ [6]: /travels-wp-content/uploads/2011/07/P1070294.jpg
+ [7]: /travels-wp-content/uploads/2011/07/IMG_7537.jpg
+ [8]: /travels-wp-content/uploads/2011/07/IMG_7541.jpg

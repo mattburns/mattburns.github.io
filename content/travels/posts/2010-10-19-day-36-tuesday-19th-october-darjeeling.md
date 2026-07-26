@@ -20,9 +20,4 @@ Spent the rest of the afternoon looking for hiking boots but although things are
 So 7am tomorrow we’ll be off up a mountain or two. We’re currently at 2134 metres. The highest we will climb is approx 3600 metres. Wish us luck. 
 
 Back Sunday……
-
-&nbsp;
-
-&nbsp;
-
 ps food update – ate lots of lush street food today, it’s so much better than the cafes and restaurants here – eggs rolls again, veg chowmein and samosas. Yum.

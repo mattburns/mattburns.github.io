@@ -32,9 +32,9 @@ Mum’s welcome home banner – our home for the next 3 months!![](/travels-wp-c
 
 Right time to start planning the next journey…
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2012/06/P1080863.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2012/06/P1080864.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2012/06/P1080866.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2012/06/P1080867.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2012/06/P1080868.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2012/06/P1080873-1.jpg
+ [1]: /travels-wp-content/uploads/2012/06/P1080863.jpg
+ [2]: /travels-wp-content/uploads/2012/06/P1080864.jpg
+ [3]: /travels-wp-content/uploads/2012/06/P1080866.jpg
+ [4]: /travels-wp-content/uploads/2012/06/P1080867.jpg
+ [5]: /travels-wp-content/uploads/2012/06/P1080868.jpg
+ [6]: /travels-wp-content/uploads/2012/06/P1080873-1.jpg

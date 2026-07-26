@@ -78,4 +78,4 @@ Leaving this exhibition I felt ashamed to be British.
 
 I am writing this on 11th October 2011. Almost 3 months after visiting the museum. And it still brings a lump to my throat thinking about it. And it is agonizing to know that it could happen again.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10802791.jpg
+ [1]: /travels-wp-content/uploads/2011/10/P10802791.jpg

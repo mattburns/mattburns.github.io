@@ -21,7 +21,7 @@ Wat Thawet is the realisation of a Buddhist’s monk’s dream. It’s not well 
 
 ![IMG_0783](/travels-wp-content/uploads/2011/01/IMG_0783.jpg) 
 
-<img title="IMG_0793" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_0793" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0793_thumb.jpg" width="640" border="0" />
+<img title="IMG_0793" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_0793" src="/travels-wp-content/uploads/2011/01/IMG_0793_thumb.jpg" width="640" border="0" />
 
 ![IMG_0798](/travels-wp-content/uploads/2011/01/IMG_0798.jpg) 
 
@@ -55,17 +55,17 @@ It was such a difficult situation. We had no idea what was going on because we c
 
 That wasn’t our only experience of the day with a creepy guy. 12:30am, fast asleep in our hut, we woke up to find someone bumbling about on our balcony and then trying to open the door. He was a drunk Frenchman who had forgotten which room he was in but didn’t seem to understand that our room wasn’t his room. So kept coming back until I shouted at him to go away and probably woke the whole resort! Matt had wanted to do the sensible thing and go and talk to the guy but me having an over-active imagination thought he’d be an axe-murderer so I wouldn’t let him go. I ended up sleeping fully-clothed incase the madman came back and managed to break his way in!
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0776.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0783.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0798.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0804.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0835.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0836.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040228.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040246.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040257.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040254.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040276.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040290.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040282.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040309.jpg
+ [1]: /travels-wp-content/uploads/2011/01/IMG_0776.jpg
+ [2]: /travels-wp-content/uploads/2011/01/IMG_0783.jpg
+ [3]: /travels-wp-content/uploads/2011/01/IMG_0798.jpg
+ [4]: /travels-wp-content/uploads/2011/01/IMG_0804.jpg
+ [5]: /travels-wp-content/uploads/2011/01/IMG_0835.jpg
+ [6]: /travels-wp-content/uploads/2011/01/IMG_0836.jpg
+ [7]: /travels-wp-content/uploads/2011/01/P1040228.jpg
+ [8]: /travels-wp-content/uploads/2011/01/P1040246.jpg
+ [9]: /travels-wp-content/uploads/2011/01/P1040257.jpg
+ [10]: /travels-wp-content/uploads/2011/01/P1040254.jpg
+ [11]: /travels-wp-content/uploads/2011/01/P1040276.jpg
+ [12]: /travels-wp-content/uploads/2011/01/P1040290.jpg
+ [13]: /travels-wp-content/uploads/2011/01/P1040282.jpg
+ [14]: /travels-wp-content/uploads/2011/01/P1040309.jpg

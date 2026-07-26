@@ -26,9 +26,6 @@ They sold fruit, mini lobsters (delicious by the way) and barbequed squid on sti
 One girl was quite funny. She came and sat next to me, took one look at my grey hair and smiled. Then proceeded to start pulling them out one by one. After three I had to ask her to stop otherwise I think she would have continued until I was bald.
 
 A guy also asked us our ages and again commented “young face, old hair”. I am definitely dying my hair at the next opportunity!
-
-&nbsp;
-
 There are a lot of children trying to sell you bracelets during the day and fireworks at night. I had one boy chatting to me who made me what he called a good-luck bracelet for free which I didn’t want. He got stroppy then because I was disrespecting his country. It is so sad that they have to do this. They say they go to school but you see them wandering around the beaches at all hours. 
 
 And there are many disabled men begging on the beach at night. Many have been maimed by landmines. They don’t get welfare. 
@@ -71,22 +68,19 @@ As soon as they came back from their walk we had to swim back to the boat and th
 Chilling on the way back![](/travels-wp-content/uploads/2011/04/IMG_3708.jpg)
 
 ![](/travels-wp-content/uploads/2011/04/P1050755.jpg)
-
-&nbsp;
-
 Our last day in Sihanoukville was a non-event. Had a sleeper bus booked for 8pm to Siem Reap so once we checked out we sat in the Cool Banana bar all day long using their wifi and watching their projector.
 
 The sleeper bus was bizarre. Nothing like the one from Hampi to Goa in India. There were two levels of completely reclined seats. We were on the bottom level and couldn’t really sit up. The lights didn’t work either so you had no choice but to go to sleep if you had no torch. The on-board deluxe toilet was revolting. And the bus driver was a maniac. Sitting up whilst a coach is over-taking and swerving in the dead of night is definitely more palatable than lying down. Oh well another day another interesting experience and we’re still here to bore everyone with the tales.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/P10507131.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/P10507071.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/P10507161.jpg
+ [1]: /travels-wp-content/uploads/2011/04/P10507131.jpg
+ [2]: /travels-wp-content/uploads/2011/04/P10507071.jpg
+ [3]: /travels-wp-content/uploads/2011/04/P10507161.jpg
  [4]: http://www.suntours-cambodia.com/
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_36861.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/P10507421.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/P10507491.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_36971.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_36821.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/P10507521.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_37081.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/P10507551.jpg
+ [5]: /travels-wp-content/uploads/2011/04/IMG_36861.jpg
+ [6]: /travels-wp-content/uploads/2011/04/P10507421.jpg
+ [7]: /travels-wp-content/uploads/2011/04/P10507491.jpg
+ [8]: /travels-wp-content/uploads/2011/04/IMG_36971.jpg
+ [9]: /travels-wp-content/uploads/2011/04/IMG_36821.jpg
+ [10]: /travels-wp-content/uploads/2011/04/P10507521.jpg
+ [11]: /travels-wp-content/uploads/2011/04/IMG_37081.jpg
+ [12]: /travels-wp-content/uploads/2011/04/P10507551.jpg

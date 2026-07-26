@@ -41,5 +41,5 @@ Cooking was bliss though. Sounds vile but a microwave steak pie is lush after we
 
 _<09/05/11 just watched a program about the earthquake and saw office buildings that were completely flattened and the TV-NZ building being torn down as it was unsafe. Terrible.>_
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060125.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060126.jpg
+ [1]: /travels-wp-content/uploads/2011/05/P1060125.jpg
+ [2]: /travels-wp-content/uploads/2011/05/P1060126.jpg

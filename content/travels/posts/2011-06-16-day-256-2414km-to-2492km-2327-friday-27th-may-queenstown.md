@@ -40,12 +40,12 @@ Rest of the evening consisted of more bars, free pizza and dancing back at World
 
 Followed by a long freezing walk back to our bargain campsite 2km from town. Why oh why didn’t we pay the extra and stay in town!?!
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_6132.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_6136.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_6140.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_6141.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060883.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060878.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060879.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060881.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060896.jpg
+ [1]: /travels-wp-content/uploads/2011/06/IMG_6132.jpg
+ [2]: /travels-wp-content/uploads/2011/06/IMG_6136.jpg
+ [3]: /travels-wp-content/uploads/2011/06/IMG_6140.jpg
+ [4]: /travels-wp-content/uploads/2011/06/IMG_6141.jpg
+ [5]: /travels-wp-content/uploads/2011/06/P1060883.jpg
+ [6]: /travels-wp-content/uploads/2011/06/P1060878.jpg
+ [7]: /travels-wp-content/uploads/2011/06/P1060879.jpg
+ [8]: /travels-wp-content/uploads/2011/06/P1060881.jpg
+ [9]: /travels-wp-content/uploads/2011/06/P1060896.jpg

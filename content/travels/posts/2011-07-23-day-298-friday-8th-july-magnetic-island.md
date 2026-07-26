@@ -24,5 +24,5 @@ We are staying at Bungalow Bay in Horseshoe bay. The bay itself is gorgeous. Ano
 
 ![](/travels-wp-content/uploads/2011/07/P1070915.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8609.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070915.jpg
+ [1]: /travels-wp-content/uploads/2011/07/IMG_8609.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070915.jpg

@@ -28,9 +28,6 @@ We met a guy called Mark on the boat who was from a small place in the UK known 
 Mark had been in Australia and so was able to give us advice about where to go and funnily enough he is off to India next so we were able to offload lots of useless information onto him about what to expect. 
 
 Not sure what to think of Chiang Rai. I don’t know if it’s just the part of town we’re staying in but it is reminiscent of Phuket. Lots of middle-aged men drinking in bars with young Thai girls. Why oh why oh why??
-
-&nbsp;
-
 On Tuesday we moved from the Tourist Inn as the room was depressing and even the shower was rusty (the white plastic was now brown) so the water stank. 
 
 Bamboo House is a much nicer place. Little cute clean bungalows and free coffee (always a bonus for us). Still there is one tall European guy staying here with a ladyboy companion. Whatever floats your boat.
@@ -49,8 +46,8 @@ And a nice temple Wat Jethod:
 
 And has a lovely little night market selling usual farang souvenirs and clothes and in the square next to it there are a number of independent shops selling unique products. Intricate word carvings, funky hand-decorated trainers and gorgeous silver rings with collections of stones on. It’s a shame none of those fit properly otherwise I’d have blown the budget :)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040530.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040529.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040528.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040543.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040576.jpg
+ [1]: /travels-wp-content/uploads/2011/02/P1040530.jpg
+ [2]: /travels-wp-content/uploads/2011/02/P1040529.jpg
+ [3]: /travels-wp-content/uploads/2011/02/P1040528.jpg
+ [4]: /travels-wp-content/uploads/2011/02/P1040543.jpg
+ [5]: /travels-wp-content/uploads/2011/02/P1040576.jpg

@@ -22,6 +22,6 @@ I think we may be mad. It is 8pm and we have just called Qantas to change our fl
 
 This means getting up at 2:30am to catch a bus. Goodnight.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070583.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070584.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070586.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P1070583.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070584.jpg
+ [3]: /travels-wp-content/uploads/2011/07/P1070586.jpg

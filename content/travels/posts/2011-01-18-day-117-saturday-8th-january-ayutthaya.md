@@ -21,7 +21,7 @@ We saw the main tourist sight Wat Phra Mahathat with the Buddha head caught betw
 
 ![IMG_0714](/travels-wp-content/uploads/2011/01/IMG_0714.jpg)
 
-<img title="IMG_0725" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_0725" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0725_thumb.jpg" width="640" border="0" />&nbsp;
+<img title="IMG_0725" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_0725" src="/travels-wp-content/uploads/2011/01/IMG_0725_thumb.jpg" width="640" border="0" />&nbsp;
 
 Ayuthaya is an island surrounded by 3 rivers and we fancied a boat trip around the city to see some of the other temples. Do you think we could find out anything about them? I called the hostel and the guy’s English wasn’t so good so he ended up just telling me that they close the gate at 11pm. We cycled round the riversides but couldn’t see anything advertised. So gave up and went to see the reclining Buddha. This one is outside unlike in Bangkok and was being renovated so it was surrounded by what looked like oil drums and had a large ladder leaning against it. Not so photogenic as Matt would have liked.
 
@@ -33,8 +33,8 @@ For dinner I pretended I didn’t know where we were going and took Matt down th
 
 ![P1040203](/travels-wp-content/uploads/2011/01/P1040203.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040140.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0714.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0762.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0759.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1040203.jpg
+ [1]: /travels-wp-content/uploads/2011/01/P1040140.jpg
+ [2]: /travels-wp-content/uploads/2011/01/IMG_0714.jpg
+ [3]: /travels-wp-content/uploads/2011/01/IMG_0762.jpg
+ [4]: /travels-wp-content/uploads/2011/01/IMG_0759.jpg
+ [5]: /travels-wp-content/uploads/2011/01/P1040203.jpg

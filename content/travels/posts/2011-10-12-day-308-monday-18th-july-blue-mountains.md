@@ -53,22 +53,19 @@ After a quick scoot around the obligatory tourist shopping centre and hugging a 
 ![](/travels-wp-content/uploads/2011/10/P1080160.jpg)
 
 It was a long old hilly walk back to the hostel but after filling up on meat pie & lamingtons* from the bakery we managed the last part happily content and it was lovely to get back to the cosy lounge with gas fire & hot cuppa before retiring to our even cosier room in the eaves with floral bed covers and wicker furniture.
-
-&nbsp;
-
 _* We first tried lamingintons/lemmingtons whatever they’re called, soft sponge covered in chocolate and desiccated coconut. Another addition commenced and will be trying the recipe as soon as poss when back home._
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080162.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080161.jpg
+ [1]: /travels-wp-content/uploads/2011/10/P1080162.jpg
+ [2]: /travels-wp-content/uploads/2011/10/P1080161.jpg
  [3]: http://www.no14.com.au/
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9049.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9051.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9060.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9068.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9055.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9093.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080150.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9083.jpg
+ [4]: /travels-wp-content/uploads/2011/10/IMG_9049.jpg
+ [5]: /travels-wp-content/uploads/2011/10/IMG_9051.jpg
+ [6]: /travels-wp-content/uploads/2011/10/IMG_9060.jpg
+ [7]: /travels-wp-content/uploads/2011/10/IMG_9068.jpg
+ [8]: /travels-wp-content/uploads/2011/10/IMG_9055.jpg
+ [9]: /travels-wp-content/uploads/2011/10/IMG_9093.jpg
+ [10]: /travels-wp-content/uploads/2011/10/P1080150.jpg
+ [11]: /travels-wp-content/uploads/2011/10/IMG_9083.jpg
  [12]: http://www.scenicworld.com.au/index.php/scenic-skyway
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9097.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080160.jpg
+ [13]: /travels-wp-content/uploads/2011/10/IMG_9097.jpg
+ [14]: /travels-wp-content/uploads/2011/10/P1080160.jpg

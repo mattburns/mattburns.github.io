@@ -19,7 +19,7 @@ And boats:
 
 ![](/travels-wp-content/uploads/2011/04/P1050454.jpg)
 
-[![](/travels-wp-content/uploads/2011/04/IMG_3293_thumb.jpg)][4]
+[![](/travels-wp-content/uploads/2011/04/IMG_3293.jpg)][4]
 
 ![](/travels-wp-content/uploads/2011/04/IMG_3352.jpg)
 
@@ -29,8 +29,8 @@ If you’re quick you may see one or two in these videos:
 
 {{< youtube 0qEOHNFoZuw>}}
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_3267-1.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_3270-1.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/P1050454.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_3293.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_3352.jpg
+ [1]: /travels-wp-content/uploads/2011/04/IMG_3267-1.jpg
+ [2]: /travels-wp-content/uploads/2011/04/IMG_3270-1.jpg
+ [3]: /travels-wp-content/uploads/2011/04/P1050454.jpg
+ [4]: /travels-wp-content/uploads/2011/04/IMG_3293.jpg
+ [5]: /travels-wp-content/uploads/2011/04/IMG_3352.jpg

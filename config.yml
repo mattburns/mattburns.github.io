@@ -1,13 +1,19 @@
 baseURL: 'https://mattburns.co.uk'
-languageCode: 'en-gb'
+locale: 'en-gb'
 title: 'Matt Burns'
 theme: "PaperMod"
 minify:
     disableXML: true
     minifyOutput: true
 
+# Old WordPress-imported posts rely on inline HTML (img/figure/div); without
+# this Hugo silently drops that markup from the rendered pages.
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+
 disqusShortname: mattburnsblog
-googleAnalytics: UA-3929681-1
 
 assets:
     favicon: "/favicon.ico"

@@ -20,4 +20,4 @@ Finally changed the dates of our remaining flights. Very very very happy about t
 For anyone remotely interested the new dates are on the [Itinerary][2] page.
 
  [1]: http://www.tripadvisor.co.uk/Hotel_Review-g293950-d1904218-Reviews-Mixay_Paradise-Vientiane.html
- [2]: http://www.mattburns.co.uk/travels/itinerary/
+ [2]: https://web.archive.org/web/2011/http://www.mattburns.co.uk/travels/itinerary/

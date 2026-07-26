@@ -44,5 +44,5 @@ To fix this within the POM you need to add the following:
 
  [1]: http://en.wikipedia.org/wiki/Convention_over_Configuration
  [2]: http://maven.apache.org/
- [3]: http://www.mattburns.co.uk/blog/wp-content/uploads/2009/05/maven1.png
+ [3]: /wp-content/uploads/2009/05/maven1.png
  [4]: http://m2eclipse.codehaus.org/

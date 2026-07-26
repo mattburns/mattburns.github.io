@@ -22,8 +22,8 @@ Only managed to get a bit further up the road to pitch in Pelorus Bridge, a DOC 
 
 ![](/travels-wp-content/uploads/2011/06/P1060399.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060388.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5421.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060394.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5430.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060399.jpg
+ [1]: /travels-wp-content/uploads/2011/06/P1060388.jpg
+ [2]: /travels-wp-content/uploads/2011/06/IMG_5421.jpg
+ [3]: /travels-wp-content/uploads/2011/06/P1060394.jpg
+ [4]: /travels-wp-content/uploads/2011/06/IMG_5430.jpg
+ [5]: /travels-wp-content/uploads/2011/06/P1060399.jpg

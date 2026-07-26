@@ -51,17 +51,14 @@ We saw our first wild penguin. Whilst we stood poised in our viewing hut at Nugg
 {{<youtube Rc2uZkONNk4>}}
 
 {{<youtube QZ6xPAZwoYQ>}}
-
-&nbsp;
-
 Now at Kaka Point campsite on the South coast.
 
 _Note to self: have one more video!_
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1070152.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_7168.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1070154.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1070164.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1070167.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1070170.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1070173.jpg
+ [1]: /travels-wp-content/uploads/2011/06/P1070152.jpg
+ [2]: /travels-wp-content/uploads/2011/06/IMG_7168.jpg
+ [3]: /travels-wp-content/uploads/2011/06/P1070154.jpg
+ [4]: /travels-wp-content/uploads/2011/06/P1070164.jpg
+ [5]: /travels-wp-content/uploads/2011/06/P1070167.jpg
+ [6]: /travels-wp-content/uploads/2011/06/P1070170.jpg
+ [7]: /travels-wp-content/uploads/2011/06/P1070173.jpg

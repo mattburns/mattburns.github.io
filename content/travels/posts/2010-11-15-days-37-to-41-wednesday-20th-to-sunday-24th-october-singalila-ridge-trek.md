@@ -17,7 +17,7 @@ The trek was amazing. There were bad points, there always are with us two. But t
 
 From Sandakphu, 3600m high, we could see a looming Khangchendzonga (Kanchenjunga) (8598m – correction from earlier post – this is the _2nd_ highest in Himalaya, 3rd highest in the _world_ after Everest and K2), the Three Sisters, Makalu and the tip of Mt Everest. Wow. Worth every drop of rain and every metre climbed and every aching limb coming back down. 
 
-![Mt. Kanchenjunga make up the belly of what the locals call &quot;The Sleeping Budda&quot;](/travels-wp-content/uploads/2010/11/IMG_5938.jpg) 
+![Mt. Kanchenjunga make up the belly of what the locals call "The Sleeping Budda"](/travels-wp-content/uploads/2010/11/IMG_5938.jpg) 
 
 Long version:
 
@@ -102,9 +102,6 @@ We left Shrikola across a dubious bridge and sadly passed a sick horse at the si
 The rest of the route to Rimbik was on more of a road which wound around the hills where we passed donkeys and horses carrying goods and saw many houses built of stilts. An old woman was sat on a pile of granite stones breaking more rocks and further along men were laying new tarmac using what looked like the same kind of rocks – a lot of hard manual labour. 
 
 ![Laying a road](/travels-wp-content/uploads/2010/11/IMG_6045.jpg) 
-
-&nbsp;
-
 Reaching the lodge at Rimbik just after 4pm was a relief after a full day’s walking downhill in good weather and only one chai since breakfast. We were getting withdrawal symptoms. The lodge had a view of Sikkim to the north-east and Darjeeling to the south-east and a shower with hot water. Lush.
 
 The only downside this time were the paper-thin walls between us and the pissed honeymoon couple in the room next door. Indians aren’t known for being quiet and there were far too many noises coming from their room than we would have liked to hear. Especially when the guy ended up being very ill from drinking too much. Ugh! 
@@ -113,21 +110,21 @@ Day 5 – We were planning on a lie-in as the jeep wasn’t coming til 8:30 but 
 
 4 hours later and we’re back in Darjeeling. As I get out the car I realise I can hardly walk. My quads are seized up and I’m walking around like John Wayne again. Matt isn’t much better. Seems we’ve both turned into old people after 6 weeks of no exercise. Good job we did the beginner’s trek.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_5938.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_5317.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_5370.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1010879.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1010871.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_5387.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1010912.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020012.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020011.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020080.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020077.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020101.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020083.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020104.jpg
- [15]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/P1020164.jpg
- [16]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_5999.jpg
- [17]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_6025.jpg
- [18]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/11/IMG_6045.jpg
+ [1]: /travels-wp-content/uploads/2010/11/IMG_5938.jpg
+ [2]: /travels-wp-content/uploads/2010/11/IMG_5317.jpg
+ [3]: /travels-wp-content/uploads/2010/11/IMG_5370.jpg
+ [4]: /travels-wp-content/uploads/2010/11/P1010879.jpg
+ [5]: /travels-wp-content/uploads/2010/11/P1010871.jpg
+ [6]: /travels-wp-content/uploads/2010/11/IMG_5387.jpg
+ [7]: /travels-wp-content/uploads/2010/11/P1010912.jpg
+ [8]: /travels-wp-content/uploads/2010/11/P1020012.jpg
+ [9]: /travels-wp-content/uploads/2010/11/P1020011.jpg
+ [10]: /travels-wp-content/uploads/2010/11/P1020080.jpg
+ [11]: /travels-wp-content/uploads/2010/11/P1020077.jpg
+ [12]: /travels-wp-content/uploads/2010/11/P1020101.jpg
+ [13]: /travels-wp-content/uploads/2010/11/P1020083.jpg
+ [14]: /travels-wp-content/uploads/2010/11/P1020104.jpg
+ [15]: /travels-wp-content/uploads/2010/11/P1020164.jpg
+ [16]: /travels-wp-content/uploads/2010/11/IMG_5999.jpg
+ [17]: /travels-wp-content/uploads/2010/11/IMG_6025.jpg
+ [18]: /travels-wp-content/uploads/2010/11/IMG_6045.jpg

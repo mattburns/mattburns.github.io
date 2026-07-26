@@ -40,7 +40,7 @@ I simply jammed a bit of paper in there to make the microswitch touch the contac
 
 If this post has helped you fix your phone, show me some love with the flattr link above. Thanks!<figure id="attachment_15" aria-describedby="caption-attachment-15" style="width: 200px" class="wp-caption alignright">
 
-![](/wp-content/uploads/2008/11/img_3929.png)
+![](/wp-content/uploads/2008/11/img_3929.jpg)
 
- [1]: http://www.mattburns.co.uk/blog/wp-content/uploads/2008/11/img_3923.jpg
+ [1]: /wp-content/uploads/2008/11/img_3923.jpg
  [2]: http://www.allaboutsymbian.com/forum/showthread.php?t=67269

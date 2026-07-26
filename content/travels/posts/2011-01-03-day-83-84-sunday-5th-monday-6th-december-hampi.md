@@ -38,9 +38,6 @@ Monday we planned to wander along the river bank to the main Vitthala temple but
 Back on the moped went to more temples and ruins at the Royal Enclosure and Hazararama Temple.
 
 ![P1030187](/travels-wp-content/uploads/2011/01/P1030187.jpg) 
-
-&nbsp;
-
 ![P1030194](/travels-wp-content/uploads/2011/01/P1030194.jpg) 
 
 The Lotus Mahal and the Elephant stables were favourites of ours. Although how an elephant could have been comfortable in one of those rooms is beyond us.
@@ -58,9 +55,6 @@ Later wandered to the end of Hampi Bazaar past makeshift homes within the old te
 ![P1030233](/travels-wp-content/uploads/2011/01/P1030233.jpg)
 
 ![IMG_8217](/travels-wp-content/uploads/2011/01/IMG_8217.jpg)&nbsp; 
-
-&nbsp;
-
 I finally got my Indian Head Massage. It looked like a professional outfit from the signs outside. Inside I was pretty much sat in someone’s front room. TV in one corner with the son eating his thali and a massage table along the wall with a curtain divider and the kitchen next door. As I was just having a head massage I got to sit in one of those world-wide popular garden plastic chairs.
 
 Apart from being able to hear the tv, which went off after 10 mins due to a powercut (there is a god!), it was a good experience. The woman used coconut oil which I love and she was a lot rougher than I am when I do IHM. It was more invigorating than relaxing but definitely felt good. At one point it felt as though she was pulling my hair out of my scalp. And twisting the back of my neck my spine might snap. But I came out alive the other end and smiling and it didn’t matter it was in her front room. It was all part of the experience and normal for India. And when I gave her the money (about £3) she blessed it and had a very genuine smile. 
@@ -75,17 +69,17 @@ _Latest bodge job:&nbsp; Vicky’s Guesthouse, hot shower:_
 
 Ah yes we went back to Margao on a sleeper bus. Well we couldn’t believe our luck. It must have been brand new. It was a coach with 2 storeys of sleeping compartments, singles on one side and doubles on the other. We had a double with a sliding door to shut ourselves in and it plenty of room to lie down or sit up. We thought we’d get a great night’s sleep and wake up refreshed in Margao….
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030144.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030084.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8128.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8140.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030147.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030162.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030187.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030194.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030203.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8202.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8194.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030233.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8217.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030146.jpg
+ [1]: /travels-wp-content/uploads/2011/01/P1030144.jpg
+ [2]: /travels-wp-content/uploads/2011/01/P1030084.jpg
+ [3]: /travels-wp-content/uploads/2011/01/IMG_8128.jpg
+ [4]: /travels-wp-content/uploads/2011/01/IMG_8140.jpg
+ [5]: /travels-wp-content/uploads/2011/01/P1030147.jpg
+ [6]: /travels-wp-content/uploads/2011/01/P1030162.jpg
+ [7]: /travels-wp-content/uploads/2011/01/P1030187.jpg
+ [8]: /travels-wp-content/uploads/2011/01/P1030194.jpg
+ [9]: /travels-wp-content/uploads/2011/01/P1030203.jpg
+ [10]: /travels-wp-content/uploads/2011/01/IMG_8202.jpg
+ [11]: /travels-wp-content/uploads/2011/01/IMG_8194.jpg
+ [12]: /travels-wp-content/uploads/2011/01/P1030233.jpg
+ [13]: /travels-wp-content/uploads/2011/01/IMG_8217.jpg
+ [14]: /travels-wp-content/uploads/2011/01/P1030146.jpg

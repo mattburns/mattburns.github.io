@@ -60,19 +60,19 @@ And Mr Spoon’s rocket to Button Moon (disguised as a lighthouse).
 
 Back at Okiwi Bay campsite in the rain chomping bangers & mash and listening to old skool chillout music. Ah you gotta love Coldplay, Travis and Massive Attack.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060225.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P10602271.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P10602281.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P10602331.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P10602351.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P10602411.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P10602601.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_52651.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P10603091.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_52841.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P10602451.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_52091.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/IMG_52271.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P10603101.jpg
- [15]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P10603261.jpg
- [16]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1060321.jpg
+ [1]: /travels-wp-content/uploads/2011/05/P1060225.jpg
+ [2]: /travels-wp-content/uploads/2011/05/P10602271.jpg
+ [3]: /travels-wp-content/uploads/2011/05/P10602281.jpg
+ [4]: /travels-wp-content/uploads/2011/05/P10602331.jpg
+ [5]: /travels-wp-content/uploads/2011/05/P10602351.jpg
+ [6]: /travels-wp-content/uploads/2011/05/P10602411.jpg
+ [7]: /travels-wp-content/uploads/2011/05/P10602601.jpg
+ [8]: /travels-wp-content/uploads/2011/05/IMG_52651.jpg
+ [9]: /travels-wp-content/uploads/2011/05/P10603091.jpg
+ [10]: /travels-wp-content/uploads/2011/05/IMG_52841.jpg
+ [11]: /travels-wp-content/uploads/2011/05/P10602451.jpg
+ [12]: /travels-wp-content/uploads/2011/05/IMG_52091.jpg
+ [13]: /travels-wp-content/uploads/2011/05/IMG_52271.jpg
+ [14]: /travels-wp-content/uploads/2011/05/P10603101.jpg
+ [15]: /travels-wp-content/uploads/2011/05/P10603261.jpg
+ [16]: /travels-wp-content/uploads/2011/05/P1060321.jpg

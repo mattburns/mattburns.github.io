@@ -34,11 +34,11 @@ View from the car park.![](/travels-wp-content/uploads/2011/07/IMG_8117.jpg)
 
 As the sun set we made the decision to head to Coromandel to gain some distance. In the process we managed to miss the views from the top of the peninsula completely. But hey-ho it’s just the sea and we’ve seen plenty of it.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070432.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070434.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8134.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8140.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8154.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070438.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070448.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8117.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P1070432.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070434.jpg
+ [3]: /travels-wp-content/uploads/2011/07/IMG_8134.jpg
+ [4]: /travels-wp-content/uploads/2011/07/IMG_8140.jpg
+ [5]: /travels-wp-content/uploads/2011/07/IMG_8154.jpg
+ [6]: /travels-wp-content/uploads/2011/07/P1070438.jpg
+ [7]: /travels-wp-content/uploads/2011/07/P1070448.jpg
+ [8]: /travels-wp-content/uploads/2011/07/IMG_8117.jpg

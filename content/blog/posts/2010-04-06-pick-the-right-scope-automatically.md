@@ -17,5 +17,5 @@ My first thing to remember is that a JspContext has a findAttribute method that 
 
 The acroynym, PRSA, is the order scopes are searched for attributes: Page, Request, Session, Application. You know that the S stands for Session because you can’t put attributes in a servlet. This also allows you to remember which objects can have attributes.
 
- [1]: http://www.mattburns.co.uk/blog/2010/04/06/head-first-servlets-and-jsp-errata/
+ [1]: /blog/2010/04/06/head-first-servlets-and-jsp-errata/
  [2]: http://in.sun.com/training/certification/java/scwcd.xml

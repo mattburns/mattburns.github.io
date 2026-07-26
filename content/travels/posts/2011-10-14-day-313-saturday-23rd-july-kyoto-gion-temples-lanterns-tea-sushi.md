@@ -56,17 +56,17 @@ After sushi, we went down a teeny staircase to a corridor of an underground bar 
 
 ![](/travels-wp-content/uploads/2011/10/P1080508.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9373.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9376.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9393.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9403.jpg
+ [1]: /travels-wp-content/uploads/2011/10/IMG_9373.jpg
+ [2]: /travels-wp-content/uploads/2011/10/IMG_9376.jpg
+ [3]: /travels-wp-content/uploads/2011/10/IMG_9393.jpg
+ [4]: /travels-wp-content/uploads/2011/10/IMG_9403.jpg
  [5]: http://teaceremonyen.com/eindex.html
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9407.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9409.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9418.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080503.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9420.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9423.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9426.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_9432.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1080508.jpg
+ [6]: /travels-wp-content/uploads/2011/10/IMG_9407.jpg
+ [7]: /travels-wp-content/uploads/2011/10/IMG_9409.jpg
+ [8]: /travels-wp-content/uploads/2011/10/IMG_9418.jpg
+ [9]: /travels-wp-content/uploads/2011/10/P1080503.jpg
+ [10]: /travels-wp-content/uploads/2011/10/IMG_9420.jpg
+ [11]: /travels-wp-content/uploads/2011/10/IMG_9423.jpg
+ [12]: /travels-wp-content/uploads/2011/10/IMG_9426.jpg
+ [13]: /travels-wp-content/uploads/2011/10/IMG_9432.jpg
+ [14]: /travels-wp-content/uploads/2011/10/P1080508.jpg

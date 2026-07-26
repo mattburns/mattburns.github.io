@@ -35,7 +35,7 @@ On the plus side we get back to our hut cold beer in hand just in the nick of ti
 
 No rest for the wicked though. We’re off to Cambodia….
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_3181.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/P1050413.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/P1050415.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_3198.jpg
+ [1]: /travels-wp-content/uploads/2011/04/IMG_3181.jpg
+ [2]: /travels-wp-content/uploads/2011/04/P1050413.jpg
+ [3]: /travels-wp-content/uploads/2011/04/P1050415.jpg
+ [4]: /travels-wp-content/uploads/2011/04/IMG_3198.jpg

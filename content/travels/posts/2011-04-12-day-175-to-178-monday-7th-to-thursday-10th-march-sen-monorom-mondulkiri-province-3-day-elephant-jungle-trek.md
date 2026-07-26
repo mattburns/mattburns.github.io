@@ -47,7 +47,7 @@ By 7.30pm it was pitch black and we were all in our hammocks ready for bed. Can�
 
 Whilst we had breakfast the mahout cooked the meat for lunch. It is ingenious how everything these guys do uses things from the forest. Two sticks with pieces of meat between them, bound with vine. Three or four of these were leant against each other over the fire to cook.
 
-<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="IMG_3454" border="0" alt="IMG_3454" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_3454.jpg" width="640" height="427" />
+<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="IMG_3454" border="0" alt="IMG_3454" src="/travels-wp-content/uploads/2011/04/IMG_3454.jpg" width="640" height="427" />
 
 At breakfast Matt became creative and made a dream catcher. Mouse took a liking to it, or rather a disliking, as he headbutted it and tore it out of the ground. He probably thought it was food. It’s amazing to watch an elephant pull small trees from the ground, shake it to get the dirt off and then munch it down.
 
@@ -71,7 +71,7 @@ Here the guy who drew the short straw is building a smoking branch. Bamboo branc
 
 ![](/travels-wp-content/uploads/2011/04/IMG_3529.jpg)
 
-<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="IMG_3533" border="0" alt="IMG_3533" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_3533.jpg" width="640" height="427" />
+<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="IMG_3533" border="0" alt="IMG_3533" src="/travels-wp-content/uploads/2011/04/IMG_3533.jpg" width="640" height="427" />
 
 He then wrapped his face with a scarf and set off up the tree. Halfway up he sets the branch of leaves smoking and carries on up to the beehive.
 
@@ -83,7 +83,7 @@ We waited and waited and waited and…
 
 …show me the honey…
 
-<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="IMG_3550" border="0" alt="IMG_3550" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/04/IMG_3550.jpg" width="640" height="427" />
+<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="IMG_3550" border="0" alt="IMG_3550" src="/travels-wp-content/uploads/2011/04/IMG_3550.jpg" width="640" height="427" />
 
 The short straw guy had done it. He’d climbed up the tree, smoked them darn bees out and brought home the reward in a large green bag – the whole hive.
 

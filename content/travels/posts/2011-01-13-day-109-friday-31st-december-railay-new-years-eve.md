@@ -20,9 +20,6 @@ Phranang beach itself is a curve of gorgeous yellow sands and crystal clear wate
 ![P1030841](/travels-wp-content/uploads/2011/01/P1030841.jpg)&nbsp;
 
 ![P1030847](/travels-wp-content/uploads/2011/01/P1030847.jpg) 
-
-&nbsp;
-
 ![IMG_0392](/travels-wp-content/uploads/2011/01/IMG_0392.jpg) 
 
 We sat on the beach with a can of Chang, bought from a random Thai guy with a carrier-bag of ice & beer, until the rains came and we were forced to sprint back to the shelter of the stalactites and then the 15min walk back up to Railay Cabana to get ready for new year.
@@ -45,10 +42,10 @@ End of 2010, a year of new experiences, what will 2011 bring….
 
 Happy New Year!
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030839.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030841.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030847.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0392.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0399.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0423.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030879.jpg
+ [1]: /travels-wp-content/uploads/2011/01/P1030839.jpg
+ [2]: /travels-wp-content/uploads/2011/01/P1030841.jpg
+ [3]: /travels-wp-content/uploads/2011/01/P1030847.jpg
+ [4]: /travels-wp-content/uploads/2011/01/IMG_0392.jpg
+ [5]: /travels-wp-content/uploads/2011/01/IMG_0399.jpg
+ [6]: /travels-wp-content/uploads/2011/01/IMG_0423.jpg
+ [7]: /travels-wp-content/uploads/2011/01/P1030879.jpg

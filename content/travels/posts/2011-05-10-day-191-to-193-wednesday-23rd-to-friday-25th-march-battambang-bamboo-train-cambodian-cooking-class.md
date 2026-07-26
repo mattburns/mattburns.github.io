@@ -78,13 +78,7 @@ The Killing Caves were both spectacular and harrowing. These huge natural caves 
 
 {{<youtube fNGoLuhzqYs>}}
 The Killing Caves
-
-&nbsp;
-
 Nearby a ginormous Buddha head is partially carved into the side of the hill. The project ran out of money before it was finished. It looks like he’s been buried in the rock and can’t get out. (We missed the photo opportunity here so just imagine).
-
-&nbsp;
-
 Now that was just the morning. We managed to get back in time for our afternoon Cambodian cooking class at the Smoking Pot.
 
 A truly authentic trip to the market where we actually bought what we were going to cook.

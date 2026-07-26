@@ -58,15 +58,12 @@ In the sorng theaw on the way back to the bus station an old guy started chattin
 If anyone is wondering why we only went to Tachileik. It’s because you can only get a one day permit to go to Tachileik only. It is possible to get a 14 day visa to go to Kengtung and Mong La but you can’t go any further into Myanmar than that without applying for the special visa which we’re not keen to do. We do wonder what it’s like though. It can’t be like Tachileik. A strange no-mans land.
 
 By 16:30 we were back in Chiang Rai. 
-
-&nbsp;
-
 Tried another different cuisine tonight.&nbsp; Korean. An array of dishes appeared on the table with a large jug of cold weak tea. It was a culinary delight for our tastebuds and made a nice change from thai curry and noodles (don’t get me wrong though I could eat thai curry every meal!).
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040557.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040555.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040556.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_1718.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_1720.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040566.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_1726.jpg
+ [1]: /travels-wp-content/uploads/2011/02/P1040557.jpg
+ [2]: /travels-wp-content/uploads/2011/02/P1040555.jpg
+ [3]: /travels-wp-content/uploads/2011/02/P1040556.jpg
+ [4]: /travels-wp-content/uploads/2011/02/IMG_1718.jpg
+ [5]: /travels-wp-content/uploads/2011/02/IMG_1720.jpg
+ [6]: /travels-wp-content/uploads/2011/02/P1040566.jpg
+ [7]: /travels-wp-content/uploads/2011/02/IMG_1726.jpg

@@ -25,9 +25,6 @@ We made it.
 8:00 (Oz time) So anyway we landed after a bit more turbulence through thick cloud and now we’re in Brisbane!
 
 I was once again paranoid about the customs procedure. They say you have to declare all food items and I’d made Matt bring all the condiments from the van including chill sauce. So we declared them and they were fine about it. Although the drug-squad dog seemed interested in the chill sauce. It meant we ditched the last of our Cambodian honey but it was looking a bit worse for wear after 4 months of being lugged around.
-
-&nbsp;
-
 From first glance of Brisbane we like it. It’s very built up but very laid back. 
 
 To take stock and work out a plan of action we needed caffeine and what better way to do it than a mug of cappuccino with a side of free cinnamon doughnuts. We were buzzing and made our way to a central motel called Acacia which had the feeling of being an old hospital crossed with an old people’s home. It must have been built in the 70s and never been touched since. Still it was a bed for the night.
@@ -46,5 +43,5 @@ We ventured into both galleries and the library. The latter of course to use the
 
 Lovely city. The only letdown, is it’s actually pretty cold and a little rainy. Where is the warm sunshine we were promised Gold Coast?!
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8412.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070587.jpg
+ [1]: /travels-wp-content/uploads/2011/07/IMG_8412.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070587.jpg

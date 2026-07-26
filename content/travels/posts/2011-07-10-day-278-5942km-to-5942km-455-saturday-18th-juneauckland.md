@@ -20,4 +20,4 @@ Then a ferry across to Devonport which reminded me of Richmond. Upmarket shops a
 
 After such a busy day after the night before we were all spaced out and were tucked up in our beds by 11pm on a Saturday night.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/IMG_8196.jpg
+ [1]: /travels-wp-content/uploads/2011/07/IMG_8196.jpg

@@ -26,4 +26,4 @@ There endeth the conversation as the realisation hit that my hair is old and my 
 
 Forgetting all that, back to Matt. After a grilling combat and good defence, plus an over-egotistical American shouting “Who loves me?” over and over, Matt came 3rd. Then defaulted to 2nd as the aforementioned American defaulted by being a member of staff. That meant a good win of $10 to spend at the bar. A free bowl of nachos became our dinner. And lovely they were too. Food always tastes better when it’s free. The beers on the other hand weren’t free but tasted just as good anyway.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070597.jpg
+ [1]: /travels-wp-content/uploads/2011/07/P1070597.jpg

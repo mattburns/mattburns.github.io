@@ -51,13 +51,13 @@ As part of the New Year celebrations Singapore is releasing 20,000 white balls i
 
 ![IMG_8374](/travels-wp-content/uploads/2011/01/IMG_8374.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8408.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030402.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030334.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030329.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030342.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8348.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8302.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8368.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8370.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8374.jpg
+ [1]: /travels-wp-content/uploads/2011/01/IMG_8408.jpg
+ [2]: /travels-wp-content/uploads/2011/01/P1030402.jpg
+ [3]: /travels-wp-content/uploads/2011/01/P1030334.jpg
+ [4]: /travels-wp-content/uploads/2011/01/P1030329.jpg
+ [5]: /travels-wp-content/uploads/2011/01/P1030342.jpg
+ [6]: /travels-wp-content/uploads/2011/01/IMG_8348.jpg
+ [7]: /travels-wp-content/uploads/2011/01/IMG_8302.jpg
+ [8]: /travels-wp-content/uploads/2011/01/IMG_8368.jpg
+ [9]: /travels-wp-content/uploads/2011/01/IMG_8370.jpg
+ [10]: /travels-wp-content/uploads/2011/01/IMG_8374.jpg

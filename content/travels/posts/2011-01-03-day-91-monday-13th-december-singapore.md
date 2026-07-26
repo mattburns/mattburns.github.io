@@ -23,10 +23,10 @@ I strongly recommend the Nutty Professor cocktail. Vodka, gold rum and amaretto 
 
 Second place tipped by Esme was Lao Pa Tat, a marketplace near Raffles Place, where piles of satay chicken were being cooked and scoffed at plastic tables & chairs in a cordoned off street. Lao Pa Tat itself is a large hawkers food hall under an ornate metal covered structure. We read that this was originally a marketplace in Glasgow and was shipped to Singapore in the 1800s! We tried a dessert called Mango Milk Ice that is what it says on the tin. Shaved ice with milk and chopped mango and mango juice. It tasted good. Kind of like mini milks.
 
-[Matt in Lao Pa Sat drinking the strongest cup of coffee in the world (with condensed milk)<img title="Lau Pa Sat, an old market place from Glasgow, Singapore" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="Lau Pa Sat, an old market place from Glasgow, Singapore" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030444_thumb.jpg" width="640" border="0" />][2] 
+[Matt in Lao Pa Sat drinking the strongest cup of coffee in the world (with condensed milk)<img title="Lau Pa Sat, an old market place from Glasgow, Singapore" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="Lau Pa Sat, an old market place from Glasgow, Singapore" src="/travels-wp-content/uploads/2011/01/P1030444.jpg" width="640" border="0" />][2] 
 
-[Some of the puddings on offer in Singapore (and Malaysia)<img title="Shaved ice goodies" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="Shaved ice goodies" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030445_thumb.jpg" width="638" border="0" />][3]
+[Some of the puddings on offer in Singapore (and Malaysia)<img title="Shaved ice goodies" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="Shaved ice goodies" src="/travels-wp-content/uploads/2011/01/P1030445.jpg" width="638" border="0" />][3]
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_8429.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030444.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030445.jpg
+ [1]: /travels-wp-content/uploads/2011/01/IMG_8429.jpg
+ [2]: /travels-wp-content/uploads/2011/01/P1030444.jpg
+ [3]: /travels-wp-content/uploads/2011/01/P1030445.jpg

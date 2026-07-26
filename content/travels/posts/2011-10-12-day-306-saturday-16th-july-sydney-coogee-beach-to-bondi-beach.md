@@ -80,20 +80,20 @@ Carrie took us out for a delicious Thai meal in Coogee that evening. It was our 
 
 It’s nice to be staying in a proper home with a proper bed again and less than 20 people to share the bathroom with. Plus it’s good to see Sydney from the point of view of someone living here rather than just as a tourist. We’re getting to see things we wouldn’t have seen if we’d stayed in Kings Cross.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_88131.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10709651.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10709755.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_88551.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_88391.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_88261.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10709724.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_88225.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P1070988.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_8837.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10709901.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_88641.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10709921.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10709971.jpg
- [15]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10709981.jpg
- [16]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_88811.jpg
- [17]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_88831.jpg
+ [1]: /travels-wp-content/uploads/2011/10/IMG_88131.jpg
+ [2]: /travels-wp-content/uploads/2011/10/P10709651.jpg
+ [3]: /travels-wp-content/uploads/2011/10/P10709755.jpg
+ [4]: /travels-wp-content/uploads/2011/10/IMG_88551.jpg
+ [5]: /travels-wp-content/uploads/2011/10/IMG_88391.jpg
+ [6]: /travels-wp-content/uploads/2011/10/IMG_88261.jpg
+ [7]: /travels-wp-content/uploads/2011/10/P10709724.jpg
+ [8]: /travels-wp-content/uploads/2011/10/IMG_88225.jpg
+ [9]: /travels-wp-content/uploads/2011/10/P1070988.jpg
+ [10]: /travels-wp-content/uploads/2011/10/IMG_8837.jpg
+ [11]: /travels-wp-content/uploads/2011/10/P10709901.jpg
+ [12]: /travels-wp-content/uploads/2011/10/IMG_88641.jpg
+ [13]: /travels-wp-content/uploads/2011/10/P10709921.jpg
+ [14]: /travels-wp-content/uploads/2011/10/P10709971.jpg
+ [15]: /travels-wp-content/uploads/2011/10/P10709981.jpg
+ [16]: /travels-wp-content/uploads/2011/10/IMG_88811.jpg
+ [17]: /travels-wp-content/uploads/2011/10/IMG_88831.jpg

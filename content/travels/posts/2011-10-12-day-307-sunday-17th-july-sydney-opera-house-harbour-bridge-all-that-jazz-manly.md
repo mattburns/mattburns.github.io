@@ -80,22 +80,22 @@ What a spendiferous day.
 
 _Extra bit – This photo believe it or not was taken just around the corner from the Harbour Bridge in The Rocks area. It’s a_ _little bit of Yorkshire in the centre of Sydney._![](/travels-wp-content/uploads/2011/10/P10800931.jpg)
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10800063.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10800093.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_89161.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_89012.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_89022.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_89092.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P108000511.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P108002411.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/blog-photos62.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_88971.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_88981.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10800361.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/IMG_891911.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10800581.jpg
- [15]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10800781.jpg
- [16]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10800821.jpg
- [17]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10800925.jpg
- [18]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10800911.jpg
- [19]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/10/P10800931.jpg
+ [1]: /travels-wp-content/uploads/2011/10/P10800063.jpg
+ [2]: /travels-wp-content/uploads/2011/10/P10800093.jpg
+ [3]: /travels-wp-content/uploads/2011/10/IMG_89161.jpg
+ [4]: /travels-wp-content/uploads/2011/10/IMG_89012.jpg
+ [5]: /travels-wp-content/uploads/2011/10/IMG_89022.jpg
+ [6]: /travels-wp-content/uploads/2011/10/IMG_89092.jpg
+ [7]: /travels-wp-content/uploads/2011/10/P108000511.jpg
+ [8]: /travels-wp-content/uploads/2011/10/P108002411.jpg
+ [9]: /travels-wp-content/uploads/2011/10/blog-photos62.jpg
+ [10]: /travels-wp-content/uploads/2011/10/IMG_88971.jpg
+ [11]: /travels-wp-content/uploads/2011/10/IMG_88981.jpg
+ [12]: /travels-wp-content/uploads/2011/10/P10800361.jpg
+ [13]: /travels-wp-content/uploads/2011/10/IMG_891911.jpg
+ [14]: /travels-wp-content/uploads/2011/10/P10800581.jpg
+ [15]: /travels-wp-content/uploads/2011/10/P10800781.jpg
+ [16]: /travels-wp-content/uploads/2011/10/P10800821.jpg
+ [17]: /travels-wp-content/uploads/2011/10/P10800925.jpg
+ [18]: /travels-wp-content/uploads/2011/10/P10800911.jpg
+ [19]: /travels-wp-content/uploads/2011/10/P10800931.jpg

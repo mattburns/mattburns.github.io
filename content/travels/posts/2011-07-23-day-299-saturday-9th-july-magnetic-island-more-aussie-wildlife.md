@@ -48,5 +48,5 @@ Back at Bungalow Bay we had to side-step a couple of possums on the way to the k
 
 I think our Australian wildlife spotting is complete.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/magnetic-collage1.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/07/P1070912.jpg
+ [1]: /travels-wp-content/uploads/2011/07/magnetic-collage1.jpg
+ [2]: /travels-wp-content/uploads/2011/07/P1070912.jpg

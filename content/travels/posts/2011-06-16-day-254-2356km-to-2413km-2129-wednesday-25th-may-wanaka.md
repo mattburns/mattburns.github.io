@@ -27,9 +27,6 @@ However you can’t eat chocolate cake without consequences and that meant one o
 ![](/travels-wp-content/uploads/2011/06/P1060828.jpg)
 
 {{<youtube Lfz5kV5CAbs>}}
-
-&nbsp;
-
 On the other side of Mt Iron is Puzzle World with the craziest leaning tower of Wanaka. Wow it was amazing. As Matt forced me to have a stupid photo taken, better not waste it. Oh it’s truly hilarious.
 
 ![](/travels-wp-content/uploads/2011/06/IMG_6116.jpg)
@@ -44,9 +41,9 @@ We attempted to stay out late by trying out the local beer-holes but failed mise
 
 On the walk back the evening was crisp and we could see the Milky Way again. Plus another shooting star!
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_6104.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_6107.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_6113.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060828.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_6116.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_6117.jpg
+ [1]: /travels-wp-content/uploads/2011/06/IMG_6104.jpg
+ [2]: /travels-wp-content/uploads/2011/06/IMG_6107.jpg
+ [3]: /travels-wp-content/uploads/2011/06/IMG_6113.jpg
+ [4]: /travels-wp-content/uploads/2011/06/P1060828.jpg
+ [5]: /travels-wp-content/uploads/2011/06/IMG_6116.jpg
+ [6]: /travels-wp-content/uploads/2011/06/IMG_6117.jpg

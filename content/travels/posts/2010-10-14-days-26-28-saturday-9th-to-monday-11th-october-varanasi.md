@@ -36,25 +36,16 @@ It was pretty dark when we left the ritual and both Sunny and Babu had to row as
 Before setting off we had bought lotus flowers from a small girl who had persisted with me for 10mins whilst we negotiated prices. They are small bowls made of pressed dried leaves with flower petals and a candle. Good for the karma. So we lit these on the way back and watched them float for a couple of seconds before being taken into the Ganges by the current.
 
 Honestly that experience just feels like a dream now. It was very unreal and we can’t quite believe it happened. That we were sat on a rowing boat in the dark on the Ganges watching cremations and Hindu rituals.
-
-&nbsp;
-
 Reality hit when we tried to go out to eat. Being in Assi Ghat meant that there was not a large choice of restaurants nearby. So we decided to head for the Shanti Guest House rooftop restaurant near the burning ghat. It took us 20 mins to get a tuk-tuk (how come there’s always thousands when you don’t want one and none when you do?!) and then we had a 15min walk down the windiest streets I’ve seen to find this place in the back and beyond. On the way out when we asked directions to the main road, rather than trying to explain the guy walked us there as it was such a maze. Though the alleyways were narrow they were filled with men marching towards the burning ghat,&nbsp; carrying a stretcher with a wrapped up body. Another heading for cremation and eternal life in the Ganges. 
-
-&nbsp;
-
 Paul left for Kathmandu on Sunday and we being our usually lazy selves didn’t venture that far. Found the best pizza place so far though right next to Assi Ghat so we watched the smaller ganga aarti ceremony there whilst eating spinach pizza and apple pie and ice-cream. We did think about going to the fort but it was so hot in Varanasi you couldn’t stay in the heat very long.
 
 As Monday was checking out day and we were leaving Varanasi we settled down at Open Hand Cafe for 6 hours. Yes six. It was a really inspiring little place. Both a cafe and craft shop inter-mingled you sat drinking coffee amongst scarves, handbags, artwork and furnishings. Everything was of a high quality and had been hand-made by physically challenged women and it was all fixed price so no bartering needed. A fairtrade cafe come gift shop with a chilled out atmosphere, good food, good music – just the kind of place I could see myself running :)
-
-&nbsp;
-
 After sitting on our backsides all day we headed to Mughal Sarai train station 20km away. Half the road there was missing as usual so it was an obstacle course but then we somehow managed to join a huge highway. There we were in this little tuk-tuk speeding past trucks beeping his horn as we went as though that would have made much difference to those monsters! I think we hit 35mph. The fastest we’ve been in a tuk-tuk. Matt had made a deal with the driver – we had to be there by 6pm or we wouldn’t pay. 5.55 we arrived so we paid the man.
 
 Our train was delayed by almost 2 hours in the end and when we found our seats everyone was ready for bed, as were the guys who had our seats. They moved out of the way but refused to leave the carriage and were adamant they were sleeping on the floor. They had been on the “waitlist” which means you buy a ticket with the potential that a seat may come free if someone else cancelled. Normally you don’t board the train if your name isn’t on the list at the station but these guys did. Matt politely asked them to move but it must be normal for people to board without a valid ticket and sleep wherever they fancy because we gave in in the end and I think at least one of them slept in between the two lower bunks!
 
 We also met another English couple today in our train compartment who happened to be from Thornbury and Frampton Cotterell. Small world.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/10/IMG_2636.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/10/IMG_26391.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2010/10/IMG_2674.jpg
+ [1]: /travels-wp-content/uploads/2010/10/IMG_2636.jpg
+ [2]: /travels-wp-content/uploads/2010/10/IMG_26391.jpg
+ [3]: /travels-wp-content/uploads/2010/10/IMG_2674.jpg

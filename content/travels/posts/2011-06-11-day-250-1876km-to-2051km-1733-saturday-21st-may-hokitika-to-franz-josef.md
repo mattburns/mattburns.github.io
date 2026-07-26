@@ -28,7 +28,7 @@ Almost forgot the highlight of the day (quite possibly of the whole trip). The s
 
 What I want to know is how do you shear a possum?
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5889.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060615.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060627.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_5909.jpg
+ [1]: /travels-wp-content/uploads/2011/06/IMG_5889.jpg
+ [2]: /travels-wp-content/uploads/2011/06/P1060615.jpg
+ [3]: /travels-wp-content/uploads/2011/06/P1060627.jpg
+ [4]: /travels-wp-content/uploads/2011/06/IMG_5909.jpg

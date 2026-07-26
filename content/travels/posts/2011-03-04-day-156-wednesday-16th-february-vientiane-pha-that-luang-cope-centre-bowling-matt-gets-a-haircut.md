@@ -15,7 +15,7 @@ Went back to the Immigration Office to renew our passports. It takes 24hours so 
 
 Most temples and museums are shut between 12:00 & 13:00 so we sat under the Patuxai (Arc de Triomphe) with a beer & a water to shade from the midday sun. Monday & Tuesday were overcast. Today it’s blue skies all the way & it’s a scorcher.
 
-Took our bikes the 2km ride up the Th. That Luang to the Pha That Luang, the most important national monument in Laos. The LP says it’s a symbol of both the Buddhist religion and Lao sovereignty. It is a beautiful structure. All golden against the blue backdrop. ![IMG_2400](/travels-wp-content/uploads/2011/03/IMG_2400.jpg)&nbsp;<img title="IMG_2392" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_2392" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2392_thumb.jpg" width="320" border="0" />
+Took our bikes the 2km ride up the Th. That Luang to the Pha That Luang, the most important national monument in Laos. The LP says it’s a symbol of both the Buddhist religion and Lao sovereignty. It is a beautiful structure. All golden against the blue backdrop. ![IMG_2400](/travels-wp-content/uploads/2011/03/IMG_2400.jpg)&nbsp;<img title="IMG_2392" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="IMG_2392" src="/travels-wp-content/uploads/2011/03/IMG_2392_thumb.jpg" width="320" border="0" />
 
 ![P1050059](/travels-wp-content/uploads/2011/03/P1050059.jpg) 
 
@@ -37,7 +37,7 @@ With a lot less hair… (note the poster)![P1050092](/travels-wp-content/uploads
 
 COPE is a centre for people needing prosthetic limbs usually due to them being blown off by a cluster bomb left over by America’s secret war in Laos which happened simultaneously to the Vietnam war but never seems to be mentioned. I’d been to the UXO centre in Luang Prabang which explained what cluster bombs were and how many there are left lying around but it didn’t really hit home how many people are affected by them until seeing the COPE exhibition. They can look like toys so many children play with them and the consequences are unimaginable. We watched a video where victims and/or their families were interviewed about the effect they’d had. And it wasn’t just in this part of the world. There have been 30 countries across the world where cluster bombs have been used and the leftovers are continually maiming or killing people.&nbsp; It was harrowing to watch and a real eye-opener. How many things we in the UK and I assume most Western countries are completely oblivious to. How much crap we are fed about wars and how much is hidden from us. We think we’re too clever to be taken in by propaganda but so much I have seen in the past 5 months has made me realise that I’m just as guilty believing things we are told or not told in our country. I could go on and on about this but I wouldn’t do it justice. Please have a look at the website [www.copelaos.org][9].
 
-<img title="IMG_2431" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_2431" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2431_thumb.jpg" width="640" border="0" />
+<img title="IMG_2431" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_2431" src="/travels-wp-content/uploads/2011/03/IMG_2431_thumb.jpg" width="640" border="0" />
 
 ![IMG_2438](/travels-wp-content/uploads/2011/03/IMG_2438.jpg)
 
@@ -59,16 +59,16 @@ It was only 21:15 when we left the bowling alley so we headed to the night marke
 
 Still didn’t feel like going back and ended up with a pitcher of Beerlao in a rooftop bar overlooking the Mekong (except for the fact that it was dark so no river in sight). The bar was packed and once again our memories of Phuket & Chiang Rai were resurrected as the number of young girls hanging out with older European men was above average for it to be true love. I guess because we’re in a capital city and it’s so close to Thailand it’s going to attract that kind of business. Luckily we haven’t seen it anywhere else in Laos. And it’s meant to be illegal for a Lao person to have sex with a non-Lao person before marriage. I guess laws never stop everyone.&nbsp;
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2400.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050059.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050071.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050066.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050079.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050084.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050088.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050092.jpg
+ [1]: /travels-wp-content/uploads/2011/03/IMG_2400.jpg
+ [2]: /travels-wp-content/uploads/2011/03/P1050059.jpg
+ [3]: /travels-wp-content/uploads/2011/03/P1050071.jpg
+ [4]: /travels-wp-content/uploads/2011/03/P1050066.jpg
+ [5]: /travels-wp-content/uploads/2011/03/P1050079.jpg
+ [6]: /travels-wp-content/uploads/2011/03/P1050084.jpg
+ [7]: /travels-wp-content/uploads/2011/03/P1050088.jpg
+ [8]: /travels-wp-content/uploads/2011/03/P1050092.jpg
  [9]: http://www.copelaos.org
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2438.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050110.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/IMG_2452.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/03/P1050111.jpg
+ [10]: /travels-wp-content/uploads/2011/03/IMG_2438.jpg
+ [11]: /travels-wp-content/uploads/2011/03/P1050110.jpg
+ [12]: /travels-wp-content/uploads/2011/03/IMG_2452.jpg
+ [13]: /travels-wp-content/uploads/2011/03/P1050111.jpg

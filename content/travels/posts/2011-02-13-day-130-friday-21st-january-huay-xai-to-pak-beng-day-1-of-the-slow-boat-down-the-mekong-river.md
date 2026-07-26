@@ -18,9 +18,6 @@ Got up early so we could have breakfast at 8am in time for the boat pickup at 8.
 Can’t say I was in the best of moods by then. Having woken up at 7.15am to get on a boat to sit for 3 hours until it left. Seems that’s the Lao way.
 
 The cruise down the Mekong river to Pak Beng was a long 6 hours but beautiful. The landscape consists of pointed hills, small huts on stilts dotted around or grouped in villages, sandy beaches and large glossy grey rocks protruding from the water. Lots of locals fishing by hand and lots of unguarded fishing rods and nets securely fastened on rocks to avoid being swept away in the fast currents. And every so often a speedboat would pass us in the fast lane to Luang Prabang…
-
-&nbsp;
-
 ![IMG_1780](/travels-wp-content/uploads/2011/02/IMG_1780.jpg) 
 
 To keep everyone occupied they sold Beerlao, pot noodles and crisps on the boat. Nutritious. And there was the token guitar playing traveller who kept everyone aurally entertained especially the young lassies.
@@ -29,7 +26,7 @@ Arriving in Pak Beng it felt like being back in India. Bombarded with guest hous
 
 It really doesn’t feel like we’re in the middle of Laos right now though. I don’t know what I expected but we’re on a strip of guesthouses and restaurants and shops that could be Varkala, could be Koh Phi Phi. So touristy. But as Matt says we are tourists. But it’s just too easy. We did go for Lao food tonight to try and make it a bit more authentic. Lap/Larp – minced buffalo with spring onions and ginger, and a beef stew, served with Beerlao in a very lovely place called OuxUan.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_1769.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040617.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040623.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/IMG_1780.jpg
+ [1]: /travels-wp-content/uploads/2011/02/IMG_1769.jpg
+ [2]: /travels-wp-content/uploads/2011/02/P1040617.jpg
+ [3]: /travels-wp-content/uploads/2011/02/P1040623.jpg
+ [4]: /travels-wp-content/uploads/2011/02/IMG_1780.jpg

@@ -54,16 +54,16 @@ Watching Lord of the Rings to try and spot places we’ve seen. Forgotten how ch
 
 _Note to self: add waterfall video & Matt’s timelapse when back to the real world_
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060975.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_6309.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_6310.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060999.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1070003.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1070007.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1070014.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_6318.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_6321.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1070025.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_6344.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/P1060981.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/06/IMG_6346.jpg
+ [1]: /travels-wp-content/uploads/2011/06/P1060975.jpg
+ [2]: /travels-wp-content/uploads/2011/06/IMG_6309.jpg
+ [3]: /travels-wp-content/uploads/2011/06/IMG_6310.jpg
+ [4]: /travels-wp-content/uploads/2011/06/P1060999.jpg
+ [5]: /travels-wp-content/uploads/2011/06/P1070003.jpg
+ [6]: /travels-wp-content/uploads/2011/06/P1070007.jpg
+ [7]: /travels-wp-content/uploads/2011/06/P1070014.jpg
+ [8]: /travels-wp-content/uploads/2011/06/IMG_6318.jpg
+ [9]: /travels-wp-content/uploads/2011/06/IMG_6321.jpg
+ [10]: /travels-wp-content/uploads/2011/06/P1070025.jpg
+ [11]: /travels-wp-content/uploads/2011/06/IMG_6344.jpg
+ [12]: /travels-wp-content/uploads/2011/06/P1060981.jpg
+ [13]: /travels-wp-content/uploads/2011/06/IMG_6346.jpg

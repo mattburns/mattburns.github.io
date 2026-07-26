@@ -22,9 +22,6 @@ Before sunset we hired a kayak and paddled to Monkey Beach and Ao Lo Lana a smal
 ![P1030677](/travels-wp-content/uploads/2011/01/P1030677.jpg)
 
 ![P1030687](/travels-wp-content/uploads/2011/01/P1030687.jpg) 
-
-&nbsp;
-
 Ao Lana beach, north Koh Phi Phi ![P1030688](/travels-wp-content/uploads/2011/01/P1030688.jpg)&nbsp; ![P1030692](/travels-wp-content/uploads/2011/01/P1030692.jpg)&nbsp;![P1030701](/travels-wp-content/uploads/2011/01/P1030701.jpg)&nbsp;
 
 Tuesday was cloudy so we decided to walk up to Viewpoint, the highest point on Phi Phi, to look at the, um, views. Halfway up the steep climb the sun came out and it was hot hot hot and I am so unfit. It was worth it though as the views were amazing across Ao Lo Dalam and Ao Ton Sai. 
@@ -35,7 +32,7 @@ At viewpoint 1 there were these amazing butterfly bushes. So many different butt
 
 ![IMG_0317](/travels-wp-content/uploads/2011/01/IMG_0317.jpg)&nbsp; 
 
-<img title="IMG_0309" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_0309" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0309_thumb.jpg" width="640" border="0" />
+<img title="IMG_0309" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="427" alt="IMG_0309" src="/travels-wp-content/uploads/2011/01/IMG_0309_thumb.jpg" width="640" border="0" />
 
 Viewpoint 2
 
@@ -66,21 +63,18 @@ Other things we discovered on Ko Phi Phi:
 5. Competing fire shows
 
 6. The most tattoo shops in the smallest space in the world (and all having a steady flow of customers)
-
-&nbsp;
-
 Ko Phi Phi is a beautiful place and you can find peace and quiet as we found in Hat Rantee but the main parts are good for holidaymakers who want to drink lots. As Matt was poorly again we stayed off the alcohol most of the time so decided to move on after 2 days.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0273.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030677.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030687.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030688.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030692.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030701.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030713.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0317.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030733.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/IMG_0350.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030742.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030744.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030757.jpg
+ [1]: /travels-wp-content/uploads/2011/01/IMG_0273.jpg
+ [2]: /travels-wp-content/uploads/2011/01/P1030677.jpg
+ [3]: /travels-wp-content/uploads/2011/01/P1030687.jpg
+ [4]: /travels-wp-content/uploads/2011/01/P1030688.jpg
+ [5]: /travels-wp-content/uploads/2011/01/P1030692.jpg
+ [6]: /travels-wp-content/uploads/2011/01/P1030701.jpg
+ [7]: /travels-wp-content/uploads/2011/01/P1030713.jpg
+ [8]: /travels-wp-content/uploads/2011/01/IMG_0317.jpg
+ [9]: /travels-wp-content/uploads/2011/01/P1030733.jpg
+ [10]: /travels-wp-content/uploads/2011/01/IMG_0350.jpg
+ [11]: /travels-wp-content/uploads/2011/01/P1030742.jpg
+ [12]: /travels-wp-content/uploads/2011/01/P1030744.jpg
+ [13]: /travels-wp-content/uploads/2011/01/P1030757.jpg

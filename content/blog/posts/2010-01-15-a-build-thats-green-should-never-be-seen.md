@@ -42,4 +42,4 @@ Matt
  [5]: http://pauljulius.com/blog/2009/09/14/cup-of-coffee-metric-for-continuous-integration/
  [6]: http://www.urbandictionary.com/define.php?term=Leccy
  [7]: http://books.google.co.uk/books?id=PkZdv3UNTCgC&lpg=PA30&ots=b6QlomKGug&dq=unix%20%22no%20news%20is%20good%20news%22&pg=PA30#v=onepage&q=unix%20%22no%20news%20is%20good%20news%22&f=false
- [8]: http://www.mattburns.co.uk/screenwaker/
+ [8]: https://web.archive.org/web/2010/http://www.mattburns.co.uk/screenwaker/

@@ -13,16 +13,16 @@ Just about recovered from New Year shenanigans now and we ventured to the 4th an
 
 The sign says 800m to Ton Sai beach from Railay Cabana. That is a big fib. It is twice as far as once you get to the first set of shops and restaurants is another 10min walk to the beach. It’s also not as nice a beach for sunbathing or paddling as West or Phranang as it’s more stony than sandy but still has incredible views and lovely beach eateries. It’s more for climbers as there were many on the cliffs at either end of the beach.
 
-[Hat Tonsai<img title="P1030915" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1030915" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030915_thumb.jpg" width="360" border="0" />][1] 
+[Hat Tonsai<img title="P1030915" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1030915" src="/travels-wp-content/uploads/2011/01/P1030915.jpg" width="360" border="0" />][1] 
 
 We caught the longtail back to West beach and hired a kayak to paddle to Phranang beach and out to the rocks we could see from the beach. It became quite a hairy experience at one point as we paddled around one of the large karsts. The wind had picked up and we were not really in control of where we were headed for a few minutes. One minute we were angled out to sea, the next towards the rocks. But we made it and it all adds to the fun.
 
-&nbsp;[Longtail boatride<img title="P1030930" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1030930" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030930_thumb.jpg" width="640" border="0" />][2] 
+&nbsp;[Longtail boatride<img title="P1030930" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1030930" src="/travels-wp-content/uploads/2011/01/P1030930.jpg" width="640" border="0" />][2] 
 
 More sunbathing on Phranang beach and the beginning of the sunset before kayaking back to West beach before it was too dark. 
 
-[Hat Phranang at sunset<img title="P1030940" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1030940" src="http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030940_thumb.jpg" width="360" border="0" />][3]
+[Hat Phranang at sunset<img title="P1030940" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="480" alt="P1030940" src="/travels-wp-content/uploads/2011/01/P1030940.jpg" width="360" border="0" />][3]
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030915.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030930.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030940.jpg
+ [1]: /travels-wp-content/uploads/2011/01/P1030915.jpg
+ [2]: /travels-wp-content/uploads/2011/01/P1030930.jpg
+ [3]: /travels-wp-content/uploads/2011/01/P1030940.jpg

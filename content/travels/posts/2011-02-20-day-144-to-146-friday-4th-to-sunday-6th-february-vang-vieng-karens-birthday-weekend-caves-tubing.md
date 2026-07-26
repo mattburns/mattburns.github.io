@@ -75,17 +75,17 @@ The rest of the evening is a bit of a blur. We definitely had boiling hot pizza 
 
 Had nightmare hangovers on Sunday and so spent most of the day watching Family Guy in one of the tacky TV bars!
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040776.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040774.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040780.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040787.jpg
- [5]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040788.jpg
- [6]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040790.jpg
- [7]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040791.jpg
- [8]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040802.jpg
- [9]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040792.jpg
- [10]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040806.jpg
- [11]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040826.jpg
- [12]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040830.jpg
- [13]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040832.jpg
- [14]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/02/P1040841.jpg
+ [1]: /travels-wp-content/uploads/2011/02/P1040776.jpg
+ [2]: /travels-wp-content/uploads/2011/02/P1040774.jpg
+ [3]: /travels-wp-content/uploads/2011/02/P1040780.jpg
+ [4]: /travels-wp-content/uploads/2011/02/P1040787.jpg
+ [5]: /travels-wp-content/uploads/2011/02/P1040788.jpg
+ [6]: /travels-wp-content/uploads/2011/02/P1040790.jpg
+ [7]: /travels-wp-content/uploads/2011/02/P1040791.jpg
+ [8]: /travels-wp-content/uploads/2011/02/P1040802.jpg
+ [9]: /travels-wp-content/uploads/2011/02/P1040792.jpg
+ [10]: /travels-wp-content/uploads/2011/02/P1040806.jpg
+ [11]: /travels-wp-content/uploads/2011/02/P1040826.jpg
+ [12]: /travels-wp-content/uploads/2011/02/P1040830.jpg
+ [13]: /travels-wp-content/uploads/2011/02/P1040832.jpg
+ [14]: /travels-wp-content/uploads/2011/02/P1040841.jpg

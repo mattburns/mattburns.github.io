@@ -29,5 +29,5 @@ YMCA killed the moment for us and a bedraggled Matt & Karen (ala frizzy locks) w
 
 … I feel a hangover coming…
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/0-hairdye.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/05/P1050975.jpg
+ [1]: /travels-wp-content/uploads/2011/05/0-hairdye.jpg
+ [2]: /travels-wp-content/uploads/2011/05/P1050975.jpg

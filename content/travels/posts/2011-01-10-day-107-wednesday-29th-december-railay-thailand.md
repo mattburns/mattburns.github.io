@@ -47,7 +47,7 @@ The hut is maybe a bit too basic. The steps up to the door are overly steep. I t
 
 Matt checked over the rest of the room for any other uninvited visitors and we leapt into bed under the mossie net. Matt fell asleep but I read for another hour until my heart stopped pounding out of my chest and I could relax, when I moved to get into my sleepsheet and Colin’s cousin Clive scuttled across the bed and up the mossie net. I started shouting and Matt jumped up half awake and we both tried to get this bloody thing out of the bed but the mossie net was so securely tucked in to keep out invaders it was difficult to get the sneaky guy out of the darn thing! It was like a carry-on film or something. Definitely moving tomorrow.
 
- [1]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030822.jpg
- [2]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030780.jpg
- [3]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030825.jpg
- [4]: http://www.mattburns.co.uk/travels/wp-content/uploads/2011/01/P1030824.jpg
+ [1]: /travels-wp-content/uploads/2011/01/P1030822.jpg
+ [2]: /travels-wp-content/uploads/2011/01/P1030780.jpg
+ [3]: /travels-wp-content/uploads/2011/01/P1030825.jpg
+ [4]: /travels-wp-content/uploads/2011/01/P1030824.jpg
