@@ -13,11 +13,13 @@
       <pubDate>Fri, 10 Oct 2014 16:03:14 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2014/10/10/how-to-access-your-app-engine-dev-server-from-another-machine/</guid>
-      <description>I keep forgetting how to do this so I’m writing it down in the vain hope I may commit it to memory.
-The problem You want to access your locally running dev server on another machine on your local network or maybe even from a virtual machine. whatevs.
-The solution Start your dev server with this extra program argument (you can find this under “debug configurations” in eclipse):
---address=0.0.0.0
-Now remember it you stupid brain.</description>
+      <description>&lt;p&gt;I keep forgetting how to do this so I’m writing it down in the vain hope I may commit it to memory.&lt;/p&gt;
+&lt;h2 id=&#34;the-problem&#34;&gt;The problem&lt;/h2&gt;
+&lt;p&gt;You want to access your locally running dev server on another machine on your local network or maybe even from a virtual machine. whatevs.&lt;/p&gt;
+&lt;h2 id=&#34;the-solution&#34;&gt;The solution&lt;/h2&gt;
+&lt;p&gt;Start your dev server with this extra program argument (you can find this under “debug configurations” in eclipse):&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;--address=0.0.0.0&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Now remember it you stupid brain.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,8 +28,9 @@ Now remember it you stupid brain.</description>
       <pubDate>Tue, 06 Apr 2010 16:52:23 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/04/06/head-first-servlets-and-jsp-errata/</guid>
-      <description>I’m sitting another Sun* Certification exam tomorrow to become a Sun Certified Web Component Developer (SCWCD). I’ve done a bit of revising but I’m writing this post mainly as a way to procrastinate. I should take more exams really if only as a way to get other things done. Procrastination during my final year of uni enabled me to learn how to speedsolve a Rubik’s Cube.
-I’ve just read the study guide for the SCWCD exam; Head First Servlets and JSP.</description>
+      <description>&lt;p&gt;I’m sitting another Sun* Certification exam tomorrow to become a Sun Certified Web Component Developer (SCWCD). I’ve done a bit of revising but I’m writing this post mainly as a way to procrastinate. I should take more exams really if only as a way to get &lt;em&gt;other&lt;/em&gt; things done. Procrastination during my final year of uni &lt;a href=&#34;http://www.worldcubeassociation.org/results/p.php?i=2004BURN01&#34;&gt;enabled me to learn how to speedsolve a Rubik’s Cube&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I’ve just read the study guide for the SCWCD exam; Head First Servlets and JSP. &lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2010/hfsj.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -36,12 +39,15 @@ I’ve just read the study guide for the SCWCD exam; Head First Servlets and JSP
       <pubDate>Tue, 03 Nov 2009 23:00:04 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2009/11/04/how-to-install-flex-builder-3-on-eclipse-galileo-on-windows/</guid>
-      <description>Do you get an error when you try to install Flex Builder? Ignore it and carry on anyway.
-Edit the file:
-[eclipse]\links\com.adobe.flexbuilder.feature.core.link
-and just stick “path=” at the start so it looks something like this:
-path=C:/Program Files/Adobe/Flex Builder 3 Plug-in
-Thanks to greylurk for the original tip.</description>
+      <description>&lt;h4 id=&#34;do-you-get-an-error-when-you-try-to-install-flex-builder&#34;&gt;Do you get an error when you try to install Flex Builder?&lt;/h4&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2009/11/flex-error.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Ignore it and carry on anyway.&lt;/p&gt;
+&lt;p&gt;Edit the file:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;[eclipse]\links\com.adobe.flexbuilder.feature.core.link&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;and just stick “path=” at the start so it looks something like this:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;path=C:/Program Files/Adobe/Flex Builder 3 Plug-in&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href=&#34;http://greylurk.com/index.php/2009/06/getting-flex-builder-3-plugin-to-survive-a-new-eclipse-version/&#34;&gt;greylurk&lt;/a&gt; for the original tip.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,8 +56,8 @@ Thanks to greylurk for the original tip.</description>
       <pubDate>Mon, 18 May 2009 22:25:24 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2009/05/18/convention-%C3%B7-configuration/</guid>
-      <description>I’ve long been sold on the concept of Convention Over Configuration. For me it’s a no-brainer, not only am I lazy, but when I am forced to make a decision about something technical, well, let’s just say the number of times I get it wrong is &amp;gt; 0.
-Recently I’ve been playing around with Maven, something I should have done years ago. Maven seems pretty sold on the convention idea too and so I just expected a simple project to work “out of the box”.</description>
+      <description>&lt;p&gt;I’ve long been sold on the concept of &lt;a href=&#34;http://en.wikipedia.org/wiki/Convention_over_Configuration&#34;&gt;Convention Over Configuration&lt;/a&gt;. For me it’s a no-brainer, not only am I lazy, but when I am forced to make a decision about something technical, well, let’s just say the number of times I get it wrong is &amp;gt; 0.&lt;/p&gt;
+&lt;p&gt;Recently I’ve been playing around with &lt;a href=&#34;http://maven.apache.org/&#34;&gt;Maven&lt;/a&gt;, something I should have done years ago. Maven seems pretty sold on the convention idea too and so I just expected a simple project to work “out of the box”.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -60,10 +66,12 @@ Recently I’ve been playing around with Maven, something I should have done yea
       <pubDate>Mon, 02 Mar 2009 22:03:52 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2009/03/02/keep-your-filling-knife-clean/</guid>
-      <description>I’m no expert when it comes to DIY. Enthusiastic amateur I’d say.
-I fumble my way along, guessing how things should be done, and generally learn the hard way.
-I needed to do some more filling today to plug the holes I’d left from my poor skirting board fitting skills.
-My filling knife however was caked in gunk after a few years of not being cleaned properly. I kept it clean when I first got it, it was new and I took good care of it.</description>
+      <description>&lt;p&gt;I’m no expert when it comes to DIY. Enthusiastic amateur I’d say.&lt;/p&gt;
+&lt;p&gt;I fumble my way along, guessing how things should be done, and generally learn the hard way.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2009/03/onestrike.jpg&#34; alt=&#34;&#34;  /&gt;
+
+I needed to do some more filling today to plug the holes I’d left from my poor skirting board fitting skills.&lt;/p&gt;
+&lt;p&gt;My filling knife however was caked in gunk after a few years of not being cleaned properly. I kept it clean when I first got it, it was new and I took good care of it. Somewhere along the line though I got lazy, and did a half-assed job of cleaning that knife. The first bit of dirt that stuck proved to be a perfect home for future gunk to bind and the effort of cleaning that knife just grew exponentially.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -72,9 +80,17 @@ My filling knife however was caked in gunk after a few years of not being cleane
       <pubDate>Thu, 22 Jan 2009 11:22:09 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2009/01/22/voucher-codes-and-promo-wotsits/</guid>
-      <description>It’s 2009! Our digital lives are a breeze and online shopping is just one more option to the newly empowered consumer. Right?
-I’m sure I’m not alone in finding the process of buying anything a little tedious now:
-See something in the shop you like Decide not to buy it because you don’t know if that’s a good price You get home and look on the internet Now you have to poke around a few websites and try to work out which is cheapest when you consider postage and tax etc.</description>
+      <description>&lt;p&gt;It’s 2009! Our digital lives are a breeze and online shopping is just one more option to the newly empowered consumer. Right?&lt;/p&gt;
+&lt;p&gt;I’m sure I’m not alone in finding the process of buying anything a little tedious now:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;See something in the shop you like&lt;/li&gt;
+&lt;li&gt;Decide not to buy it because you don’t know if that’s a good price&lt;/li&gt;
+&lt;li&gt;You get home and look on the internet&lt;/li&gt;
+&lt;li&gt;Now you have to poke around a few websites and try to work out which is cheapest when you consider postage and tax etc.&lt;/li&gt;
+&lt;li&gt;Maybe one of the sites gives you rebate if you go through a referal like &lt;a href=&#34;http://www.quidco.com/&#34;&gt;quidco&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Maybe the site would give a discount if only you had a voucher code&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you ask me, It’s all a pain in the ass.&lt;/p&gt;</description>
     </item>
     
   </channel>

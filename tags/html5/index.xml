@@ -13,8 +13,11 @@
       <pubDate>Sun, 17 Apr 2011 11:55:12 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/04/17/how-to-detect-browser-support-for-file-api-and-drag-and-drop-with-javascript/</guid>
-      <description>Here’s a bit of info for you crazy HTML5 kids. You’ll need to include the handy Modernizr script for it to work.
-var browserIsSupported = !!window.FileReader &amp;amp;&amp;amp; Modernizr.draganddrop; </description>
+      <description>&lt;p&gt;Here’s a bit of info for you crazy HTML5 kids. You’ll need to include the handy &lt;a href=&#34;http://www.modernizr.com/&#34;&gt;Modernizr&lt;/a&gt; script for it to work.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;var browserIsSupported = !!window.FileReader &amp;amp;&amp;amp; Modernizr.draganddrop;
+&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
   </channel>

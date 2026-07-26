@@ -13,9 +13,12 @@
       <pubDate>Thu, 01 Sep 2022 15:10:00 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2022/09/01/share-google-form-outside-organisation/</guid>
-      <description>&amp;ldquo;This form can only be viewed by users in the owner&amp;rsquo;s organisation&amp;rdquo; Have you created a Google Form but was unable to share it outside your organisation? A whole bunch of help online will tell you there&amp;rsquo;s an option right under the &amp;ldquo;Responses&amp;rdquo;.
-What they really mean, is that it&amp;rsquo;s under Settings -&amp;gt; Responses
-I hope you didn&amp;rsquo;t tear out as much hair as me.</description>
+      <description>&lt;h1 id=&#34;this-form-can-only-be-viewed-by-users-in-the-owners-organisation&#34;&gt;&amp;ldquo;This form can only be viewed by users in the owner&amp;rsquo;s organisation&amp;rdquo;&lt;/h1&gt;
+&lt;p&gt;Have you created a Google Form but was unable to share it outside your organisation? A whole bunch of help online will tell you there&amp;rsquo;s an option right under the &amp;ldquo;Responses&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;What they really mean, is that it&amp;rsquo;s under &lt;code&gt;Settings -&amp;gt; Responses&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;answer.png&#34; alt=&#34;Location of the setting youre after&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;I hope you didn&amp;rsquo;t tear out as much hair as me.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -24,7 +27,8 @@ I hope you didn&amp;rsquo;t tear out as much hair as me.</description>
       <pubDate>Wed, 20 Apr 2022 18:34:00 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2022/04/20/better-tips-for-the-sony-wf-1000xm4-earbuds/</guid>
-      <description>These Sony Earbuds, sound great, but are awkward to fit I was very disappointed when these earbuds. Most online reviewers rave about the comfort. They sound great, but none of the supplied tips seemed to fit me properly. It took me 5 minutes of faffing about squeezing and rotating them whenever I wanted to wear them. Not the quick and convenient earbuds I was hoping for. If I couldn&amp;rsquo;t get better tips, I was going to have to send them back&amp;hellip;</description>
+      <description>&lt;h1 id=&#34;these-sony-earbuds-sound-great-but-are-awkward-to-fit&#34;&gt;These Sony Earbuds, sound great, but are awkward to fit&lt;/h1&gt;
+&lt;p&gt;I was very disappointed when these earbuds. Most online reviewers rave about the comfort. They sound great, but none of the supplied tips seemed to fit me properly. It took me 5 minutes of faffing about squeezing and rotating them whenever I wanted to wear them. Not the quick and convenient earbuds I was hoping for. If I couldn&amp;rsquo;t get better tips, I was going to have to send them back&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -33,8 +37,10 @@ I hope you didn&amp;rsquo;t tear out as much hair as me.</description>
       <pubDate>Wed, 02 Mar 2022 22:24:55 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2022/03/02/hands-on-car-sunshade-comparison-2022/</guid>
-      <description>Hands-on review for the ultimate car sunshade in 2022 Are you looking for the right sunshade for your car? Well, let&amp;rsquo;s get something out of the way&amp;hellip;
-DON&amp;rsquo;T TRUST A WORD I&amp;rsquo;M SAYING Seriously, you shouldn&amp;rsquo;t trust me, I am so biased and conflicted that everything below should be treated like an advert. I&amp;rsquo;m friends with a product designer that made one of the products this blog post is about. I&amp;rsquo;ve not said which one it is, but the picture above shows one of the products already unrolled and looking awesome so that&amp;rsquo;s probably a good bet that this isn&amp;rsquo;t a fair comparison off the bat.</description>
+      <description>&lt;h1 id=&#34;hands-on-review-for-the-ultimate-car-sunshade-in-2022&#34;&gt;Hands-on review for the ultimate car sunshade in 2022&lt;/h1&gt;
+&lt;p&gt;Are you looking for &lt;em&gt;the right sunshade&lt;/em&gt; for your car? Well, let&amp;rsquo;s get something out of the way&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;don&#34;&gt;&lt;em&gt;DON&amp;rsquo;T TRUST A WORD I&amp;rsquo;M SAYING&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;Seriously, you shouldn&amp;rsquo;t trust me, I am so biased and conflicted that everything below should be treated like an advert. I&amp;rsquo;m friends with a product designer that made one of the products this blog post is about. I&amp;rsquo;ve not said which one it is, but the picture above shows one of the products already unrolled and looking awesome so that&amp;rsquo;s probably a good bet that this isn&amp;rsquo;t a fair comparison off the bat. So yeah, this blog post is nowhere near impartial. Feel free to go back to your Google search for someone more neutral like I&amp;rsquo;m sure all the other reviewers are.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -43,9 +49,83 @@ DON&amp;rsquo;T TRUST A WORD I&amp;rsquo;M SAYING Seriously, you shouldn&amp;rsq
       <pubDate>Mon, 17 Jan 2022 12:28:00 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2022/01/16/domains-affected-by-enom-outage/</guid>
-      <description>Enom has been down for almost 2 days. I thought it might be handy to compile a list of domains known to be affected by the issue. Please let me know if you want yours added to the list&amp;hellip;
-UPDATE: DNS settings appear to be restored and propagating around the various DNS servers. Still can&amp;rsquo;t access the Enom console though.
-alterrenovation.com andymassey.com angelakulig.com apsynergy.com argentuniverse.com camvision.fr capitalsigma.biz cetbcn.com christianlady.com christianman.com clarkschool.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/mattburns_uk/status/1482791617501220866&#34;&gt;Enom has been down&lt;/a&gt; for almost 2 days. I thought it might be handy to compile a list of domains known to be affected by the issue. Please let me know if you want yours added to the list&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;: DNS settings appear to be restored and propagating around the various DNS servers. Still can&amp;rsquo;t access the Enom console though.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://alterrenovation.com&#34;&gt;alterrenovation.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andymassey.com&#34;&gt;andymassey.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://angelakulig.com&#34;&gt;angelakulig.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apsynergy.com&#34;&gt;apsynergy.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://argentuniverse.com&#34;&gt;argentuniverse.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://camvision.fr&#34;&gt;camvision.fr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://capitalsigma.biz&#34;&gt;capitalsigma.biz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cetbcn.com&#34;&gt;cetbcn.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://christianlady.com&#34;&gt;christianlady.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://christianman.com&#34;&gt;christianman.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://clarkschool.com&#34;&gt;clarkschool.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cleanpaca.com&#34;&gt;cleanpaca.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://coastertouring.com&#34;&gt;coastertouring.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://contractsolutions-i.com&#34;&gt;contractsolutions-i.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://covid19testezvous.com&#34;&gt;covid19testezvous.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dancingleaftea.com&#34;&gt;dancingleaftea.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dellasposa.com&#34;&gt;dellasposa.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doctorqueens.com&#34;&gt;doctorqueens.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecorenove76.com&#34;&gt;ecorenove76.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://elianeadoul.com&#34;&gt;elianeadoul.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://elitehostingeurope.com&#34;&gt;elitehostingeurope.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://frayedpassport.com&#34;&gt;frayedpassport.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://friday.tv&#34;&gt;friday.tv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://giventorock.com&#34;&gt;giventorock.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://goldentee.tv&#34;&gt;goldentee.tv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://goodwordsagency.com&#34;&gt;goodwordsagency.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://idealvisaconsultancy.com&#34;&gt;idealvisaconsultancy.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ilj.com&#34;&gt;ilj.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ilovejesus.com&#34;&gt;ilovejesus.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://imexgf.com&#34;&gt;imexgf.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ingridoliver.com&#34;&gt;ingridoliver.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jfgonzalezavocat.com&#34;&gt;jfgonzalezavocat.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jingshengwood.com&#34;&gt;jingshengwood.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jurislib.com&#34;&gt;jurislib.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://justiscall.co.uk&#34;&gt;justiscall.co.uk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://justiscall.com&#34;&gt;justiscall.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://justislib.com&#34;&gt;justislib.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kamienskie.info&#34;&gt;kamienskie.info&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lamberthome.net&#34;&gt;lamberthome.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://liftexperiencefrance.com&#34;&gt;liftexperiencefrance.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://logansinthecarolinas.com&#34;&gt;logansinthecarolinas.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lovemomiji.com&#34;&gt;lovemomiji.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lusomerap.com&#34;&gt;lusomerap.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mkuhlmann.com&#34;&gt;mkuhlmann.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mysocksbrand.com&#34;&gt;mysocksbrand.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://newmyroyals.com&#34;&gt;newmyroyals.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://newspaca.com&#34;&gt;newspaca.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://oddprints.com&#34;&gt;oddprints.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://oicu812.com&#34;&gt;oicu812.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://productreviewmom.com&#34;&gt;productreviewmom.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://provencegourmande.com&#34;&gt;provencegourmande.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ptech.net&#34;&gt;ptech.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qeye-labs.com&#34;&gt;qeye-labs.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://relaine.com&#34;&gt;relaine.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revitalisebody.com&#34;&gt;revitalisebody.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ridgeperio.com&#34;&gt;ridgeperio.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://righttackle.com&#34;&gt;righttackle.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rmeqsales.com&#34;&gt;rmeqsales.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://saturday.tv&#34;&gt;saturday.tv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://savetaxmoney.org&#34;&gt;savetaxmoney.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scenicinvestment.com&#34;&gt;scenicinvestment.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://schlechter.net&#34;&gt;schlechter.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://signal-fire.com&#34;&gt;signal-fire.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://speciesrace.com&#34;&gt;speciesrace.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://themoviewaffler.com&#34;&gt;themoviewaffler.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tidetalk.com&#34;&gt;tidetalk.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://toyboxphilosopher.com&#34;&gt;toyboxphilosopher.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tuitnutrition.com&#34;&gt;tuitnutrition.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twealthmanagement.com&#34;&gt;twealthmanagement.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ufosightingsdaily.com&#34;&gt;ufosightingsdaily.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vegasdragon8.com&#34;&gt;vegasdragon8.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://whatacool.com&#34;&gt;whatacool.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zipermask.com&#34;&gt;zipermask.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     
     <item>
@@ -54,8 +134,11 @@ alterrenovation.com andymassey.com angelakulig.com apsynergy.com argentuniverse.
       <pubDate>Sun, 16 Jan 2022 20:50:00 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2022/01/16/did-i-find-an-easter-egg-in-encanto/</guid>
-      <description>At the end of Encanto, I spotted one of the butterfly bricks was placed upside-down
-No idea if it means anything, and in a later frame it&amp;rsquo;s the right way up again. Does anyone know why? Yeah, this is a random and boring post. The real reason is I&amp;rsquo;ve just migrated the whole site from wordpress to hugo and I wanted to add a post to test it out&amp;hellip;</description>
+      <description>&lt;p&gt;At the end of &lt;a href=&#34;https://en.wikipedia.org/wiki/Encanto_(film)&#34;&gt;Encanto&lt;/a&gt;, I spotted one of the butterfly bricks was placed upside-down&lt;/p&gt;
+&lt;p&gt;No idea if it means anything, and in a later frame it&amp;rsquo;s the right way up again. Does anyone know why?
+&lt;img loading=&#34;lazy&#34; src=&#34;encanto-butterfly-wall.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Yeah, this is a random and boring post. The real reason is I&amp;rsquo;ve just migrated the whole site from wordpress to &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt; and I wanted to add a post to test it out&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -64,8 +147,8 @@ No idea if it means anything, and in a later frame it&amp;rsquo;s the right way 
       <pubDate>Mon, 12 Feb 2018 14:15:31 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2018/02/12/audio-on-udemy-videos-has-suddenly-stopped-working/</guid>
-      <description>I’m working through a course on Udemy on my macbook with bluetooth headphones. I’ve no idea why but the audio no longer works. Youtube audio is fine, previous lessons no longer have audio either, restarting browser has no effect. Disconnecting headphones makes no difference. Downloading lecture works, but is hassle.
-Solution: In bottom-right, click the cog and change the quality from auto to a fixed quality (eg 1080p). This solved it for me.</description>
+      <description>&lt;p&gt;I’m working through a course on Udemy on my macbook with bluetooth headphones. I’ve no idea why but the audio no longer works. Youtube audio is fine, previous lessons no longer have audio either, restarting browser has no effect. Disconnecting headphones makes no difference. Downloading lecture works, but is hassle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Solution&lt;/strong&gt;: In bottom-right, click the cog and change the quality from auto to a fixed quality (eg 1080p). This solved it for me. I don’t know who’s bug it is and I don’t care. I hope this helps someone else 🙂&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -74,8 +157,9 @@ Solution: In bottom-right, click the cog and change the quality from auto to a f
       <pubDate>Wed, 13 Apr 2016 09:32:55 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2016/04/13/cameron-hails-stoke-gifford-parish-council-as-most-forward-thinking-in-uk/</guid>
-      <description>Stoke Gifford Parish Council voted last night in favour of charging parkrun for use of the local park for members of the public to use for free. The PM has applauded the decision saying that it signifies just the start of some great savings that can be made by government. In a statement last night he said:
-Councils across the country have huge bills for supplying services available for free universally to taxpayers.</description>
+      <description>&lt;p&gt;Stoke Gifford Parish Council &lt;a href=&#34;http://www.bbc.co.uk/news/uk-england-bristol-36030582&#34;&gt;voted last night&lt;/a&gt; in favour of charging parkrun for use of the local park for members of the public to use for free. The PM has applauded the decision saying that it signifies just the start of some great savings that can be made by government. In a statement last night he said:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Councils across the country have huge bills for supplying services available for free universally to taxpayers. It is only fair and right that people shouldn’t have to pay for the bits they don’t use. Should blind people have to pay for cleaning graffiti? Should illiterate people have to pay for libraries? There are lots of very sick people in hospitals and that costs lots of money, why should healthy people foot the bill?&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -84,10 +168,10 @@ Councils across the country have huge bills for supplying services available for
       <pubDate>Thu, 11 Feb 2016 21:53:30 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2016/02/11/motorola-mbp854-baby-monitor/</guid>
-      <description>Yes, I’m blogging about a baby monitor.
-It’s great, has a massive screen, remotely physically controllable camera, thermometer, streams to my phone when I’m at work, but still works in the house if wifi breaks etc.
-However…
-Tonight we looked at the screen and thought, gosh, she’s really moving about a lot but not making a peep of sound. We muted the telly so we could hear if she was still breathing.</description>
+      <description>&lt;p&gt;Yes, I’m blogging about a baby monitor.&lt;/p&gt;
+&lt;p&gt;It’s great, has a massive screen, remotely physically controllable camera, thermometer, streams to my phone when I’m at work, but still works in the house if wifi breaks etc.&lt;br&gt;
+However…&lt;br&gt;
+Tonight we looked at the screen and thought, gosh, she’s really moving about a lot but not making a peep of sound. We muted the telly so we could hear if she was still breathing. That’s when we heard her distant crying coming through the ceiling. Poor little bugger was crying her heart out while we were downstairs calmly drinking tea. Seriously Motorola, what’s up with that? The volume on the parent unit was on maximum. Turning it off and on again solved the problem but I can no longer trust the device. Grr, I like all the features on it, but if there’s one job it must never fail to do… Grrr etc.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -96,9 +180,10 @@ Tonight we looked at the screen and thought, gosh, she’s really moving about a
       <pubDate>Tue, 21 Jul 2015 13:30:14 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2015/07/21/how-i-got-over-1200-from-hmrc-with-this-one-simple-trick/</guid>
-      <description>You won’t believe this hack!
-I recently got a cheque for over £1200 from HMRC for “overpaid corporation tax”. Wahoo! Free money!
-Unfortunately, as much as I just wanted to cash the cheque and forget about it, I knew there was something wrong. After a bit of rummaging through my records I realised that the amount overpaid was exactly the same as the amount I’ve just paid to HMRC for my latest PAYE bill.</description>
+      <description>&lt;p&gt;&lt;em&gt;You won’t believe this hack!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I recently got a cheque for over £1200 from HMRC for “overpaid corporation tax”. &lt;strong&gt;Wahoo! Free money!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Unfortunately, as much as I just wanted to cash the cheque and forget about it, I knew there was something wrong. After a bit of rummaging through my records I realised that the amount overpaid was exactly the same as the amount I’ve just paid to HMRC for my latest PAYE bill. I keep detailed records of everything I do so I noticed that I had decided to make that PAYE payment by direct bank transfer this month using Lloyds online banking. If you make a direct transfer to HMRC, it is important you set the transaction reference correctly so that they know what the money is for (PAYE, Corporation Tax etc.). My notes said I used the correct reference so I checked my bank statement and there was the mistake. It had gone to my Corporation Tax account reference.&lt;br&gt;
+I took another look at the Lloyds website for transferring money and clicked the help tooltip for the reference field:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -107,11 +192,19 @@ Unfortunately, as much as I just wanted to cash the cheque and forget about it, 
       <pubDate>Wed, 17 Jun 2015 11:59:33 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2015/06/17/how-to-grant-access-to-aws-billing-to-an-iam-user/</guid>
-      <description>First you must go to your account settings and grant access to IAM users: https://console.aws.amazon.com/billing/home#/account
-Click “edit”
-And “activate”
-Then you can go do all the policy group nonsense that every other google result will give you. Basically, just create a user and add them to a group with these policies:
-Bosh.</description>
+      <description>&lt;p&gt;First you must go to your account settings and grant access to IAM users: &lt;a href=&#34;https://console.aws.amazon.com/billing/home#/account&#34;&gt;https://console.aws.amazon.com/billing/home#/account&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Click “edit”&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2015/06/Screen-Shot-2015-06-17-at-12.54.45.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;And “activate”&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2015/06/Screen-Shot-2015-06-17-at-12.55.00.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Then you can go do all the policy group nonsense that every other google result will give you. Basically, just create a user and add them to a group with these policies:&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2015/06/Screen-Shot-2015-06-17-at-12.57.08.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Bosh.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -120,9 +213,12 @@ Bosh.</description>
       <pubDate>Fri, 29 May 2015 13:06:16 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2015/05/29/how-to-compress-a-folder-of-mov-files/</guid>
-      <description>Made a bunch of .movs using quicktime’s screen recording but they’re a bit big? ffmpeg’s default settings when converting to mp4 is a quick win
-for i in *.mov; do ffmpeg -i $i $i.mp4; done Name them alphabetically and you can merge them all together:
-ffmpeg -f concat -i &amp;lt;(printf &amp;quot;file &#39;$PWD/%s&#39;\n&amp;quot; ./*.mp4) -c copy merged.mp4 </description>
+      <description>&lt;p&gt;Made a bunch of .movs using quicktime’s screen recording but they’re a bit big? ffmpeg’s default settings when converting to mp4 is a quick win&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;for i in *.mov; do ffmpeg -i $i $i.mp4; done
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Name them alphabetically and you can merge them all together:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;ffmpeg -f concat -i &amp;lt;(printf &amp;quot;file &#39;$PWD/%s&#39;\n&amp;quot; ./*.mp4) -c copy merged.mp4
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -131,8 +227,9 @@ ffmpeg -f concat -i &amp;lt;(printf &amp;quot;file &#39;$PWD/%s&#39;\n&amp;quot;
       <pubDate>Tue, 12 May 2015 13:11:14 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2015/05/12/generating-a-cmyk-file-for-printing/</guid>
-      <description>So you want to print something (like a banner) but the printers have asked for it to be int the CMYK colorspace? Well we could argue about how to spell colour or whether CMYK is a colorspace at all. But I can’t be bothered, let’s just cut and paste this command which is what I came up with after a morning of hacking…
-convert -resize 9520 -density 300 rgb_input.pdf +profile icm -profile sRGB_IEC61966-2-1_black_scaled.</description>
+      <description>&lt;p&gt;So you want to print something (like a banner) but the printers have asked for it to be int the CMYK colorspace? Well we could argue about how to spell colour or &lt;a href=&#34;http://www.imagemagick.org/Usage/formats/#color_profile&#34;&gt;whether CMYK is a colorspace&lt;/a&gt; at all. But I can’t be bothered, let’s just cut and paste this command which is what I came up with after a morning of hacking…&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;convert -resize 9520 -density 300 rgb_input.pdf +profile icm -profile sRGB_IEC61966-2-1_black_scaled.icc -profile SWOP2006_Coated3v2.icc -quality 85 cmyk_output.jpeg
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Importantly, rgb_input.pdf was exported with &lt;a href=&#34;http://wiki.scribus.net/canvas/Scribus&#34;&gt;scribus&lt;/a&gt; using the output mode for screen.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -141,9 +238,9 @@ convert -resize 9520 -density 300 rgb_input.pdf +profile icm -profile sRGB_IEC6
       <pubDate>Wed, 08 Apr 2015 10:28:22 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2015/04/08/dell-u2515h-and-problems-with-a-usb-apple-keyboard/</guid>
-      <description>UPDATE/Short answer: Use the USB extension lead that came with the keyboard! It has better contacts.
-Does anyone else ever have problems with this combination? They keyboard just goes dead.
-I use the monitor’s USB hub to connect my keyboard and mouse. I then connect the hub to either my macbook or my linux pc and toggle the video inputs. Sometimes the keyboard just dies. When it’s in the broken state the following things are true:</description>
+      <description>&lt;p&gt;&lt;strong&gt;UPDATE/Short answer: Use the USB extension lead that came with the keyboard! It has better contacts.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Does anyone else ever have problems with this combination? They keyboard just goes dead.&lt;/p&gt;
+&lt;p&gt;I use the monitor’s USB hub to connect my keyboard and mouse. I then connect the hub to either my macbook or my linux pc and toggle the video inputs. Sometimes the keyboard just dies. When it’s in the broken state the following things are true:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -152,12 +249,15 @@ I use the monitor’s USB hub to connect my keyboard and mouse. I then connect t
       <pubDate>Tue, 31 Mar 2015 13:24:50 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2015/03/31/how-to-fix-problem-when-tapiriik-not-syncing-dropbox-files/</guid>
-      <description>My activities hadn’t been syncing to Dropbox for a while (since mid-November 2014).
-This activity was not synchronized to the following services:
-Dropbox: There was a problem indexing your activities on Dropbox, so no activities will be uploaded to Dropbox.
-Everything else was syncing fine (Strava, Endomondo, Garmin).
-A quick email to the author and everything is solved:
-If you look in your Dropbox folder there should be a number of files with .</description>
+      <description>&lt;p&gt;My activities hadn’t been syncing to Dropbox for a while (since mid-November 2014).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This activity was not synchronized to the following services:&lt;/p&gt;
+&lt;p&gt;Dropbox: There was a problem indexing your activities on Dropbox, so no activities will be uploaded to Dropbox.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Everything else was syncing fine (Strava, Endomondo, Garmin).&lt;/p&gt;
+&lt;p&gt;A quick email to the author and everything is solved:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you look in your Dropbox folder there should be a number of files with .tcx.summary-data extensions. Move those out of the folder and it should start working again – this is a rather ancient artefact of a mistake I made in Dropbox sync back in 2013, surprised it kept working as long as it did.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -166,9 +266,1060 @@ If you look in your Dropbox folder there should be a number of files with .</des
       <pubDate>Mon, 23 Mar 2015 10:54:35 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2015/03/23/hemington-10k-2013-results/</guid>
-      <description>Yes, that’s not a typo, these are the results from 2013.
-I’m just posting them here because I couldn’t find them on the internet. Managed to find a copy in my email though so thought I’d just post them here in case anyone else is interested:
-Surname First Name Gender Race Category Race Number Finishing Time Position Position within Category Running Club Ryman Paul M M 157 36.48 1 1 Frome RC Sage Rich M M 114 38.</description>
+      <description>&lt;p&gt;Yes, that’s not a typo, these are the results from 2013.&lt;/p&gt;
+&lt;p&gt;I’m just posting them here because I couldn’t find them on the internet. Managed to find a copy in my email though so thought I’d just post them here in case anyone else is interested:&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;&lt;/th&gt;
+					&lt;th&gt;&lt;/th&gt;
+					&lt;th&gt;&lt;/th&gt;
+					&lt;th&gt;&lt;/th&gt;
+					&lt;th&gt;&lt;/th&gt;
+					&lt;th&gt;&lt;/th&gt;
+					&lt;th&gt;&lt;/th&gt;
+					&lt;th&gt;&lt;/th&gt;
+					&lt;th&gt;&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Surname&lt;/td&gt;
+					&lt;td&gt;First Name&lt;/td&gt;
+					&lt;td&gt;Gender&lt;/td&gt;
+					&lt;td&gt;Race Category&lt;/td&gt;
+					&lt;td&gt;Race Number&lt;/td&gt;
+					&lt;td&gt;Finishing Time&lt;/td&gt;
+					&lt;td&gt;Position&lt;/td&gt;
+					&lt;td&gt;Position within Category&lt;/td&gt;
+					&lt;td&gt;Running Club&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Ryman&lt;/td&gt;
+					&lt;td&gt;Paul&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;157&lt;/td&gt;
+					&lt;td&gt;36.48&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td&gt;Frome RC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Sage&lt;/td&gt;
+					&lt;td&gt;Rich&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;114&lt;/td&gt;
+					&lt;td&gt;38.56&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Wilkinson&lt;/td&gt;
+					&lt;td&gt;Darren&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;187&lt;/td&gt;
+					&lt;td&gt;39.13&lt;/td&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Burns&lt;/td&gt;
+					&lt;td&gt;Matt&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;193&lt;/td&gt;
+					&lt;td&gt;39.43&lt;/td&gt;
+					&lt;td&gt;4&lt;/td&gt;
+					&lt;td&gt;4&lt;/td&gt;
+					&lt;td&gt;Southville RC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Plunkett-Cole&lt;/td&gt;
+					&lt;td&gt;Jim&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MS40&lt;/td&gt;
+					&lt;td&gt;365&lt;/td&gt;
+					&lt;td&gt;40.04&lt;/td&gt;
+					&lt;td&gt;5&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td&gt;Frome&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;McBeth&lt;/td&gt;
+					&lt;td&gt;Mike&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MV50&lt;/td&gt;
+					&lt;td&gt;181&lt;/td&gt;
+					&lt;td&gt;40.13&lt;/td&gt;
+					&lt;td&gt;6&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td&gt;Southville RC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Green&lt;/td&gt;
+					&lt;td&gt;Charlotte&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;143&lt;/td&gt;
+					&lt;td&gt;40.39&lt;/td&gt;
+					&lt;td&gt;7&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td&gt;Bristol &amp;amp; West&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Hopes&lt;/td&gt;
+					&lt;td&gt;Chris&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MV50&lt;/td&gt;
+					&lt;td&gt;176&lt;/td&gt;
+					&lt;td&gt;41.12&lt;/td&gt;
+					&lt;td&gt;8&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+					&lt;td&gt;Southville RC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Blewitt&lt;/td&gt;
+					&lt;td&gt;Dan&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MS40&lt;/td&gt;
+					&lt;td&gt;196&lt;/td&gt;
+					&lt;td&gt;41.17&lt;/td&gt;
+					&lt;td&gt;9&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+					&lt;td&gt;Somer AC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Daniels&lt;/td&gt;
+					&lt;td&gt;Nick&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MS40&lt;/td&gt;
+					&lt;td&gt;164&lt;/td&gt;
+					&lt;td&gt;41.25&lt;/td&gt;
+					&lt;td&gt;10&lt;/td&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td&gt;Chard RR&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Francis&lt;/td&gt;
+					&lt;td&gt;Alex&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;171&lt;/td&gt;
+					&lt;td&gt;41.37&lt;/td&gt;
+					&lt;td&gt;11&lt;/td&gt;
+					&lt;td&gt;5&lt;/td&gt;
+					&lt;td&gt;Frome RC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Taylor&lt;/td&gt;
+					&lt;td&gt;Neil&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MS40&lt;/td&gt;
+					&lt;td&gt;365&lt;/td&gt;
+					&lt;td&gt;41.44&lt;/td&gt;
+					&lt;td&gt;12&lt;/td&gt;
+					&lt;td&gt;4&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Jordon-Whittaker&lt;/td&gt;
+					&lt;td&gt;Sarah&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;170&lt;/td&gt;
+					&lt;td&gt;42.00&lt;/td&gt;
+					&lt;td&gt;13&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td&gt;Gillingham Trotters&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Tilling&lt;/td&gt;
+					&lt;td&gt;Oliver&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;124&lt;/td&gt;
+					&lt;td&gt;42.12&lt;/td&gt;
+					&lt;td&gt;14&lt;/td&gt;
+					&lt;td&gt;6&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Holborn&lt;/td&gt;
+					&lt;td&gt;Joe&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MJ&lt;/td&gt;
+					&lt;td&gt;156&lt;/td&gt;
+					&lt;td&gt;42.22&lt;/td&gt;
+					&lt;td&gt;15&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td&gt;Somer AC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Merrick&lt;/td&gt;
+					&lt;td&gt;David&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MS40&lt;/td&gt;
+					&lt;td&gt;150&lt;/td&gt;
+					&lt;td&gt;43.23&lt;/td&gt;
+					&lt;td&gt;16&lt;/td&gt;
+					&lt;td&gt;5&lt;/td&gt;
+					&lt;td&gt;Somer&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Layzell&lt;/td&gt;
+					&lt;td&gt;Sarah&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FV45&lt;/td&gt;
+					&lt;td&gt;175&lt;/td&gt;
+					&lt;td&gt;43.36&lt;/td&gt;
+					&lt;td&gt;17&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td&gt;Canix&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Smith&lt;/td&gt;
+					&lt;td&gt;Andrew&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MS40&lt;/td&gt;
+					&lt;td&gt;96&lt;/td&gt;
+					&lt;td&gt;44.38&lt;/td&gt;
+					&lt;td&gt;18&lt;/td&gt;
+					&lt;td&gt;6&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Stringer&lt;/td&gt;
+					&lt;td&gt;Chris&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;158&lt;/td&gt;
+					&lt;td&gt;45.07&lt;/td&gt;
+					&lt;td&gt;19&lt;/td&gt;
+					&lt;td&gt;7&lt;/td&gt;
+					&lt;td&gt;Frome RC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Paine&lt;/td&gt;
+					&lt;td&gt;Kevin&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;174&lt;/td&gt;
+					&lt;td&gt;45.16&lt;/td&gt;
+					&lt;td&gt;20&lt;/td&gt;
+					&lt;td&gt;8&lt;/td&gt;
+					&lt;td&gt;Frome RC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Pemberton&lt;/td&gt;
+					&lt;td&gt;Emma&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;192&lt;/td&gt;
+					&lt;td&gt;46.08&lt;/td&gt;
+					&lt;td&gt;21&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Williams&lt;/td&gt;
+					&lt;td&gt;Jonathon&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MS40&lt;/td&gt;
+					&lt;td&gt;137&lt;/td&gt;
+					&lt;td&gt;46.29&lt;/td&gt;
+					&lt;td&gt;22&lt;/td&gt;
+					&lt;td&gt;7&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Stockley&lt;/td&gt;
+					&lt;td&gt;Jamie&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;186&lt;/td&gt;
+					&lt;td&gt;46.36&lt;/td&gt;
+					&lt;td&gt;23&lt;/td&gt;
+					&lt;td&gt;9&lt;/td&gt;
+					&lt;td&gt;Somer AC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Brown&lt;/td&gt;
+					&lt;td&gt;Dan&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MV50&lt;/td&gt;
+					&lt;td&gt;110&lt;/td&gt;
+					&lt;td&gt;46.53&lt;/td&gt;
+					&lt;td&gt;24&lt;/td&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td&gt;TBAC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Hails&lt;/td&gt;
+					&lt;td&gt;Kate&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;177&lt;/td&gt;
+					&lt;td&gt;47.02&lt;/td&gt;
+					&lt;td&gt;25&lt;/td&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td&gt;Run 4 Fitness&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Dunstan&lt;/td&gt;
+					&lt;td&gt;Stacey&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;126&lt;/td&gt;
+					&lt;td&gt;47.10&lt;/td&gt;
+					&lt;td&gt;26&lt;/td&gt;
+					&lt;td&gt;10&lt;/td&gt;
+					&lt;td&gt;Somer AC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Thistlewaite&lt;/td&gt;
+					&lt;td&gt;Naomi&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;191&lt;/td&gt;
+					&lt;td&gt;47.23&lt;/td&gt;
+					&lt;td&gt;27&lt;/td&gt;
+					&lt;td&gt;4&lt;/td&gt;
+					&lt;td&gt;Southville RC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Little&lt;/td&gt;
+					&lt;td&gt;Dayton&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MV50&lt;/td&gt;
+					&lt;td&gt;101&lt;/td&gt;
+					&lt;td&gt;47.25&lt;/td&gt;
+					&lt;td&gt;28&lt;/td&gt;
+					&lt;td&gt;4&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Branston&lt;/td&gt;
+					&lt;td&gt;John&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MS40&lt;/td&gt;
+					&lt;td&gt;129&lt;/td&gt;
+					&lt;td&gt;47.36&lt;/td&gt;
+					&lt;td&gt;29&lt;/td&gt;
+					&lt;td&gt;8&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Court&lt;/td&gt;
+					&lt;td&gt;Oliver&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;145&lt;/td&gt;
+					&lt;td&gt;47.40&lt;/td&gt;
+					&lt;td&gt;30&lt;/td&gt;
+					&lt;td&gt;11&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Hall&lt;/td&gt;
+					&lt;td&gt;Andrea&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;179&lt;/td&gt;
+					&lt;td&gt;47.52&lt;/td&gt;
+					&lt;td&gt;31&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Hooper&lt;/td&gt;
+					&lt;td&gt;Katie&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;188&lt;/td&gt;
+					&lt;td&gt;47.56&lt;/td&gt;
+					&lt;td&gt;32&lt;/td&gt;
+					&lt;td&gt;5&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Clutterbuck&lt;/td&gt;
+					&lt;td&gt;Anna&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;113&lt;/td&gt;
+					&lt;td&gt;48.01&lt;/td&gt;
+					&lt;td&gt;33&lt;/td&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Smith&lt;/td&gt;
+					&lt;td&gt;Kevin&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;97&lt;/td&gt;
+					&lt;td&gt;48.09&lt;/td&gt;
+					&lt;td&gt;34&lt;/td&gt;
+					&lt;td&gt;12&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Symonds&lt;/td&gt;
+					&lt;td&gt;Matthew&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;180&lt;/td&gt;
+					&lt;td&gt;48.52&lt;/td&gt;
+					&lt;td&gt;35&lt;/td&gt;
+					&lt;td&gt;13&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Myers&lt;/td&gt;
+					&lt;td&gt;Tony&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MV50&lt;/td&gt;
+					&lt;td&gt;155&lt;/td&gt;
+					&lt;td&gt;48.56&lt;/td&gt;
+					&lt;td&gt;36&lt;/td&gt;
+					&lt;td&gt;5&lt;/td&gt;
+					&lt;td&gt;Southville&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Doel&lt;/td&gt;
+					&lt;td&gt;Esther&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;194&lt;/td&gt;
+					&lt;td&gt;49.12&lt;/td&gt;
+					&lt;td&gt;37&lt;/td&gt;
+					&lt;td&gt;4&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Rabbitts&lt;/td&gt;
+					&lt;td&gt;Des&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MS40&lt;/td&gt;
+					&lt;td&gt;162&lt;/td&gt;
+					&lt;td&gt;49.20&lt;/td&gt;
+					&lt;td&gt;38&lt;/td&gt;
+					&lt;td&gt;9&lt;/td&gt;
+					&lt;td&gt;Somer AC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Penny&lt;/td&gt;
+					&lt;td&gt;Lauren&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;172&lt;/td&gt;
+					&lt;td&gt;49.52&lt;/td&gt;
+					&lt;td&gt;40&lt;/td&gt;
+					&lt;td&gt;6&lt;/td&gt;
+					&lt;td&gt;Frome RC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Graham&lt;/td&gt;
+					&lt;td&gt;Cliff&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MS40&lt;/td&gt;
+					&lt;td&gt;189&lt;/td&gt;
+					&lt;td&gt;49.52&lt;/td&gt;
+					&lt;td&gt;39&lt;/td&gt;
+					&lt;td&gt;10&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Baker&lt;/td&gt;
+					&lt;td&gt;Stuart&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;125&lt;/td&gt;
+					&lt;td&gt;50.04&lt;/td&gt;
+					&lt;td&gt;41&lt;/td&gt;
+					&lt;td&gt;14&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Clark&lt;/td&gt;
+					&lt;td&gt;Sam&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MJ&lt;/td&gt;
+					&lt;td&gt;104&lt;/td&gt;
+					&lt;td&gt;50.05&lt;/td&gt;
+					&lt;td&gt;42&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Phibben&lt;/td&gt;
+					&lt;td&gt;Lee&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;167&lt;/td&gt;
+					&lt;td&gt;50.14&lt;/td&gt;
+					&lt;td&gt;43&lt;/td&gt;
+					&lt;td&gt;15&lt;/td&gt;
+					&lt;td&gt;Southville RC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Betts&lt;/td&gt;
+					&lt;td&gt;Jacqui&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FV45&lt;/td&gt;
+					&lt;td&gt;182&lt;/td&gt;
+					&lt;td&gt;50.15&lt;/td&gt;
+					&lt;td&gt;44&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Taylor&lt;/td&gt;
+					&lt;td&gt;Martin&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MV50&lt;/td&gt;
+					&lt;td&gt;178&lt;/td&gt;
+					&lt;td&gt;50.18&lt;/td&gt;
+					&lt;td&gt;45&lt;/td&gt;
+					&lt;td&gt;6&lt;/td&gt;
+					&lt;td&gt;Frome RC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Hunter&lt;/td&gt;
+					&lt;td&gt;Frances&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;160&lt;/td&gt;
+					&lt;td&gt;50.30&lt;/td&gt;
+					&lt;td&gt;46&lt;/td&gt;
+					&lt;td&gt;7&lt;/td&gt;
+					&lt;td&gt;Frome RC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Carr&lt;/td&gt;
+					&lt;td&gt;Simon&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MS40&lt;/td&gt;
+					&lt;td&gt;168&lt;/td&gt;
+					&lt;td&gt;51.26&lt;/td&gt;
+					&lt;td&gt;47&lt;/td&gt;
+					&lt;td&gt;11&lt;/td&gt;
+					&lt;td&gt;Wells City Harriers&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Ellis&lt;/td&gt;
+					&lt;td&gt;Debbie&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FV45&lt;/td&gt;
+					&lt;td&gt;169&lt;/td&gt;
+					&lt;td&gt;51.33&lt;/td&gt;
+					&lt;td&gt;48&lt;/td&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td&gt;Run 4 Fitness&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Darville&lt;/td&gt;
+					&lt;td&gt;John&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MS40&lt;/td&gt;
+					&lt;td&gt;127&lt;/td&gt;
+					&lt;td&gt;51.42&lt;/td&gt;
+					&lt;td&gt;49&lt;/td&gt;
+					&lt;td&gt;12&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Corbett&lt;/td&gt;
+					&lt;td&gt;Helen&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;159&lt;/td&gt;
+					&lt;td&gt;51.48&lt;/td&gt;
+					&lt;td&gt;50&lt;/td&gt;
+					&lt;td&gt;8&lt;/td&gt;
+					&lt;td&gt;Frome RC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Steele&lt;/td&gt;
+					&lt;td&gt;Christopher&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MV50&lt;/td&gt;
+					&lt;td&gt;173&lt;/td&gt;
+					&lt;td&gt;51.55&lt;/td&gt;
+					&lt;td&gt;51&lt;/td&gt;
+					&lt;td&gt;7&lt;/td&gt;
+					&lt;td&gt;Frome RC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Townsend&lt;/td&gt;
+					&lt;td&gt;Adam&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;184&lt;/td&gt;
+					&lt;td&gt;52.07&lt;/td&gt;
+					&lt;td&gt;52&lt;/td&gt;
+					&lt;td&gt;16&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Pearce&lt;/td&gt;
+					&lt;td&gt;Liam&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;141&lt;/td&gt;
+					&lt;td&gt;52.22&lt;/td&gt;
+					&lt;td&gt;53&lt;/td&gt;
+					&lt;td&gt;17&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Hunt&lt;/td&gt;
+					&lt;td&gt;Tom&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MJ&lt;/td&gt;
+					&lt;td&gt;151&lt;/td&gt;
+					&lt;td&gt;52.34&lt;/td&gt;
+					&lt;td&gt;54&lt;/td&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Lewis&lt;/td&gt;
+					&lt;td&gt;Anthony&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;165&lt;/td&gt;
+					&lt;td&gt;52.36&lt;/td&gt;
+					&lt;td&gt;55&lt;/td&gt;
+					&lt;td&gt;18&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Mclelland&lt;/td&gt;
+					&lt;td&gt;Jon&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;166&lt;/td&gt;
+					&lt;td&gt;52.36&lt;/td&gt;
+					&lt;td&gt;56&lt;/td&gt;
+					&lt;td&gt;19&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Riddle&lt;/td&gt;
+					&lt;td&gt;Paul&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MS40&lt;/td&gt;
+					&lt;td&gt;134&lt;/td&gt;
+					&lt;td&gt;52.40&lt;/td&gt;
+					&lt;td&gt;57&lt;/td&gt;
+					&lt;td&gt;13&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Riddle&lt;/td&gt;
+					&lt;td&gt;Marc&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MV50&lt;/td&gt;
+					&lt;td&gt;153&lt;/td&gt;
+					&lt;td&gt;52.40&lt;/td&gt;
+					&lt;td&gt;58&lt;/td&gt;
+					&lt;td&gt;8&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Darville&lt;/td&gt;
+					&lt;td&gt;Mary&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;128&lt;/td&gt;
+					&lt;td&gt;53.16&lt;/td&gt;
+					&lt;td&gt;59&lt;/td&gt;
+					&lt;td&gt;5&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Clark&lt;/td&gt;
+					&lt;td&gt;Paul&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MV50&lt;/td&gt;
+					&lt;td&gt;106&lt;/td&gt;
+					&lt;td&gt;53.17&lt;/td&gt;
+					&lt;td&gt;60&lt;/td&gt;
+					&lt;td&gt;9&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Hedley&lt;/td&gt;
+					&lt;td&gt;Claire&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;111&lt;/td&gt;
+					&lt;td&gt;53.42&lt;/td&gt;
+					&lt;td&gt;61&lt;/td&gt;
+					&lt;td&gt;6&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Hamilton&lt;/td&gt;
+					&lt;td&gt;Jen&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;190&lt;/td&gt;
+					&lt;td&gt;53.43&lt;/td&gt;
+					&lt;td&gt;62&lt;/td&gt;
+					&lt;td&gt;9&lt;/td&gt;
+					&lt;td&gt;Southville RC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Green&lt;/td&gt;
+					&lt;td&gt;Chris&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MSV60&lt;/td&gt;
+					&lt;td&gt;95&lt;/td&gt;
+					&lt;td&gt;53.49&lt;/td&gt;
+					&lt;td&gt;63&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Clark&lt;/td&gt;
+					&lt;td&gt;George&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MJ&lt;/td&gt;
+					&lt;td&gt;105&lt;/td&gt;
+					&lt;td&gt;54.04&lt;/td&gt;
+					&lt;td&gt;64&lt;/td&gt;
+					&lt;td&gt;4&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Probert&lt;/td&gt;
+					&lt;td&gt;John&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MS40&lt;/td&gt;
+					&lt;td&gt;109&lt;/td&gt;
+					&lt;td&gt;54.26&lt;/td&gt;
+					&lt;td&gt;65&lt;/td&gt;
+					&lt;td&gt;14&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Steward&lt;/td&gt;
+					&lt;td&gt;Hayley&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;144&lt;/td&gt;
+					&lt;td&gt;54.33&lt;/td&gt;
+					&lt;td&gt;66&lt;/td&gt;
+					&lt;td&gt;10&lt;/td&gt;
+					&lt;td&gt;Yeovil Olympiads AC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Andrews&lt;/td&gt;
+					&lt;td&gt;Thomas&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;132&lt;/td&gt;
+					&lt;td&gt;54.36&lt;/td&gt;
+					&lt;td&gt;67&lt;/td&gt;
+					&lt;td&gt;20&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Avis&lt;/td&gt;
+					&lt;td&gt;Trudi&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;136&lt;/td&gt;
+					&lt;td&gt;54.44&lt;/td&gt;
+					&lt;td&gt;68&lt;/td&gt;
+					&lt;td&gt;7&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Hall&lt;/td&gt;
+					&lt;td&gt;David&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MSV60&lt;/td&gt;
+					&lt;td&gt;123&lt;/td&gt;
+					&lt;td&gt;54.52&lt;/td&gt;
+					&lt;td&gt;69&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Longhurst&lt;/td&gt;
+					&lt;td&gt;Winnie&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;133&lt;/td&gt;
+					&lt;td&gt;55.12&lt;/td&gt;
+					&lt;td&gt;70&lt;/td&gt;
+					&lt;td&gt;8&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Evans&lt;/td&gt;
+					&lt;td&gt;Emma&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;131&lt;/td&gt;
+					&lt;td&gt;55.39&lt;/td&gt;
+					&lt;td&gt;71&lt;/td&gt;
+					&lt;td&gt;9&lt;/td&gt;
+					&lt;td&gt;Frome&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Box&lt;/td&gt;
+					&lt;td&gt;Jon&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MS40&lt;/td&gt;
+					&lt;td&gt;107&lt;/td&gt;
+					&lt;td&gt;56.15&lt;/td&gt;
+					&lt;td&gt;72&lt;/td&gt;
+					&lt;td&gt;15&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Gaffney&lt;/td&gt;
+					&lt;td&gt;Lucy&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;183&lt;/td&gt;
+					&lt;td&gt;56.35&lt;/td&gt;
+					&lt;td&gt;73&lt;/td&gt;
+					&lt;td&gt;10&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Soccorsy&lt;/td&gt;
+					&lt;td&gt;Adam&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;195&lt;/td&gt;
+					&lt;td&gt;56.52&lt;/td&gt;
+					&lt;td&gt;74&lt;/td&gt;
+					&lt;td&gt;21&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Wilmshurst&lt;/td&gt;
+					&lt;td&gt;Jonathon&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;112&lt;/td&gt;
+					&lt;td&gt;56.56&lt;/td&gt;
+					&lt;td&gt;75&lt;/td&gt;
+					&lt;td&gt;22&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Turner&lt;/td&gt;
+					&lt;td&gt;Alison&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;98&lt;/td&gt;
+					&lt;td&gt;57.57&lt;/td&gt;
+					&lt;td&gt;77&lt;/td&gt;
+					&lt;td&gt;11&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Harvey&lt;/td&gt;
+					&lt;td&gt;Denise&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FV45&lt;/td&gt;
+					&lt;td&gt;102&lt;/td&gt;
+					&lt;td&gt;57.57&lt;/td&gt;
+					&lt;td&gt;76&lt;/td&gt;
+					&lt;td&gt;4&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Lloyd&lt;/td&gt;
+					&lt;td&gt;Shirley&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FV45&lt;/td&gt;
+					&lt;td&gt;161&lt;/td&gt;
+					&lt;td&gt;58.05&lt;/td&gt;
+					&lt;td&gt;78&lt;/td&gt;
+					&lt;td&gt;5&lt;/td&gt;
+					&lt;td&gt;Somer AC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Jarrett-Scott&lt;/td&gt;
+					&lt;td&gt;Victoria&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;100&lt;/td&gt;
+					&lt;td&gt;58.43&lt;/td&gt;
+					&lt;td&gt;79&lt;/td&gt;
+					&lt;td&gt;12&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Moore&lt;/td&gt;
+					&lt;td&gt;Mark&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;103&lt;/td&gt;
+					&lt;td&gt;59.55&lt;/td&gt;
+					&lt;td&gt;80&lt;/td&gt;
+					&lt;td&gt;23&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Lake&lt;/td&gt;
+					&lt;td&gt;Jan&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;116&lt;/td&gt;
+					&lt;td&gt;60.03&lt;/td&gt;
+					&lt;td&gt;81&lt;/td&gt;
+					&lt;td&gt;13&lt;/td&gt;
+					&lt;td&gt;Frome&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Caston&lt;/td&gt;
+					&lt;td&gt;Leila&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;400&lt;/td&gt;
+					&lt;td&gt;60.06&lt;/td&gt;
+					&lt;td&gt;82&lt;/td&gt;
+					&lt;td&gt;14&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Riddle&lt;/td&gt;
+					&lt;td&gt;Elaine&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FV45&lt;/td&gt;
+					&lt;td&gt;152&lt;/td&gt;
+					&lt;td&gt;60.27&lt;/td&gt;
+					&lt;td&gt;83&lt;/td&gt;
+					&lt;td&gt;6&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Scailes&lt;/td&gt;
+					&lt;td&gt;Julie&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FV45&lt;/td&gt;
+					&lt;td&gt;148&lt;/td&gt;
+					&lt;td&gt;60.33&lt;/td&gt;
+					&lt;td&gt;84&lt;/td&gt;
+					&lt;td&gt;7&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Martin&lt;/td&gt;
+					&lt;td&gt;Abi&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;197&lt;/td&gt;
+					&lt;td&gt;60.35&lt;/td&gt;
+					&lt;td&gt;85&lt;/td&gt;
+					&lt;td&gt;15&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Whittaker&lt;/td&gt;
+					&lt;td&gt;Frances&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;130&lt;/td&gt;
+					&lt;td&gt;60.41&lt;/td&gt;
+					&lt;td&gt;86&lt;/td&gt;
+					&lt;td&gt;16&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Rabbitts&lt;/td&gt;
+					&lt;td&gt;Alison&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FV45&lt;/td&gt;
+					&lt;td&gt;163&lt;/td&gt;
+					&lt;td&gt;61.50&lt;/td&gt;
+					&lt;td&gt;87&lt;/td&gt;
+					&lt;td&gt;8&lt;/td&gt;
+					&lt;td&gt;Somer AC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Plummer&lt;/td&gt;
+					&lt;td&gt;Margaret&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FSV55&lt;/td&gt;
+					&lt;td&gt;135&lt;/td&gt;
+					&lt;td&gt;63.51&lt;/td&gt;
+					&lt;td&gt;88&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td&gt;Frome&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Parsons&lt;/td&gt;
+					&lt;td&gt;Caroline&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FV45&lt;/td&gt;
+					&lt;td&gt;121&lt;/td&gt;
+					&lt;td&gt;66.24&lt;/td&gt;
+					&lt;td&gt;89&lt;/td&gt;
+					&lt;td&gt;9&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Hodge&lt;/td&gt;
+					&lt;td&gt;Jo&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;115&lt;/td&gt;
+					&lt;td&gt;66.50&lt;/td&gt;
+					&lt;td&gt;90&lt;/td&gt;
+					&lt;td&gt;17&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Townsend&lt;/td&gt;
+					&lt;td&gt;Alan&lt;/td&gt;
+					&lt;td&gt;M&lt;/td&gt;
+					&lt;td&gt;MSV60&lt;/td&gt;
+					&lt;td&gt;185&lt;/td&gt;
+					&lt;td&gt;67.42&lt;/td&gt;
+					&lt;td&gt;91&lt;/td&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Sheppard&lt;/td&gt;
+					&lt;td&gt;Karen&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FV45&lt;/td&gt;
+					&lt;td&gt;149&lt;/td&gt;
+					&lt;td&gt;68.54&lt;/td&gt;
+					&lt;td&gt;92&lt;/td&gt;
+					&lt;td&gt;10&lt;/td&gt;
+					&lt;td&gt;Somer&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Beauchamp&lt;/td&gt;
+					&lt;td&gt;Claire&lt;/td&gt;
+					&lt;td&gt;F&lt;/td&gt;
+					&lt;td&gt;FS35&lt;/td&gt;
+					&lt;td&gt;122&lt;/td&gt;
+					&lt;td&gt;75.50&lt;/td&gt;
+					&lt;td&gt;93&lt;/td&gt;
+					&lt;td&gt;18&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1KR1viewqzMStm3OgeE22pTOSZ3TfYigarT2uqh7xDkg/edit?usp=sharing&#34;&gt;https://docs.google.com/document/d/1KR1viewqzMStm3OgeE22pTOSZ3TfYigarT2uqh7xDkg/edit?usp=sharing&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -177,12 +1328,18 @@ Surname First Name Gender Race Category Race Number Finishing Time Position Posi
       <pubDate>Wed, 04 Mar 2015 10:23:03 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2015/03/04/using-ssl-certificate-on-a-custom-domain-with-google-app-engine/</guid>
-      <description>This post is more a reminder for me. Sorry.
-Get an SNI certificate from Gandi. And download the certificate
-It will have a name like:
-certificate-123456.crt You need to create public and private pem files for google like this:
-openssl rsa -in cameraforensics.key -text &amp;gt; private.pem openssl x509 -inform PEM -in certificate-123456.crt &amp;gt; public.pem (cameraforensics.key is my private key from when I created the SSL certificate from Gandi)
-In Google Apps domain manager, upload those files under “Security &amp;gt; show more &amp;gt; SSL for custom domains“: I was upgrading my certificate so I see both the current and the new certificate:</description>
+      <description>&lt;p&gt;This post is more a reminder for me. Sorry.&lt;/p&gt;
+&lt;p&gt;Get an SNI certificate from Gandi. And download the certificate&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2015/03/Screen-Shot-2015-03-04-at-10.09.09.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;It will have a name like:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;certificate-123456.crt
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You need to create public and private pem files for google like this:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;openssl rsa -in cameraforensics.key -text &amp;gt; private.pem
+openssl x509 -inform PEM -in certificate-123456.crt &amp;gt; public.pem
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;(cameraforensics.key is my private key from when I created the SSL certificate from Gandi)&lt;/p&gt;
+&lt;p&gt;In Google Apps domain manager, upload those files under “Security &amp;gt; show more &amp;gt; &lt;a href=&#34;https://admin.google.com/AdminHome#SecuritySettings:flyout=ssl&#34;&gt;SSL for custom domains&lt;/a&gt;“: &lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2015/03/Screen-Shot-2015-03-04-at-09.26.24.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -191,8 +1348,29 @@ In Google Apps domain manager, upload those files under “Security &amp;gt; sho
       <pubDate>Wed, 14 Jan 2015 23:33:23 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2015/01/15/garmin-forerunner-620-verses-the-205-the-good-the-bad-and-the-ugly/</guid>
-      <description>I previously had the (very popular) forerunner 205 so this review will be based on comparing it to that. I bought the 205 when it came out in 2006 and it’s still going strong. I love tech though so decided to treat myself to an “upgrade”…
-The Good Wifi and bluetooth data uploading. This is really handy. Saves getting the computer out. The live tracking is also good, but it requires you to take your phone on your run.</description>
+      <description>&lt;p&gt;I previously had the (very popular) forerunner 205 so this review will be based on comparing it to that. I bought the 205 when it came out in 2006 and it’s still going strong. I love tech though so decided to treat myself to an “upgrade”…&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Garmin_Forerunner_205.jpg/2880px-Garmin_Forerunner_205.jpg&#34; alt=&#34;Forerunner 205&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://static.garmincdn.com/en/products/010-01128-00/g/rf-lg.jpg&#34; alt=&#34;Forerunner 620&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;the-good&#34;&gt;The Good&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Wifi and bluetooth data uploading. This is really handy. Saves getting the computer out. The live tracking is also good, but it requires you to take your phone on your run.&lt;/li&gt;
+&lt;li&gt;Dedicated button for showing the current time of day.&lt;/li&gt;
+&lt;li&gt;It’s smaller.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-bad&#34;&gt;The Bad&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;No multisport. If you want to enter a triathlon and have transitions etc. you’ll need a different watch. In fact, this watch was unbelievably released without any cycling mode but that is now available in the latest firmware.&lt;/li&gt;
+&lt;li&gt;No navigation features. So no back to start, or following a route for you. You’ll need a different watch.&lt;/li&gt;
+&lt;li&gt;Fewer data fields. The 205 lets you see 4 fields at once.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-ugly&#34;&gt;The Ugly&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GPS isn’t as accurate! In fact, it’s pretty poor. See (&lt;a href=&#34;http://fellrnr.com/wiki/GPS_Accuracy&#34;&gt;http://fellrnr.com/wiki/GPS_Accuracy&lt;/a&gt;) :&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://fellrnr.com/mediawiki/images/2/2f/Accuracy.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -201,7 +1379,7 @@ The Good Wifi and bluetooth data uploading. This is really handy. Saves getting 
       <pubDate>Wed, 05 Nov 2014 10:45:38 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2014/11/05/ugly-business-practices-at-facebook/</guid>
-      <description>Facebook have broken its messenger feature into its own app. Lots of people freaked out thinking Facebook wanted to use it to spy on them as it requires excessive permissions etc. In reality, it probably needs all those permissions, I don’t really care about that, privacy died years ago. What bothers me is that people use it instead of emailing me. I strongly prefer email. It’s searchable and owned by me.</description>
+      <description>&lt;p&gt;Facebook have broken its messenger feature into its own app. Lots of people &lt;a href=&#34;http://techcrunch.com/2014/04/09/facebook-messenger-or-the-highway/&#34;&gt;freaked out&lt;/a&gt; thinking Facebook wanted to use it to spy on them as it requires excessive permissions etc. In reality, &lt;a href=&#34;http://www.techrepublic.com/article/misplaced-fear-about-facebook-messenger-for-android/&#34;&gt;it probably needs all those permissions&lt;/a&gt;, I don’t really care about that, privacy died years ago. What bothers me is that people use it instead of emailing me. I strongly prefer email. It’s searchable and owned by me. I know I’m swimming against the tide a bit, but I’m clinging on to email for as long as possible.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -210,11 +1388,13 @@ The Good Wifi and bluetooth data uploading. This is really handy. Saves getting 
       <pubDate>Fri, 10 Oct 2014 16:03:14 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2014/10/10/how-to-access-your-app-engine-dev-server-from-another-machine/</guid>
-      <description>I keep forgetting how to do this so I’m writing it down in the vain hope I may commit it to memory.
-The problem You want to access your locally running dev server on another machine on your local network or maybe even from a virtual machine. whatevs.
-The solution Start your dev server with this extra program argument (you can find this under “debug configurations” in eclipse):
---address=0.0.0.0
-Now remember it you stupid brain.</description>
+      <description>&lt;p&gt;I keep forgetting how to do this so I’m writing it down in the vain hope I may commit it to memory.&lt;/p&gt;
+&lt;h2 id=&#34;the-problem&#34;&gt;The problem&lt;/h2&gt;
+&lt;p&gt;You want to access your locally running dev server on another machine on your local network or maybe even from a virtual machine. whatevs.&lt;/p&gt;
+&lt;h2 id=&#34;the-solution&#34;&gt;The solution&lt;/h2&gt;
+&lt;p&gt;Start your dev server with this extra program argument (you can find this under “debug configurations” in eclipse):&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;--address=0.0.0.0&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Now remember it you stupid brain.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -223,8 +1403,8 @@ Now remember it you stupid brain.</description>
       <pubDate>Tue, 30 Sep 2014 11:39:13 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2014/09/30/running-the-4k-aoc-u2868pqu-and-intel-hd4000-graphics/</guid>
-      <description>Ok, I just bought a 4K display, whoop!
-I knew when I bought it that neither my late-2012 Retina Macbook Pro, or my Ubuntu desktop machine would actually drive the monitor at 4K because they both rely on Intel’s HD4000 graphics which is built into their Ivy bridge CPUs. I did however expect to get at least 2560×1440 (if only at 30Hz) which is fine by me, and then I’m ready when I next upgrade…</description>
+      <description>&lt;p&gt;Ok, I just bought a 4K display, whoop!&lt;/p&gt;
+&lt;p&gt;I knew when I bought it that neither my &lt;a href=&#34;http://support.apple.com/kb/SP658&#34;&gt;late-2012 Retina Macbook Pro&lt;/a&gt;, or my Ubuntu desktop machine would actually drive the monitor at 4K because they both rely on Intel’s HD4000 graphics which is built into their Ivy bridge CPUs. I did however expect to get at least 2560×1440 (if only at 30Hz) which is fine by me, and then I’m ready when I next upgrade…&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -233,10 +1413,15 @@ I knew when I bought it that neither my late-2012 Retina Macbook Pro, or my Ubun
       <pubDate>Thu, 10 Jul 2014 11:35:40 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2014/07/10/how-to-download-chromecast-background-images/</guid>
-      <description>Google’s friendly little chromecast has some great background images.
-If you want to download all of those images so you can have a nice high quality screen saver on your laptop/mobile etc. just do this:
-git clone -b patch-1 https://github.com/mattburns/chromecast-backgrounds.git cd chromecast-backgrounds/ npm install lodash q request nopt chalk node cli.js --download=images --size=1024 --load=backgrounds.json Change the size from 1024 to whatever maximum size you want to download.
-I had to tweak the source from this project on github.</description>
+      <description>&lt;p&gt;Google’s friendly little &lt;a href=&#34;www.chromecast.com&#34;&gt;chromecast&lt;/a&gt; has some &lt;a href=&#34;https://clients3.google.com/cast/chromecast/home/v/c9541b08&#34; title=&#34;Chromecast background&#34;&gt;great background images&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you want to download all of those images so you can have a nice high quality screen saver on your laptop/mobile etc. just do this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git clone -b patch-1 https://github.com/mattburns/chromecast-backgrounds.git
+cd chromecast-backgrounds/
+npm install lodash q request nopt chalk
+node cli.js --download=images --size=1024 --load=backgrounds.json
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Change the size from 1024 to whatever maximum size you want to download.&lt;/p&gt;
+&lt;p&gt;I had to tweak the source from &lt;a href=&#34;https://github.com/dconnolly/chromecast-backgrounds&#34;&gt;this project on github&lt;/a&gt;. Hopefully my fork will get folded in.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -245,11 +1430,20 @@ I had to tweak the source from this project on github.</description>
       <pubDate>Fri, 16 May 2014 10:43:59 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2014/05/16/using-java-7-on-osx/</guid>
-      <description>Does your current version point to JDK6 even though you’ve installed JDK7?
-matt$ ls -l /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK 8 lrwxr-xr-x 1 root wheel 59 21 Nov 14:43 /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK -&amp;gt; /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents The do this:
-sudo rm /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK sudo ln -s /Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/ /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK If it’s not already, set JAVA_HOME accordingly in your ~/.bash_profile:
-export JAVA_HOME=/System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK/Home Test it worked:
-matt$ java -version java version &amp;#34;1.7.0_51&amp;#34; Java(TM) SE Runtime Environment (build 1.7.0_51-b13) Java HotSpot(TM) 64-Bit Server VM (build 24.</description>
+      <description>&lt;p&gt;Does your current version point to JDK6 even though you’ve installed JDK7?&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;matt$ ls -l /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK
+8 lrwxr-xr-x  1 root  wheel  59 21 Nov 14:43 /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK -&amp;gt; /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The do this:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo rm /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK
+sudo ln -s /Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/ /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;If it’s not already, set JAVA_HOME accordingly in your ~/.bash_profile:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;export JAVA_HOME=/System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK/Home
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Test it worked:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;matt$ java -version
+java version &amp;#34;1.7.0_51&amp;#34;
+Java(TM) SE Runtime Environment (build 1.7.0_51-b13)
+Java HotSpot(TM) 64-Bit Server VM (build 24.51-b03, mixed mode)
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -258,9 +1452,9 @@ matt$ java -version java version &amp;#34;1.7.0_51&amp;#34; Java(TM) SE Runtime 
       <pubDate>Thu, 17 Apr 2014 17:05:45 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2014/04/17/using-a-uk-mac-keyboard-on-ubuntu/</guid>
-      <description>If you’re using a UK edition usb keyboard with Ubuntu, you may be swearing every time you want a relatively common characters like £, # or |.
-I’ve been suffering with a poorly mapped keyboard for months. I’ve no idea why, I just assumed I must have tried when I installed the OS and deemed it impossible. Anyway, I’m an idiot because it’s really easy.
-Open up your keyboard settings and pick “Layout Settings”:</description>
+      <description>&lt;p&gt;If you’re using a UK edition usb keyboard with Ubuntu, you may be swearing every time you want a relatively common characters like £, # or |.&lt;/p&gt;
+&lt;p&gt;I’ve been suffering with a poorly mapped keyboard for months. I’ve no idea why, I just assumed I must have tried when I installed the OS and deemed it impossible. Anyway, I’m an idiot because it’s really easy.&lt;/p&gt;
+&lt;p&gt;Open up your keyboard settings and pick “Layout Settings”:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -269,7 +1463,13 @@ Open up your keyboard settings and pick “Layout Settings”:</description>
       <pubDate>Tue, 18 Feb 2014 12:11:17 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2014/02/18/how-to-install-r-on-osx/</guid>
-      <description>Install Homebrew (if needed) ruby -e &amp;#34;$(curl -fsSL \ https://raw.github.com/Homebrew/homebrew/go/install)&amp;#34; Install R brew tap homebrew/science brew install r </description>
+      <description>&lt;h2 id=&#34;install-homebrew-if-needed&#34;&gt;Install &lt;a href=&#34;http://brew.sh/&#34;&gt;Homebrew&lt;/a&gt; (if needed)&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;ruby -e &amp;#34;$(curl -fsSL \
+https://raw.github.com/Homebrew/homebrew/go/install)&amp;#34;
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;install-r&#34;&gt;Install R&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;brew tap homebrew/science
+brew install r
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -278,8 +1478,8 @@ Open up your keyboard settings and pick “Layout Settings”:</description>
       <pubDate>Thu, 03 Oct 2013 09:26:41 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2013/10/03/customer1000/</guid>
-      <description>Before OddPrints… A short while ago I wanted to print some photos for a little frame (4x4cm). I don’t own a printer and so I wanted to get it printed online. However, the smallest size offered by most online labs is 4×6&amp;quot;. I’m a programmer and amateur photographer, if anyone should find this easy it should be me. How hard can it be?
-Somehow, I needed to resize and re-save my photo so that it had just the right border around the edge so that when the new image was printed at 4×6&amp;quot; my picture would be in the middle at exactly 4x4cm ready for me to cut out.</description>
+      <description>&lt;h2 id=&#34;before-oddprints&#34;&gt;Before &lt;a href=&#34;http://www.oddprints.com&#34;&gt;OddPrints&lt;/a&gt;…&lt;/h2&gt;
+&lt;p&gt;A short while ago I wanted to print some photos for a little frame (4x4cm). I don’t own a printer and so I wanted to get it printed online. However, the smallest size offered by most online labs is 4×6&amp;quot;. I’m a programmer and amateur photographer, if anyone should find this easy it should be me. &lt;!-- raw HTML omitted --&gt;How hard can it be?&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -288,10 +1488,18 @@ Somehow, I needed to resize and re-save my photo so that it had just the right b
       <pubDate>Wed, 04 Sep 2013 17:25:56 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2013/09/04/create-a-smooth-loading-spinner-using-only-css/</guid>
-      <description>We’ve all seen loading spinners and they generally look like this:
-Urgh.
-This is just an animated gif and has the following drawbacks:
-Limited to 256 colours Need to regenerate the image if you want a different colour. Framerate and resolution set when you create the image. (and increasing either will hurt load times). Playback is jerky until all frames are downloaded Wouldn’t it be better to use some vector magic and hardware-accelerated loveliness to get a spinner like this:</description>
+      <description>&lt;p&gt;We’ve all seen loading spinners and they generally look like this:&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2013/09/ajax-loader.gif&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Urgh.&lt;/p&gt;
+&lt;p&gt;This is just an animated gif and has the following drawbacks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Limited to 256 colours&lt;/li&gt;
+&lt;li&gt;Need to &lt;a href=&#34;http://www.ajaxload.info/&#34;&gt;regenerate the image&lt;/a&gt; if you want a different colour.&lt;/li&gt;
+&lt;li&gt;Framerate and resolution set when you create the image. (and increasing either will hurt load times).&lt;/li&gt;
+&lt;li&gt;Playback is jerky until all frames are downloaded&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wouldn’t it be better to use some &lt;a href=&#34;http://www.mattburns.co.uk/blog/2013/02/24/4-reasons-to-design-your-logo-in-css-and-a-few-why-you-shouldnt/&#34; title=&#34;4 reasons to design your logo in CSS (and a few why you shouldn’t)&#34;&gt;vector magic&lt;/a&gt; and hardware-accelerated loveliness to get a spinner like this:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -300,8 +1508,8 @@ Limited to 256 colours Need to regenerate the image if you want a different colo
       <pubDate>Thu, 11 Jul 2013 16:35:57 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2013/07/11/create-a-giant-map-of-everywhere-youve-been/</guid>
-      <description>Google have just announced that they’re giving Latitude the boot. Not in the distant future but next month (August 9th). I’m gutted as I was just getting used to relying on its awesomeness. At first I panicked because I’ve been using the Location History feature to log my location for the past 3 years. Thankfully, that feature is spared the chop (well, for now at least).
-If you have also been using it to log your location then you’ll be glad to hear you can download your location history.</description>
+      <description>&lt;p&gt;Google have just announced that &lt;a href=&#34;http://www.theregister.co.uk/2013/07/10/google_loses_latitude_in_maps_app_shakeup/&#34;&gt;they’re giving Latitude the boot&lt;/a&gt;. Not in the distant future but next month (August 9th). I’m gutted as I was just getting used to relying on its awesomeness. At first I panicked because I’ve been using the &lt;a href=&#34;https://maps.google.com/locationhistory/&#34;&gt;Location History&lt;/a&gt; feature to log my location for the past 3 years. Thankfully, &lt;a href=&#34;https://support.google.com/gmm/answer/3001634&#34;&gt;that feature is spared the chop&lt;/a&gt; (well, for now at least).&lt;/p&gt;
+&lt;p&gt;If you have also been using it to log your location then you’ll be glad to hear you can &lt;a href=&#34;https://www.google.com/takeout/#custom:latitude&#34; title=&#34;Download location history&#34;&gt;download your location history&lt;/a&gt;. Unfortunately, once downloaded, there isn’t an easy way to view the history so I decided to write something. Here is the output image of everywhere I’ve been in the last 3 years (click through for a glorious &lt;a href=&#34;https://mattburns.co.uk/wp-content/uploads/2013/07/gps-large.png&#34;&gt;high-res version&lt;/a&gt;):&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -310,8 +1518,10 @@ If you have also been using it to log your location then you’ll be glad to hea
       <pubDate>Sun, 24 Feb 2013 19:22:08 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2013/02/24/4-reasons-to-design-your-logo-in-css-and-a-few-why-you-shouldnt/</guid>
-      <description>Intro I recently changed the OddPrints logo on the website from an image to simple text styled with CSS and @font-face. To me it seems like the obvious thing to do but very few websites seem to employ the technique. I thought I’d explain my thoughts and I’d love to hear what you think…
-1 – Sharper This is the main reason. I recently bought a Retina MacBook Pro and the screen quality is amazing.</description>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;I recently changed the &lt;a href=&#34;http://www.OddPrints.com&#34;&gt;OddPrints&lt;/a&gt; logo on the website from an image to simple text styled with CSS and &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/CSS/@font-face&#34;&gt;@font-face&lt;/a&gt;. To me it seems like the obvious thing to do but very few websites seem to employ the technique. I thought I’d explain my thoughts and I’d love to hear what you think…&lt;/p&gt;
+&lt;h2 id=&#34;1--sharper&#34;&gt;1 – Sharper&lt;/h2&gt;
+&lt;p&gt;This is the main reason. I recently bought a Retina MacBook Pro and the screen quality is amazing. I like to think I’m an optimist and I would normally just be happy with the obvious upgrade. The reality is that I mainly notice the apps and graphics that are not “retina ready” and just look soft and fuzzy. This in turn makes me feel dirty that I have to interact with something so dated and stupid. Here is an exaggerated example of what my logo looked like when zoomed in.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -320,9 +1530,11 @@ If you have also been using it to log your location then you’ll be glad to hea
       <pubDate>Thu, 14 Feb 2013 14:54:17 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2013/02/14/how-to-track-e-commerce-sales-in-google-analytics-with-the-google-wallet-java-sdk/</guid>
-      <description>If you have your cart built up in javascript then just follow Google’s documentation. If you submit your Google Wallet cart server-side using the java SDK and want to track the sale using Google Analytics’ ecommerce feature, then this blog is for you…
-Before you start, make sure you have enabled the ecommerce feature in Google Analytics.
-In your Java code, you need to set the analyticsData (String) in the cart:</description>
+      <description>&lt;p&gt;If you have your cart built up in javascript then just follow &lt;a href=&#34;https://developers.google.com/checkout/developer/checkout_analytics_integration&#34;&gt;Google’s documentation&lt;/a&gt;. If you submit your Google Wallet cart server-side using the java SDK and want to track the sale using Google Analytics’ &lt;a href=&#34;https://developers.google.com/analytics/devguides/collection/gajs/gaTrackingEcommerce&#34;&gt;ecommerce feature&lt;/a&gt;, then this blog is for you…&lt;/p&gt;
+&lt;p&gt;Before you start, make sure you have &lt;a href=&#34;http://support.google.com/analytics/bin/answer.py?hl=en&amp;amp;answer=1009612&#34;&gt;enabled the ecommerce feature&lt;/a&gt; in Google Analytics.&lt;/p&gt;
+&lt;p&gt;In your Java code, you need to set the analyticsData (String) in the cart:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;merchantflowSupport.setAnalyticsData(analyticsData);
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;To get that analyticsData string, I pass it to my server with a query param using a bit of javascript:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -331,9 +1543,16 @@ In your Java code, you need to set the analyticsData (String) in the cart:</desc
       <pubDate>Fri, 07 Dec 2012 09:58:02 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/12/07/build-a-super-fast-pc-in-2013-for-just-566/</guid>
-      <description>Looking to build a new PC? Want to build one that will play nicely with Windows or Linux or could even be a Hackintosh? Making sure you choose the right combination of components is important and a pain to research. If you’re feeling lazy, here’s my shopping list for the machine I built that I’m using right now.
-By the way, it’s faaaaaast 😉
-CPU – Intel Ivy Bridge (i5-3570K) – £169</description>
+      <description>&lt;p&gt;Looking to build a new PC? Want to build one that will play nicely with Windows or Linux or could even be a &lt;a href=&#34;http://www.tonymacx86.com/home.php&#34;&gt;Hackintosh&lt;/a&gt;? Making sure you choose the right combination of components is important and a pain to research. If you’re feeling lazy, here’s my shopping list for the machine I built that I’m using right now.&lt;/p&gt;
+&lt;p&gt;By the way, it’s faaaaaast 😉&lt;/p&gt;
+&lt;p&gt;CPU – &lt;a href=&#34;http://www.amazon.co.uk/gp/product/B007RUZKK6/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1634&amp;amp;creative=19450&amp;amp;creativeASIN=B007RUZKK6&amp;amp;linkCode=as2&amp;amp;tag=mattburnscouk-21&#34;&gt;Intel Ivy Bridge (i5-3570K)&lt;/a&gt; – £169&lt;br&gt;
+SSD – &lt;a href=&#34;https://www.amazon.co.uk/dp/B006EKJCWM/ref=as_li_ss_til?tag=mattburnscouk-21&amp;amp;camp=2902&amp;amp;creative=19466&amp;amp;linkCode=as4&amp;amp;creativeASIN=B006EKJCWM&amp;amp;adid=1CV8YDEBR2HZ25XS7KY6&amp;amp;&#34;&gt;SanDisk 120GB (SDSSDX)&lt;/a&gt; – £73&lt;br&gt;
+HDD – &lt;a href=&#34;https://www.amazon.co.uk/dp/B004HBAGSO/ref=as_li_ss_til?tag=mattburnscouk-21&amp;amp;camp=2902&amp;amp;creative=19466&amp;amp;linkCode=as4&amp;amp;creativeASIN=B004HBAGSO&amp;amp;adid=07ARK12B0CHCTN2WF9PE&amp;amp;&#34;&gt;Seagate 1TB (ST31000524AS)&lt;/a&gt; – £59&lt;br&gt;
+RAM – &lt;a href=&#34;https://www.amazon.co.uk/dp/B004RFBIUU/ref=as_li_ss_til?tag=mattburnscouk-21&amp;amp;camp=2902&amp;amp;creative=19466&amp;amp;linkCode=as4&amp;amp;creativeASIN=B004RFBIUU&amp;amp;adid=0GP28EPP7MPBMMTCZJYY&amp;amp;&#34;&gt;Corsair 4x4GB (CMZ16GX3M4A1600C9B)&lt;/a&gt; – £67&lt;br&gt;
+DVD – &lt;a href=&#34;https://www.amazon.co.uk/dp/B0057FRTPW/ref=as_li_ss_til?tag=mattburnscouk-21&amp;amp;camp=2902&amp;amp;creative=19466&amp;amp;linkCode=as4&amp;amp;creativeASIN=B0057FRTPW&amp;amp;adid=1BVKKDVM7D4S7XA3X1CK&amp;amp;&#34;&gt;Sony (AD-7280S-0B)&lt;/a&gt; – £17&lt;br&gt;
+PSU – &lt;a href=&#34;https://www.amazon.co.uk/dp/B0057GTW56/ref=as_li_ss_til?tag=mattburnscouk-21&amp;amp;camp=2902&amp;amp;creative=19466&amp;amp;linkCode=as4&amp;amp;creativeASIN=B0057GTW56&amp;amp;adid=19TD9ZQ62RCGEE53RV7T&amp;amp;&#34;&gt;Corsair (CX430V2)&lt;/a&gt; – £34&lt;br&gt;
+Case – &lt;a href=&#34;https://www.amazon.co.uk/dp/B0055Q7BR4/ref=as_li_ss_til?tag=mattburnscouk-21&amp;amp;camp=2902&amp;amp;creative=19466&amp;amp;linkCode=as4&amp;amp;creativeASIN=B0055Q7BR4&amp;amp;adid=18ZZKHNK3E961KZJ62Z3&amp;amp;&#34;&gt;Corsair (Carbide 400R)&lt;/a&gt; – £79&lt;br&gt;
+Motherboard – &lt;a href=&#34;https://www.amazon.co.uk/dp/B007KZQFOS/ref=as_li_ss_til?tag=mattburnscouk-21&amp;amp;camp=2902&amp;amp;creative=19466&amp;amp;linkCode=as4&amp;amp;creativeASIN=B007KZQFOS&amp;amp;adid=0CYVKDQ1CYNWMVT7S94D&amp;amp;&#34;&gt;Gigabyte (Z77-DS3H)&lt;/a&gt; – £68&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -342,8 +1561,10 @@ CPU – Intel Ivy Bridge (i5-3570K) – £169</description>
       <pubDate>Wed, 28 Nov 2012 17:19:07 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/11/28/how-to-print-panoramic-photos-from-your-iphone/</guid>
-      <description>OK, so you’ve taken an awesome panorama with your iPhone but where do you print it?
-OddPrints offers printing at 18&amp;quot;x4&amp;quot; which is the perfect ratio for iPhone photos. Better still it’s only £5.99 !</description>
+      <description>&lt;p&gt;OK, so you’ve taken an awesome panorama with your iPhone but where do you print it?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.oddprints.com&#34;&gt;OddPrints&lt;/a&gt; offers printing at 18&amp;quot;x4&amp;quot; which is the perfect ratio for iPhone photos. Better still it’s only £5.99 !&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.oddprints.com&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/11/image10.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -352,9 +1573,11 @@ OddPrints offers printing at 18&amp;quot;x4&amp;quot; which is the perfect ratio
       <pubDate>Thu, 15 Nov 2012 10:35:37 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/11/15/connecting-to-ec2-from-chromes-secure-shell-using-only-a-pem-file/</guid>
-      <description>Gee, what a title. I know this post is going to be popular.
-First, you need to generate your public key from your private key like this:
-ssh-keygen -y -f yourkey.pem &amp;gt; yourkey.pub Then, in Secure Shell, select the “Import…” link to bring up a file picker. You must import two files for each identity. A private key and a public key. For example, you would select both “yourkey.pem” and “yourkey.</description>
+      <description>&lt;p&gt;Gee, what a title. I know this post is going to be popular.&lt;/p&gt;
+&lt;p&gt;First, you need to generate your public key from your private key like this:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;ssh-keygen -y -f yourkey.pem &amp;gt; yourkey.pub
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Then, in &lt;a href=&#34;https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo&#34;&gt;Secure Shell&lt;/a&gt;, select the “Import…” link to bring up a file picker. You must import two files for each identity.  A private key and a public key.  For example, you would select both “yourkey.pem” and “yourkey.pub”.&lt;/p&gt;
+&lt;p&gt;It should look something like this:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -363,9 +1586,22 @@ ssh-keygen -y -f yourkey.pem &amp;gt; yourkey.pub Then, in Secure Shell, select�
       <pubDate>Sat, 10 Nov 2012 12:13:41 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/11/10/importing-photos-from-a-canon-eos-camera-with-ubuntu-12-10/</guid>
-      <description>For some reason, when I try to connect my Canon EOS 7D in Linux I get this error:
-Unable to mount Canon Digital Camera Error initialising camera: -1: Unspecified error I get no love from lsusb:
-matt@beast:~$ lsusb Bus 001 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub Bus 002 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.</description>
+      <description>&lt;p&gt;For some reason, when I try to connect my &lt;a href=&#34;http://www.amazon.co.uk/gp/product/B002LSI1LO/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1634&amp;amp;creative=19450&amp;amp;creativeASIN=B002LSI1LO&amp;amp;linkCode=as2&amp;amp;tag=mattburnscouk-21&#34;&gt;Canon EOS 7D&lt;/a&gt; in Linux I get this error:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/11/Screenshot-from-2012-11-10-120547.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Unable to mount Canon Digital Camera  
+Error initialising camera: -1: Unspecified error
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;I get no love from lsusb:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;matt@beast:~$ lsusb
+Bus 001 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 002 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 001 Device 003: ID 045e:0745 Microsoft Corp. Nano Transceiver v1.0 for Bluetooth
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Thanks to a comment in &lt;a href=&#34;http://ubuntuforums.org/showthread.php?t=2045211&#34;&gt;this thread&lt;/a&gt; I tried a different usb port and now it works. Huzzah. It seems to be a problem with the usb 3 ports, no idea why.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -374,9 +1610,9 @@ matt@beast:~$ lsusb Bus 001 Device 002: ID 8087:0024 Intel Corp. Integrated Rate
       <pubDate>Sat, 06 Oct 2012 14:47:19 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/10/06/allow-worldwide-shipping-with-google-checkoutwallet-java-sdk/</guid>
-      <description>Google’s java SDK for interacting with the checkout API is not a fun experience. It’s generated from the WSDL using JAXB which has a unique ability to generate client interfaces that no human could ever “design”.
-It’s not actually that hard to write code with, you just have to think like a deranged machine.
-By default, the only allowed shipping destination will be your country. If you wish to allow worldwide shipping, you have to do something like this:</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://code.google.com/p/google-checkout-java-sdk/&#34;&gt;Google’s java SDK&lt;/a&gt; for interacting with the checkout API is &lt;a href=&#34;http://productforums.google.com/forum/#!msg/checkout-merchant/7ICny4H_Nj4/YXWg_OZVmJcJ&#34;&gt;not a fun experience&lt;/a&gt;. It’s generated from the WSDL using JAXB which has a unique ability to generate client interfaces that no human could ever “design”.&lt;/p&gt;
+&lt;p&gt;It’s not actually that hard to write code with, you just have to think like a &lt;a href=&#34;http://en.wikipedia.org/wiki/Holly_(Red_Dwarf)&#34;&gt;deranged machine&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;By default, the only &lt;a href=&#34;http://support.google.com/checkout/sell/bin/answer.py?hl=en&amp;amp;answer=71391&#34;&gt;allowed shipping destination&lt;/a&gt; will be your country. If you wish to allow worldwide shipping, you have to do something like this:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -385,10 +1621,27 @@ By default, the only allowed shipping destination will be your country. If you w
       <pubDate>Thu, 27 Sep 2012 11:13:06 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/09/27/how-to-add-zero-padding-to-a-folder-full-of-numbered-files/</guid>
-      <description>Have you got a folder of files that look like this?
-file_1.png file_2.png file_3.png file_10.png file_11.png file_12.png file_100.png But what you really want this:
-file_001.png file_002.png file_003.png file_010.png file_011.png file_012.png file_100.png Then, my linux-loving friend, run this:
-rename &#39;s/\d+/sprintf(&amp;quot;%03d&amp;quot;,$&amp;amp;)/e&#39; *.png </description>
+      <description>&lt;p&gt;Have you got a folder of files that look like this?&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;file_1.png
+file_2.png
+file_3.png
+file_10.png
+file_11.png
+file_12.png
+file_100.png
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;But what you really want this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;file_001.png
+file_002.png
+file_003.png
+file_010.png
+file_011.png
+file_012.png
+file_100.png
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then, my linux-loving friend, run this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;rename &#39;s/\d+/sprintf(&amp;quot;%03d&amp;quot;,$&amp;amp;)/e&#39; *.png
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -397,8 +1650,8 @@ rename &#39;s/\d+/sprintf(&amp;quot;%03d&amp;quot;,$&amp;amp;)/e&#39; *.png </de
       <pubDate>Fri, 17 Aug 2012 12:35:45 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/08/17/fun-and-games-with-the-new-paypal-java-sdk/</guid>
-      <description>Up until now I’ve handled my payments for stolencamerafinder and OddPrints with Google Wallet. It’s not fantastic api (I’ve even had to fix it) but it’s pretty straight forward. There’s good documentation and the SDK saves you from writing all that boilerplate for talking to a web service.
-I’ve had quite a few requests for allowing PayPal so I’ve spent the last couple of days flicking through their documentation and was quickly shown that:</description>
+      <description>&lt;p&gt;Up until now I’ve handled my payments for &lt;a href=&#34;http://www.stolencamerafinder.com&#34; title=&#34;stolen camera finder&#34;&gt;stolencamerafinder&lt;/a&gt; and &lt;a href=&#34;http://www.oddprints.com&#34; title=&#34;OddPrints&#34;&gt;OddPrints&lt;/a&gt; with &lt;a href=&#34;http://www.google.com/wallet/&#34; title=&#34;Google Wallet&#34;&gt;Google Wallet&lt;/a&gt;. It’s not fantastic api (&lt;a href=&#34;http://productforums.google.com/d/msg/checkout-merchant/7ICny4H_Nj4/YXWg_OZVmJcJ&#34;&gt;I’ve even had to fix it&lt;/a&gt;) but it’s pretty straight forward. There’s good documentation and the SDK saves you from writing all that boilerplate for talking to a web service.&lt;/p&gt;
+&lt;p&gt;I’ve had quite a few requests for allowing PayPal so I’ve spent the last couple of days flicking through their documentation and was quickly shown that:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -407,10 +1660,20 @@ I’ve had quite a few requests for allowing PayPal so I’ve spent the last cou
       <pubDate>Mon, 30 Jul 2012 16:24:27 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/07/30/the-bristol-two-towers-running-challenge/</guid>
-      <description>Fancy a running challenge around Bristol that’ll test your legs and your navigation? All you have to do is touch both Cabot Tower and Troopers Hill Tower (er, chimney) and finish where you started.
-Troopers Hill Tower
-Cabot Tower
-The rules are pretty simple: You have to touch both Cabot Tower and Troopers Hill Tower. Any order. You must start and finish at the same place (of your choice). No pausing of your watch (for traffic etc.</description>
+      <description>&lt;p&gt;Fancy a running challenge around Bristol that’ll test your legs and your navigation? All you have to do is touch both Cabot Tower and Troopers Hill Tower (er, chimney) and finish where you started.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mattburns.co.uk/blog/wp-content/uploads/2012/07/2012-07-28-16.29.45.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/2012-07-28-16.29.45.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/a&gt;
+Troopers Hill Tower&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mattburns.co.uk/blog/wp-content/uploads/2012/07/Cabot_Tower.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/Cabot_Tower.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/a&gt;
+Cabot Tower&lt;/p&gt;
+&lt;h2 id=&#34;the-rules-are-pretty-simple&#34;&gt;The rules are pretty simple:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;You have to touch both Cabot Tower and Troopers Hill Tower. Any order.&lt;/li&gt;
+&lt;li&gt;You must start and finish at the same place (of your choice).&lt;/li&gt;
+&lt;li&gt;No pausing of your watch (for traffic etc.).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you take on the challenge, let me know in the comments and I’ll add your results to the table.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -419,9 +1682,11 @@ The rules are pretty simple: You have to touch both Cabot Tower and Troopers Hil
       <pubDate>Thu, 12 Jul 2012 09:34:46 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/07/12/how-to-install-google-voice/</guid>
-      <description>Oh jeez, really? A blog post about doing something so easy? Well, yes because it took me about an hour of messing around and so if this helps save one person from the pain, then it’s worth writing. If you’re in a rush or already bored, jump to the short answer.
-If you use gmail, you may see the option in the Chat widget to “Call phone”:
-Great. Sounds fun, let’s try it:</description>
+      <description>&lt;p&gt;Oh jeez, really? A blog post about doing something so easy? Well, yes because it took me about an hour of messing around and so if this helps save one person from the pain, then it’s worth writing. If you’re in a rush or already bored, jump to the &lt;a href=&#34;#short-answer&#34;&gt;short answer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you use gmail, you may see the option in the Chat widget to “Call phone”:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mattburns.co.uk/blog/wp-content/uploads/2012/07/1.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2012/07/1.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Great. Sounds fun, let’s try it:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -430,9 +1695,11 @@ Great. Sounds fun, let’s try it:</description>
       <pubDate>Wed, 11 Jul 2012 12:53:26 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/07/11/passing-your-credentials-in-order-to-deploy-to-google-app-engine-with-ant/</guid>
-      <description>If you use the example ant script provided by Google you’ll face the following error:
-Your authentication credentials can&amp;#39;t be found and may have expired. Please run appcfg directly from the command line to re-establish your credentials. Sure, you can run appcfg.sh from the console, and login and all will be fine next time. Well, for 24 hours before your credentials are booted from the cache.
-Here’s my ant target that does the same thing but takes the credentials interactively using the input task.</description>
+      <description>&lt;p&gt;If you use the &lt;a href=&#34;https://developers.google.com/appengine/docs/java/tools/ant#The_Complete_Build_File&#34;&gt;example ant script&lt;/a&gt; provided by Google you’ll face the following error:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Your authentication credentials can&amp;#39;t be found and may have expired.
+Please run appcfg directly from the command line to re-establish your credentials.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Sure, you can run appcfg.sh from the console, and login and all will be fine next time. Well, for 24 hours before your credentials are booted from the cache.&lt;/p&gt;
+&lt;p&gt;Here’s my ant target that does the same thing but takes the credentials interactively using the &lt;a href=&#34;http://ant.apache.org/manual/Tasks/input.html&#34;&gt;input task&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -441,8 +1708,9 @@ Here’s my ant target that does the same thing but takes the credentials intera
       <pubDate>Wed, 11 Apr 2012 20:11:49 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/04/11/found-21-year-old-sarahs-camera-with-birthday-presents/</guid>
-      <description>This is an appeal to anyone who may know a 21 year old Sarah (born April 6th, 1991) in Windsor, UK. Her camera and other precious items have been found and we want to get them back to her.
-Sarah a celebrated her 21st birthday on friday 6th april. she got picked up by a taxi in windsor on sat morning. a bag containing a pink floral photo album celebrating her life upto her 21st birthday, camera, scarf and other things were left.</description>
+      <description>&lt;p&gt;This is an appeal to anyone who may know a 21 year old Sarah (born April 6th, 1991) in Windsor, UK. Her camera and other precious items have been found and we want to get them back to her.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sarah a celebrated her 21st birthday on friday 6th april. she got picked up by a taxi in windsor on sat morning. a bag containing a pink floral photo album celebrating her life upto her 21st birthday, camera, scarf and other things were left. please help me locate this young lady. precious photos, im sure she would want back&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -451,10 +1719,12 @@ Sarah a celebrated her 21st birthday on friday 6th april. she got picked up by a
       <pubDate>Sun, 04 Mar 2012 11:52:15 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/03/04/f-the-movie-is-everyone-stupid-or-is-it-just-me/</guid>
-      <description>Spoiler Alert – This will ruin the film if you haven’t seen it.
-F
-This film started great, a teacher tangled in red tape, falls into depression and alcohol etc etc. But then these supernatural hooded psychos spring into the film and start killing everyone. If that is all the film is then, well, let’s just say it’s not my kind of film.
-However, I didn’t think that was what the story was about.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Spoiler Alert&lt;/strong&gt; – This will ruin the film if you haven’t seen it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.imdb.com/title/tt1486670/&#34;&gt;F&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://i.imgur.com/C0ncg.jpg&#34; alt=&#34;F the movie&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;This film started great, a teacher tangled in red tape, falls into depression and alcohol etc etc. But then these supernatural hooded psychos spring into the film and start killing everyone. If that is all the film is then, well, let’s just say it’s not my kind of film.&lt;/p&gt;
+&lt;p&gt;However, I didn’t think that was what the story was about. I googled around to see if others had come to the same conclusion as me, but no-one had so I figured I’d post my interpretation here.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -463,9 +1733,11 @@ However, I didn’t think that was what the story was about.</description>
       <pubDate>Sat, 03 Mar 2012 10:58:10 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/03/03/my-first-parkrun/</guid>
-      <description>Today I ran my first parkrun. If like me you’ve never heard of them:
-parkrun organise free, weekly, 5km timed runs around the world. They are open to everyone, free, and are safe and easy to take part in.
-Pretty simple really. You just register for free on the website for a personal barcode, print it out then turn up and race. You just register as a runner, not for individual races, it’s up to you which races you attend.</description>
+      <description>&lt;p&gt;Today I ran my first parkrun. If like me you’ve never heard of them:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;parkrun organise free, weekly, 5km timed runs around the world. They are open to everyone, free, and are safe and easy to take part in.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Pretty simple really. You just register for free on the website for a personal barcode, print it out then turn up and race. You just register as a runner, not for individual races, it’s up to you which races you attend.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -474,8 +1746,8 @@ Pretty simple really. You just register for free on the website for a personal b
       <pubDate>Mon, 27 Feb 2012 11:17:13 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/02/27/my-recommendation-for-your-first-slr-in-2012/</guid>
-      <description>Want better photos? As I’ve mentioned before, I get asked what camera to buy a lot. I mean loads, it’s silly. Generally, I get asked by people who are fed up with the blurry, grainy photos they are currently taking and think a new camera will solve everything. If this sounds like you, then go read my previous post about whether or not an SLR is for you.
-Done? Still interested?</description>
+      <description>&lt;h2 id=&#34;want-better-photos&#34;&gt;Want better photos?&lt;/h2&gt;
+&lt;p&gt;As I’ve mentioned before, I get asked what camera to buy a lot. I mean loads, it’s silly. Generally, I get asked by people who are fed up with the blurry, grainy photos they are currently taking and think a new camera will solve everything. If this sounds like you, then go &lt;a href=&#34;http://www.mattburns.co.uk/blog/2010/05/22/buying-your-first-slr/&#34; title=&#34;Buying Your First SLR&#34;&gt;read my previous post&lt;/a&gt; about whether or not an SLR is for you.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -484,8 +1756,8 @@ Done? Still interested?</description>
       <pubDate>Wed, 11 Jan 2012 13:03:50 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2012/01/11/testing-javascript-with-quni/</guid>
-      <description>Disclaimer: I’m no javascript expert so I may be am almost certainly talking a load of rubbish here.
-I was just looking for a unit testing framework for some javascript I’m writing (rather the the home-rolled framework I’ve out-grown) and came across QUnit. I’ve not tried any others so feel free to suggest alternatives. So far, it’s great and does everything I want and took me almost no time to learn.</description>
+      <description>&lt;p&gt;Disclaimer: I’m no javascript expert so I &lt;del&gt;may be&lt;/del&gt; am almost certainly talking a load of rubbish here.&lt;/p&gt;
+&lt;p&gt;I was just looking for a unit testing framework for some javascript I’m writing (rather the the home-rolled framework I’ve out-grown) and came across &lt;a href=&#34;http://docs.jquery.com/QUnit&#34;&gt;QUnit&lt;/a&gt;. I’ve not tried any others so feel free to suggest alternatives. So far, it’s great and does everything I want and took me almost no time to learn. Easy.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -494,9 +1766,19 @@ I was just looking for a unit testing framework for some javascript I’m writin
       <pubDate>Wed, 07 Dec 2011 12:46:45 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/12/07/the-cheapest-way-to-get-a-samsung-galaxy-s2-in-the-uk/</guid>
-      <description>If you’re a materialistic idiot like me, you’ll be interested in how you can get your hands on a disgustingly extravagant smartphone while parting with the least amount of cash possible.
-The best deal I found for the Galaxy S2 (by far) has been through Tesco:
-Free handset T-Mobile network 300 mins/300 texts 24 month contract Free delivery 500MB Data Booster + Unlimited Internet £20 of free apps available (through some T&amp;amp;Cs) £20.</description>
+      <description>&lt;p&gt;If you’re a materialistic idiot like me, you’ll be interested in how you can get your hands on a &lt;a href=&#34;http://www.samsung.com/uk/galaxys2/&#34;&gt;disgustingly extravagant smartphone&lt;/a&gt; while parting with the least amount of cash possible.&lt;/p&gt;
+&lt;p&gt;The best deal I found for the Galaxy S2 (by far) has been through &lt;a href=&#34;http://clkuk.tradedoubler.com/click?p=898&amp;amp;a=2046553&amp;amp;g=14074016&#34;&gt;Tesco&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Free handset&lt;/li&gt;
+&lt;li&gt;T-Mobile network&lt;/li&gt;
+&lt;li&gt;300 mins/300 texts&lt;/li&gt;
+&lt;li&gt;24 month contract&lt;/li&gt;
+&lt;li&gt;Free delivery&lt;/li&gt;
+&lt;li&gt;500MB Data Booster + Unlimited Internet&lt;/li&gt;
+&lt;li&gt;£20 of free apps available (through some T&amp;amp;Cs)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;£20.42&lt;/strong&gt; per month&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://phone-shop.tesco.com/mobile-phones-and-sim-cards/pay-monthly-phones/pay-monthly-phones-listing.aspx?manufacturer=Samsung&amp;amp;model=Galaxy%20S%20II&amp;amp;networkProvider=&amp;amp;contractLength=&amp;amp;price=0&amp;amp;colour=&amp;amp;group=&amp;amp;tmcampid=7&amp;amp;tmad=c&#34;&gt;Here’s the link.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -505,8 +1787,8 @@ Free handset T-Mobile network 300 mins/300 texts 24 month contract Free delivery
       <pubDate>Mon, 14 Nov 2011 15:55:53 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/11/14/simplify-your-api/</guid>
-      <description>I recently wrote an article about singletons in java. The only thing I wanted to cover was that if you really want a singleton, I recommend you use the enum pattern. This post was motivated after more interesting comments were raised about testability when you see the “static” keyword.
-When you type “static” a little alarm bell should ring in your head to warn you that there could be trouble ahead.</description>
+      <description>&lt;p&gt;I recently wrote &lt;a href=&#34;http://www.mattburns.co.uk/blog/2011/10/26/how-to-write-singletons-in-java/&#34;&gt;an article about singletons&lt;/a&gt; in java. The only thing I wanted to cover was that if you really want a singleton, I recommend you use the enum pattern. This post was motivated after more interesting comments were raised about testability when you see the “static” keyword.&lt;/p&gt;
+&lt;p&gt;When you type “static” a little alarm bell should ring in your head to warn you that there could be trouble ahead. As &lt;a href=&#34;http://dantwining.co.uk&#34;&gt;Dan&lt;/a&gt; correctly pointed out, a reference to the static member INSTANCE will tightly couple the caller to Elvis. This is not good if testing with Elvis will cause you problems. For example, if Elvis is slow, or accesses a database or something like that which would be better tested with a mock implementation.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -515,9 +1797,13 @@ When you type “static” a little alarm bell should ring in your head to warn 
       <pubDate>Fri, 28 Oct 2011 13:50:45 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/10/28/bug-with-jquery-validation-error-messages-showing-tooltip-text/</guid>
-      <description>I had the following html in my form:
-&amp;lt;label for=&amp;#34;email-input&amp;#34;&amp;gt;Email&amp;lt;/label&amp;gt; &amp;amp;lt;input id=&amp;#34;email-input&amp;#34; type=&amp;#34;text&amp;#34; title=&amp;#34;Don&amp;#39;t worry, your email will not be displayed on the website or given to anyone else. We hate spam too.&amp;#34; /&amp;gt; Nothing complicated there I hope.
-I had the help text set in the title attribute of the input which I styled with the lovely qTip to make it look nice. I validated my entry using the jQuery validation plugin which also works well.</description>
+      <description>&lt;p&gt;I had the following html in my form:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;label for=&amp;#34;email-input&amp;#34;&amp;gt;Email&amp;lt;/label&amp;gt;
+&amp;amp;lt;input id=&amp;#34;email-input&amp;#34;
+       type=&amp;#34;text&amp;#34;
+       title=&amp;#34;Don&amp;#39;t worry, your email will not be displayed on the website or given to anyone else. We hate spam too.&amp;#34; /&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Nothing complicated there I hope.&lt;br&gt;
+I had the help text set in the title attribute of the input which I styled with the lovely &lt;a href=&#34;http://craigsworks.com/projects/qtip/&#34;&gt;qTip&lt;/a&gt; to make it look nice. I validated my entry using the jQuery &lt;a href=&#34;http://bassistance.de/jquery-plugins/jquery-plugin-validation/&#34;&gt;validation plugin&lt;/a&gt; which also works well. The problem is that if an attempt is made to submit the form before any attempt at editing the value or showing the tooltip, the error message would show the value of the tooltip (“Don’t worry…“) instead of the validation error message (“This field is required“).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -526,9 +1812,16 @@ I had the help text set in the title attribute of the input which I styled with 
       <pubDate>Wed, 26 Oct 2011 14:27:03 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/10/26/how-to-enable-offline-google-docs-for-google-apps-users/</guid>
-      <description>Do you still not have the offline option for Google Docs?
-If you’re a Google Apps user, then your apps administrator has to enable it first:
-Log in to the Google Apps control panel at https://www.google.com/a/your_domain.com (replace _your_domain.com_with your actual domain name). From the menu bar at the top of the page, click Settings. In the left menu, click Docs. Select the Allow users to enable offline docs check box. Click Save changes.</description>
+      <description>&lt;p&gt;Do you still not have the offline option for Google Docs?&lt;/p&gt;
+&lt;p&gt;If you’re a Google Apps user, then your apps administrator has to &lt;a href=&#34;http://www.google.com/support/a/bin/answer.py?hl=en&amp;amp;answer=1642623&#34;&gt;enable it&lt;/a&gt; first:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Log in to the Google Apps control panel at &lt;strong&gt;&lt;a href=&#34;https://www.google.com/a/your_domain.com&#34;&gt;https://www.google.com/a/your_domain.com&lt;/a&gt;&lt;/strong&gt; (replace _your_domain.com_with your actual domain name).&lt;/li&gt;
+&lt;li&gt;From the menu bar at the top of the page, click &lt;strong&gt;Settings&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;In the left menu, click &lt;strong&gt;Docs&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Select the &lt;strong&gt;Allow users to enable offline docs&lt;/strong&gt; check box.&lt;/li&gt;
+&lt;li&gt;Click &lt;strong&gt;Save changes&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Then your users can choose to set it up in &lt;a href=&#34;https://docs.google.com/support/bin/answer.py?hl=en&amp;amp;answer=1628469&amp;amp;topic=1628465&#34;&gt;the same way&lt;/a&gt; normal gmailers can with the docs cog in the corner:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -537,8 +1830,9 @@ Log in to the Google Apps control panel at https://www.google.com/a/your_domain
       <pubDate>Wed, 26 Oct 2011 11:30:37 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/10/26/how-to-write-singletons-in-java/</guid>
-      <description>Singletons get a pretty bad press. Often described as an “anti-pattern”. I think it’s a little unfair since I find them pretty useful in several situations. However, the reason they can be bad is important to understand:
-Making a class a singleton can make it difficult to test its clients, as it’s impossible to substitute a mock implementation for a singleton unless it implements an interface that serves as its type.</description>
+      <description>&lt;p&gt;Singletons get a pretty bad press. Often described as an “anti-pattern”. I think it’s a little unfair since I find them pretty useful in several situations. However, the reason they can be bad is important to understand:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Making a class a singleton can make it difficult to test its clients, as it’s impossible to substitute a mock implementation for a singleton unless it implements an interface that serves as its type.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -547,13 +1841,19 @@ Making a class a singleton can make it difficult to test its clients, as it’s 
       <pubDate>Fri, 07 Oct 2011 12:30:41 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/10/07/how-to-dynamically-choose-the-color-of-you-google-maps-marker-pin-using-javascript/</guid>
-      <description>You can dynamically request icon images from the Google charts api with the urls:
-http://chart.apis.google.com/chart?chst=d_map_pin_letter&amp;amp;chld=%E2%80%A2|FE7569
-Which looks like this: the image is 21×43 pixels and the pin tip is at position (10, 34)
-And you’ll also want a separate shadow image (so that it doesn’t overlap nearby icons):
-http://chart.apis.google.com/chart?chst=d_map_pin_shadow
-Which looks like this: the image is 40×37 pixels and the pin tip is at position (12, 35)
-When you construct your MarkerImages you need to set the size and achor points accordingly:</description>
+      <description>&lt;p&gt;You can dynamically request icon images from the &lt;a href=&#34;http://code.google.com/apis/chart/infographics/docs/dynamic_icons.html#pins&#34;&gt;Google charts api&lt;/a&gt; with the urls:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://chart.apis.google.com/chart?chst=d&#34;&gt;http://chart.apis.google.com/chart?chst=d&lt;/a&gt;_map_pin_letter&amp;amp;chld=%E2%80%A2|FE7569&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Which looks like this:&lt;img loading=&#34;lazy&#34; src=&#34;http://chart.apis.google.com/chart?chst=d_map_pin_letter&amp;amp;chld=%E2%80%A2%7cFE7569&#34; alt=&#34;default&#34;  /&gt;
+ the image is 21×43 pixels and the pin tip is at position (10, 34)&lt;/p&gt;
+&lt;p&gt;And you’ll also want a separate shadow image (so that it doesn’t overlap nearby icons):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://chart.apis.google.com/chart?chst=d&#34;&gt;http://chart.apis.google.com/chart?chst=d&lt;/a&gt;_map_pin_shadow&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Which looks like this:&lt;img loading=&#34;lazy&#34; src=&#34;http://chart.apis.google.com/chart?chst=d_map_pin_shadow&#34; alt=&#34;shadow&#34;  /&gt;
+ the image is 40×37 pixels and the pin tip is at position (12, 35)&lt;/p&gt;
+&lt;p&gt;When you construct your MarkerImages you need to set the size and achor points accordingly:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -562,9 +1862,9 @@ When you construct your MarkerImages you need to set the size and achor points a
       <pubDate>Mon, 03 Oct 2011 09:16:15 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/10/03/how-to-get-the-windows-usb-driver-for-your-lg-mobile/</guid>
-      <description>If you’re trying to update your LG mobile (I’m doing my LG Arena KM900) you will be taken to a page that tells you to install the WINDOWS USB Driver, whatever that is.
-At time of writing, that link doesn’t work.
-Don’t worry, just go ahead and click “Software Update” as there is the option to install the usb driver there. If you also need the PC Suite, I found a copy here.</description>
+      <description>&lt;p&gt;If you’re trying to update your LG mobile (I’m doing my LG Arena KM900) you will be taken to &lt;a href=&#34;http://www.lg.com/uk/support/product/support-product-profile-mobile-redux.jsp?customerModelCode=KM900&amp;amp;initialTab=documents&amp;amp;targetPage=support-product-profile#p&#34;&gt;a page&lt;/a&gt; that tells you to install the WINDOWS USB Driver, whatever that is.&lt;/p&gt;
+&lt;p&gt;At time of writing, that link doesn’t work.&lt;/p&gt;
+&lt;p&gt;Don’t worry, just go ahead and click “Software Update” as there is the option to install the usb driver there. If you also need the PC Suite, I found a copy &lt;a href=&#34;http://www.megaupload.com/?d=UT45Z6TZ&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -573,10 +1873,15 @@ Don’t worry, just go ahead and click “Software Update” as there is the opt
       <pubDate>Fri, 16 Sep 2011 18:20:49 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/09/16/my-next-e-book/</guid>
-      <description>If you know me, you’ll know I just got back from a year galavanting around the world. I was given a Sony e-book as a present which I took with me, and soon became an essential item.
-It’s already showing its age compared to newer models but I’m not buying a new one until e-book manufacturers start adding features I actually want.
-I don’t want:
-A colour screen. Why would I?</description>
+      <description>&lt;p&gt;If you know me, you’ll know I just got back from a year galavanting around the world. I was given a Sony e-book as a present which I took with me, and soon became an essential item.&lt;/p&gt;
+&lt;p&gt;It’s already showing its age compared to newer models but I’m not buying a new one until e-book manufacturers start adding features I actually want.&lt;/p&gt;
+&lt;p&gt;I don’t want:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A colour screen. Why would I? I just want a book&lt;/li&gt;
+&lt;li&gt;Video support. If I wanted an iPad, I’d buy an iPad. I just want a book.&lt;/li&gt;
+&lt;li&gt;A qwerty keyboard. I have a phone for web and email. Did I mention I just want a book?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I want:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -585,8 +1890,8 @@ A colour screen. Why would I?</description>
       <pubDate>Sat, 10 Sep 2011 12:36:49 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/09/10/how-to-print-small-photos-say-4cm-x-4cm/</guid>
-      <description>If you have a photo you want to put into a small frame, you may struggle finding a print company that print photos smaller than 15cm x 10cm (6&amp;quot;x4&amp;quot;).
-The simple answer is to create add a white border to your jpeg and print that. Then you can just trim the edges off the print. I just tried this and it was harder than I would have liked. If you open your photo in some software and expand the canvas, you’ll find it will start eating lots of memory.</description>
+      <description>&lt;p&gt;If you have a photo you want to put into a small frame, you may struggle finding a print company that print photos smaller than 15cm x 10cm (6&amp;quot;x4&amp;quot;).&lt;/p&gt;
+&lt;p&gt;The simple answer is to create add a white border to your jpeg and print that. Then you can just trim the edges off the print. I just tried this and it was harder than I would have liked. If you open your photo in some software and expand the canvas, you’ll find it will start eating lots of memory. On my little laptop it became impossible to use.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -595,8 +1900,8 @@ The simple answer is to create add a white border to your jpeg and print that. T
       <pubDate>Tue, 23 Aug 2011 17:14:36 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/08/23/selecting-child-entities-with-gql-queries/</guid>
-      <description>In Google App Engine, you can create owned one-to-many relationships between entities. The classic example you were taught at uni is that a Book owns a Chapter, which in turn, owns a Paragraph. For my site, stolencamerafinder, the example is that a camera Make owns a set of Models.
-If you want to query for the model directly in GQL (from the app engine dashboard for example) you can create the key by specifying the full parent chain:</description>
+      <description>&lt;p&gt;In &lt;a href=&#34;http://code.google.com/appengine/&#34;&gt;Google App Engine&lt;/a&gt;, you can create &lt;a href=&#34;http://code.google.com/appengine/docs/java/datastore/jdo/relationships.html#Owned_One_to_Many_Relationships&#34;&gt;owned one-to-many relationships&lt;/a&gt; between entities. The classic example you were taught at uni is that a Book owns a Chapter, which in turn, owns a Paragraph. For my site, &lt;a href=&#34;http://www.stolencamerafinder.com&#34;&gt;stolencamerafinder&lt;/a&gt;, the example is that a camera Make owns a set of Models.&lt;/p&gt;
+&lt;p&gt;If you want to query for the model directly in GQL (from the app engine dashboard for example) you can create the key by specifying the full parent chain:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -605,9 +1910,11 @@ If you want to query for the model directly in GQL (from the app engine dashboar
       <pubDate>Tue, 14 Jun 2011 05:43:08 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/06/14/tips-for-better-low-light-wedding-photos-with-an-canon-dslr/</guid>
-      <description>I just got this in an email:
-A friend has asked me to take some of their wedding photos with their Canon 1000D. Had a play with it yesterday and I’m finding the flash a bit harsh. Is there a top tip to minimise this?
-Firstly, if you’re using the camera in the day near natural light, the camera will be fine and it’s all down to your artistic flair.</description>
+      <description>&lt;p&gt;I just got this in an email:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A friend has asked me to take some of their wedding photos with their Canon 1000D. Had a play with it yesterday and I’m finding the flash a bit harsh. Is there a top tip to minimise this?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Firstly, if you’re using the camera in the day near natural light, the camera will be fine and it’s all down to your artistic flair.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -616,9 +1923,17 @@ Firstly, if you’re using the camera in the day near natural light, the camera 
       <pubDate>Fri, 22 Apr 2011 03:39:34 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/04/22/how-to-update-the-lastmod-date-in-your-sitemap-xml-with-ant/</guid>
-      <description>Hmm, you want to add the “lastmod” node, but you’re too lazy to ever keep that up to date so you decide to update it with your Ant script whenever you deploy. Easy.
-So you’ve just written a valid sitemap.xml file for your website because Google said it was a good idea. Great.
-&amp;amp;lt;?xml version=&amp;#34;1.0&amp;#34; encoding=&amp;#34;UTF-8&amp;#34; standalone=&amp;#34;no&amp;#34;?&amp;amp;gt; &amp;amp;lt;urlset xmlns=&amp;#34;http://www.sitemaps.org/schemas/sitemap/0.9&amp;#34;&amp;amp;gt; &amp;amp;lt;url&amp;amp;gt; &amp;amp;lt;loc&amp;amp;gt;http://www.stolencamerafinder.com/&amp;amp;lt;/loc&amp;amp;gt; &amp;amp;lt;lastmod&amp;amp;gt;2011-04-21&amp;amp;lt;/lastmod&amp;amp;gt; &amp;amp;lt;changefreq&amp;amp;gt;weekly&amp;amp;lt;/changefreq&amp;amp;gt; &amp;amp;lt;/url&amp;amp;gt; &amp;amp;lt;/urlset&amp;amp;gt; First, you’ll need the jar for a third-party Ant task called XMLTask.</description>
+      <description>&lt;p&gt;Hmm, you want to add the “lastmod” node, but you’re too lazy to ever keep that up to date so you decide to update it with your Ant script whenever you deploy. Easy.&lt;/p&gt;
+&lt;p&gt;So you’ve just written a &lt;a href=&#34;http://www.sitemaps.org/protocol.php&#34;&gt;valid&lt;/a&gt; sitemap.xml file for your website because &lt;a href=&#34;https://www.google.com/support/webmasters/bin/answer.py?hl=en&amp;amp;answer=156184&#34;&gt;Google said it was a good idea&lt;/a&gt;. Great.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;amp;lt;?xml version=&amp;#34;1.0&amp;#34; encoding=&amp;#34;UTF-8&amp;#34; standalone=&amp;#34;no&amp;#34;?&amp;amp;gt;
+&amp;amp;lt;urlset xmlns=&amp;#34;http://www.sitemaps.org/schemas/sitemap/0.9&amp;#34;&amp;amp;gt;
+   &amp;amp;lt;url&amp;amp;gt;
+      &amp;amp;lt;loc&amp;amp;gt;http://www.stolencamerafinder.com/&amp;amp;lt;/loc&amp;amp;gt;
+      &amp;amp;lt;lastmod&amp;amp;gt;2011-04-21&amp;amp;lt;/lastmod&amp;amp;gt;
+      &amp;amp;lt;changefreq&amp;amp;gt;weekly&amp;amp;lt;/changefreq&amp;amp;gt;
+   &amp;amp;lt;/url&amp;amp;gt;
+&amp;amp;lt;/urlset&amp;amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;First, you’ll need the jar for a third-party Ant task called &lt;a href=&#34;http://www.oopsconsultancy.com/software/xmltask/&#34;&gt;XMLTask&lt;/a&gt;. Once you have that, the ant target you’ll need is simply:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -627,8 +1942,11 @@ So you’ve just written a valid sitemap.xml file for your website because Googl
       <pubDate>Sun, 17 Apr 2011 11:55:12 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/04/17/how-to-detect-browser-support-for-file-api-and-drag-and-drop-with-javascript/</guid>
-      <description>Here’s a bit of info for you crazy HTML5 kids. You’ll need to include the handy Modernizr script for it to work.
-var browserIsSupported = !!window.FileReader &amp;amp;&amp;amp; Modernizr.draganddrop; </description>
+      <description>&lt;p&gt;Here’s a bit of info for you crazy HTML5 kids. You’ll need to include the handy &lt;a href=&#34;http://www.modernizr.com/&#34;&gt;Modernizr&lt;/a&gt; script for it to work.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;var browserIsSupported = !!window.FileReader &amp;amp;&amp;amp; Modernizr.draganddrop;
+&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
     <item>
@@ -637,9 +1955,10 @@ var browserIsSupported = !!window.FileReader &amp;amp;&amp;amp; Modernizr.dragan
       <pubDate>Sun, 17 Apr 2011 04:47:10 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/04/17/how-to-find-out-your-facebook-user-id-uid/</guid>
-      <description>Just look at the filename of your profile picture. The uid is in the middle.
-186939_565140267_839650_n.jpg Er… That’s it.
-Bye.</description>
+      <description>&lt;p&gt;Just look at the filename of your profile picture. The uid is in the middle.&lt;/p&gt;
+&lt;h2 id=&#34;186939_565140267_839650_njpg&#34;&gt;186939_565140267_839650_n.jpg&lt;/h2&gt;
+&lt;p&gt;Er… That’s it.&lt;/p&gt;
+&lt;p&gt;Bye.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -648,9 +1967,16 @@ Bye.</description>
       <pubDate>Fri, 08 Apr 2011 05:56:19 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2011/04/08/how-to-stop-google-chrome-using-your-location-when-searching/</guid>
-      <description>When you use Chrome’s omnibar to search, Chrome will redirect you to search results based on when you are geographically. This is great when I’m at home because I see (more relevant) results from google.co.uk and not google.com.
-However, I’m travelling at the moment and getting my results from google.co.th is painful since most of the results are not in english.
-Close Chrome. Open the file Local State in notepad. Mine was in: C:\Users\matt\AppData\Local\Google\Chrome\User Data\Local State.</description>
+      <description>&lt;p&gt;When you use Chrome’s omnibar to search, Chrome will redirect you to search results based on when you are geographically. This is great when I’m at home because I see (more relevant) results from google.co.uk and not google.com.&lt;/p&gt;
+&lt;p&gt;However, I’m travelling at the moment and getting my results from google.co.th is painful since most of &lt;a href=&#34;http://www.google.co.th/search?q=test&#34;&gt;the results&lt;/a&gt; are not in english.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Close Chrome.&lt;/li&gt;
+&lt;li&gt;Open the file &lt;code&gt;Local State&lt;/code&gt; in notepad. Mine was in: &lt;code&gt;C:\Users\matt\AppData\Local\Google\Chrome\User Data\Local State&lt;/code&gt;. Linux users may find it in &lt;code&gt;~/.config/google-chrome/&lt;/code&gt; or &lt;code&gt;~/.config/chromium/&lt;/code&gt;, and OS X users can try &lt;code&gt;~/Library/Application Support/Google/Chrome.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Look for &lt;code&gt;last_known_google_url&lt;/code&gt; and &lt;code&gt;last_prompted_google_url&lt;/code&gt; and change their values to the local Google page of your choice.&lt;/li&gt;
+&lt;li&gt;Save and close.&lt;/li&gt;
+&lt;li&gt;Done.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You may find &lt;a href=&#34;http://www.google.com/support/forum/p/Chrome/thread?tid=45b1d65f4aeee39e&amp;amp;hl=en&#34;&gt;other pages&lt;/a&gt; telling you to hardcode the url in the Chrome options page when you “manage search engines”. This works to an extent but breaks other things like suggest.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -659,9 +1985,9 @@ Close Chrome. Open the file Local State in notepad. Mine was in: C:\Users\matt\
       <pubDate>Wed, 28 Jul 2010 00:07:52 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/07/28/challenge-conclusion/</guid>
-      <description>Back in April I challenged myself to run 5km in under 19 minutes and gain 1.5 stone by the last Bridge Inn 5km of the summer.
-Tonight was the night.
-Being too busy disorganised, I didn’t realise that tonight was the deadline until today. If I had realised I would probably have prepared a little better. Two days ago I ran my first Kymin Dash, a ~7 mile run but includes a decent hill.</description>
+      <description>&lt;p&gt;Back in April &lt;a href=&#34;http://www.mattburns.co.uk/blog/2010/04/28/the-challenge-15-stone-heavier-and-25-minutes-faster/&#34;&gt;I challenged myself&lt;/a&gt; to run 5km in under 19 minutes and gain 1.5 stone by the last Bridge Inn 5km of the summer.&lt;/p&gt;
+&lt;p&gt;Tonight was the night.&lt;/p&gt;
+&lt;p&gt;Being too &lt;del&gt;busy&lt;/del&gt; disorganised, I didn’t realise that tonight was the deadline until today. If I had realised I would probably have prepared a little better. Two days ago I ran my first &lt;a href=&#34;http://www.kymindash.co.uk/&#34;&gt;Kymin Dash&lt;/a&gt;, a ~7 mile run but includes a decent hill. Four days ago I ran in a &lt;a href=&#34;http://www.greatwesternrunners.org.uk/mobmatch/frm_icmm10.html&#34;&gt;10km race between local clubs&lt;/a&gt; and broke 40 minutes for the first time.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -670,10 +1996,10 @@ Being too busy disorganised, I didn’t realise that tonight was the deadline un
       <pubDate>Thu, 01 Jul 2010 14:36:48 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/07/01/challenge-update/</guid>
-      <description>At the end of April I set myself the challenge of gaining a stone in weight and running a 5km race 2.5 minutes faster.
-I ran the same race on Tuesday in 19:15, painfully close to my speed target of 19 minutes. However, I also weighed myself again but have actually lost a pound.
-Gah!
-Must try harder…</description>
+      <description>&lt;p&gt;At the end of April &lt;a href=&#34;http://www.mattburns.co.uk/blog/2010/04/28/the-challenge-15-stone-heavier-and-25-minutes-faster&#34;&gt;I set myself the challenge&lt;/a&gt; of gaining a stone in weight and running a 5km race 2.5 minutes faster.&lt;/p&gt;
+&lt;p&gt;I ran the same race on Tuesday in 19:15, painfully close to my speed target of 19 minutes. However, I also weighed myself again but have actually lost a pound.&lt;/p&gt;
+&lt;p&gt;Gah!&lt;/p&gt;
+&lt;p&gt;Must try harder…&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -682,10 +2008,16 @@ Must try harder…</description>
       <pubDate>Thu, 01 Jul 2010 14:31:39 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/07/01/how-to-rotate-with-gwtcanvas/</guid>
-      <description>Having trouble rotating something you’ve drawn with GWTCanvas?
-It took me a little while to work out, but GWTCanvas works slightly differently to Graphic2D in Java. It’s important to realise that with GWTCanvas, when you invoke “rotate(r)” you’re actually transforming the coordinate space that will be used for subsequent drawing.
-canvas.moveTo(50, 50); canvas.lineTo(50, 10); canvas.stroke(); Produces:
-In order to rotate it, you must invoke rotate before you start any drawing.</description>
+      <description>&lt;p&gt;Having trouble rotating something you’ve drawn with &lt;a href=&#34;http://code.google.com/p/google-web-toolkit-incubator/wiki/GWTCanvas&#34;&gt;GWTCanvas&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;It took me a little while to work out, but GWTCanvas works slightly differently to Graphic2D in Java. It’s important to realise that with GWTCanvas, when you invoke “rotate(r)” you’re actually transforming the coordinate space that will be used for subsequent drawing.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;canvas.moveTo(50, 50);
+canvas.lineTo(50, 10);
+canvas.stroke();
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Produces:&lt;br&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2010/07/arrow_01.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;In order to rotate it, you must invoke rotate &lt;strong&gt;&lt;em&gt;before&lt;/em&gt;&lt;/strong&gt; you start any drawing.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -694,8 +2026,10 @@ In order to rotate it, you must invoke rotate before you start any drawing.</des
       <pubDate>Mon, 24 May 2010 23:04:54 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/05/25/inspired/</guid>
-      <description>Yesterday, I attended a workshop hosted by the talented Lou O’Bedlam. Although I wasn’t fully aware of it at the time, I was getting inspired. Not only was I getting inspired to take more picutres, I was getting inspired to focus on stepping out of my comfort zone and going after my dreams.
-Lou talked about recently teaching his nephew how to ask a girl out. His advice was simple: “Just ask her”.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/floater81/4637216922/&#34; title=&#34;My First Stranger. by mattburns.co.uk, on Flickr&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://farm5.static.flickr.com/4020/4637216922_86623ba13e.jpg&#34; alt=&#34;My First Stranger.&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Yesterday, I attended a &lt;a href=&#34;http://www.bfop.org/events/portraiture_photography_philosophy.html&#34;&gt;workshop&lt;/a&gt; hosted by the talented &lt;a href=&#34;http://louobedlam.com/home.html&#34;&gt;Lou O’Bedlam&lt;/a&gt;. Although I wasn’t fully aware of it at the time, I was getting inspired. Not only was I getting inspired to take more picutres, I was getting inspired to focus on stepping out of my comfort zone and going after my dreams.&lt;/p&gt;
+&lt;p&gt;Lou talked about recently teaching his nephew how to ask a girl out. His advice was simple: “Just ask her”. His nephew replied, “But then what would I say?”. “Woah!, that’s &lt;em&gt;phase 2&lt;/em&gt;, don’t worry about that. Focus on &lt;em&gt;phase 1&lt;/em&gt;: Asking her”.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -704,9 +2038,11 @@ Lou talked about recently teaching his nephew how to ask a girl out. His advice 
       <pubDate>Sat, 22 May 2010 09:09:40 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/05/22/buying-your-first-slr/</guid>
-      <description>I get asked the following question quite a lot:
-I want to buy an SLR, what one shall I get?
-In my software engineering life, clients often approach me with a description of software they want me to write. What you really want is for them to describe the problems they are having that need to be solved. That way you might be able to design a better (simpler) solution. I’m sure it applies to every discipline, but a simple method for finding out the root problem is to just ask Why?</description>
+      <description>&lt;p&gt;I get asked the following question quite a lot:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I want to buy an SLR, what one shall I get?&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In my software engineering life, clients often approach me with a &lt;em&gt;description&lt;/em&gt; of software they want me to write. What you really want is for them to describe the &lt;em&gt;problems&lt;/em&gt; they are having that need to be solved. That way you might be able to design a better (simpler) solution. I’m sure it applies to every discipline, but a simple method for finding out the root problem is to &lt;a href=&#34;http://en.wikipedia.org/wiki/5_Whys&#34;&gt;just ask &lt;em&gt;Why?&lt;/em&gt; a lot&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -715,8 +2051,8 @@ In my software engineering life, clients often approach me with a description of
       <pubDate>Wed, 12 May 2010 09:03:19 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/05/12/bristol-bike-rental-scheme-comes-to-an-end/</guid>
-      <description>Bristol have been trialling a bike rental scheme for about a year and I had high hopes for it. I paid my £20 in support of the scheme even though there were no bike stations in the places I needed them. I feel if there were more bikes and more stations it would have been ideal. (see my comment from back then…).
-Unfortunately, they’ve decided to end the scheme deeming it unsuccessful:</description>
+      <description>&lt;p&gt;Bristol have been trialling a bike rental scheme for about a year and I had high hopes for it. I paid my £20 in support of the scheme even though there were no bike stations in the places I needed them. I feel if there were more bikes and more stations it would have been ideal. (see &lt;a href=&#34;http://greenbristolblog.blogspot.com/2009/07/hourbike-or-nine-day-wonder-bike.html&#34;&gt;my comment&lt;/a&gt; from back then…).&lt;/p&gt;
+&lt;p&gt;Unfortunately, they’ve decided to end the scheme deeming it unsuccessful:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -725,9 +2061,9 @@ Unfortunately, they’ve decided to end the scheme deeming it unsuccessful:</des
       <pubDate>Wed, 28 Apr 2010 14:40:21 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/04/28/the-challenge-15-stone-heavier-and-25-minutes-faster/</guid>
-      <description>Last night I ran a pretty shonky 21:33 (~7m/mile) for the Bridge Inn 5km. I used to be faster but haven’t really been running since last year.
-I also need to put on some weight because at 6 foot I’m pretty puny weighing in at 10st 9lb. According to the NHS weight calculator I should be over 12 Stone.
-I’m setting myself the challenge of knocking 2.5 minutes off my 5km time (I’ve never run it under 19 minutes before) and reaching 12st 2lb before the Bridge Inn 5km summer series finishes on July 27th (the website hints there’s one in August but I’m pretty sure it’s wrong…).</description>
+      <description>&lt;p&gt;Last night I ran a pretty shonky 21:33 (~7m/mile) for the Bridge Inn 5km. I used to be faster but haven’t really been running since last year.&lt;/p&gt;
+&lt;p&gt;I also need to put on some weight because at 6 foot I’m pretty puny weighing in at 10st 9lb. According to the &lt;a href=&#34;http://www.ukmicentral.nhs.uk/resource/calcs/ibwmen.htm?feet=6&amp;amp;inches=0&amp;amp;convert=Convert&#34;&gt;NHS weight calculator&lt;/a&gt; I should be &lt;a href=&#34;http://www.google.co.uk/search?hl=en&amp;amp;q=77.59+Kg+in+stone&amp;amp;meta=&amp;amp;aq=f&amp;amp;aqi=&amp;amp;aql=&amp;amp;oq=&amp;amp;gs_rfai=&#34;&gt;over 12 Stone&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I’m setting myself the challenge of knocking 2.5 minutes off my 5km time (I’ve never run it under 19 minutes before) and reaching 12st 2lb before the &lt;a href=&#34;http://www.bristolandwestac.org/bridge-inn-5k/&#34;&gt;Bridge Inn 5km&lt;/a&gt; summer series finishes on July 27th (the website hints there’s one in August but I’m pretty sure it’s wrong…).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -736,7 +2072,12 @@ I’m setting myself the challenge of knocking 2.5 minutes off my 5km time (I’
       <pubDate>Wed, 07 Apr 2010 09:56:17 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/04/07/security-roles-require-names/</guid>
-      <description>Remember the DD tags with SRRN:</description>
+      <description>&lt;p&gt;Remember the DD tags with &lt;strong&gt;SRRN&lt;/strong&gt;:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
     <item>
@@ -745,9 +2086,9 @@ I’m setting myself the challenge of knocking 2.5 minutes off my 5km time (I’
       <pubDate>Wed, 07 Apr 2010 09:53:54 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/04/07/commodore64-basic-base64/</guid>
-      <description>Not much to say here.
-Of the 4 autehntication types, “BASIC” uses Base64, in the same way that on a Commodore 64 you’d write BASIC.
-Showing my age there.</description>
+      <description>&lt;p&gt;Not much to say here.&lt;/p&gt;
+&lt;p&gt;Of the 4 autehntication types, “BASIC” uses Base64, in the same way that on a &lt;a href=&#34;http://en.wikipedia.org/wiki/Commodore_64&#34;&gt;Commodore 64&lt;/a&gt; you’d write BASIC.&lt;/p&gt;
+&lt;p&gt;Showing my age there.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -756,8 +2097,13 @@ Showing my age there.</description>
       <pubDate>Wed, 07 Apr 2010 09:51:30 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/04/07/listeners-and-events/</guid>
-      <description>There are 8 Listeners to remember. We know there are attributes in 4 scopes because we know how to Pick the Right Scope Automatically, but you can’t listen to Page attributes, it doesn’t make sense, so that leaves us with RSA; Request, Session and Application. These tally with the objects:
-ServletRequest HttpSession ServletContext There is a Listener for each of these objects for lifecycle events, and for attribute events, so that gives us 6 of the Listener Interfaces:</description>
+      <description>&lt;p&gt;There are 8 Listeners to remember. We know there are attributes in 4 scopes because we know how to &lt;a href=&#34;http://www.mattburns.co.uk/blog/2010/04/06/pick-the-right-scope-automatically/&#34;&gt;Pick the Right Scope Automatically&lt;/a&gt;, but you can’t listen to Page attributes, it doesn’t make sense, so that leaves us with RSA; &lt;strong&gt;Request&lt;/strong&gt;, &lt;strong&gt;Session&lt;/strong&gt; and &lt;strong&gt;Application&lt;/strong&gt;. These tally with the objects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ServletRequest&lt;/li&gt;
+&lt;li&gt;HttpSession&lt;/li&gt;
+&lt;li&gt;ServletContext&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There is a Listener for each of these objects for lifecycle events, and for attribute events, so that gives us 6 of the Listener Interfaces:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -766,11 +2112,27 @@ ServletRequest HttpSession ServletContext There is a Listener for each of these 
       <pubDate>Wed, 07 Apr 2010 09:30:08 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/04/07/11-el-implicit-variables/</guid>
-      <description>All the EL implicit variables are Maps except for pageContext.
-To remember the attribute-holding scope objects, just remember to Pick the Right Scope Automatically and stick the word “Scope” on the end:
-pageScope requestScope sessionScope applicationScope Then you have 4 param and header objects of the form : (param|header)[Values]
-param paramValues header headerValues Then I just remember the last 3:
-cookie initParam pageContext (not a Map, it’s the JavaBean) </description>
+      <description>&lt;p&gt;All the EL implicit variables are Maps except for pageContext.&lt;/p&gt;
+&lt;p&gt;To remember the attribute-holding scope objects, just remember to &lt;a href=&#34;http://www.mattburns.co.uk/blog/2010/04/06/pick-the-right-scope-automatically/&#34;&gt;Pick the Right Scope Automatically&lt;/a&gt; and stick the word “Scope” on the end:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;pageScope&lt;/li&gt;
+&lt;li&gt;requestScope&lt;/li&gt;
+&lt;li&gt;sessionScope&lt;/li&gt;
+&lt;li&gt;applicationScope&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Then you have 4 param and header objects of the form : &lt;strong&gt;(param|header)[Values]&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;param&lt;/li&gt;
+&lt;li&gt;paramValues&lt;/li&gt;
+&lt;li&gt;header&lt;/li&gt;
+&lt;li&gt;headerValues&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Then I just remember the last 3:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;cookie&lt;/li&gt;
+&lt;li&gt;initParam&lt;/li&gt;
+&lt;li&gt;pageContext (not a Map, it’s the JavaBean)&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -779,8 +2141,19 @@ cookie initParam pageContext (not a Map, it’s the JavaBean) </description>
       <pubDate>Wed, 07 Apr 2010 09:21:02 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/04/07/captain-pan-prevents-captain-hook/</guid>
-      <description>This is (a rubbish one) just to help me remember the DD tags:
-Whereas Servlet params are “in-it”:</description>
+      <description>&lt;p&gt;This is (a rubbish one) just to help me remember the DD tags:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Whereas Servlet params are “in-it”:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
     <item>
@@ -789,10 +2162,13 @@ Whereas Servlet params are “in-it”:</description>
       <pubDate>Wed, 07 Apr 2010 09:09:10 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/04/07/direct-a-film-about-petal-ink/</guid>
-      <description>I’ve made a timelapse film of some daffodils blossoming but I really should do another one of a rose with its stem split into two different bottles of ink.
-Not a very interesting post, it’s just another think I need top remember from this book for my exam. Direct a film about PeTaL INk
-Boils down to:
-Jsp Directives are Page, Taglib and Include</description>
+      <description>&lt;p&gt;I’ve made a timelapse film of some daffodils blossoming but I really should do another one of a rose with its stem split into two different bottles of ink.&lt;/p&gt;
+&lt;p&gt;Not a very interesting post, it’s just another think I need top remember from this book for my exam.
+&lt;a href=&#34;http://www.amazon.co.uk/gp/product/0596516681?ie=UTF8&amp;amp;tag=mattburnscouk-21&amp;amp;linkCode=as2&amp;amp;camp=1634&amp;amp;creative=6738&amp;amp;creativeASIN=0596516681&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2010/hfsj.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Direct a film about PeTaL INk&lt;br&gt;
+Boils down to:&lt;br&gt;
+Jsp Directives are Page, Taglib and Include&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -801,17 +2177,17 @@ Jsp Directives are Page, Taglib and Include</description>
       <pubDate>Tue, 06 Apr 2010 17:32:19 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/04/06/tie-up-the-implicit-variables-with-scraprope/</guid>
-      <description>Use the acronym SCRAPROPE to remember the JSP implicit variables:
-session
-config
-request
-application
-pageContext
-response
-out
-page
-exception
-I should really credit Russ for coming up with the acronym. I think my attempts, SCORP RAPE and SPORE CRAP, weren’t as catchy.</description>
+      <description>&lt;p&gt;Use the acronym SCRAPROPE to remember the JSP implicit variables:&lt;/p&gt;
+&lt;p&gt;session&lt;br&gt;
+config&lt;br&gt;
+request&lt;br&gt;
+application&lt;br&gt;
+pageContext&lt;br&gt;
+response&lt;br&gt;
+out&lt;br&gt;
+page&lt;br&gt;
+exception&lt;/p&gt;
+&lt;p&gt;I should really credit &lt;a href=&#34;http://www.misfortu.net/russ/&#34;&gt;Russ&lt;/a&gt; for coming up with the acronym. I think my attempts, SCORP RAPE and SPORE CRAP, weren’t as catchy.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -820,8 +2196,8 @@ I should really credit Russ for coming up with the acronym. I think my attempts,
       <pubDate>Tue, 06 Apr 2010 17:13:51 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/04/06/pick-the-right-scope-automatically/</guid>
-      <description>As I previously metioned, I’m taking the SCWCD exam tomorrow. When trying to cram for any exam I like to make up short poems, acronyms or just random chains of though. For example, I know the difference between Mitosis and Meiosis because Meiosis begins with “Meow” which is what cats do and they have four legs… anyway…
-My first thing to remember is that a JspContext has a findAttribute method that I can use to Pick the Right Scope Automatically.</description>
+      <description>&lt;p&gt;As &lt;a href=&#34;http://www.mattburns.co.uk/blog/2010/04/06/head-first-servlets-and-jsp-errata/&#34;&gt;I previously metioned&lt;/a&gt;, I’m taking the &lt;a href=&#34;http://in.sun.com/training/certification/java/scwcd.xml&#34;&gt;SCWCD&lt;/a&gt; exam tomorrow. When trying to cram for any exam I like to make up short poems, acronyms or just random chains of though. For example, I know the difference between Mitosis and Meiosis because Meiosis begins with “Meow” which is what cats do and they have four legs… anyway…&lt;/p&gt;
+&lt;p&gt;My first thing to remember is that a JspContext has a findAttribute method that I can use to &lt;strong&gt;Pick the Right Scope Automatically&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -830,8 +2206,9 @@ My first thing to remember is that a JspContext has a findAttribute method that 
       <pubDate>Tue, 06 Apr 2010 16:52:23 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/04/06/head-first-servlets-and-jsp-errata/</guid>
-      <description>I’m sitting another Sun* Certification exam tomorrow to become a Sun Certified Web Component Developer (SCWCD). I’ve done a bit of revising but I’m writing this post mainly as a way to procrastinate. I should take more exams really if only as a way to get other things done. Procrastination during my final year of uni enabled me to learn how to speedsolve a Rubik’s Cube.
-I’ve just read the study guide for the SCWCD exam; Head First Servlets and JSP.</description>
+      <description>&lt;p&gt;I’m sitting another Sun* Certification exam tomorrow to become a Sun Certified Web Component Developer (SCWCD). I’ve done a bit of revising but I’m writing this post mainly as a way to procrastinate. I should take more exams really if only as a way to get &lt;em&gt;other&lt;/em&gt; things done. Procrastination during my final year of uni &lt;a href=&#34;http://www.worldcubeassociation.org/results/p.php?i=2004BURN01&#34;&gt;enabled me to learn how to speedsolve a Rubik’s Cube&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I’ve just read the study guide for the SCWCD exam; Head First Servlets and JSP. &lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2010/hfsj.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -840,12 +2217,12 @@ I’ve just read the study guide for the SCWCD exam; Head First Servlets and JSP
       <pubDate>Sun, 21 Feb 2010 20:37:38 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/02/21/how-to-fix-the-aspect-ratio-on-videos-from-windows-movie-maker-live/</guid>
-      <description>Problem:
-wmv file looks squashed when played in VLC or when uploaded to youtube but looks fine when played in windows media player
-Solution:
-You can change the aspect ratio of a wmv file without re-encoding it with vmarchanger
-Ok, hopefully you just searched for this and you’re now sorted, but here’s some background on my problem in case it helps.
-I made a small video (640×480 50fps) on my 7D and wanted to slap it on youtube.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Problem:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;wmv file looks squashed when played in VLC or when uploaded to youtube but looks fine when played in windows media player&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Solution:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can change the aspect ratio of a wmv file without re-encoding it with &lt;a href=&#34;http://forum.videohelp.com/images/guides/p1674666/wmvarchanger-1.0.0.zip&#34;&gt;vmarchanger&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ok, hopefully you just searched for this and you’re now sorted, but here’s some background on my problem in case it helps.&lt;/p&gt;
+&lt;p&gt;I made &lt;a href=&#34;http://www.youtube.com/watch?v=sEnb0h2R4h0&#34;&gt;a small video&lt;/a&gt; (640×480 50fps) on my &lt;a href=&#34;http://www.canon.co.uk/For_Home/Product_Finder/Cameras/Digital_SLR/EOS_7D/index.asp&#34;&gt;7D&lt;/a&gt; and wanted to slap it on &lt;a href=&#34;http://www.youtube.com&#34;&gt;youtube&lt;/a&gt;. I didn’t have any video editing software so grabbed Windows Live Movie Maker. After exporting the video file I found it plays in the wrong aspect ratio in all players but WMP. The app that fixed it was written by this crypto fellow &lt;a href=&#34;http://forum.doom9.org/showthread.php?t=116761&#34;&gt;over here&lt;/a&gt;. Thanks Crypto!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -854,7 +2231,7 @@ I made a small video (640×480 50fps) on my 7D and wanted to slap it on youtube.
       <pubDate>Thu, 14 Jan 2010 23:00:53 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/01/15/a-build-thats-green-should-never-be-seen/</guid>
-      <description>Your continuous integration server should stay green all the time. The odd broken test here and there means you get numb to the failed status on your build server, which in turn means it takes you longer to notice that the build has broken. When the build breaks, you should stop whatever you’re doing and make fixing it your top* priority. After you check in, the faster you fail the better because you haven’t had time to start thinking about your next task, and the thing you did to break the build is still fresh in your mind.</description>
+      <description>&lt;p&gt;Your &lt;a href=&#34;http://dantwining.com/2009/03/19/the-12-steps-of-continuous-integration/&#34;&gt;continuous integration&lt;/a&gt; server should stay green all the time. The odd broken test here and there means you get numb to the failed status on your build server, which in turn means it takes you longer to notice that the build has broken. When the build breaks, you should stop whatever you’re doing and make fixing it your top* priority. After you check in, the faster you fail the better because you haven’t had time to start thinking about your next task, and the thing you did to break the build is still fresh in your mind. That’s also why it’s so import to &lt;a href=&#34;http://en.wikipedia.org/wiki/Continuous_integration#Keep_the_build_fast&#34;&gt;keep the builds fast&lt;/a&gt;**.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -863,10 +2240,10 @@ I made a small video (640×480 50fps) on my 7D and wanted to slap it on youtube.
       <pubDate>Tue, 12 Jan 2010 13:28:39 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/01/12/software-company-locator/</guid>
-      <description>Looking software companies are near you? Looking to switch jobs or perhaps your company is looking for a local consultancy to collaborate on that big contract?
-I helped Dan make this map as a quick way to find those companies:
-Larger version.
-We’d love it if you could contribute updates. Just log in with your Google account and click the “edit” button on the left.</description>
+      <description>&lt;p&gt;Looking software companies are near you? Looking to switch jobs or perhaps your company is looking for a local consultancy to collaborate on that big contract?&lt;/p&gt;
+&lt;p&gt;I helped &lt;a href=&#34;http://dantwining.com/2010/01/12/software-companies-in-bristol/&#34;&gt;Dan&lt;/a&gt; make this map as a quick way to find those companies:&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;http://maps.google.com/maps/ms?hl=en&amp;amp;ie=UTF8&amp;amp;oe=UTF8&amp;amp;msa=0&amp;amp;msid=110486494405162372809.00047cf73d0b0409aee21&amp;amp;ll=51.45283,-2.587452&amp;amp;spn=0.03744,0.072956&amp;amp;z=13&amp;amp;source=embed&#34;&gt;Larger version&lt;/a&gt;.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;We’d love it if you could &lt;a href=&#34;http://maps.google.com/maps/ms?hl=en&amp;amp;ie=UTF8&amp;amp;oe=UTF8&amp;amp;msa=0&amp;amp;msid=110486494405162372809.00047cf73d0b0409aee21&amp;amp;ll=51.45283,-2.587452&amp;amp;spn=0.03744,0.072956&amp;amp;z=13&amp;amp;source=embed&#34;&gt;contribute updates&lt;/a&gt;. Just log in with your Google account and click the “edit” button on the left.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -875,9 +2252,9 @@ We’d love it if you could contribute updates. Just log in with your Google acc
       <pubDate>Mon, 09 Nov 2009 16:17:42 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2009/11/09/should-i-buy-a-canon-7d-in-the-us-and-carry-back-to-the-uk/</guid>
-      <description>Canon have just released the 7D and although I can’t really afford it, I have to have one!
-The price difference between UK and US is pretty crazy. Here, my favourite camera shop are selling body only for £1,399. £300 less than Canon’s SRP. In New York’s B&amp;amp;H store you can pick it up for $1,699 (~£1,014).
-As luck would have it, I’m going to NY this weekend so if I’m going to buy one, now’s the time to decide.</description>
+      <description>&lt;p&gt;Canon have just released the &lt;a href=&#34;http://www.canon.co.uk/For_Home/Product_Finder/Cameras/Digital_SLR/EOS_7D/index.asp&#34;&gt;7D&lt;/a&gt; and although I can’t really afford it, I have to have one!&lt;/p&gt;
+&lt;p&gt;The price difference between UK and US is pretty crazy. Here, &lt;a href=&#34;http://www.bristolcameras.co.uk/p-canon-eos-7d-body.htm&#34;&gt;my favourite camera shop&lt;/a&gt; are selling body only for £1,399. £300 less than Canon’s SRP. In New York’s &lt;a href=&#34;http://www.bhphotovideo.com/c/product/646908-REG/Canon_3814B004_EOS_7D_SLR_Digital.html&#34;&gt;B&amp;amp;H store&lt;/a&gt; you can pick it up for $1,699 (~£1,014).&lt;/p&gt;
+&lt;p&gt;As luck would have it, I’m going to NY this weekend so if I’m going to buy one, now’s the time to decide.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -886,12 +2263,15 @@ As luck would have it, I’m going to NY this weekend so if I’m going to buy o
       <pubDate>Tue, 03 Nov 2009 23:00:04 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2009/11/04/how-to-install-flex-builder-3-on-eclipse-galileo-on-windows/</guid>
-      <description>Do you get an error when you try to install Flex Builder? Ignore it and carry on anyway.
-Edit the file:
-[eclipse]\links\com.adobe.flexbuilder.feature.core.link
-and just stick “path=” at the start so it looks something like this:
-path=C:/Program Files/Adobe/Flex Builder 3 Plug-in
-Thanks to greylurk for the original tip.</description>
+      <description>&lt;h4 id=&#34;do-you-get-an-error-when-you-try-to-install-flex-builder&#34;&gt;Do you get an error when you try to install Flex Builder?&lt;/h4&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2009/11/flex-error.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Ignore it and carry on anyway.&lt;/p&gt;
+&lt;p&gt;Edit the file:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;[eclipse]\links\com.adobe.flexbuilder.feature.core.link&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;and just stick “path=” at the start so it looks something like this:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;path=C:/Program Files/Adobe/Flex Builder 3 Plug-in&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href=&#34;http://greylurk.com/index.php/2009/06/getting-flex-builder-3-plugin-to-survive-a-new-eclipse-version/&#34;&gt;greylurk&lt;/a&gt; for the original tip.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -900,7 +2280,8 @@ Thanks to greylurk for the original tip.</description>
       <pubDate>Mon, 25 May 2009 18:42:30 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2009/05/25/read-the-blog-post-read-read-but-what-if-i-dont-want-to-it-doesnt-matter-read/</guid>
-      <description>After some late night cramming for an exam last week I went to bed with my head still chattering. I told a sleepy Karen about my day at work and how Dan and I kept singing different words to Adam and Joe’s “Text the Nation” jingle. I gave the example: “Patch the source code, patch patch, but what if it’s not tested? It doesn’t matter, PATCH!” (I hope the sarcasm reads well).</description>
+      <description>&lt;p&gt;After some late night cramming for &lt;a href=&#34;http://www.sun.com/training/certification/java/scjp.xml&#34;&gt;an exam&lt;/a&gt; last week I went to bed with my head still chattering. I told a sleepy Karen about my day at work and how &lt;a href=&#34;http://www.dantwining.com/&#34;&gt;Dan&lt;/a&gt; and I kept singing different words to &lt;a href=&#34;http://www.bbc.co.uk/6music/shows/adamandjoe/&#34;&gt;Adam and Joe&lt;/a&gt;’s “Text the Nation” jingle. I gave the example: “&lt;em&gt;Patch the source code, patch patch, but what if it’s not tested? It doesn’t matter, PATCH!&lt;/em&gt;” (I hope the sarcasm reads well).&lt;/p&gt;
+&lt;p&gt;As I noisily clambered into bed, Karen reminded me I still had my glasses on. “But how will I see my dreams?” I replied, to which she instantly quipped “It doesn’t matter, SLEEP!”. Karen got the idea instantly even though she was half asleep and doesn’t really listen to the show. She still managed to come up with something better than any of my attempts.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -909,8 +2290,8 @@ Thanks to greylurk for the original tip.</description>
       <pubDate>Mon, 18 May 2009 22:25:24 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2009/05/18/convention-%C3%B7-configuration/</guid>
-      <description>I’ve long been sold on the concept of Convention Over Configuration. For me it’s a no-brainer, not only am I lazy, but when I am forced to make a decision about something technical, well, let’s just say the number of times I get it wrong is &amp;gt; 0.
-Recently I’ve been playing around with Maven, something I should have done years ago. Maven seems pretty sold on the convention idea too and so I just expected a simple project to work “out of the box”.</description>
+      <description>&lt;p&gt;I’ve long been sold on the concept of &lt;a href=&#34;http://en.wikipedia.org/wiki/Convention_over_Configuration&#34;&gt;Convention Over Configuration&lt;/a&gt;. For me it’s a no-brainer, not only am I lazy, but when I am forced to make a decision about something technical, well, let’s just say the number of times I get it wrong is &amp;gt; 0.&lt;/p&gt;
+&lt;p&gt;Recently I’ve been playing around with &lt;a href=&#34;http://maven.apache.org/&#34;&gt;Maven&lt;/a&gt;, something I should have done years ago. Maven seems pretty sold on the convention idea too and so I just expected a simple project to work “out of the box”.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -919,9 +2300,11 @@ Recently I’ve been playing around with Maven, something I should have done yea
       <pubDate>Wed, 01 Apr 2009 15:49:19 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2009/04/01/the-web-in-3d/</guid>
-      <description>Download Google Chrome 3D edition as created by CADIE.
-But don’t forget to download and print your 3D glasses otherwise it’ll be all fuzzy:
-You’d be a fool not to try it 🙂</description>
+      <description>&lt;p&gt;Download Google Chrome &lt;a href=&#34;http://www.google.com/intl/en/landing/chrome/cadie/eula.html&#34;&gt;3D edition&lt;/a&gt; as created by &lt;a href=&#34;http://www.google.com/intl/en_us/landing/cadie/index.html&#34; title=&#34;CADIE&#34;&gt;CADIE&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;But don’t forget to &lt;a href=&#34;http://www.google.com/intl/en/landing/chrome/cadie/glasses.pdf&#34; title=&#34;3d specs&#34;&gt;download and print your 3D glasses&lt;/a&gt; otherwise it’ll be all fuzzy:&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2009/04/3dchrome_fin.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;You’d be a fool not to try it 🙂&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -930,8 +2313,16 @@ You’d be a fool not to try it 🙂</description>
       <pubDate>Tue, 31 Mar 2009 18:09:47 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2009/03/31/whats-the-best-sim-only-mobile-contract-in-the-uk/</guid>
-      <description>OK, I know, it’s a bit of a silly question because everyone has different needs, but these are mine:
-1 month rolling contract — I don’t want to be stuck with the contract for 12 months Keep my number — I rummaged through the boxes in a BTCellnet shop years ago to get my number and I’m going to keep it Unlimited internet — Well, a fair usage of at least 1GB, and I don’t want to get charged if I go over, I just want a warning Some free minutes — To all networks of course Some free texts £25 per month or less So far, the best I’ve found is the solo-20 plan at T-Mobile:</description>
+      <description>&lt;p&gt;OK, I know, it’s a bit of a silly question because everyone has different needs, but these are mine:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1 month rolling contract&lt;/strong&gt; — I don’t want to be stuck with the contract for 12 months&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keep my number&lt;/strong&gt; — I rummaged through the boxes in a BTCellnet shop years ago to get my number and I’m going to keep it&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unlimited internet&lt;/strong&gt; — Well, a fair usage of at least 1GB, and I don’t want to get charged if I go over, I just want a warning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Some free minutes&lt;/strong&gt; — To all networks of course&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Some free texts&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;£25 per month or less&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So far, the best I’ve found is the &lt;a href=&#34;http://www.t-mobile.co.uk/shop/mobile-phones/sim-card/pay-monthly/&#34; title=&#34;solo 20&#34;&gt;solo-20 plan&lt;/a&gt; at T-Mobile:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -940,10 +2331,12 @@ You’d be a fool not to try it 🙂</description>
       <pubDate>Mon, 02 Mar 2009 22:03:52 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2009/03/02/keep-your-filling-knife-clean/</guid>
-      <description>I’m no expert when it comes to DIY. Enthusiastic amateur I’d say.
-I fumble my way along, guessing how things should be done, and generally learn the hard way.
-I needed to do some more filling today to plug the holes I’d left from my poor skirting board fitting skills.
-My filling knife however was caked in gunk after a few years of not being cleaned properly. I kept it clean when I first got it, it was new and I took good care of it.</description>
+      <description>&lt;p&gt;I’m no expert when it comes to DIY. Enthusiastic amateur I’d say.&lt;/p&gt;
+&lt;p&gt;I fumble my way along, guessing how things should be done, and generally learn the hard way.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2009/03/onestrike.jpg&#34; alt=&#34;&#34;  /&gt;
+
+I needed to do some more filling today to plug the holes I’d left from my poor skirting board fitting skills.&lt;/p&gt;
+&lt;p&gt;My filling knife however was caked in gunk after a few years of not being cleaned properly. I kept it clean when I first got it, it was new and I took good care of it. Somewhere along the line though I got lazy, and did a half-assed job of cleaning that knife. The first bit of dirt that stuck proved to be a perfect home for future gunk to bind and the effort of cleaning that knife just grew exponentially.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -952,9 +2345,17 @@ My filling knife however was caked in gunk after a few years of not being cleane
       <pubDate>Thu, 22 Jan 2009 11:22:09 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2009/01/22/voucher-codes-and-promo-wotsits/</guid>
-      <description>It’s 2009! Our digital lives are a breeze and online shopping is just one more option to the newly empowered consumer. Right?
-I’m sure I’m not alone in finding the process of buying anything a little tedious now:
-See something in the shop you like Decide not to buy it because you don’t know if that’s a good price You get home and look on the internet Now you have to poke around a few websites and try to work out which is cheapest when you consider postage and tax etc.</description>
+      <description>&lt;p&gt;It’s 2009! Our digital lives are a breeze and online shopping is just one more option to the newly empowered consumer. Right?&lt;/p&gt;
+&lt;p&gt;I’m sure I’m not alone in finding the process of buying anything a little tedious now:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;See something in the shop you like&lt;/li&gt;
+&lt;li&gt;Decide not to buy it because you don’t know if that’s a good price&lt;/li&gt;
+&lt;li&gt;You get home and look on the internet&lt;/li&gt;
+&lt;li&gt;Now you have to poke around a few websites and try to work out which is cheapest when you consider postage and tax etc.&lt;/li&gt;
+&lt;li&gt;Maybe one of the sites gives you rebate if you go through a referal like &lt;a href=&#34;http://www.quidco.com/&#34;&gt;quidco&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Maybe the site would give a discount if only you had a voucher code&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you ask me, It’s all a pain in the ass.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -963,10 +2364,12 @@ See something in the shop you like Decide not to buy it because you don’t know
       <pubDate>Fri, 28 Nov 2008 11:02:35 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2008/11/28/audio-stalking/</guid>
-      <description>I’m just writting this as a holding place for funny things I overhear. Little bits of someone else’s conversation caught out of context. I hope this is just the beginning or a lifelong reel of quotes that I append to as funny things enter my ears from the mouths of unaware passers-by.
-I’m starting it because I just heard:
-“How did it survive being cooked in a flapjack”
-I have no idea what she was talking about, and to be honest, I don’t want to know.</description>
+      <description>&lt;p&gt;I’m just writting this as a holding place for funny things I overhear. Little bits of someone else’s conversation caught out of context. I hope this is just the beginning or a lifelong reel of quotes that I append to as funny things enter my ears from the mouths of unaware passers-by.&lt;/p&gt;
+&lt;p&gt;I’m starting it because I just heard:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“How did it survive being cooked in a flapjack”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I have no idea what she was talking about, and to be honest, I don’t want to know. It’s funnier left to the imagination.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -975,8 +2378,10 @@ I have no idea what she was talking about, and to be honest, I don’t want to k
       <pubDate>Wed, 19 Nov 2008 23:15:29 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2008/11/19/fixing-the-volume-up-key-on-a-nokia-n95/</guid>
-      <description>I recently got my hands on a nokia N95. Great.
-However, I soon realised that the volume up key doesn’t work, only down works. This was a little unfortunate since it is the only key capable of turning the volume up of music when played with the music player software installed on the device. Something I definitely needed to do once I had managed to turn the volume down to zero percent.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2008/11/img_3923.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;I recently got my hands on a nokia N95. Great.&lt;/p&gt;
+&lt;p&gt;However, I soon realised that the volume up key doesn’t work, only down works. This was a little unfortunate since it is the only key capable of turning the volume up of music when played with the music player software installed on the device. Something I definitely needed to do once I had managed to turn the volume down to zero percent.&lt;/p&gt;</description>
     </item>
     
   </channel>

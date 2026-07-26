@@ -13,12 +13,15 @@
       <pubDate>Tue, 03 Nov 2009 23:00:04 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2009/11/04/how-to-install-flex-builder-3-on-eclipse-galileo-on-windows/</guid>
-      <description>Do you get an error when you try to install Flex Builder? Ignore it and carry on anyway.
-Edit the file:
-[eclipse]\links\com.adobe.flexbuilder.feature.core.link
-and just stick “path=” at the start so it looks something like this:
-path=C:/Program Files/Adobe/Flex Builder 3 Plug-in
-Thanks to greylurk for the original tip.</description>
+      <description>&lt;h4 id=&#34;do-you-get-an-error-when-you-try-to-install-flex-builder&#34;&gt;Do you get an error when you try to install Flex Builder?&lt;/h4&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mattburns.co.uk/wp-content/uploads/2009/11/flex-error.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Ignore it and carry on anyway.&lt;/p&gt;
+&lt;p&gt;Edit the file:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;[eclipse]\links\com.adobe.flexbuilder.feature.core.link&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;and just stick “path=” at the start so it looks something like this:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;path=C:/Program Files/Adobe/Flex Builder 3 Plug-in&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href=&#34;http://greylurk.com/index.php/2009/06/getting-flex-builder-3-plugin-to-survive-a-new-eclipse-version/&#34;&gt;greylurk&lt;/a&gt; for the original tip.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -13,17 +13,17 @@
       <pubDate>Tue, 06 Apr 2010 17:32:19 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/04/06/tie-up-the-implicit-variables-with-scraprope/</guid>
-      <description>Use the acronym SCRAPROPE to remember the JSP implicit variables:
-session
-config
-request
-application
-pageContext
-response
-out
-page
-exception
-I should really credit Russ for coming up with the acronym. I think my attempts, SCORP RAPE and SPORE CRAP, weren’t as catchy.</description>
+      <description>&lt;p&gt;Use the acronym SCRAPROPE to remember the JSP implicit variables:&lt;/p&gt;
+&lt;p&gt;session&lt;br&gt;
+config&lt;br&gt;
+request&lt;br&gt;
+application&lt;br&gt;
+pageContext&lt;br&gt;
+response&lt;br&gt;
+out&lt;br&gt;
+page&lt;br&gt;
+exception&lt;/p&gt;
+&lt;p&gt;I should really credit &lt;a href=&#34;http://www.misfortu.net/russ/&#34;&gt;Russ&lt;/a&gt; for coming up with the acronym. I think my attempts, SCORP RAPE and SPORE CRAP, weren’t as catchy.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -32,8 +32,8 @@ I should really credit Russ for coming up with the acronym. I think my attempts,
       <pubDate>Tue, 06 Apr 2010 17:13:51 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2010/04/06/pick-the-right-scope-automatically/</guid>
-      <description>As I previously metioned, I’m taking the SCWCD exam tomorrow. When trying to cram for any exam I like to make up short poems, acronyms or just random chains of though. For example, I know the difference between Mitosis and Meiosis because Meiosis begins with “Meow” which is what cats do and they have four legs… anyway…
-My first thing to remember is that a JspContext has a findAttribute method that I can use to Pick the Right Scope Automatically.</description>
+      <description>&lt;p&gt;As &lt;a href=&#34;http://www.mattburns.co.uk/blog/2010/04/06/head-first-servlets-and-jsp-errata/&#34;&gt;I previously metioned&lt;/a&gt;, I’m taking the &lt;a href=&#34;http://in.sun.com/training/certification/java/scwcd.xml&#34;&gt;SCWCD&lt;/a&gt; exam tomorrow. When trying to cram for any exam I like to make up short poems, acronyms or just random chains of though. For example, I know the difference between Mitosis and Meiosis because Meiosis begins with “Meow” which is what cats do and they have four legs… anyway…&lt;/p&gt;
+&lt;p&gt;My first thing to remember is that a JspContext has a findAttribute method that I can use to &lt;strong&gt;Pick the Right Scope Automatically&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

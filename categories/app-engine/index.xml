@@ -13,11 +13,13 @@
       <pubDate>Fri, 10 Oct 2014 16:03:14 +0000</pubDate>
       
       <guid>https://mattburns.co.uk/blog/2014/10/10/how-to-access-your-app-engine-dev-server-from-another-machine/</guid>
-      <description>I keep forgetting how to do this so I’m writing it down in the vain hope I may commit it to memory.
-The problem You want to access your locally running dev server on another machine on your local network or maybe even from a virtual machine. whatevs.
-The solution Start your dev server with this extra program argument (you can find this under “debug configurations” in eclipse):
---address=0.0.0.0
-Now remember it you stupid brain.</description>
+      <description>&lt;p&gt;I keep forgetting how to do this so I’m writing it down in the vain hope I may commit it to memory.&lt;/p&gt;
+&lt;h2 id=&#34;the-problem&#34;&gt;The problem&lt;/h2&gt;
+&lt;p&gt;You want to access your locally running dev server on another machine on your local network or maybe even from a virtual machine. whatevs.&lt;/p&gt;
+&lt;h2 id=&#34;the-solution&#34;&gt;The solution&lt;/h2&gt;
+&lt;p&gt;Start your dev server with this extra program argument (you can find this under “debug configurations” in eclipse):&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;--address=0.0.0.0&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Now remember it you stupid brain.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
