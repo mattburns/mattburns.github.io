@@ -1,6 +1,6 @@
 # mattburns.co.uk
 
-mattburns.co.uk is a static website built with Hugo
+mattburns.co.uk is a static website built with Hugo 
 
 ## Running locally
 
