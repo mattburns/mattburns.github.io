@@ -55,6 +55,7 @@ def target_exists(path):
 
 def main():
     broken = []
+    escaped = []
     checked = 0
     for root, _, names in os.walk(PUBLIC):
         for name in names:
@@ -66,6 +67,10 @@ def main():
             except OSError as e:
                 print(f"read error {page}: {e}", file=sys.stderr)
                 continue
+            # Double-escaped entities render as literal "&nbsp;" text in the
+            # browser (e.g. a template emitting entities without safeHTML).
+            if name.endswith(".html") and "&amp;nbsp;" in text:
+                escaped.append(os.path.relpath(page, PUBLIC))
             parser = RefCollector()
             try:
                 parser.feed(text)
@@ -108,9 +113,12 @@ def main():
         else:
             failures += 1
             print(f"BROKEN {ref}  (on {len(pages)} page(s), e.g. {pages[0]})")
+    for page in escaped[:20]:
+        print(f"ESCAPED-ENTITY &amp;nbsp; visible as text in {page}")
     print(f"\n{checked} internal refs checked, "
-          f"{failures} broken, {len(seen) - failures} known-missing")
-    return 1 if failures else 0
+          f"{failures} broken, {len(seen) - failures} known-missing, "
+          f"{len(escaped)} pages with double-escaped entities")
+    return 1 if failures or escaped else 0
 
 
 if __name__ == "__main__":
